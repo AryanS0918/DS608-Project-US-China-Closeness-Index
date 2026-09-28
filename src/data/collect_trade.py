@@ -72,6 +72,33 @@ RELATIONSHIPS = {
     },
 }
 
+MIRROR_RULES = {
+    "imports_from_china": {
+        "anchor_code": CHINA_CODE,
+        "anchor_name": "china",
+        "mirror_flow_code": "X",
+        "mirror_flow_name": "exports",
+    },
+    "exports_to_china": {
+        "anchor_code": CHINA_CODE,
+        "anchor_name": "china",
+        "mirror_flow_code": "M",
+        "mirror_flow_name": "imports",
+    },
+    "imports_from_us": {
+        "anchor_code": US_CODE,
+        "anchor_name": "us",
+        "mirror_flow_code": "X",
+        "mirror_flow_name": "exports",
+    },
+    "exports_to_us": {
+        "anchor_code": US_CODE,
+        "anchor_name": "us",
+        "mirror_flow_code": "M",
+        "mirror_flow_name": "imports",
+    },
+}
+
 RAW_COLUMNS = [
     "period",
     "reporterCode",
@@ -240,28 +267,34 @@ def raw_file_path(
 
 def mirror_file_path(
     year: int,
-    destination_code: str,
+    anchor_code: str,
+    mirror_flow_code: str,
 ) -> Path:
-    """Return the raw CSV path for one mirror-import batch."""
+    """Return the path for one cached anchor-flow-year batch."""
 
-    destination_names = {
+    anchor_names = {
         CHINA_CODE: "china",
         US_CODE: "us",
     }
 
-    destination_name = destination_names[
-        str(destination_code)
-    ]
+    flow_names = {
+        "M": "imports",
+        "X": "exports",
+    }
+
+    anchor_name = anchor_names[str(anchor_code)]
+    flow_name = flow_names[str(mirror_flow_code)]
 
     return (
         RAW_DIRECTORY
         / "mirrors"
         / str(year)
         / (
-            f"{destination_name}"
-            "_imports_from_all_partners.csv"
+            f"{anchor_name}_{flow_name}"
+            "_from_all_partners.csv"
         )
     )
+
 
 def collect_or_load_slice(
     api_key: str,
@@ -408,31 +441,18 @@ def standardise_slice(
 # Mirror-data fallback
 # ---------------------------------------------------------------------
 
-def identify_missing_exports(
+def identify_missing_flows(
     wide_dataframe: pd.DataFrame,
 ) -> pd.DataFrame:
-    """Identify missing export observations requiring mirror queries."""
+    """Identify all missing bilateral flows requiring mirror checks."""
 
     missing_records = []
-
-    relationship_destination = {
-        "exports_to_china": {
-            "destination_code": CHINA_CODE,
-            "destination_name": "china",
-        },
-        "exports_to_us": {
-            "destination_code": US_CODE,
-            "destination_name": "us",
-        },
-    }
 
     for _, row in wide_dataframe.iterrows():
         if row["reporter_iso"] in ANCHOR_ISO_CODES:
             continue
 
-        for relationship, destination in (
-            relationship_destination.items()
-        ):
+        for relationship, rule in MIRROR_RULES.items():
             if pd.isna(row.get(relationship)):
                 missing_records.append(
                     {
@@ -446,14 +466,18 @@ def identify_missing_exports(
                         "reporter_name": row[
                             "reporter_name"
                         ],
-                        "missing_relationship": (
-                            relationship
-                        ),
-                        "destination_code": destination[
-                            "destination_code"
+                        "missing_relationship": relationship,
+                        "anchor_code": rule[
+                            "anchor_code"
                         ],
-                        "destination_name": destination[
-                            "destination_name"
+                        "anchor_name": rule[
+                            "anchor_name"
+                        ],
+                        "mirror_flow_code": rule[
+                            "mirror_flow_code"
+                        ],
+                        "mirror_flow_name": rule[
+                            "mirror_flow_name"
                         ],
                     }
                 )
@@ -461,12 +485,13 @@ def identify_missing_exports(
     return pd.DataFrame(missing_records)
 
 
-def get_destination_imports_from_all_partners(
+def get_anchor_trade_with_all_partners(
     api_key: str,
     year: int,
-    destination_code: str,
+    anchor_code: str,
+    mirror_flow_code: str,
 ) -> pd.DataFrame:
-    """Retrieve destination-reported imports from all partners."""
+    """Retrieve one anchor's imports or exports with all partners."""
 
     last_error = None
 
@@ -478,9 +503,9 @@ def get_destination_imports_from_all_partners(
                 freqCode="A",
                 clCode="HS",
                 period=str(year),
-                reporterCode=str(destination_code),
+                reporterCode=str(anchor_code),
                 cmdCode="TOTAL",
-                flowCode="M",
+                flowCode=str(mirror_flow_code),
                 partnerCode=None,
                 partner2Code=None,
                 customsCode=None,
@@ -519,9 +544,9 @@ def get_destination_imports_from_all_partners(
             )
 
             print(
-                f"Mirror-batch request failed for "
-                f"year={year}, "
-                f"destination={destination_code}. "
+                "Mirror-batch request failed for "
+                f"year={year}, anchor={anchor_code}, "
+                f"flow={mirror_flow_code}. "
                 f"Retrying in {wait_seconds:.1f} seconds."
             )
 
@@ -530,24 +555,31 @@ def get_destination_imports_from_all_partners(
     raise RuntimeError(
         "Mirror-batch request failed after "
         f"{MAX_RETRIES} attempts for "
-        f"year={year}, "
-        f"destination={destination_code}."
+        f"year={year}, anchor={anchor_code}, "
+        f"flow={mirror_flow_code}."
     ) from last_error
 
 def collect_or_load_mirror_batch(
     api_key: str,
     year: int,
-    destination_code: str,
+    anchor_code: str,
+    mirror_flow_code: str,
     overwrite: bool = False,
 ) -> pd.DataFrame:
-    """Load or retrieve one destination-year mirror batch."""
+    """Load or retrieve one anchor-flow-year mirror batch."""
 
     file_path = mirror_file_path(
         year=year,
-        destination_code=destination_code,
+        anchor_code=anchor_code,
+        mirror_flow_code=mirror_flow_code,
     )
 
     if file_path.exists() and not overwrite:
+        print(
+            f"    Loading cached mirror batch: "
+            f"{file_path.name}"
+        )
+
         return pd.read_csv(
             file_path,
             dtype={
@@ -556,12 +588,16 @@ def collect_or_load_mirror_batch(
             },
         )
 
-    dataframe = (
-        get_destination_imports_from_all_partners(
-            api_key=api_key,
-            year=year,
-            destination_code=destination_code,
-        )
+    print(
+        f"    Downloading mirror batch: "
+        f"{file_path.name}"
+    )
+
+    dataframe = get_anchor_trade_with_all_partners(
+        api_key=api_key,
+        year=year,
+        anchor_code=anchor_code,
+        mirror_flow_code=mirror_flow_code,
     )
 
     file_path.parent.mkdir(
@@ -580,30 +616,38 @@ def collect_or_load_mirror_batch(
 
 def collect_mirror_values(
     api_key: str,
-    missing_exports: pd.DataFrame,
+    missing_flows: pd.DataFrame,
     overwrite: bool = False,
 ) -> pd.DataFrame:
-    """Resolve missing exports using batched mirror-import data."""
+    """Resolve missing flows using batched anchor-side observations."""
 
-    if missing_exports.empty:
+    if missing_flows.empty:
         return pd.DataFrame()
 
     required_batches = (
-        missing_exports[
+        missing_flows[
             [
                 "year",
-                "destination_code",
-                "destination_name",
+                "anchor_code",
+                "anchor_name",
+                "mirror_flow_code",
+                "mirror_flow_name",
             ]
         ]
         .drop_duplicates()
         .sort_values(
             [
                 "year",
-                "destination_code",
+                "anchor_code",
+                "mirror_flow_code",
             ]
         )
         .reset_index(drop=True)
+    )
+
+    print(
+        "Mirror observations requiring checks:",
+        len(missing_flows),
     )
 
     print(
@@ -615,23 +659,25 @@ def collect_mirror_values(
 
     for _, batch in required_batches.iterrows():
         year = int(batch["year"])
-        destination_code = str(
-            batch["destination_code"]
+        anchor_code = str(batch["anchor_code"])
+        anchor_name = batch["anchor_name"]
+        mirror_flow_code = str(
+            batch["mirror_flow_code"]
         )
-        destination_name = batch[
-            "destination_name"
+        mirror_flow_name = batch[
+            "mirror_flow_name"
         ]
 
         print(
-            f"  {year}: "
-            f"{destination_name} imports "
-            "from all partners"
+            f"  {year}: {anchor_name} "
+            f"{mirror_flow_name} with all partners"
         )
 
         dataframe = collect_or_load_mirror_batch(
             api_key=api_key,
             year=year,
-            destination_code=destination_code,
+            anchor_code=anchor_code,
+            mirror_flow_code=mirror_flow_code,
             overwrite=overwrite,
         )
 
@@ -647,6 +693,8 @@ def collect_mirror_values(
                 "partnerCode",
                 "partnerISO",
                 "partnerDesc",
+                "flowCode",
+                "flowDesc",
                 "classificationCode",
                 "primaryValue",
                 "legacyEstimationFlag",
@@ -656,9 +704,10 @@ def collect_mirror_values(
         ].copy()
 
         batch_subset["year"] = year
+        batch_subset["anchor_code"] = anchor_code
         batch_subset[
-            "destination_code"
-        ] = destination_code
+            "mirror_flow_code"
+        ] = mirror_flow_code
 
         batch_subset = batch_subset.rename(
             columns={
@@ -680,6 +729,12 @@ def collect_mirror_values(
                 "partnerDesc": (
                     "mirror_partner"
                 ),
+                "flowCode": (
+                    "returned_mirror_flow_code"
+                ),
+                "flowDesc": (
+                    "returned_mirror_flow_name"
+                ),
                 "classificationCode": (
                     "mirror_classification"
                 ),
@@ -698,15 +753,46 @@ def collect_mirror_values(
             }
         )
 
-        batch_subset["reporter_code"] = pd.to_numeric(
-            batch_subset["reporter_code"],
-            errors="coerce",
-        ).astype("Int64")
+        batch_subset["reporter_code"] = (
+            pd.to_numeric(
+                batch_subset["reporter_code"],
+                errors="coerce",
+            )
+            .astype("Int64")
+        )
+
+        duplicate_keys = batch_subset.duplicated(
+            subset=[
+                "year",
+                "anchor_code",
+                "mirror_flow_code",
+                "reporter_code",
+            ],
+            keep=False,
+        )
+
+        if duplicate_keys.any():
+            duplicates = batch_subset.loc[
+                duplicate_keys,
+                [
+                    "year",
+                    "anchor_code",
+                    "mirror_flow_code",
+                    "reporter_code",
+                    "mirror_partner",
+                ],
+            ]
+
+            raise ValueError(
+                "Duplicate partner records were found "
+                "in a mirror batch:\n"
+                f"{duplicates}"
+            )
 
         batch_frames.append(batch_subset)
 
     if not batch_frames:
-        result = missing_exports.copy()
+        result = missing_flows.copy()
         result["mirror_value_usd"] = pd.NA
         result["mirror_reporter"] = pd.NA
         result["mirror_partner"] = pd.NA
@@ -714,28 +800,30 @@ def collect_mirror_values(
 
         return result
 
-    all_mirror_imports = pd.concat(
+    all_mirror_data = pd.concat(
         batch_frames,
         ignore_index=True,
     )
 
-    missing_exports_to_merge = (
-        missing_exports.copy()
+    missing_flows_to_merge = missing_flows.copy()
+
+    missing_flows_to_merge[
+        "reporter_code"
+    ] = (
+        pd.to_numeric(
+            missing_flows_to_merge["reporter_code"],
+            errors="coerce",
+        )
+        .astype("Int64")
     )
 
-    missing_exports_to_merge[
-        "reporter_code"
-    ] = pd.to_numeric(
-        missing_exports_to_merge["reporter_code"],
-        errors="coerce",
-    ).astype("Int64")
-
-    mirror_values = missing_exports_to_merge.merge(
-        all_mirror_imports,
+    mirror_values = missing_flows_to_merge.merge(
+        all_mirror_data,
         how="left",
         on=[
             "year",
-            "destination_code",
+            "anchor_code",
+            "mirror_flow_code",
             "reporter_code",
         ],
         validate="many_to_one",
@@ -807,14 +895,11 @@ def apply_mirror_values(
     wide_dataframe: pd.DataFrame,
     mirror_dataframe: pd.DataFrame,
 ) -> pd.DataFrame:
-    """Fill missing export observations using available mirror values."""
+    """Fill missing bilateral flows using available mirror values."""
 
     result = wide_dataframe.copy()
 
-    for relationship in [
-        "exports_to_china",
-        "exports_to_us",
-    ]:
+    for relationship in RELATIONSHIPS:
         result[
             f"{relationship}_source"
         ] = result[relationship].notna().map(
@@ -882,7 +967,7 @@ def calculate_trade_measures(
 
     result["complete_four_flow_record"] = (
         result["available_flow_count"] == 4
-    )
+    ).astype("boolean")
 
     denominator = (
         result["us_total_trade_usd"]
@@ -1006,18 +1091,19 @@ def collect_trade_history(
         ignore_index=True,
     )
 
-    missing_exports = identify_missing_exports(
-        trade_wide
+    missing_flows = identify_missing_flows(
+    trade_wide
     )
 
     print(
-        "\nMissing exports requiring mirror checks:",
-        len(missing_exports),
+    "\nMissing bilateral flows requiring "
+    "mirror checks:",
+    len(missing_flows),
     )
 
     mirror_values = collect_mirror_values(
     api_key=api_key,
-    missing_exports=missing_exports,
+    missing_flows=missing_flows,
     overwrite=overwrite,
     )
 
@@ -1056,20 +1142,20 @@ def collect_trade_history(
         .reset_index()
     )
 
-    reporter_exports = [
-        "exports_to_china_source",
-        "exports_to_us_source",
+    source_columns = [
+        f"{relationship}_source"
+        for relationship in RELATIONSHIPS
     ]
 
     source_summary = (
         trade_panel[
             ~trade_panel["is_anchor_country"]
         ][
-            ["year", *reporter_exports]
+            ["year", *source_columns]
         ]
         .melt(
             id_vars="year",
-            value_vars=reporter_exports,
+            value_vars=source_columns,
             var_name="relationship",
             value_name="value_source",
         )
