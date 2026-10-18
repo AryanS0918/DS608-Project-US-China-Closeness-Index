@@ -1,0 +1,4 @@
+source_workbook,source_sheet,cell,issue,value,country_name_raw,year,resolution_id
+US-China Closeness Index (1).xlsx,UNGA Votes By Resolution,R56C689,invalid_vote_code,EL,EL SALVADOR,2017,A/RES/ES-10/19
+US-China Closeness Index (1).xlsx,UNGA Votes By Resolution,R192C742,invalid_vote_code,VIET,VIETNAM,2017,A/RES/72/44
+US-China Closeness Index (1).xlsx,UNGA Votes By Resolution,R56C904,invalid_vote_code,EL,EL SALVADOR,2015,A/RES/70/40
