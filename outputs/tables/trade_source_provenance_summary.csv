@@ -1,0 +1,12 @@
+relationship,value_source,observations
+exports_to_china_source,mirror,193
+exports_to_china_source,missing,57
+exports_to_china_source,reporter,4109
+exports_to_us_source,mirror,98
+exports_to_us_source,missing,6
+exports_to_us_source,reporter,4255
+imports_from_china_source,mirror,31
+imports_from_china_source,missing,1
+imports_from_china_source,reporter,4327
+imports_from_us_source,mirror,23
+imports_from_us_source,reporter,4336

@@ -1,0 +1,5 @@
+missing_relationship,mirror_checks,mirror_values_found,unresolved,recovery_rate
+exports_to_china,250,193,57,0.772
+exports_to_us,104,98,6,0.9423076923076923
+imports_from_china,32,31,1,0.96875
+imports_from_us,23,23,0,1.0
