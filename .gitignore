@@ -220,3 +220,11 @@ __marimo__/
 # Downloaded raw data
 data/raw/*
 !data/raw/README.md
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Microsoft Office temporary lock files
+~$*
+**/~$*
