@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data handling
 pandas>=2.2,<3.0
 
@@ -16,3 +17,9 @@ certifi>=2025
 
 # Environment-variable management
 python-dotenv>=1.0,<2.0
+=======
+numpy
+openpyxl
+pandas
+pyarrow
+>>>>>>> 1b417c4 (Add reproducible UNGA voting indicator pipeline)
