@@ -120,7 +120,7 @@ def main():
 
     df = df.dropna(subset=["US_5yr", "CN_5yr", "Global_5yr"]).copy()
 
-    # 5. Compute outputs & formatting
+    # 5. Compute outputs & formating
     df["Volume"] = df["US_5yr"] + df["CN_5yr"]
     df["Signed_Score"] = np.where(
         df["Volume"] == 0,
