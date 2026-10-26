@@ -1,8 +1,8 @@
 """Processing pipeline for SIPRI Arms Transfers Database.
 
 Reads raw US, China, and global TIV extractions, cleans recipient names,
-removes non-state entities, maps to ISO3, computes 5-year rolling sums,
-and outputs the bounded signed score panel.
+removes non-state entities, maps to ISO3, aggregates duplicate mappings,
+computes 5-year rolling sums, and outputs the bounded signed score panel.
 """
 
 from pathlib import Path
@@ -21,9 +21,19 @@ REMOVED_AUDIT_FILE = Path("data/processed/sipri_removed_audit.csv")
 VOLUME_THRESHOLD = 100
 
 
+def find_header_row(filepath: Path) -> int:
+    """Dynamically locates the row index starting with 'Recipient'."""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for i, line in enumerate(f):
+            if line.startswith("Recipient"):
+                return i
+    return 0
+
+
 def load_sipri(filepath: Path, value_name: str) -> pd.DataFrame:
-    """Load and reshape a raw SIPRI CSV export."""
-    df = pd.read_csv(filepath, skiprows=9)
+    """Load, reshape, and parse a raw SIPRI CSV export."""
+    header_idx = find_header_row(filepath)
+    df = pd.read_csv(filepath, skiprows=header_idx)
 
     cols_to_drop = [
         "1996-2025",
@@ -39,11 +49,9 @@ def load_sipri(filepath: Path, value_name: str) -> pd.DataFrame:
     df = df.dropna(subset=["Year"])
     df["Year"] = df["Year"].astype(int)
 
-    # '0' in SIPRI indicates a value between 0 and 0.5 million TIV
-    df[value_name] = df[value_name].replace("0", 0.25)
-    df[value_name] = pd.to_numeric(
-        df[value_name], errors="coerce"
-    ).fillna(0)
+    # '0' in SIPRI indicates <0.5 million TIV. Explicit blanks are 0.
+    raw_vals = pd.to_numeric(df[value_name], errors="coerce")
+    df[value_name] = np.where(raw_vals == 0, 0.25, raw_vals.fillna(0))
 
     return df
 
