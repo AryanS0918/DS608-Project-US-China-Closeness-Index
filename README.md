@@ -16,6 +16,15 @@ The current pipeline:
 - calculates a bounded directional trade score; and
 - produces validation and coverage reports.
 
+The security pillar (arms transfers) collection and processing pipeline is complete:
+
+- extracts annual Trend-Indicator Value (TIV) arms transfer data from SIPRI (1996–2025);
+- processes full 5-year rolling windows with mandatory full-period requirements;
+- filters out non-state entities and generates structured audit logs;
+- maps recipient names to standardized ISO3 country codes;
+- calculates a bounded signed score ranging from -1 to +1; and
+- applies low-volume threshold flags and observational status codes.
+  
 Other pillars and the Streamlit dashboard remain under development.
 
 ## API credentials
