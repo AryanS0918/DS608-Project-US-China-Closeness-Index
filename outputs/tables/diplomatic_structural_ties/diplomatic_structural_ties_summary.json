@@ -1,0 +1,40 @@
+{
+  "rows": 9612,
+  "countries_or_historical_entities": 199,
+  "years": [
+    2000,
+    2024
+  ],
+  "coverage_status_counts": {
+    "bilateral_observed": 7977,
+    "no_directed_record": 850,
+    "unilateral_observed": 785
+  },
+  "direction_count_distribution": {
+    "0": 850,
+    "1": 785,
+    "2": 7977
+  },
+  "baseline_score_summary": {
+    "count": 9612.0,
+    "mean": 0.838546543383271,
+    "std": 0.31921989291733777,
+    "min": 0.0,
+    "25%": 0.84375,
+    "50%": 1.0,
+    "75%": 1.0,
+    "max": 1.0
+  },
+  "validation_failures": {
+    "duplicate_keys": 0,
+    "blank_country_names": 0,
+    "invalid_direction_counts": 0,
+    "bilateral_flag_mismatches": 0,
+    "diplomatic_score_mean_only_out_of_bounds": 0,
+    "diplomatic_score_mean_reciprocity_75_25_out_of_bounds": 0,
+    "diplomatic_score_mean_reciprocity_50_50_out_of_bounds": 0,
+    "diplomatic_score_geometric_out_of_bounds": 0,
+    "diplomatic_structural_score_raw_out_of_bounds": 0,
+    "scaled_score_out_of_bounds": 0
+  }
+}

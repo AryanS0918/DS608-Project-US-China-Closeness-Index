@@ -1,0 +1,260 @@
+country_source_name,normalised_name,country_iso3,mapping_method,entity_category,country_name,dip_period_eligible
+"Afghanistan, Islamic Republic of",afghanistan islamic republic of,,unresolved,territory_or_entity_outside_project_master,,
+Albania,albania,ALB,normalised_exact,project_entity,Albania,True
+Algeria,algeria,DZA,normalised_exact,project_entity,Algeria,True
+American Samoa,american samoa,,unresolved,territory_or_entity_outside_project_master,,
+"Andorra, Principality of",andorra principality of,,unresolved,territory_or_entity_outside_project_master,,
+Angola,angola,AGO,normalised_exact,project_entity,Angola,True
+"Anguilla, United Kingdom-British Overseas Territory",anguilla united kingdom british overseas territory,,unresolved,territory_or_entity_outside_project_master,,
+Antigua and Barbuda,antigua and barbuda,ATG,normalised_exact,project_entity,Antigua and Barbuda,True
+Argentina,argentina,ARG,normalised_exact,project_entity,Argentina,True
+"Armenia, Republic of",armenia republic of,,unresolved,territory_or_entity_outside_project_master,,
+"Aruba, Kingdom of the Netherlands",aruba kingdom of the netherlands,,unresolved,territory_or_entity_outside_project_master,,
+Australia,australia,AUS,normalised_exact,project_entity,Australia,True
+Austria,austria,AUT,normalised_exact,project_entity,Austria,True
+"Azerbaijan, Republic of",azerbaijan republic of,,unresolved,territory_or_entity_outside_project_master,,
+"Bahamas, The",bahamas the,BHS,reviewed_alias,project_entity,Bahamas,True
+"Bahrain, Kingdom of",bahrain kingdom of,,unresolved,territory_or_entity_outside_project_master,,
+Bangladesh,bangladesh,BGD,normalised_exact,project_entity,Bangladesh,True
+Barbados,barbados,BRB,normalised_exact,project_entity,Barbados,True
+"Belarus, Republic of",belarus republic of,,unresolved,territory_or_entity_outside_project_master,,
+Belgium,belgium,BEL,normalised_exact,project_entity,Belgium,True
+Belize,belize,BLZ,normalised_exact,project_entity,Belize,True
+Benin,benin,BEN,normalised_exact,project_entity,Benin,True
+Bermuda,bermuda,,unresolved,territory_or_entity_outside_project_master,,
+Bhutan,bhutan,BTN,normalised_exact,project_entity,Bhutan,True
+Bolivia,bolivia,BOL,normalised_exact,project_entity,Bolivia,True
+"Bonaire, Saint Eustatius and Saba",bonaire saint eustatius and saba,,unresolved,territory_or_entity_outside_project_master,,
+Bosnia and Herzegovina,bosnia and herzegovina,BIH,normalised_exact,project_entity,Bosnia and Herzegovina,True
+Botswana,botswana,BWA,normalised_exact,project_entity,Botswana,True
+Bouvet Island,bouvet island,,unresolved,territory_or_entity_outside_project_master,,
+Brazil,brazil,BRA,normalised_exact,project_entity,Brazil,True
+British Indian Ocean Territory,british indian ocean territory,,unresolved,territory_or_entity_outside_project_master,,
+British Virgin Islands,british virgin islands,,unresolved,territory_or_entity_outside_project_master,,
+Brunei Darussalam,brunei darussalam,BRN,normalised_exact,project_entity,Brunei,True
+Bulgaria,bulgaria,BGR,normalised_exact,project_entity,Bulgaria,True
+Burkina Faso,burkina faso,BFA,normalised_exact,project_entity,Burkina Faso,True
+Burundi,burundi,BDI,normalised_exact,project_entity,Burundi,True
+Cabo Verde,cabo verde,CPV,normalised_exact,project_entity,Cabo Verde,True
+Cambodia,cambodia,KHM,normalised_exact,project_entity,Cambodia,True
+Cameroon,cameroon,CMR,normalised_exact,project_entity,Cameroon,True
+Canada,canada,CAN,normalised_exact,project_entity,Canada,True
+Cayman Islands,cayman islands,,unresolved,territory_or_entity_outside_project_master,,
+Central African Republic,central african republic,CAF,normalised_exact,project_entity,Central African Republic,True
+Central and South Asia,central and south asia,,unresolved,aggregate,,
+Chad,chad,TCD,normalised_exact,project_entity,Chad,True
+Chile,chile,CHL,normalised_exact,project_entity,Chile,True
+"China, People's Republic of",china people s republic of,CHN,reviewed_alias,project_entity,China,True
+Christmas Island,christmas island,,unresolved,territory_or_entity_outside_project_master,,
+Cocos Islands,cocos islands,,unresolved,territory_or_entity_outside_project_master,,
+Colombia,colombia,COL,normalised_exact,project_entity,Colombia,True
+"Comoros, Union of the",comoros union of the,,unresolved,territory_or_entity_outside_project_master,,
+"Congo, Democratic Republic of the",congo democratic republic of the,COD,normalised_exact,project_entity,Democratic Republic of the Congo,True
+"Congo, Republic of",congo republic of,,unresolved,territory_or_entity_outside_project_master,,
+Cook Islands,cook islands,COK,normalised_exact,project_entity,Cook Islands,True
+Costa Rica,costa rica,CRI,normalised_exact,project_entity,Costa Rica,True
+"Croatia, Republic of",croatia republic of,,unresolved,territory_or_entity_outside_project_master,,
+Cuba,cuba,CUB,normalised_exact,project_entity,Cuba,True
+"Curaçao, Kingdom of the Netherlands",curacao kingdom of the netherlands,,unresolved,territory_or_entity_outside_project_master,,
+Cyprus,cyprus,CYP,normalised_exact,project_entity,Cyprus,True
+Czech Republic,czech republic,CZE,normalised_exact,project_entity,Czechia,True
+Côte d'Ivoire,cote d ivoire,CIV,normalised_exact,project_entity,Cote d'Ivoire,True
+Denmark,denmark,DNK,normalised_exact,project_entity,Denmark,True
+Djibouti,djibouti,DJI,normalised_exact,project_entity,Djibouti,True
+Dominica,dominica,DMA,normalised_exact,project_entity,Dominica,True
+Dominican Republic,dominican republic,DOM,normalised_exact,project_entity,Dominican Republic,True
+East Asia,east asia,,unresolved,aggregate,,
+Economies of Persian Gulf,economies of persian gulf,,unresolved,aggregate,,
+Ecuador,ecuador,ECU,normalised_exact,project_entity,Ecuador,True
+"Egypt, Arab Republic of",egypt arab republic of,EGY,reviewed_alias,project_entity,Egypt,True
+El Salvador,el salvador,SLV,normalised_exact,project_entity,El Salvador,True
+"Equatorial Guinea, Republic of",equatorial guinea republic of,,unresolved,territory_or_entity_outside_project_master,,
+"Eritrea, The State of",eritrea the state of,ERI,reviewed_alias,project_entity,Eritrea,True
+"Estonia, Republic of",estonia republic of,,unresolved,territory_or_entity_outside_project_master,,
+"Eswatini, Kingdom of",eswatini kingdom of,SWZ,reviewed_alias,project_entity,Swaziland,True
+"Ethiopia, The Federal Democratic Republic of",ethiopia the federal democratic republic of,ETH,reviewed_alias,project_entity,Ethiopia,True
+Europe,europe,,unresolved,aggregate,,
+Falkland Islands (Malvinas),falkland islands malvinas,,unresolved,territory_or_entity_outside_project_master,,
+Faroe Islands,faroe islands,,unresolved,territory_or_entity_outside_project_master,,
+"Fiji, Republic of",fiji republic of,,unresolved,territory_or_entity_outside_project_master,,
+Finland,finland,FIN,normalised_exact,project_entity,Finland,True
+France,france,FRA,normalised_exact,project_entity,France,True
+French Guiana,french guiana,,unresolved,territory_or_entity_outside_project_master,,
+French Polynesia,french polynesia,,unresolved,territory_or_entity_outside_project_master,,
+French Southern Territories,french southern territories,,unresolved,territory_or_entity_outside_project_master,,
+Gabon,gabon,GAB,normalised_exact,project_entity,Gabon,True
+"Gambia, The",gambia the,GMB,reviewed_alias,project_entity,"Gambia, The",True
+Georgia,georgia,GEO,normalised_exact,project_entity,Georgia,True
+Germany,germany,DEU,normalised_exact,project_entity,Germany,True
+Ghana,ghana,GHA,normalised_exact,project_entity,Ghana,True
+Gibraltar,gibraltar,GIB,normalised_exact,project_entity,Gibraltar,True
+Greece,greece,GRC,normalised_exact,project_entity,Greece,True
+Greenland,greenland,,unresolved,territory_or_entity_outside_project_master,,
+Grenada,grenada,GRD,normalised_exact,project_entity,Grenada,True
+Guadeloupe,guadeloupe,,unresolved,territory_or_entity_outside_project_master,,
+Guam,guam,,unresolved,territory_or_entity_outside_project_master,,
+Guatemala,guatemala,GTM,normalised_exact,project_entity,Guatemala,True
+Guernsey,guernsey,,unresolved,territory_or_entity_outside_project_master,,
+Guinea,guinea,GIN,normalised_exact,project_entity,Guinea,True
+Guinea-Bissau,guinea bissau,GNB,normalised_exact,project_entity,Guinea-Bissau,True
+Guyana,guyana,GUY,normalised_exact,project_entity,Guyana,True
+Haiti,haiti,HTI,normalised_exact,project_entity,Haiti,True
+Heard Island and McDonald Islands,heard island and mcdonald islands,,unresolved,territory_or_entity_outside_project_master,,
+Holy See,holy see,VAT,normalised_exact,project_entity,Holy See,True
+Honduras,honduras,HND,normalised_exact,project_entity,Honduras,True
+"Hong Kong Special Administrative Region, People's Republic of China",hong kong special administrative region people s republic of china,HKG,reviewed_alias,project_entity,Hong Kong,True
+Hungary,hungary,HUN,normalised_exact,project_entity,Hungary,True
+Iceland,iceland,ISL,normalised_exact,project_entity,Iceland,True
+India,india,IND,normalised_exact,project_entity,India,True
+Indonesia,indonesia,IDN,normalised_exact,project_entity,Indonesia,True
+"Iran, Islamic Republic of",iran islamic republic of,IRN,reviewed_alias,project_entity,Iran,True
+Iraq,iraq,IRQ,normalised_exact,project_entity,Iraq,True
+Ireland,ireland,IRL,normalised_exact,project_entity,Ireland,True
+Isle of Man,isle of man,,unresolved,territory_or_entity_outside_project_master,,
+Israel,israel,ISR,normalised_exact,project_entity,Israel,True
+Italy,italy,ITA,normalised_exact,project_entity,Italy,True
+Jamaica,jamaica,JAM,normalised_exact,project_entity,Jamaica,True
+Japan,japan,JPN,normalised_exact,project_entity,Japan,True
+Jersey,jersey,,unresolved,territory_or_entity_outside_project_master,,
+Jordan,jordan,JOR,normalised_exact,project_entity,Jordan,True
+"Kazakhstan, Republic of",kazakhstan republic of,,unresolved,territory_or_entity_outside_project_master,,
+Kenya,kenya,KEN,normalised_exact,project_entity,Kenya,True
+Kiribati,kiribati,KIR,normalised_exact,project_entity,Kiribati,True
+"Korea, Democratic People's Republic of",korea democratic people s republic of,PRK,normalised_exact,project_entity,North Korea,True
+"Korea, Republic of",korea republic of,KOR,reviewed_alias,project_entity,South Korea,True
+"Kosovo, Republic of",kosovo republic of,,unresolved,territory_or_entity_outside_project_master,,
+Kuwait,kuwait,KWT,normalised_exact,project_entity,Kuwait,True
+Kyrgyz Republic,kyrgyz republic,KGZ,reviewed_alias,project_entity,Kyrgyzstan,True
+Lao People's Democratic Republic,lao people s democratic republic,LAO,reviewed_alias,project_entity,Laos,True
+"Latvia, Republic of",latvia republic of,,unresolved,territory_or_entity_outside_project_master,,
+Lebanon,lebanon,LBN,normalised_exact,project_entity,Lebanon,True
+"Lesotho, Kingdom of",lesotho kingdom of,,unresolved,territory_or_entity_outside_project_master,,
+Liberia,liberia,LBR,normalised_exact,project_entity,Liberia,True
+Libya,libya,LBY,normalised_exact,project_entity,Libya,True
+"Liechtenstein, Principality of",liechtenstein principality of,,unresolved,territory_or_entity_outside_project_master,,
+"Lithuania, Republic of",lithuania republic of,,unresolved,territory_or_entity_outside_project_master,,
+Luxembourg,luxembourg,LUX,normalised_exact,project_entity,Luxembourg,True
+"Macao Special Administrative Region, People's Republic of China",macao special administrative region people s republic of china,,unresolved,territory_or_entity_outside_project_master,,
+"Madagascar, Republic of",madagascar republic of,,unresolved,territory_or_entity_outside_project_master,,
+Malawi,malawi,MWI,normalised_exact,project_entity,Malawi,True
+Malaysia,malaysia,MYS,normalised_exact,project_entity,Malaya,True
+Maldives,maldives,MDV,normalised_exact,project_entity,Maldives,True
+Mali,mali,MLI,normalised_exact,project_entity,Mali,True
+Malta,malta,MLT,normalised_exact,project_entity,Malta,True
+"Marshall Islands, Republic of the",marshall islands republic of the,MHL,reviewed_alias,project_entity,Marshall Islands,True
+Martinique,martinique,,unresolved,territory_or_entity_outside_project_master,,
+"Mauritania, Islamic Republic of",mauritania islamic republic of,,unresolved,territory_or_entity_outside_project_master,,
+Mauritius,mauritius,MUS,normalised_exact,project_entity,Mauritius,True
+Mayotte,mayotte,,unresolved,territory_or_entity_outside_project_master,,
+Mexico,mexico,MEX,normalised_exact,project_entity,Mexico,True
+"Micronesia, Federated States of",micronesia federated states of,FSM,normalised_exact,project_entity,Micronesia,True
+"Moldova, Republic of",moldova republic of,MDA,reviewed_alias,project_entity,Moldova,True
+Monaco,monaco,MCO,normalised_exact,project_entity,Monaco,True
+Mongolia,mongolia,MNG,normalised_exact,project_entity,Mongolia,True
+Montenegro,montenegro,MNE,normalised_exact,project_entity,Montenegro,True
+"Montserrat, United Kingdom-British Overseas Territory",montserrat united kingdom british overseas territory,,unresolved,territory_or_entity_outside_project_master,,
+Morocco,morocco,MAR,normalised_exact,project_entity,Morocco,True
+"Mozambique, Republic of",mozambique republic of,,unresolved,territory_or_entity_outside_project_master,,
+Myanmar,myanmar,MMR,normalised_exact,project_entity,Myanmar,True
+Namibia,namibia,NAM,normalised_exact,project_entity,Namibia,True
+"Naoero, Republic of",naoero republic of,NRU,reviewed_alias,project_entity,Nauru,True
+Nepal,nepal,NPL,normalised_exact,project_entity,Nepal,True
+Netherlands Antilles,netherlands antilles,,unresolved,territory_or_entity_outside_project_master,,
+"Netherlands, The",netherlands the,NLD,reviewed_alias,project_entity,Netherlands,True
+New Caledonia,new caledonia,,unresolved,territory_or_entity_outside_project_master,,
+New Zealand,new zealand,NZL,normalised_exact,project_entity,New Zealand,True
+Nicaragua,nicaragua,NIC,normalised_exact,project_entity,Nicaragua,True
+Niger,niger,NER,normalised_exact,project_entity,Niger,True
+Nigeria,nigeria,NGA,normalised_exact,project_entity,Nigeria,True
+Niue,niue,NIU,normalised_exact,project_entity,Niue,True
+Norfolk Island,norfolk island,,unresolved,territory_or_entity_outside_project_master,,
+North Africa,north africa,,unresolved,aggregate,,
+North Atlantic and Caribbean,north atlantic and caribbean,,unresolved,aggregate,,
+"North Macedonia, Republic of",north macedonia republic of,,unresolved,territory_or_entity_outside_project_master,,
+North and Central America,north and central america,,unresolved,aggregate,,
+Northern Mariana Islands,northern mariana islands,,unresolved,territory_or_entity_outside_project_master,,
+Norway,norway,NOR,normalised_exact,project_entity,Norway,True
+Not Specified (including Confidential),not specified including confidential,,unresolved,not_specified_or_confidential,,
+Oceania and Polar Regions,oceania and polar regions,,unresolved,aggregate,,
+Oman,oman,OMN,normalised_exact,project_entity,Oman,True
+Other Near and Middle East Economies,other near and middle east economies,,unresolved,aggregate,,
+Pakistan,pakistan,PAK,normalised_exact,project_entity,Pakistan,True
+"Palau, Republic of",palau republic of,,unresolved,territory_or_entity_outside_project_master,,
+Panama,panama,PAN,normalised_exact,project_entity,Panama,True
+Papua New Guinea,papua new guinea,PNG,normalised_exact,project_entity,Papua New Guinea,True
+Paraguay,paraguay,PRY,normalised_exact,project_entity,Paraguay,True
+Peru,peru,PER,normalised_exact,project_entity,Peru,True
+Philippines,philippines,PHL,normalised_exact,project_entity,Philippines,True
+Pitcairn Islands,pitcairn islands,,unresolved,territory_or_entity_outside_project_master,,
+"Poland, Republic of",poland republic of,,unresolved,territory_or_entity_outside_project_master,,
+Portugal,portugal,PRT,normalised_exact,project_entity,Portugal,True
+Puerto Rico,puerto rico,,unresolved,territory_or_entity_outside_project_master,,
+Qatar,qatar,QAT,normalised_exact,project_entity,Qatar,True
+Romania,romania,ROU,normalised_exact,project_entity,Romania,True
+Russian Federation,russian federation,RUS,reviewed_alias,project_entity,Russia,True
+Rwanda,rwanda,RWA,normalised_exact,project_entity,Rwanda,True
+Réunion,reunion,,unresolved,territory_or_entity_outside_project_master,,
+Samoa,samoa,WSM,normalised_exact,project_entity,Samoa,True
+"San Marino, Republic of",san marino republic of,,unresolved,territory_or_entity_outside_project_master,,
+Saudi Arabia,saudi arabia,SAU,normalised_exact,project_entity,Saudi Arabia,True
+Senegal,senegal,SEN,normalised_exact,project_entity,Senegal,True
+"Serbia, Republic of",serbia republic of,,unresolved,territory_or_entity_outside_project_master,,
+Seychelles,seychelles,SYC,normalised_exact,project_entity,Seychelles,True
+Sierra Leone,sierra leone,SLE,normalised_exact,project_entity,Sierra Leone,True
+Singapore,singapore,SGP,normalised_exact,project_entity,Singapore,True
+"Sint Maarten, Kingdom of the Netherlands",sint maarten kingdom of the netherlands,,unresolved,territory_or_entity_outside_project_master,,
+Slovak Republic,slovak republic,,unresolved,territory_or_entity_outside_project_master,,
+"Slovenia, Republic of",slovenia republic of,,unresolved,territory_or_entity_outside_project_master,,
+Solomon Islands,solomon islands,SLB,normalised_exact,project_entity,Solomon Islands,True
+Somalia,somalia,SOM,normalised_exact,project_entity,Somalia,True
+South Africa,south africa,ZAF,normalised_exact,project_entity,South Africa,True
+South America,south america,,unresolved,aggregate,,
+South Georgia and the South Sandwich Islands,south georgia and the south sandwich islands,,unresolved,territory_or_entity_outside_project_master,,
+"South Sudan, Republic of",south sudan republic of,,unresolved,territory_or_entity_outside_project_master,,
+Spain,spain,ESP,normalised_exact,project_entity,Spain,True
+Sri Lanka,sri lanka,LKA,normalised_exact,project_entity,Ceylon,True
+St. Helena,st helena,,unresolved,territory_or_entity_outside_project_master,,
+St. Kitts and Nevis,st kitts and nevis,KNA,reviewed_alias,project_entity,Saint Kitts and Nevis,True
+St. Lucia,st lucia,LCA,reviewed_alias,project_entity,Saint Lucia,True
+St. Pierre and Miquelon,st pierre and miquelon,,unresolved,territory_or_entity_outside_project_master,,
+St. Vincent and the Grenadines,st vincent and the grenadines,VCT,reviewed_alias,project_entity,Saint Vincent,True
+Sub-Saharan Africa,sub saharan africa,,unresolved,aggregate,,
+Sudan,sudan,SDN,normalised_exact,project_entity,Sudan,True
+Suriname,suriname,SUR,normalised_exact,project_entity,Suriname,True
+Sweden,sweden,SWE,normalised_exact,project_entity,Sweden,True
+Switzerland,switzerland,CHE,normalised_exact,project_entity,Switzerland,True
+Syrian Arab Republic,syrian arab republic,SYR,reviewed_alias,project_entity,Syria,True
+"São Tomé and Príncipe, Democratic Republic of",sao tome and principe democratic republic of,,unresolved,territory_or_entity_outside_project_master,,
+Taiwan Province of China,taiwan province of china,TWN,reviewed_alias,project_entity,Taiwan,True
+"Tajikistan, Republic of",tajikistan republic of,,unresolved,territory_or_entity_outside_project_master,,
+"Tanzania, United Republic of",tanzania united republic of,TZA,reviewed_alias,project_entity,Tanzania,True
+Thailand,thailand,THA,normalised_exact,project_entity,Thailand,True
+"Timor-Leste, Democratic Republic of",timor leste democratic republic of,TLS,reviewed_alias,project_entity,East Timor,True
+Togo,togo,TGO,normalised_exact,project_entity,Togo,True
+Tokelau,tokelau,,unresolved,territory_or_entity_outside_project_master,,
+Tonga,tonga,TON,normalised_exact,project_entity,Tonga,True
+Trinidad and Tobago,trinidad and tobago,TTO,normalised_exact,project_entity,Trinidad and Tobago,True
+Tunisia,tunisia,TUN,normalised_exact,project_entity,Tunisia,True
+Turkmenistan,turkmenistan,TKM,normalised_exact,project_entity,Turkmenistan,True
+Turks and Caicos Islands,turks and caicos islands,,unresolved,territory_or_entity_outside_project_master,,
+Tuvalu,tuvalu,TUV,normalised_exact,project_entity,Tuvalu,True
+"Türkiye, Republic of",turkiye republic of,TUR,reviewed_alias,project_entity,Turkey,True
+US Pacific Islands,us pacific islands,,unresolved,territory_or_entity_outside_project_master,,
+Uganda,uganda,UGA,normalised_exact,project_entity,Uganda,True
+Ukraine,ukraine,UKR,normalised_exact,project_entity,Ukraine,True
+United Arab Emirates,united arab emirates,ARE,normalised_exact,project_entity,United Arab Emirates,True
+United Kingdom,united kingdom,GBR,normalised_exact,project_entity,United Kingdom,True
+United States,united states,USA,normalised_exact,project_entity,United States,True
+United States Virgin Islands,united states virgin islands,,unresolved,territory_or_entity_outside_project_master,,
+Uruguay,uruguay,URY,normalised_exact,project_entity,Uruguay,True
+"Uzbekistan, Republic of",uzbekistan republic of,,unresolved,territory_or_entity_outside_project_master,,
+Vanuatu,vanuatu,VUT,normalised_exact,project_entity,Vanuatu,True
+"Venezuela, República Bolivariana de",venezuela republica bolivariana de,VEN,reviewed_alias,project_entity,Venezuela,True
+Vietnam,vietnam,VNM,normalised_exact,project_entity,Vietnam,True
+Wallis and Futuna Islands,wallis and futuna islands,,unresolved,territory_or_entity_outside_project_master,,
+West Bank and Gaza,west bank and gaza,PSE,reviewed_alias,project_entity,Palestine,True
+Western Sahara,western sahara,ESH,reviewed_alias,project_entity,Spanish Sahara,True
+World,world,,unresolved,aggregate,,
+"Yemen, Republic of",yemen republic of,YEM,reviewed_alias,project_entity,Yemen,True
+Zambia,zambia,ZMB,normalised_exact,project_entity,Zambia,True
+Zimbabwe,zimbabwe,ZWE,normalised_exact,project_entity,Zimbabwe,True

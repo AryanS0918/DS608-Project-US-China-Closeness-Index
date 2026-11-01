@@ -1,0 +1,25 @@
+{
+  "source_series_rows": 21550,
+  "selected_primary_series_rows": 3012,
+  "candidate_long_rows": 48192,
+  "observed_candidate_values": 36104,
+  "negative_candidate_values": 1838,
+  "zero_candidate_values": 5686,
+  "duplicate_candidate_keys": 0,
+  "years": [
+    2009,
+    2024
+  ],
+  "economic_direction_counts": {
+    "country_to_anchor": 19077,
+    "anchor_to_country": 17027
+  },
+  "reporting_perspective_counts": {
+    "anchor_report": 18107,
+    "country_report": 17997
+  },
+  "data_type_counts": {
+    "Reported official data": 18052,
+    "Derived using counterparty information": 18052
+  }
+}

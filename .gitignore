@@ -249,3 +249,12 @@ data/interim/relations/**
 !data/interim/relations/**/
 !data/interim/relations/**/README.md
 !data/interim/relations/**/.gitkeep
+
+# External IMF Direct Investment Positions source data
+data/sources/imf dip/**
+
+# Generated FDI intermediates
+data/interim/fdi/**
+
+# Supplemental national outward-FDI source workbook retained locally
+data/sources/fdi/**

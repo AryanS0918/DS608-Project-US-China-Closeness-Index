@@ -1,0 +1,964 @@
+block,source_label,excel_column_index_zero_based,country_source_name,unit,name_classification,first_observed_year,last_observed_year,observed_values,negative_values,zero_values
+china_odi_stock,China Outward Direct Investment,1,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,2,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,3,Afghanistan,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,4,Bahrain,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,5,Bangladesh,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,6,Brunei,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,7,Cambodia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,8,Cyprus,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,9,Hong Kong,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,10,India,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,11,Indonesia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,12,Iran,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,13,Iraq,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,14,Israel,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,15,Japan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,16,Jordan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,17,Kazakhstan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,18,North Korea,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,19,South Korea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,20,Kuwait,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,21,Kyrgyzstan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,22,Laos,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,23,Lebanon,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,24,Macao,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,25,Malaysia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,26,Maldives,USDmn,economy_candidate,2013.0,2025.0,13,0,0
+china_odi_stock,China Outward Direct Investment,27,Mongolia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,28,Myanmar (Burma),USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,29,Nepal,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,30,Oman,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,31,Pakistan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,32,Palestine (West Bank & Gaza),USDmn,economy_candidate,2004.0,2018.0,8,0,0
+china_odi_stock,China Outward Direct Investment,33,Philippines,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,34,Qatar,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,35,Saudi Arabia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,36,Singapore,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,37,Sri Lanka,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,38,Syria,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,39,Taiwan,USDmn,economy_candidate,2006.0,2025.0,20,1,0
+china_odi_stock,China Outward Direct Investment,40,Tajikistan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,41,Thailand,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,42,Timor-Leste,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,43,Turkey,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,44,Turkmenistan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,45,United Arab Emirates,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,46,Uzbekistan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,47,Vietnam,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,48,Yemen,USDmn,economy_candidate,2004.0,2024.0,21,0,0
+china_odi_stock,China Outward Direct Investment,49,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,50,Algeria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,51,Angola,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,52,Benin,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,53,Botswana,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,54,Burkina Faso,USDmn,economy_candidate,2013.0,2025.0,12,0,0
+china_odi_stock,China Outward Direct Investment,55,Burundi,USDmn,economy_candidate,2004.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,56,Cameroon,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,57,Cape Verde,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,58,Central African Republic,USDmn,aggregate_or_group,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,59,Chad,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,60,Comoros,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,61,Congo,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,62,Congo (Democratic Republic),USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,63,Ivory Coast,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,64,Djibouti,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,65,Egypt,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,66,Equatorial Guinea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,67,Eritrea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,68,Ethiopia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,69,Gabon,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,70,Gambia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,71,Ghana,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,72,Guinea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,73,Guinea-Bissau,USDmn,economy_candidate,2009.0,2025.0,17,0,0
+china_odi_stock,China Outward Direct Investment,74,Kenya,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,75,Lesotho,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,76,Liberia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,77,Libya,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,78,Madagascar,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,79,Malawi,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,80,Mali,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,81,Mauritania,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,82,Mauritius,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,83,Morocco,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,84,Mozambique,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,85,Namibia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,86,Niger,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,87,Nigeria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,88,Rwanda,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,89,Sao Tome & Principe,USDmn,economy_candidate,2010.0,2025.0,16,0,3
+china_odi_stock,China Outward Direct Investment,90,Senegal,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,91,Seychelles,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,92,Sierra Leone,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,93,South Africa,USDmn,aggregate_or_group,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,94,South Sudan,USDmn,economy_candidate,2011.0,2025.0,15,0,0
+china_odi_stock,China Outward Direct Investment,95,Sudan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,96,Tanzania,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,97,Togo,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,98,Tunisia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,99,Uganda,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,100,Zambia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,101,Zimbabwe,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,102,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,103,Albania,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,104,Armenia,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,105,Austria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,106,Azerbaijan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,107,Belarus,USDmn,economy_candidate,2005.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,108,Belgium,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,109,Bosnia & Herzegovina,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,110,Bulgaria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,111,Croatia,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,112,Czech Republic,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,113,Denmark,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,114,Estonia,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,115,Finland,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,116,France,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,117,Georgia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,118,Germany,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,119,Greece,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,120,Hungary,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,121,Iceland,USDmn,economy_candidate,2005.0,2025.0,16,0,0
+china_odi_stock,China Outward Direct Investment,122,Ireland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,123,Italy,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,124,Latvia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,125,Liechtenstein,USDmn,economy_candidate,2007.0,2025.0,19,0,0
+china_odi_stock,China Outward Direct Investment,126,Lithuania,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,127,Luxembourg,USDmn,economy_candidate,2007.0,2025.0,19,0,0
+china_odi_stock,China Outward Direct Investment,128,North Macedonia,USDmn,economy_candidate,2005.0,2025.0,21,0,1
+china_odi_stock,China Outward Direct Investment,129,Malta,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,130,Moldova,USDmn,economy_candidate,2007.0,2025.0,19,0,0
+china_odi_stock,China Outward Direct Investment,131,Montenegro,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,132,Netherlands,USDmn,economy_candidate,2006.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,133,Norway,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,134,Poland,USDmn,economy_candidate,2004.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,135,Portugal,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,136,Romania,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,137,Russia,USDmn,economy_candidate,2007.0,2025.0,19,0,0
+china_odi_stock,China Outward Direct Investment,138,Serbia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,139,Serbia and Montenegro,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,140,Slovakia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,141,Slovenia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,142,Spain,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,143,Sweden,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,144,Switzerland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,145,Ukraine,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,146,United Kingdom,USDmn,economy_candidate,2015.0,2025.0,11,0,0
+china_odi_stock,China Outward Direct Investment,147,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,148,"Anguilla, British",USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,149,Antigua & Barbuda,USDmn,economy_candidate,2004.0,2025.0,22,0,1
+china_odi_stock,China Outward Direct Investment,150,Argentina,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,151,Bahamas,USDmn,economy_candidate,2006.0,2025.0,16,0,3
+china_odi_stock,China Outward Direct Investment,152,Barbados,USDmn,economy_candidate,2005.0,2025.0,21,0,0
+china_odi_stock,China Outward Direct Investment,153,Belize,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,154,Bolivia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,155,Brazil,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,156,Cayman Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,157,Chile,USDmn,economy_candidate,2009.0,2025.0,17,0,0
+china_odi_stock,China Outward Direct Investment,158,Colombia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,159,Costa Rica,USDmn,economy_candidate,2008.0,2025.0,18,0,0
+china_odi_stock,China Outward Direct Investment,160,Cuba,USDmn,economy_candidate,2006.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,161,Dominica,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,162,Dominican Republic,USDmn,economy_candidate,2006.0,2025.0,20,0,1
+china_odi_stock,China Outward Direct Investment,163,Ecuador,USDmn,economy_candidate,2014.0,2025.0,12,0,0
+china_odi_stock,China Outward Direct Investment,164,Grenada,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,165,Guatemala,USDmn,economy_candidate,2004.0,2025.0,14,0,0
+china_odi_stock,China Outward Direct Investment,166,Guyana,USDmn,economy_candidate,2006.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,167,Honduras,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,168,Jamaica,USDmn,economy_candidate,2013.0,2025.0,13,0,0
+china_odi_stock,China Outward Direct Investment,169,Mexico,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,170,Nicaragua,USDmn,economy_candidate,2008.0,2025.0,18,0,1
+china_odi_stock,China Outward Direct Investment,171,Panama,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,172,Paraguay,USDmn,economy_candidate,2015.0,2025.0,11,0,0
+china_odi_stock,China Outward Direct Investment,173,Peru,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,174,El Salvador,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,175,Saint Lucia,USDmn,economy_candidate,2006.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,176,Saint Vincent & The Grenadines,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,177,Suriname,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,178,Trinidad & Tobago,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,179,Uruguay,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,180,Venezuela,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,181,"Virgin Islands, British",USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,182,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,183,Bermuda,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,184,Canada,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,185,United States,USDmn,economy_candidate,2012.0,2025.0,14,0,2
+china_odi_stock,China Outward Direct Investment,186,,USDmn,blank,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,187,Australia,USDmn,economy_candidate,2006.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,188,Cook Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,189,Fiji,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,190,Kiribati,USDmn,economy_candidate,2004.0,2025.0,20,0,0
+china_odi_stock,China Outward Direct Investment,191,Marshall Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,192,Micronesia (Fed. States of),USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,193,New Zealand,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,194,Other Oceania Countries,USDmn,aggregate_or_group,2004.0,2025.0,22,0,0
+china_odi_stock,China Outward Direct Investment,195,Palau,USDmn,economy_candidate,,,0,0,0
+china_odi_stock,China Outward Direct Investment,196,Papua New Guinea,USDmn,economy_candidate,,,0,0,0
+china_odi_stock,China Outward Direct Investment,197,Samoa,USDmn,economy_candidate,,,0,0,0
+china_odi_stock,China Outward Direct Investment,198,Tonga,USDmn,economy_candidate,,,0,0,0
+china_odi_stock,China Outward Direct Investment,199,Vanuatu,USDmn,economy_candidate,,,0,0,0
+china_odi_stock,China Outward Direct Investment,200,,,blank,,,0,0,0
+us_odi_stock,US Outward Direct Investment,201,Afghanistan,USDmn,economy_candidate,1999.0,2025.0,23,7,0
+us_odi_stock,US Outward Direct Investment,202,Africa,USDmn,aggregate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,203,Albania,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,204,Algeria,USDmn,economy_candidate,1999.0,2025.0,27,10,0
+us_odi_stock,US Outward Direct Investment,205,All Countries Total,USDmn,aggregate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,206,Andorra,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,207,Angola,USDmn,economy_candidate,2019.0,2025.0,7,0,0
+us_odi_stock,US Outward Direct Investment,208,Anguilla,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,209,Antigua & Barbuda,USDmn,economy_candidate,2000.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,210,Argentina,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,211,Armenia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,212,Aruba,USDmn,economy_candidate,1999.0,2025.0,25,5,0
+us_odi_stock,US Outward Direct Investment,213,Asia & Pacific,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,214,Australia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,215,Austria,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,216,Azerbaijan,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,217,Bahamas,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,218,Bahrain,USDmn,economy_candidate,1999.0,2025.0,27,4,0
+us_odi_stock,US Outward Direct Investment,219,Bangladesh,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,220,Barbados,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,221,Belarus,USDmn,economy_candidate,1999.0,2025.0,24,11,0
+us_odi_stock,US Outward Direct Investment,222,Belgium,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,223,Belize,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,224,Benin,USDmn,economy_candidate,2004.0,2025.0,22,7,0
+us_odi_stock,US Outward Direct Investment,225,Bermuda,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,226,Bhutan,USDmn,economy_candidate,1999.0,2025.0,17,0,0
+us_odi_stock,US Outward Direct Investment,227,Bolivia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,228,Bosnia & Herzegovina,USDmn,economy_candidate,1999.0,2025.0,26,3,0
+us_odi_stock,US Outward Direct Investment,229,Botswana,USDmn,economy_candidate,1999.0,2025.0,27,0,5
+us_odi_stock,US Outward Direct Investment,230,Brazil,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,231,Brunei,USDmn,economy_candidate,1999.0,2025.0,27,9,0
+us_odi_stock,US Outward Direct Investment,232,Bulgaria,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,233,Burkina Faso,USDmn,economy_candidate,1999.0,2025.0,20,0,15
+us_odi_stock,US Outward Direct Investment,234,Myanmar (Burma),USDmn,economy_candidate,2005.0,2025.0,15,8,0
+us_odi_stock,US Outward Direct Investment,235,Burundi,USDmn,economy_candidate,2004.0,2018.0,10,0,0
+us_odi_stock,US Outward Direct Investment,236,Cabo Verde,USDmn,economy_candidate,2012.0,2025.0,14,0,6
+us_odi_stock,US Outward Direct Investment,237,Cambodia,USDmn,economy_candidate,1999.0,2025.0,27,6,0
+us_odi_stock,US Outward Direct Investment,238,Cameroon,USDmn,economy_candidate,1999.0,2025.0,25,0,0
+us_odi_stock,US Outward Direct Investment,239,Canada,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,240,Central African Republic,USDmn,aggregate_or_group,1999.0,2025.0,11,0,0
+us_odi_stock,US Outward Direct Investment,241,Central America,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,242,Chad,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,243,Chile,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,244,China,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,245,Colombia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,246,Comoros,USDmn,economy_candidate,2007.0,2025.0,9,0,7
+us_odi_stock,US Outward Direct Investment,247,Congo,USDmn,economy_candidate,,,0,0,0
+us_odi_stock,US Outward Direct Investment,248,Congo (Democratic Republic),USDmn,economy_candidate,,,0,0,0
+us_odi_stock,US Outward Direct Investment,249,Costa Rica,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,250,Ivory Coast,USDmn,economy_candidate,1999.0,2025.0,27,14,0
+us_odi_stock,US Outward Direct Investment,251,Croatia,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,252,Cuba,USDmn,economy_candidate,2002.0,2025.0,14,7,7
+us_odi_stock,US Outward Direct Investment,253,Curaçao,USDmn,economy_candidate,2012.0,2025.0,14,0,0
+us_odi_stock,US Outward Direct Investment,254,Cyprus,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,255,Czech Republic,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,256,Denmark,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,257,Djibouti,USDmn,economy_candidate,1999.0,2025.0,15,5,1
+us_odi_stock,US Outward Direct Investment,258,Dominica,USDmn,economy_candidate,1999.0,2025.0,27,19,0
+us_odi_stock,US Outward Direct Investment,259,Dominican Republic,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,260,Timor-Leste,USDmn,economy_candidate,2009.0,2025.0,17,0,12
+us_odi_stock,US Outward Direct Investment,261,Ecuador,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,262,Egypt,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,263,El Salvador,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,264,Equatorial Guinea,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,265,Eritrea,USDmn,economy_candidate,1999.0,2025.0,25,9,9
+us_odi_stock,US Outward Direct Investment,266,Estonia,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,267,Eswatini,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,268,Ethiopia,USDmn,economy_candidate,2000.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,269,Europe,USDmn,aggregate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,270,Fiji,USDmn,economy_candidate,1999.0,2025.0,27,3,0
+us_odi_stock,US Outward Direct Investment,271,Finland,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,272,France,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,273,French Guiana,USDmn,economy_candidate,2000.0,2025.0,20,0,0
+us_odi_stock,US Outward Direct Investment,274,"French Islands, Caribbean",USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,275,"French Islands, Indian Ocean",USDmn,economy_candidate,1999.0,2018.0,19,0,9
+us_odi_stock,US Outward Direct Investment,276,"French Islands, Pacific",USDmn,economy_candidate,1999.0,2025.0,27,4,0
+us_odi_stock,US Outward Direct Investment,277,Gabon,USDmn,economy_candidate,1999.0,2025.0,27,11,0
+us_odi_stock,US Outward Direct Investment,278,Gambia,USDmn,economy_candidate,2014.0,2025.0,12,7,5
+us_odi_stock,US Outward Direct Investment,279,Georgia,USDmn,economy_candidate,2002.0,2025.0,24,0,0
+us_odi_stock,US Outward Direct Investment,280,Germany,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,281,Ghana,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,282,Gibraltar,USDmn,economy_candidate,1999.0,2025.0,27,3,0
+us_odi_stock,US Outward Direct Investment,283,Greece,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,284,Greenland,USDmn,economy_candidate,2014.0,2025.0,12,0,7
+us_odi_stock,US Outward Direct Investment,285,Grenada,USDmn,economy_candidate,1999.0,2025.0,25,0,0
+us_odi_stock,US Outward Direct Investment,286,Guatemala,USDmn,economy_candidate,,,0,0,0
+us_odi_stock,US Outward Direct Investment,287,Guinea,USDmn,economy_candidate,2001.0,2025.0,25,0,0
+us_odi_stock,US Outward Direct Investment,288,Guinea-Bissau,USDmn,economy_candidate,2014.0,2025.0,12,0,12
+us_odi_stock,US Outward Direct Investment,289,Guyana,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,290,Haiti,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,291,Honduras,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,292,Hong Kong,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,293,Hungary,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,294,Iceland,USDmn,economy_candidate,2000.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,295,India,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,296,Indonesia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,297,Iran,USDmn,economy_candidate,1999.0,2025.0,21,7,7
+us_odi_stock,US Outward Direct Investment,298,Iraq,USDmn,economy_candidate,1999.0,2025.0,27,1,4
+us_odi_stock,US Outward Direct Investment,299,Ireland,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,300,Israel,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,301,Italy,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,302,Jamaica,USDmn,economy_candidate,,,0,0,0
+us_odi_stock,US Outward Direct Investment,303,Japan,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,304,Jordan,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,305,Kazakhstan,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,306,Kenya,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,307,Kiribati,USDmn,economy_candidate,2014.0,2018.0,5,0,5
+us_odi_stock,US Outward Direct Investment,308,South Korea,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,309,Kosovo,USDmn,economy_candidate,2014.0,2025.0,12,0,3
+us_odi_stock,US Outward Direct Investment,310,Kuwait,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,311,Kyrgyzstan,USDmn,economy_candidate,1999.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,312,Laos,USDmn,economy_candidate,2004.0,2025.0,13,5,5
+us_odi_stock,US Outward Direct Investment,313,Latin America & Other Western Hemisphere,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,314,Latvia,USDmn,economy_candidate,1999.0,2025.0,27,5,0
+us_odi_stock,US Outward Direct Investment,315,Lebanon,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,316,Lesotho,USDmn,economy_candidate,1999.0,2018.0,17,0,0
+us_odi_stock,US Outward Direct Investment,317,Liberia,USDmn,economy_candidate,1999.0,2025.0,27,4,0
+us_odi_stock,US Outward Direct Investment,318,Libya,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,319,Liechtenstein,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,320,Lithuania,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,321,Luxembourg,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,322,Macao,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,323,North Macedonia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,324,Madagascar,USDmn,economy_candidate,2004.0,2025.0,22,4,0
+us_odi_stock,US Outward Direct Investment,325,Malawi,USDmn,economy_candidate,1999.0,2025.0,26,7,0
+us_odi_stock,US Outward Direct Investment,326,Malaysia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,327,Maldives,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,328,Mali,USDmn,economy_candidate,1999.0,2025.0,20,3,2
+us_odi_stock,US Outward Direct Investment,329,Malta,USDmn,economy_candidate,2001.0,2025.0,25,0,0
+us_odi_stock,US Outward Direct Investment,330,Marshall Islands,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,331,Mauritania,USDmn,economy_candidate,1999.0,2025.0,22,4,0
+us_odi_stock,US Outward Direct Investment,332,Mauritius,USDmn,economy_candidate,1999.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,333,Mexico,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,334,Micronesia (Fed. States of),USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,335,Middle East,USDmn,aggregate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,336,Moldova,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,337,Monaco,USDmn,economy_candidate,2007.0,2025.0,19,1,0
+us_odi_stock,US Outward Direct Investment,338,Mongolia,USDmn,economy_candidate,2008.0,2025.0,18,5,0
+us_odi_stock,US Outward Direct Investment,339,Montenegro,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,340,Morocco,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,341,Mozambique,USDmn,economy_candidate,1999.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,342,Namibia,USDmn,economy_candidate,2004.0,2025.0,22,12,0
+us_odi_stock,US Outward Direct Investment,343,Nauru,USDmn,economy_candidate,1999.0,2025.0,17,0,12
+us_odi_stock,US Outward Direct Investment,344,Nepal,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,345,Netherlands,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,346,Netherlands Antilles,USDmn,economy_candidate,1999.0,2015.0,14,0,2
+us_odi_stock,US Outward Direct Investment,347,"Netherlands Islands, Caribbean",USDmn,aggregate_or_group,2018.0,2025.0,8,0,0
+us_odi_stock,US Outward Direct Investment,348,New Zealand,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,349,Nicaragua,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,350,Niger,USDmn,economy_candidate,1999.0,2018.0,11,5,5
+us_odi_stock,US Outward Direct Investment,351,Nigeria,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,352,North Korea,USDmn,economy_candidate,2014.0,2025.0,12,0,12
+us_odi_stock,US Outward Direct Investment,353,North Macedonia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,354,Norway,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,355,Oman,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,356,Other Western Hemisphere,USDmn,aggregate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,357,Other-Africa,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,358,Other-Asia & Pacific,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,359,Other-Central America,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,360,Other-Europe,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,361,Other-Middle East,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,362,Other-Other Western Hemisphere,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,363,Other-South America,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,364,Pakistan,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,365,Palau,USDmn,economy_candidate,2009.0,2025.0,17,7,0
+us_odi_stock,US Outward Direct Investment,366,Panama,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,367,Papua New Guinea,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,368,Paraguay,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,369,Peru,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,370,Philippines,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,371,Poland,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,372,Portugal,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,373,Qatar,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,374,Romania,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,375,Russia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,376,Rwanda,USDmn,economy_candidate,2004.0,2025.0,17,7,0
+us_odi_stock,US Outward Direct Investment,377,Samoa,USDmn,economy_candidate,1999.0,2025.0,23,0,0
+us_odi_stock,US Outward Direct Investment,378,San Marino,USDmn,economy_candidate,2014.0,2018.0,5,0,5
+us_odi_stock,US Outward Direct Investment,379,Sao Tome & Principe,USDmn,economy_candidate,2008.0,2025.0,18,0,0
+us_odi_stock,US Outward Direct Investment,380,Saudi Arabia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,381,Senegal,USDmn,economy_candidate,1999.0,2025.0,27,3,0
+us_odi_stock,US Outward Direct Investment,382,Serbia,USDmn,economy_candidate,2001.0,2025.0,25,0,0
+us_odi_stock,US Outward Direct Investment,383,Seychelles,USDmn,economy_candidate,2002.0,2025.0,16,0,0
+us_odi_stock,US Outward Direct Investment,384,Sierra Leone,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,385,Singapore,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,386,Sint Maarten,USDmn,economy_candidate,2011.0,2025.0,15,6,0
+us_odi_stock,US Outward Direct Investment,387,Slovakia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,388,Slovenia,USDmn,economy_candidate,1999.0,2025.0,26,2,0
+us_odi_stock,US Outward Direct Investment,389,Solomon Islands,USDmn,economy_candidate,1999.0,2025.0,17,0,15
+us_odi_stock,US Outward Direct Investment,390,Somalia,USDmn,economy_candidate,1999.0,2025.0,17,0,12
+us_odi_stock,US Outward Direct Investment,391,South Africa,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,392,South America,USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,393,South Korea,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,394,South Sudan,USDmn,economy_candidate,2019.0,2025.0,7,0,7
+us_odi_stock,US Outward Direct Investment,395,Spain,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,396,Sri Lanka,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,397,Saint Kitts & Nevis,USDmn,economy_candidate,1999.0,2025.0,24,6,0
+us_odi_stock,US Outward Direct Investment,398,Saint Lucia,USDmn,economy_candidate,2000.0,2025.0,26,3,0
+us_odi_stock,US Outward Direct Investment,399,St. Pierre & Miquelon,USDmn,economy_candidate,2014.0,2025.0,12,0,12
+us_odi_stock,US Outward Direct Investment,400,Saint Vincent & The Grenadines,USDmn,economy_candidate,1999.0,2018.0,20,0,0
+us_odi_stock,US Outward Direct Investment,401,Sudan,USDmn,economy_candidate,1999.0,2025.0,17,0,12
+us_odi_stock,US Outward Direct Investment,402,Suriname,USDmn,economy_candidate,2000.0,2025.0,26,0,0
+us_odi_stock,US Outward Direct Investment,403,Eswatini,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,404,Sweden,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,405,Switzerland,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,406,Syria,USDmn,economy_candidate,1999.0,2025.0,26,1,7
+us_odi_stock,US Outward Direct Investment,407,Taiwan,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,408,Tajikistan,USDmn,economy_candidate,2014.0,2025.0,12,0,0
+us_odi_stock,US Outward Direct Investment,409,Tanzania,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,410,Thailand,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,411,Timor-Leste,USDmn,economy_candidate,2009.0,2025.0,17,0,12
+us_odi_stock,US Outward Direct Investment,412,Togo,USDmn,economy_candidate,1999.0,2025.0,27,3,14
+us_odi_stock,US Outward Direct Investment,413,Tonga,USDmn,economy_candidate,1999.0,2025.0,13,0,12
+us_odi_stock,US Outward Direct Investment,414,Trinidad & Tobago,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,415,Tunisia,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,416,Turkey,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,417,Turkmenistan,USDmn,economy_candidate,1999.0,2025.0,25,13,0
+us_odi_stock,US Outward Direct Investment,418,Tuvalu,USDmn,economy_candidate,2009.0,2025.0,13,0,7
+us_odi_stock,US Outward Direct Investment,419,Uganda,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,420,Ukraine,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,421,United Arab Emirates,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,422,United Kingdom,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,423,"United Kingdom Islands, Atlantic (Africa)",USDmn,aggregate_or_group,2009.0,2025.0,17,2,0
+us_odi_stock,US Outward Direct Investment,424,"United Kingdom Islands, Atlantic (OWH)",USDmn,economy_candidate,2004.0,2025.0,22,1,0
+us_odi_stock,US Outward Direct Investment,425,"United Kingdom Islands, Caribbean",USDmn,aggregate_or_group,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,426,"United Kingdom Islands, Indian Ocean",USDmn,economy_candidate,2014.0,2018.0,5,0,5
+us_odi_stock,US Outward Direct Investment,427,"United Kingdom Islands, Pacific",USDmn,economy_candidate,2004.0,2025.0,22,0,0
+us_odi_stock,US Outward Direct Investment,428,Uruguay,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,429,Uzbekistan,USDmn,economy_candidate,1999.0,2024.0,25,1,0
+us_odi_stock,US Outward Direct Investment,430,Vanuatu,USDmn,economy_candidate,2004.0,2025.0,22,0,12
+us_odi_stock,US Outward Direct Investment,431,Vatican City,USDmn,economy_candidate,2014.0,2025.0,12,0,12
+us_odi_stock,US Outward Direct Investment,432,Venezuela,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,433,Vietnam,USDmn,economy_candidate,1999.0,2025.0,27,0,0
+us_odi_stock,US Outward Direct Investment,434,Western Sahara,USDmn,economy_candidate,2014.0,2020.0,7,0,7
+us_odi_stock,US Outward Direct Investment,435,Yemen,USDmn,economy_candidate,1999.0,2025.0,27,2,0
+us_odi_stock,US Outward Direct Investment,436,Zambia,USDmn,economy_candidate,1999.0,2025.0,27,3,0
+us_odi_stock,US Outward Direct Investment,437,Zimbabwe,USDmn,economy_candidate,1999.0,2025.0,27,1,0
+us_odi_stock,US Outward Direct Investment,438,,,blank,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,439,Afghanistan,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,440,Albania,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,441,Algeria,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,442,American Samoa,USDmn,aggregate_or_group,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,443,Andorra,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,444,Angola,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,445,Antigua & Barbuda,USDmn,economy_candidate,2004.0,2025.0,22,11,0
+prototype_us_minus_china,US Less China Outward Direct Investment,446,Argentina,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,447,Armenia,USDmn,economy_candidate,2004.0,2025.0,22,14,1
+prototype_us_minus_china,US Less China Outward Direct Investment,448,Aruba,USDmn,economy_candidate,2004.0,2025.0,22,5,2
+prototype_us_minus_china,US Less China Outward Direct Investment,449,Australia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,450,Austria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,451,Azerbaijan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,452,Bahamas,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,453,Bahrain,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,454,Bangladesh,USDmn,economy_candidate,2004.0,2025.0,22,8,0
+prototype_us_minus_china,US Less China Outward Direct Investment,455,Barbados,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,456,Belarus,USDmn,economy_candidate,2004.0,2025.0,22,16,1
+prototype_us_minus_china,US Less China Outward Direct Investment,457,Belgium,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,458,Belize,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,459,Benin,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,460,Bermuda,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,461,Bhutan,USDmn,economy_candidate,2004.0,2025.0,22,0,10
+prototype_us_minus_china,US Less China Outward Direct Investment,462,Bolivia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,463,Bosnia & Herzegovina,USDmn,economy_candidate,2004.0,2025.0,22,13,0
+prototype_us_minus_china,US Less China Outward Direct Investment,464,Botswana,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,465,Brazil,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,466,Brunei,USDmn,economy_candidate,2004.0,2025.0,22,15,0
+prototype_us_minus_china,US Less China Outward Direct Investment,467,Bulgaria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,468,Burkina Faso,USDmn,economy_candidate,2004.0,2025.0,22,12,10
+prototype_us_minus_china,US Less China Outward Direct Investment,469,Burundi,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,470,Cambodia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,471,Cameroon,USDmn,economy_candidate,2004.0,2025.0,22,14,0
+prototype_us_minus_china,US Less China Outward Direct Investment,472,Canada,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,473,Cape Verde,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,474,Caribbean Small States,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,475,Cayman Islands,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,476,Central African Republic,USDmn,aggregate_or_group,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,477,Central Europe & The Baltics,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,478,Chad,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,479,Channel Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,480,Chile,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,481,China,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,482,Colombia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,483,Comoros,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,484,Congo,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,485,Congo (Democratic Republic),USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,486,Costa Rica,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,487,Croatia,USDmn,economy_candidate,2004.0,2025.0,22,8,0
+prototype_us_minus_china,US Less China Outward Direct Investment,488,Cuba,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,489,Curaçao,USDmn,economy_candidate,2004.0,2025.0,22,0,8
+prototype_us_minus_china,US Less China Outward Direct Investment,490,Cyprus,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,491,Czech Republic,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,492,Denmark,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,493,Djibouti,USDmn,economy_candidate,2004.0,2025.0,22,19,0
+prototype_us_minus_china,US Less China Outward Direct Investment,494,Dominica,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,495,Dominican Republic,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,496,Early-Demographic Dividend,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,497,East Asia & Pacific,USDmn,aggregate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,498,East Asia & Pacific Excluding High Income,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,499,East Asia & Pacific IDA & IBRD,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,500,Eastern & Southern Africa,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,501,Ecuador,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,502,Egypt,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,503,El Salvador,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,504,Equatorial Guinea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,505,Eritrea,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,506,Estonia,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,507,Eswatini,USDmn,economy_candidate,2004.0,2025.0,22,1,0
+prototype_us_minus_china,US Less China Outward Direct Investment,508,Ethiopia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,509,EU,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,510,Euro Area,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,511,Europe & Central Asia,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,512,Europe & Central Asia Excluding High Income,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,513,Europe & Central Asia IDA & IBRD,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,514,Faroe Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,515,Fiji,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,516,Finland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,517,Fragile & Conflict Affected Situations,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,518,France,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,519,French Polynesia,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,520,Gabon,USDmn,economy_candidate,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,521,Gambia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,522,Georgia,USDmn,economy_candidate,2004.0,2025.0,22,19,0
+prototype_us_minus_china,US Less China Outward Direct Investment,523,Germany,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,524,Ghana,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,525,Greece,USDmn,economy_candidate,2004.0,2025.0,22,2,0
+prototype_us_minus_china,US Less China Outward Direct Investment,526,Greenland,USDmn,economy_candidate,2004.0,2025.0,22,0,17
+prototype_us_minus_china,US Less China Outward Direct Investment,527,Grenada,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,528,Guam,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,529,Guatemala,USDmn,economy_candidate,2004.0,2025.0,22,14,8
+prototype_us_minus_china,US Less China Outward Direct Investment,530,Guinea,USDmn,economy_candidate,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,531,Guinea-Bissau,USDmn,economy_candidate,2004.0,2025.0,22,17,5
+prototype_us_minus_china,US Less China Outward Direct Investment,532,Guyana,USDmn,economy_candidate,2004.0,2025.0,22,8,0
+prototype_us_minus_china,US Less China Outward Direct Investment,533,Haiti,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,534,Heavily Indebted Poor Countries (HIPC),USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,535,Honduras,USDmn,economy_candidate,2004.0,2025.0,22,6,0
+prototype_us_minus_china,US Less China Outward Direct Investment,536,Hong Kong,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,537,Hungary,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,538,Iceland,USDmn,economy_candidate,2004.0,2025.0,22,4,0
+prototype_us_minus_china,US Less China Outward Direct Investment,539,IDA & IBRD Total,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,540,IDA Blend,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,541,IDA Only,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,542,IDA Total,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,543,India,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,544,Indonesia,USDmn,economy_candidate,2004.0,2025.0,22,6,0
+prototype_us_minus_china,US Less China Outward Direct Investment,545,International Bank for Reconstruction & Development (IBRD),USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,546,Iran,USDmn,economy_candidate,2004.0,2025.0,22,21,1
+prototype_us_minus_china,US Less China Outward Direct Investment,547,Iraq,USDmn,economy_candidate,2004.0,2025.0,22,9,0
+prototype_us_minus_china,US Less China Outward Direct Investment,548,Ireland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,549,Isle of Man,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,550,Israel,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,551,Italy,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,552,Ivory Coast,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,553,Jamaica,USDmn,economy_candidate,2004.0,2025.0,22,13,9
+prototype_us_minus_china,US Less China Outward Direct Investment,554,Japan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,555,Jordan,USDmn,economy_candidate,2004.0,2025.0,22,7,0
+prototype_us_minus_china,US Less China Outward Direct Investment,556,Kazakhstan,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,557,Kenya,USDmn,economy_candidate,2004.0,2025.0,22,14,0
+prototype_us_minus_china,US Less China Outward Direct Investment,558,Kiribati,USDmn,economy_candidate,2004.0,2025.0,22,20,2
+prototype_us_minus_china,US Less China Outward Direct Investment,559,Kosovo,USDmn,economy_candidate,2004.0,2025.0,22,0,13
+prototype_us_minus_china,US Less China Outward Direct Investment,560,Kuwait,USDmn,economy_candidate,2004.0,2025.0,22,10,0
+prototype_us_minus_china,US Less China Outward Direct Investment,561,Kyrgyzstan,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,562,Laos,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,563,LAS (League of Arab States),USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,564,Late-Demographic Dividend,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,565,"Latin America & Caribbean, Developing",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,566,Latin America & the Caribbean,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,567,Latin America & the Caribbean IDA & IBRD,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,568,Latvia,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,569,Least Developed Countries,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,570,Lebanon,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,571,Lesotho,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,572,Liberia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,573,Libya,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,574,Liechtenstein,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,575,Lithuania,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,576,Luxembourg,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,577,Macao,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,578,Madagascar,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,579,Malawi,USDmn,economy_candidate,2004.0,2025.0,22,15,0
+prototype_us_minus_china,US Less China Outward Direct Investment,580,Malaysia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,581,Maldives,USDmn,economy_candidate,2004.0,2025.0,22,13,0
+prototype_us_minus_china,US Less China Outward Direct Investment,582,Mali,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,583,Malta,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,584,Marshall Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,585,Mauritania,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,586,Mauritius,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,587,Mexico,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,588,Micronesia (Fed. States of),USDmn,economy_candidate,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,589,Middle East & North Africa,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,590,Middle East & North Africa Excluding High Income,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,591,Middle East & North Africa IDA & IBRD,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,592,Moldova,USDmn,economy_candidate,2004.0,2025.0,22,9,0
+prototype_us_minus_china,US Less China Outward Direct Investment,593,Monaco,USDmn,economy_candidate,2004.0,2025.0,22,1,3
+prototype_us_minus_china,US Less China Outward Direct Investment,594,Mongolia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,595,Montenegro,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,596,Morocco,USDmn,economy_candidate,2004.0,2025.0,22,3,0
+prototype_us_minus_china,US Less China Outward Direct Investment,597,Mozambique,USDmn,economy_candidate,2004.0,2025.0,22,14,0
+prototype_us_minus_china,US Less China Outward Direct Investment,598,Myanmar (Burma),USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,599,Namibia,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,600,Nauru,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,601,Nepal,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,602,Netherlands,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,603,New Caledonia,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,604,New Zealand,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,605,Nicaragua,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,606,Niger,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,607,Nigeria,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,608,North America,USDmn,aggregate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,609,North Macedonia,USDmn,economy_candidate,2004.0,2025.0,22,1,0
+prototype_us_minus_china,US Less China Outward Direct Investment,610,Northern Mariana Islands,USDmn,economy_candidate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,611,Norway,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,612,OECD Countries,USDmn,aggregate_or_group,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,613,Oman,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,614,Pacific Island Small States,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,615,Pakistan,USDmn,economy_candidate,2004.0,2025.0,22,18,0
+prototype_us_minus_china,US Less China Outward Direct Investment,616,Palau,USDmn,economy_candidate,2004.0,2025.0,22,7,5
+prototype_us_minus_china,US Less China Outward Direct Investment,617,Palestine (West Bank & Gaza),USDmn,economy_candidate,2004.0,2025.0,22,8,14
+prototype_us_minus_china,US Less China Outward Direct Investment,618,Panama,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,619,Papua New Guinea,USDmn,economy_candidate,2004.0,2025.0,22,1,0
+prototype_us_minus_china,US Less China Outward Direct Investment,620,Paraguay,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,621,Peru,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,622,Philippines,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,623,Poland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,624,Portugal,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,625,Post-Demographic Dividend,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,626,Pre-Demographic Dividend,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,627,Puerto Rico,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,628,Qatar,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,629,Romania,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,630,Russia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,631,Rwanda,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,632,Saint Kitts & Nevis,USDmn,economy_candidate,2004.0,2025.0,22,1,3
+prototype_us_minus_china,US Less China Outward Direct Investment,633,Saint Lucia,USDmn,economy_candidate,2004.0,2025.0,22,12,0
+prototype_us_minus_china,US Less China Outward Direct Investment,634,Saint Martin,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,635,Saint Vincent & The Grenadines,USDmn,economy_candidate,2004.0,2025.0,22,19,0
+prototype_us_minus_china,US Less China Outward Direct Investment,636,Samoa,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,637,San Marino,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,638,Sao Tome & Principe,USDmn,economy_candidate,2004.0,2025.0,22,0,4
+prototype_us_minus_china,US Less China Outward Direct Investment,639,Saudi Arabia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,640,Senegal,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,641,Serbia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,642,Seychelles,USDmn,economy_candidate,2004.0,2025.0,22,10,0
+prototype_us_minus_china,US Less China Outward Direct Investment,643,Sierra Leone,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,644,Singapore,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,645,Sint Maarten,USDmn,economy_candidate,2004.0,2025.0,22,6,7
+prototype_us_minus_china,US Less China Outward Direct Investment,646,Slovakia,USDmn,economy_candidate,2004.0,2025.0,22,8,0
+prototype_us_minus_china,US Less China Outward Direct Investment,647,Slovenia,USDmn,economy_candidate,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,648,Small States,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,649,"Small States, Other",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,650,Solomon Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,651,Somalia,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,652,South Africa,USDmn,aggregate_or_group,2004.0,2025.0,22,1,0
+prototype_us_minus_china,US Less China Outward Direct Investment,653,South Asia,USDmn,aggregate_or_group,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,654,South Asia IDA & IBRD,USDmn,aggregate_or_group,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,655,South Korea,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,656,South Sudan,USDmn,economy_candidate,2004.0,2025.0,22,15,7
+prototype_us_minus_china,US Less China Outward Direct Investment,657,Spain,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,658,Sri Lanka,USDmn,economy_candidate,2004.0,2025.0,22,15,0
+prototype_us_minus_china,US Less China Outward Direct Investment,659,Sub-Saharan Africa,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,660,Sub-Saharan Africa IDA & IBRD,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,661,"Sub-Saharan Africa, Developing",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,662,Sudan,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,663,Suriname,USDmn,economy_candidate,2004.0,2025.0,22,13,0
+prototype_us_minus_china,US Less China Outward Direct Investment,664,Sweden,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,665,Switzerland,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,666,Syria,USDmn,economy_candidate,2004.0,2025.0,22,18,1
+prototype_us_minus_china,US Less China Outward Direct Investment,667,Tajikistan,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,668,Tanzania,USDmn,economy_candidate,2004.0,2025.0,22,16,0
+prototype_us_minus_china,US Less China Outward Direct Investment,669,Thailand,USDmn,economy_candidate,2004.0,2025.0,22,2,0
+prototype_us_minus_china,US Less China Outward Direct Investment,670,Timor-Leste,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,671,Togo,USDmn,economy_candidate,2004.0,2025.0,22,21,0
+prototype_us_minus_china,US Less China Outward Direct Investment,672,Tonga,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,673,Trinidad & Tobago,USDmn,economy_candidate,2004.0,2025.0,22,20,0
+prototype_us_minus_china,US Less China Outward Direct Investment,674,Tunisia,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,675,Turkey,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,676,Turkmenistan,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,677,Turks & Caicos Islands,USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,678,Tuvalu,USDmn,economy_candidate,2004.0,2025.0,22,0,16
+prototype_us_minus_china,US Less China Outward Direct Investment,679,Uganda,USDmn,economy_candidate,2004.0,2025.0,22,19,0
+prototype_us_minus_china,US Less China Outward Direct Investment,680,Ukraine,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,681,United Arab Emirates,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,682,United Kingdom,USDmn,economy_candidate,2004.0,2025.0,22,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,683,United States,USDmn,economy_candidate,2004.0,2025.0,22,12,10
+prototype_us_minus_china,US Less China Outward Direct Investment,684,Uruguay,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,685,Uzbekistan,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,686,Vanuatu,USDmn,economy_candidate,2004.0,2025.0,22,0,12
+prototype_us_minus_china,US Less China Outward Direct Investment,687,Venezuela,USDmn,economy_candidate,2004.0,2025.0,22,9,0
+prototype_us_minus_china,US Less China Outward Direct Investment,688,Vietnam,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,689,"Virgin Islands, U.S.",USDmn,economy_candidate,2004.0,2025.0,22,0,22
+prototype_us_minus_china,US Less China Outward Direct Investment,690,Western & Central Africa,USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,691,World,USDmn,aggregate,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,692,"World, High Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,693,"World, Low & Middle Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,694,"World, Low Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,695,"World, Lower Middle Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,696,"World, Middle Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,697,"World, Upper Middle Income",USDmn,aggregate_or_group,,,0,0,0
+prototype_us_minus_china,US Less China Outward Direct Investment,698,Yemen,USDmn,economy_candidate,2004.0,2025.0,22,11,0
+prototype_us_minus_china,US Less China Outward Direct Investment,699,Zambia,USDmn,economy_candidate,2004.0,2025.0,22,22,0
+prototype_us_minus_china,US Less China Outward Direct Investment,700,Zimbabwe,USDmn,economy_candidate,2004.0,2025.0,22,17,0
+prototype_us_minus_china,US Less China Outward Direct Investment,701,,,blank,,,0,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,702,Afghanistan,USDbn,economy_candidate,2000.0,2024.0,25,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,703,Albania,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,704,Algeria,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,705,American Samoa,USDbn,aggregate_or_group,2002.0,2022.0,21,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,706,Andorra,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,707,Angola,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,708,Antigua & Barbuda,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,709,Argentina,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,710,Armenia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,711,Aruba,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,712,Australia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,713,Austria,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,714,Azerbaijan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,715,Bahamas,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,716,Bahrain,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,717,Bangladesh,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,718,Barbados,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,719,Belarus,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,720,Belgium,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,721,Belize,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,722,Benin,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,723,Bermuda,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,724,Bhutan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,725,Bolivia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,726,Bosnia & Herzegovina,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,727,Botswana,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,728,Brazil,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,729,Brunei,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,730,Bulgaria,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,731,Burkina Faso,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,732,Burundi,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,733,Cambodia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,734,Cameroon,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,735,Canada,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,736,Cape Verde,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,737,Caribbean Small States,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,738,Cayman Islands,USDbn,economy_candidate,2006.0,2024.0,19,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,739,Central African Republic,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,740,Central Europe & The Baltics,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,741,Chad,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,742,Channel Islands,USDbn,economy_candidate,1999.0,2023.0,24,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,743,Chile,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,744,China,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,745,Colombia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,746,Comoros,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,747,Congo,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,748,Congo (Democratic Republic),USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,749,Costa Rica,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,750,Croatia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,751,Cuba,USDbn,economy_candidate,1999.0,2020.0,22,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,752,Curaçao,USDbn,economy_candidate,2000.0,2024.0,25,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,753,Cyprus,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,754,Czech Republic,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,755,Denmark,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,756,Djibouti,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,757,Dominica,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,758,Dominican Republic,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,759,Early-Demographic Dividend,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,760,East Asia & Pacific,USDbn,aggregate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,761,East Asia & Pacific Excluding High Income,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,762,East Asia & Pacific IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,763,Eastern & Southern Africa,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,764,Ecuador,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,765,Egypt,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,766,El Salvador,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,767,Equatorial Guinea,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,768,Eritrea,USDbn,economy_candidate,1999.0,2011.0,13,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,769,Estonia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,770,Eswatini,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,771,Ethiopia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,772,EU,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,773,Euro Area,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,774,Europe & Central Asia,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,775,Europe & Central Asia Excluding High Income,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,776,Europe & Central Asia IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,777,Faroe Islands,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,778,Fiji,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,779,Finland,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,780,Fragile & Conflict Affected Situations,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,781,France,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,782,French Polynesia,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,783,Gabon,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,784,Gambia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,785,Georgia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,786,Germany,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,787,Ghana,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,788,Greece,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,789,Greenland,USDbn,economy_candidate,1999.0,2023.0,25,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,790,Grenada,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,791,Guam,USDbn,economy_candidate,2002.0,2022.0,21,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,792,Guatemala,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,793,Guinea,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,794,Guinea-Bissau,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,795,Guyana,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,796,Haiti,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,797,Heavily Indebted Poor Countries (HIPC),USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,798,Honduras,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,799,Hong Kong,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,800,Hungary,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,801,Iceland,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,802,IDA & IBRD Total,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,803,IDA Blend,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,804,IDA Only,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,805,IDA Total,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,806,India,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,807,Indonesia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,808,International Bank for Reconstruction & Development (IBRD),USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,809,Iran,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,810,Iraq,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,811,Ireland,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,812,Isle of Man,USDbn,economy_candidate,1999.0,2023.0,25,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,813,Israel,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,814,Italy,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,815,Ivory Coast,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,816,Jamaica,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,817,Japan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,818,Jordan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,819,Kazakhstan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,820,Kenya,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,821,Kiribati,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,822,Kosovo,USDbn,economy_candidate,2008.0,2025.0,18,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,823,Kuwait,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,824,Kyrgyzstan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,825,Laos,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,826,LAS (League of Arab States),USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,827,Late-Demographic Dividend,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,828,"Latin America & Caribbean, Developing",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,829,Latin America & the Caribbean,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,830,Latin America & the Caribbean IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,831,Latvia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,832,Least Developed Countries,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,833,Lebanon,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,834,Lesotho,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,835,Liberia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,836,Libya,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,837,Liechtenstein,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,838,Lithuania,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,839,Luxembourg,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,840,Macao,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,841,Madagascar,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,842,Malawi,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,843,Malaysia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,844,Maldives,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,845,Mali,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,846,Malta,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,847,Marshall Islands,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,848,Mauritania,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,849,Mauritius,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,850,Mexico,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,851,Micronesia (Fed. States of),USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,852,Middle East & North Africa,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,853,Middle East & North Africa Excluding High Income,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,854,Middle East & North Africa IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,855,Moldova,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,856,Monaco,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,857,Mongolia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,858,Montenegro,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,859,Morocco,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,860,Mozambique,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,861,Myanmar,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,862,Namibia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,863,Nauru,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,864,Nepal,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,865,Netherlands,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,866,New Caledonia,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,867,New Zealand,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,868,Nicaragua,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,869,Niger,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,870,Nigeria,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,871,North America,USDbn,aggregate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,872,North Macedonia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,873,Northern Mariana Islands,USDbn,economy_candidate,2002.0,2022.0,21,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,874,Norway,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,875,OECD Countries,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,876,Oman,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,877,Pacific Island Small States,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,878,Pakistan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,879,Palau,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,880,Palestine (West Bank & Gaza),USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,881,Panama,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,882,Papua New Guinea,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,883,Paraguay,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,884,Peru,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,885,Philippines,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,886,Poland,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,887,Portugal,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,888,Post-Demographic Dividend,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,889,Pre-Demographic Dividend,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,890,Puerto Rico,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,891,Qatar,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,892,Romania,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,893,Russia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,894,Rwanda,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,895,Saint Kitts & Nevis,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,896,Saint Lucia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,897,Saint Martin,USDbn,economy_candidate,2011.0,2021.0,4,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,898,Saint Vincent & The Grenadines,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,899,Samoa,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,900,San Marino,USDbn,economy_candidate,1999.0,2023.0,25,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,901,Sao Tome & Principe,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,902,Saudi Arabia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,903,Senegal,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,904,Serbia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,905,Seychelles,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,906,Sierra Leone,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,907,Singapore,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,908,Sint Maarten,USDbn,economy_candidate,2009.0,2025.0,17,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,909,Slovakia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,910,Slovenia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,911,Small States,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,912,"Small States, Other",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,913,Solomon Islands,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,914,Somalia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,915,South Africa,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,916,South Asia,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,917,South Asia IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,918,South Korea,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,919,South Sudan,USDbn,economy_candidate,2008.0,2015.0,8,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,920,Spain,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,921,Sri Lanka,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,922,Sub-Saharan Africa,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,923,Sub-Saharan Africa IDA & IBRD,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,924,"Sub-Saharan Africa, Developing",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,925,Sudan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,926,Suriname,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,927,Sweden,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,928,Switzerland,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,929,Syria,USDbn,economy_candidate,1999.0,2022.0,24,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,930,Tajikistan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,931,Tanzania,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,932,Thailand,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,933,Timor-Leste,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,934,Togo,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,935,Tonga,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,936,Trinidad & Tobago,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,937,Tunisia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,938,Turkey,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,939,Turkmenistan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,940,Turks & Caicos Islands,USDbn,economy_candidate,2001.0,2024.0,24,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,941,Tuvalu,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,942,Uganda,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,943,Ukraine,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,944,United Arab Emirates,USDbn,economy_candidate,1999.0,2024.0,26,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,945,United Kingdom,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,946,United States,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,947,Uruguay,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,948,Uzbekistan,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,949,Vanuatu,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,950,Venezuela,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,951,Vietnam,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,952,"Virgin Islands, U.S.",USDbn,economy_candidate,2002.0,2022.0,21,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,953,Western & Central Africa,USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,954,World,USDbn,aggregate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,955,"World, High Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,956,"World, Low & Middle Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,957,"World, Low Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,958,"World, Lower Middle Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,959,"World, Middle Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,960,"World, Upper Middle Income",USDbn,aggregate_or_group,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,961,Yemen,USDbn,economy_candidate,1999.0,2018.0,20,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,962,Zambia,USDbn,economy_candidate,1999.0,2025.0,27,0,0
+world_bank_nominal_gdp,World Bank Nominal GDP,963,Zimbabwe,USDbn,economy_candidate,1999.0,2025.0,27,0,0

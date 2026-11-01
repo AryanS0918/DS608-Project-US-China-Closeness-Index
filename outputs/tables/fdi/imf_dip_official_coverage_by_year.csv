@@ -1,0 +1,65 @@
+year,anchor,economic_direction,eligible_keys,observed_keys,coverage_pct
+2009,China,anchor_to_country,202,0,0.0
+2009,China,country_to_anchor,202,32,15.841584158415841
+2009,United States,anchor_to_country,202,145,71.78217821782178
+2009,United States,country_to_anchor,202,41,20.297029702970296
+2010,China,anchor_to_country,202,0,0.0
+2010,China,country_to_anchor,202,39,19.306930693069308
+2010,United States,anchor_to_country,202,148,73.26732673267327
+2010,United States,country_to_anchor,202,46,22.77227722772277
+2011,China,anchor_to_country,202,0,0.0
+2011,China,country_to_anchor,202,46,22.77227722772277
+2011,United States,anchor_to_country,202,145,71.78217821782178
+2011,United States,country_to_anchor,202,52,25.742574257425744
+2012,China,anchor_to_country,202,0,0.0
+2012,China,country_to_anchor,202,45,22.277227722772277
+2012,United States,anchor_to_country,202,149,73.76237623762377
+2012,United States,country_to_anchor,202,53,26.237623762376238
+2013,China,anchor_to_country,202,0,0.0
+2013,China,country_to_anchor,202,44,21.782178217821784
+2013,United States,anchor_to_country,202,143,70.79207920792079
+2013,United States,country_to_anchor,202,50,24.752475247524753
+2014,China,anchor_to_country,202,0,0.0
+2014,China,country_to_anchor,202,46,22.77227722772277
+2014,United States,anchor_to_country,202,145,71.78217821782178
+2014,United States,country_to_anchor,202,52,25.742574257425744
+2015,China,anchor_to_country,202,0,0.0
+2015,China,country_to_anchor,202,45,22.277227722772277
+2015,United States,anchor_to_country,202,147,72.77227722772277
+2015,United States,country_to_anchor,202,52,25.742574257425744
+2016,China,anchor_to_country,202,0,0.0
+2016,China,country_to_anchor,202,48,23.762376237623762
+2016,United States,anchor_to_country,202,147,72.77227722772277
+2016,United States,country_to_anchor,202,59,29.207920792079207
+2017,China,anchor_to_country,202,0,0.0
+2017,China,country_to_anchor,202,52,25.742574257425744
+2017,United States,anchor_to_country,202,145,71.78217821782178
+2017,United States,country_to_anchor,202,60,29.702970297029704
+2018,China,anchor_to_country,202,168,83.16831683168317
+2018,China,country_to_anchor,202,55,27.22772277227723
+2018,United States,anchor_to_country,202,146,72.27722772277228
+2018,United States,country_to_anchor,202,65,32.17821782178218
+2019,China,anchor_to_country,202,168,83.16831683168317
+2019,China,country_to_anchor,202,62,30.693069306930692
+2019,United States,anchor_to_country,202,142,70.29702970297029
+2019,United States,country_to_anchor,202,66,32.67326732673267
+2020,China,anchor_to_country,202,168,83.16831683168317
+2020,China,country_to_anchor,202,57,28.217821782178216
+2020,United States,anchor_to_country,202,143,70.79207920792079
+2020,United States,country_to_anchor,202,64,31.683168316831683
+2021,China,anchor_to_country,202,168,83.16831683168317
+2021,China,country_to_anchor,202,59,29.207920792079207
+2021,United States,anchor_to_country,202,143,70.79207920792079
+2021,United States,country_to_anchor,202,65,32.17821782178218
+2022,China,anchor_to_country,202,168,83.16831683168317
+2022,China,country_to_anchor,202,58,28.712871287128714
+2022,United States,anchor_to_country,202,139,68.81188118811882
+2022,United States,country_to_anchor,202,65,32.17821782178218
+2023,China,anchor_to_country,202,168,83.16831683168317
+2023,China,country_to_anchor,202,55,27.22772277227723
+2023,United States,anchor_to_country,202,141,69.8019801980198
+2023,United States,country_to_anchor,202,62,30.693069306930692
+2024,China,anchor_to_country,202,168,83.16831683168317
+2024,China,country_to_anchor,202,51,25.247524752475247
+2024,United States,anchor_to_country,202,141,69.8019801980198
+2024,United States,country_to_anchor,202,60,29.702970297029704
