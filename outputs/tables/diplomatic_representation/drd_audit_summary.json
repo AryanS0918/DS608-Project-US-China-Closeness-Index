@@ -1,0 +1,34 @@
+{
+  "source": "data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx",
+  "sheet": "Diplometrics_Diplomatic-Represe",
+  "rows": 453775,
+  "columns": 14,
+  "year_min": 1960,
+  "year_max": 2024,
+  "sending_countries": 206,
+  "destinations": 204,
+  "exact_duplicate_rows": 0,
+  "duplicate_directed_dyad_year_rows": 0,
+  "anchor_rows_2000_2024": 16739,
+  "anchor_duplicate_key_rows": 0,
+  "countries_in_anchor_panel": 196,
+  "identified_columns": {
+    "year": "Year",
+    "sender": "SendingCountry",
+    "destination": "Destination",
+    "embassy": "Embassy",
+    "focus": "Focus",
+    "representation": null
+  },
+  "measure_columns": [
+    "DestinationRegion",
+    "DestinationSubregion",
+    "SendingRegion",
+    "SendingSubregion",
+    "Location",
+    "Embassy",
+    "Focus",
+    "EmbassyFocus",
+    "LOR"
+  ]
+}

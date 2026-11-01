@@ -1,0 +1,101 @@
+anchor,direction,Year,observations,countries
+China,anchor_to_country,2000,153,153
+China,country_to_anchor,2000,129,129
+United States,anchor_to_country,2000,164,164
+United States,country_to_anchor,2000,171,171
+China,anchor_to_country,2001,153,153
+China,country_to_anchor,2001,130,130
+United States,anchor_to_country,2001,164,164
+United States,country_to_anchor,2001,171,171
+China,anchor_to_country,2002,155,155
+China,country_to_anchor,2002,132,132
+United States,anchor_to_country,2002,164,164
+United States,country_to_anchor,2002,174,174
+China,anchor_to_country,2003,158,158
+China,country_to_anchor,2003,139,139
+United States,anchor_to_country,2003,164,164
+United States,country_to_anchor,2003,174,174
+China,anchor_to_country,2004,157,157
+China,country_to_anchor,2004,139,139
+United States,anchor_to_country,2004,163,163
+United States,country_to_anchor,2004,179,179
+China,anchor_to_country,2005,158,158
+China,country_to_anchor,2005,144,144
+United States,anchor_to_country,2005,164,164
+United States,country_to_anchor,2005,179,179
+China,anchor_to_country,2006,156,156
+China,country_to_anchor,2006,150,150
+United States,anchor_to_country,2006,164,164
+United States,country_to_anchor,2006,181,181
+China,anchor_to_country,2007,158,158
+China,country_to_anchor,2007,152,152
+United States,anchor_to_country,2007,165,165
+United States,country_to_anchor,2007,183,183
+China,anchor_to_country,2008,160,160
+China,country_to_anchor,2008,157,157
+United States,anchor_to_country,2008,168,168
+United States,country_to_anchor,2008,183,183
+China,anchor_to_country,2009,160,160
+China,country_to_anchor,2009,157,157
+United States,anchor_to_country,2009,168,168
+United States,country_to_anchor,2009,184,184
+China,anchor_to_country,2010,161,161
+China,country_to_anchor,2010,159,159
+United States,anchor_to_country,2010,168,168
+United States,country_to_anchor,2010,185,185
+China,anchor_to_country,2011,161,161
+China,country_to_anchor,2011,159,159
+United States,anchor_to_country,2011,168,168
+United States,country_to_anchor,2011,186,186
+China,anchor_to_country,2012,163,163
+China,country_to_anchor,2012,160,160
+United States,anchor_to_country,2012,169,169
+United States,country_to_anchor,2012,186,186
+China,anchor_to_country,2013,163,163
+China,country_to_anchor,2013,161,161
+United States,anchor_to_country,2013,167,167
+United States,country_to_anchor,2013,188,188
+China,anchor_to_country,2014,162,162
+China,country_to_anchor,2014,159,159
+United States,anchor_to_country,2014,169,169
+United States,country_to_anchor,2014,188,188
+China,anchor_to_country,2015,164,164
+China,country_to_anchor,2015,162,162
+United States,anchor_to_country,2015,170,170
+United States,country_to_anchor,2015,189,189
+China,anchor_to_country,2016,167,167
+China,country_to_anchor,2016,158,158
+United States,anchor_to_country,2016,168,168
+United States,country_to_anchor,2016,186,186
+China,anchor_to_country,2017,168,168
+China,country_to_anchor,2017,164,164
+United States,anchor_to_country,2017,169,169
+United States,country_to_anchor,2017,183,183
+China,anchor_to_country,2018,170,170
+China,country_to_anchor,2018,166,166
+United States,anchor_to_country,2018,168,168
+United States,country_to_anchor,2018,189,189
+China,anchor_to_country,2019,171,171
+China,country_to_anchor,2019,168,168
+United States,anchor_to_country,2019,169,169
+United States,country_to_anchor,2019,187,187
+China,anchor_to_country,2020,173,173
+China,country_to_anchor,2020,169,169
+United States,anchor_to_country,2020,169,169
+United States,country_to_anchor,2020,187,187
+China,anchor_to_country,2021,174,174
+China,country_to_anchor,2021,168,168
+United States,anchor_to_country,2021,169,169
+United States,country_to_anchor,2021,187,187
+China,anchor_to_country,2022,174,174
+China,country_to_anchor,2022,169,169
+United States,anchor_to_country,2022,169,169
+United States,country_to_anchor,2022,184,184
+China,anchor_to_country,2023,175,175
+China,country_to_anchor,2023,172,172
+United States,anchor_to_country,2023,171,171
+United States,country_to_anchor,2023,184,184
+China,anchor_to_country,2024,175,175
+China,country_to_anchor,2024,172,172
+United States,anchor_to_country,2024,171,171
+United States,country_to_anchor,2024,185,185

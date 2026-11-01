@@ -1,0 +1,286 @@
+country,anchor,year,sanctions_directions,family_combination,trade_scope_profile,drd_unilateral_disruption,drd_bilateral_disruption,all_condition_triggers,condition_four_candidate
+IRQ,China,2000,anchor_to_country,arms+military+trade+financial+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+AFG,United States,2000,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+AUT,United States,2000,anchor_to_country,other,none,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+CUB,United States,2000,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2000,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,United States,2000,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2000,anchor_to_country,arms+trade+financial+travel+other,import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2000,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2000,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,China,2001,anchor_to_country,arms+military+trade+financial+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+CUB,United States,2001,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2001,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,United States,2001,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2001,anchor_to_country,arms+trade+financial+travel+other,import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2001,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2001,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,China,2002,anchor_to_country,arms+military+trade+financial+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+CUB,United States,2002,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2002,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,United States,2002,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2002,anchor_to_country,arms+trade+financial+travel+other,import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2002,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2002,anchor_to_country,arms+military+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,China,2003,anchor_to_country,arms+military+trade+financial+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+BRA,United States,2003,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,United States,2003,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2003,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2003,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRQ,United States,2003,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2003,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2003,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2003,anchor_to_country,arms+military+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SOM,China,2004,anchor_to_country,arms,none,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+BRA,United States,2004,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,United States,2004,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2004,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2004,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2004,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2004,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2004,anchor_to_country,arms+military+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+BRA,United States,2005,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,United States,2005,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2005,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2005,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2005,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2005,anchor_to_country,arms+trade+financial,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2005,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+SYR,United States,2005,anchor_to_country,trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+BRA,United States,2006,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,United States,2006,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2006,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2006,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2006,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2006,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2006,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+BRA,United States,2007,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2007,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2007,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2007,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2007,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2007,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+BRA,United States,2008,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2008,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2008,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2008,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2008,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+SDN,United States,2008,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+BRA,United States,2009,anchor_to_country|country_to_anchor,military+trade,import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2009,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2009,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2009,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+SDN,United States,2009,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+CUB,United States,2010,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2010,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2010,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+SDN,United States,2010,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+CUB,United States,2011,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2011,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2011,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2011,anchor_to_country,arms+military+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+SDN,United States,2011,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+CUB,United States,2012,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2012,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2012,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2012,anchor_to_country,arms+military+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+SDN,United States,2012,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+SYR,United States,2012,anchor_to_country,trade+financial+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+PRK,China,2013,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2013,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2013,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+MMR,United States,2013,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2013,anchor_to_country,arms+military+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+SDN,United States,2013,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,China,2014,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CAF,United States,2014,anchor_to_country,arms+trade+financial+travel+other,import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+CUB,United States,2014,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2014,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+LBY,United States,2014,anchor_to_country,arms+military+trade+financial+travel+other,export_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+MMR,United States,2014,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2014,anchor_to_country,arms+military+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2014,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SDN,United States,2014,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,China,2015,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CAF,United States,2015,anchor_to_country,arms+trade+financial+travel,import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+CUB,United States,2015,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2015,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,True,False,complete_trade|sanctions_plus_diplomatic_disruption,severely_strained
+MMR,United States,2015,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2015,anchor_to_country,arms+military+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2015,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SDN,United States,2015,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,China,2016,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2016,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2016,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,True,False,complete_trade|sanctions_plus_diplomatic_disruption,severely_strained
+MMR,United States,2016,anchor_to_country,arms+trade+financial+travel+other,import_complete+export_partial,False,False,complete_trade,severely_strained
+PRK,United States,2016,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2016,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SDN,United States,2016,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,China,2017,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2017,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2017,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2017,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SDN,United States,2017,anchor_to_country,arms+military+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+YEM,United States,2017,anchor_to_country,arms+military+financial+travel,none,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+PRK,China,2018,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2018,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+IRN,United States,2018,anchor_to_country,arms+military+trade+financial+travel,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption,severely_strained
+PRK,United States,2018,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2018,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2019,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2019,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2019,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2019,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2020,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+CUB,United States,2020,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+PRK,United States,2020,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2020,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+VEN,United States,2020,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_partial,False,False,complete_trade,severely_strained
+AUT,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BEL,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BGR,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,China,2021,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+CYP,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CZE,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DEU,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DNK,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ESP,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+EST,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FIN,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FRA,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+GRC,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HRV,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HUN,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRL,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ITA,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LTU,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption|qualified_reciprocal_sanctions,severely_strained
+LUX,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LVA,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+MLT,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+NLD,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+POL,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2021,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRT,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ROU,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVK,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVN,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SWE,China,2021,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+AFG,United States,2021,anchor_to_country,arms+military+financial+travel+other,none,False,True,sanctions_plus_diplomatic_disruption|bilateral_operational_diplomatic_rupture,ruptured
+BLR,United States,2021,anchor_to_country|country_to_anchor,trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption|qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2021,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+HKG,United States,2021,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,United States,2021,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2021,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+VEN,United States,2021,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_partial,False,False,complete_trade,severely_strained
+AUT,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BEL,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BGR,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,China,2022,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+CYP,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CZE,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DEU,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DNK,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ESP,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+EST,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FIN,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FRA,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+GRC,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HRV,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HUN,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRL,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ITA,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LTU,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption|qualified_reciprocal_sanctions,severely_strained
+LUX,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LVA,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+MLT,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+NLD,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+POL,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2022,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRT,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ROU,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVK,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVN,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SWE,China,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BLR,United States,2022,anchor_to_country|country_to_anchor,military+trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption|qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2022,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+HKG,United States,2022,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+IRN,United States,2022,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,United States,2022,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2022,anchor_to_country|country_to_anchor,trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination|qualified_reciprocal_sanctions,severely_strained
+VEN,United States,2022,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_partial,False,False,complete_trade,severely_strained
+AUT,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BEL,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BGR,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,China,2023,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+CYP,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CZE,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DEU,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DNK,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ESP,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+EST,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FIN,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FRA,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+GRC,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HRV,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HUN,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRL,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ITA,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LTU,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LUX,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LVA,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+MLT,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+NLD,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+POL,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2023,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRT,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ROU,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVK,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVN,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SWE,China,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+AFG,United States,2023,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+BLR,United States,2023,anchor_to_country|country_to_anchor,military+trade+financial+travel+other,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2023,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+HKG,United States,2023,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRN,United States,2023,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRQ,United States,2023,anchor_to_country,arms+trade+financial+travel,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRK,United States,2023,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2023,anchor_to_country|country_to_anchor,trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination|qualified_reciprocal_sanctions,severely_strained
+VEN,United States,2023,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_partial,False,False,complete_trade,severely_strained
+AUT,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BEL,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+BGR,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CAN,China,2024,anchor_to_country|country_to_anchor,financial+travel,none,False,False,qualified_reciprocal_sanctions,severely_strained
+CYP,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CZE,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DEU,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+DNK,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ESP,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+EST,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FIN,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+FRA,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+GRC,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HRV,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+HUN,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRL,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ITA,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LTU,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel+other,export_partial+import_partial,True,False,sanctions_plus_diplomatic_disruption|qualified_reciprocal_sanctions,severely_strained
+LUX,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+LVA,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+MLT,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+NLD,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+POL,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+PRK,China,2024,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRT,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+ROU,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVK,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SVN,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+SWE,China,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+AFG,United States,2024,anchor_to_country,arms+military+trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+BLR,United States,2024,anchor_to_country|country_to_anchor,military+trade+financial+travel+other,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+CUB,United States,2024,anchor_to_country,arms+trade+financial+travel,export_complete+import_complete,False,False,complete_trade,severely_strained
+HKG,United States,2024,anchor_to_country|country_to_anchor,trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRN,United States,2024,anchor_to_country|country_to_anchor,arms+military+trade+financial+travel,export_partial+import_partial,False,False,qualified_reciprocal_sanctions,severely_strained
+IRQ,United States,2024,anchor_to_country,arms+trade+financial+travel,export_partial+import_partial,False,False,payment_infrastructure_combination,severely_strained
+PRK,United States,2024,anchor_to_country,arms+military+trade+financial+travel+other,export_complete+import_complete,False,False,complete_trade|payment_infrastructure_combination,severely_strained
+RUS,United States,2024,anchor_to_country|country_to_anchor,trade+financial+travel+other,export_partial+import_partial,False,False,payment_infrastructure_combination|qualified_reciprocal_sanctions,severely_strained
+VEN,United States,2024,anchor_to_country,arms+trade+financial+travel+other,export_complete+import_partial,False,False,complete_trade,severely_strained

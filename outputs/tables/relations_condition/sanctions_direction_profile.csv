@@ -1,0 +1,9 @@
+anchor,sanctions_directions,reciprocal_sanctions,country_anchor_years
+China,anchor_to_anchor,False,4
+China,anchor_to_country,False,408
+China,anchor_to_country|country_to_anchor,True,112
+China,country_to_anchor,False,527
+United States,anchor_to_anchor,False,25
+United States,anchor_to_country,False,2504
+United States,anchor_to_country|country_to_anchor,True,33
+United States,country_to_anchor,False,19

@@ -1,0 +1,39 @@
+{
+  "input": "data/interim/relations/drd_anchor_directed_country_year.parquet",
+  "study_period": [
+    2000,
+    2024
+  ],
+  "directed_rows": 16739,
+  "country_anchor_years": 8762,
+  "duplicate_directed_keys": 0,
+  "change_event_counts": {
+    "stable": 14764,
+    "newly_observed": 764,
+    "rank_downgrade": 581,
+    "rank_upgrade": 541,
+    "focus_only_increase": 23,
+    "focus_only_reduction": 21,
+    "explicit_adverse_event": 17,
+    "indeterminate_rank_change": 15,
+    "restoration_from_adverse": 7,
+    "mixed_rank_focus_change": 4,
+    "rank_and_focus_upgrade": 1,
+    "rank_and_focus_downgrade": 1
+  },
+  "candidate_strain_rows": 582,
+  "reciprocal_candidate_strain_country_years": 16,
+  "explicit_adverse_rows": 20,
+  "conservative_condition_counts": {
+    "normal": 8743,
+    "severely_strained": 18,
+    "ruptured": 1
+  },
+  "extended_candidate_condition_counts": {
+    "normal": 8178,
+    "strained": 565,
+    "severely_strained": 18,
+    "ruptured": 1
+  },
+  "country_anchor_years_changed_by_extended_rule": 565
+}

@@ -1,0 +1,144 @@
+year,anchor,condition_four_candidate,country_anchor_years
+2000,China,normal,127
+2000,China,severely_strained,1
+2000,China,strained,30
+2000,United States,normal,125
+2000,United States,severely_strained,8
+2000,United States,strained,50
+2001,China,normal,127
+2001,China,severely_strained,1
+2001,China,strained,30
+2001,United States,normal,120
+2001,United States,severely_strained,6
+2001,United States,strained,57
+2002,China,normal,133
+2002,China,severely_strained,1
+2002,China,strained,23
+2002,United States,normal,42
+2002,United States,severely_strained,6
+2002,United States,strained,139
+2003,China,normal,135
+2003,China,severely_strained,1
+2003,China,strained,24
+2003,United States,normal,38
+2003,United States,severely_strained,8
+2003,United States,strained,142
+2004,China,normal,123
+2004,China,severely_strained,1
+2004,China,strained,35
+2004,United States,normal,41
+2004,United States,severely_strained,7
+2004,United States,strained,141
+2005,China,normal,122
+2005,China,strained,38
+2005,United States,normal,42
+2005,United States,severely_strained,8
+2005,United States,strained,139
+2006,China,normal,121
+2006,China,strained,39
+2006,United States,normal,43
+2006,United States,severely_strained,7
+2006,United States,strained,139
+2007,China,normal,121
+2007,China,strained,41
+2007,United States,normal,41
+2007,United States,severely_strained,6
+2007,United States,strained,142
+2008,China,normal,124
+2008,China,strained,40
+2008,United States,normal,41
+2008,United States,severely_strained,6
+2008,United States,strained,142
+2009,China,normal,124
+2009,China,strained,40
+2009,United States,normal,44
+2009,United States,severely_strained,5
+2009,United States,strained,140
+2010,China,normal,123
+2010,China,strained,41
+2010,United States,normal,125
+2010,United States,severely_strained,4
+2010,United States,strained,60
+2011,China,normal,123
+2011,China,strained,41
+2011,United States,normal,122
+2011,United States,severely_strained,5
+2011,United States,strained,62
+2012,China,normal,122
+2012,China,strained,43
+2012,United States,normal,121
+2012,United States,severely_strained,6
+2012,United States,strained,64
+2013,China,normal,120
+2013,China,severely_strained,1
+2013,China,strained,44
+2013,United States,normal,121
+2013,United States,severely_strained,5
+2013,United States,strained,67
+2014,China,normal,118
+2014,China,severely_strained,1
+2014,China,strained,46
+2014,United States,normal,121
+2014,United States,severely_strained,8
+2014,United States,strained,64
+2015,China,normal,118
+2015,China,severely_strained,1
+2015,China,strained,46
+2015,United States,normal,125
+2015,United States,severely_strained,7
+2015,United States,strained,61
+2016,China,normal,121
+2016,China,severely_strained,1
+2016,China,strained,46
+2016,United States,normal,123
+2016,United States,severely_strained,6
+2016,United States,strained,64
+2017,China,normal,123
+2017,China,severely_strained,1
+2017,China,strained,44
+2017,United States,normal,121
+2017,United States,severely_strained,5
+2017,United States,strained,66
+2018,China,normal,125
+2018,China,severely_strained,1
+2018,China,strained,44
+2018,United States,normal,117
+2018,United States,severely_strained,4
+2018,United States,strained,74
+2019,China,normal,128
+2019,China,severely_strained,1
+2019,China,strained,42
+2019,United States,normal,110
+2019,United States,severely_strained,3
+2019,United States,strained,81
+2020,China,normal,129
+2020,China,severely_strained,1
+2020,China,strained,43
+2020,United States,normal,100
+2020,United States,severely_strained,4
+2020,United States,strained,91
+2021,China,normal,128
+2021,China,severely_strained,29
+2021,China,strained,18
+2021,United States,normal,92
+2021,United States,ruptured,1
+2021,United States,severely_strained,6
+2021,United States,strained,96
+2022,China,normal,128
+2022,China,severely_strained,29
+2022,China,strained,19
+2022,United States,normal,90
+2022,United States,severely_strained,7
+2022,United States,strained,98
+2023,China,normal,128
+2023,China,severely_strained,29
+2023,China,strained,20
+2023,United States,normal,77
+2023,United States,severely_strained,9
+2023,United States,strained,109
+2024,China,normal,127
+2024,China,severely_strained,29
+2024,China,strained,22
+2024,United States,normal,71
+2024,United States,severely_strained,9
+2024,United States,strained,115

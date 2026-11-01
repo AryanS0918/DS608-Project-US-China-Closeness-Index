@@ -1,0 +1,397 @@
+year,anchor,direction,change_event,events
+2000,China,anchor_to_country,newly_observed,153
+2000,China,country_to_anchor,newly_observed,129
+2000,United States,anchor_to_country,newly_observed,164
+2000,United States,country_to_anchor,newly_observed,171
+2001,China,anchor_to_country,indeterminate_rank_change,2
+2001,China,anchor_to_country,newly_observed,2
+2001,China,anchor_to_country,rank_downgrade,1
+2001,China,anchor_to_country,rank_upgrade,3
+2001,China,anchor_to_country,stable,145
+2001,China,country_to_anchor,newly_observed,1
+2001,China,country_to_anchor,rank_upgrade,1
+2001,China,country_to_anchor,stable,128
+2001,United States,anchor_to_country,focus_only_reduction,1
+2001,United States,anchor_to_country,newly_observed,1
+2001,United States,anchor_to_country,rank_downgrade,4
+2001,United States,anchor_to_country,rank_upgrade,3
+2001,United States,anchor_to_country,restoration_from_adverse,2
+2001,United States,anchor_to_country,stable,153
+2001,United States,country_to_anchor,focus_only_increase,5
+2001,United States,country_to_anchor,focus_only_reduction,1
+2001,United States,country_to_anchor,rank_downgrade,1
+2001,United States,country_to_anchor,rank_upgrade,2
+2001,United States,country_to_anchor,stable,162
+2002,China,anchor_to_country,newly_observed,2
+2002,China,anchor_to_country,rank_upgrade,2
+2002,China,anchor_to_country,stable,151
+2002,China,country_to_anchor,indeterminate_rank_change,1
+2002,China,country_to_anchor,newly_observed,2
+2002,China,country_to_anchor,stable,129
+2002,United States,anchor_to_country,focus_only_increase,1
+2002,United States,anchor_to_country,newly_observed,1
+2002,United States,anchor_to_country,rank_downgrade,5
+2002,United States,anchor_to_country,rank_upgrade,5
+2002,United States,anchor_to_country,stable,152
+2002,United States,country_to_anchor,focus_only_increase,1
+2002,United States,country_to_anchor,focus_only_reduction,3
+2002,United States,country_to_anchor,newly_observed,3
+2002,United States,country_to_anchor,rank_downgrade,7
+2002,United States,country_to_anchor,rank_upgrade,3
+2002,United States,country_to_anchor,stable,157
+2003,China,anchor_to_country,newly_observed,5
+2003,China,anchor_to_country,stable,153
+2003,China,country_to_anchor,newly_observed,7
+2003,China,country_to_anchor,stable,132
+2003,United States,anchor_to_country,focus_only_reduction,1
+2003,United States,anchor_to_country,newly_observed,1
+2003,United States,anchor_to_country,rank_upgrade,6
+2003,United States,anchor_to_country,stable,156
+2003,United States,country_to_anchor,rank_downgrade,4
+2003,United States,country_to_anchor,rank_upgrade,7
+2003,United States,country_to_anchor,stable,163
+2004,China,anchor_to_country,explicit_adverse_event,1
+2004,China,anchor_to_country,indeterminate_rank_change,1
+2004,China,anchor_to_country,rank_downgrade,2
+2004,China,anchor_to_country,stable,153
+2004,China,country_to_anchor,rank_downgrade,1
+2004,China,country_to_anchor,rank_upgrade,1
+2004,China,country_to_anchor,stable,137
+2004,United States,anchor_to_country,focus_only_reduction,1
+2004,United States,anchor_to_country,newly_observed,1
+2004,United States,anchor_to_country,rank_downgrade,5
+2004,United States,anchor_to_country,stable,156
+2004,United States,country_to_anchor,focus_only_increase,3
+2004,United States,country_to_anchor,newly_observed,5
+2004,United States,country_to_anchor,rank_downgrade,10
+2004,United States,country_to_anchor,rank_upgrade,7
+2004,United States,country_to_anchor,stable,154
+2005,China,anchor_to_country,newly_observed,1
+2005,China,anchor_to_country,rank_upgrade,2
+2005,China,anchor_to_country,restoration_from_adverse,1
+2005,China,anchor_to_country,stable,154
+2005,China,country_to_anchor,newly_observed,5
+2005,China,country_to_anchor,rank_downgrade,1
+2005,China,country_to_anchor,rank_upgrade,1
+2005,China,country_to_anchor,stable,137
+2005,United States,anchor_to_country,explicit_adverse_event,1
+2005,United States,anchor_to_country,mixed_rank_focus_change,1
+2005,United States,anchor_to_country,newly_observed,1
+2005,United States,anchor_to_country,rank_downgrade,9
+2005,United States,anchor_to_country,rank_upgrade,4
+2005,United States,anchor_to_country,stable,148
+2005,United States,country_to_anchor,rank_downgrade,5
+2005,United States,country_to_anchor,rank_upgrade,11
+2005,United States,country_to_anchor,stable,163
+2006,China,anchor_to_country,newly_observed,1
+2006,China,anchor_to_country,stable,155
+2006,China,country_to_anchor,indeterminate_rank_change,2
+2006,China,country_to_anchor,newly_observed,7
+2006,China,country_to_anchor,rank_upgrade,2
+2006,China,country_to_anchor,stable,139
+2006,United States,anchor_to_country,focus_only_increase,1
+2006,United States,anchor_to_country,newly_observed,1
+2006,United States,anchor_to_country,rank_downgrade,6
+2006,United States,anchor_to_country,rank_upgrade,11
+2006,United States,anchor_to_country,restoration_from_adverse,1
+2006,United States,anchor_to_country,stable,144
+2006,United States,country_to_anchor,newly_observed,2
+2006,United States,country_to_anchor,rank_downgrade,2
+2006,United States,country_to_anchor,rank_upgrade,5
+2006,United States,country_to_anchor,stable,172
+2007,China,anchor_to_country,newly_observed,4
+2007,China,anchor_to_country,stable,154
+2007,China,country_to_anchor,newly_observed,3
+2007,China,country_to_anchor,rank_downgrade,1
+2007,China,country_to_anchor,stable,148
+2007,United States,anchor_to_country,newly_observed,3
+2007,United States,anchor_to_country,rank_downgrade,4
+2007,United States,anchor_to_country,rank_upgrade,6
+2007,United States,anchor_to_country,stable,152
+2007,United States,country_to_anchor,newly_observed,3
+2007,United States,country_to_anchor,rank_downgrade,3
+2007,United States,country_to_anchor,rank_upgrade,3
+2007,United States,country_to_anchor,stable,174
+2008,China,anchor_to_country,newly_observed,3
+2008,China,anchor_to_country,rank_upgrade,2
+2008,China,anchor_to_country,stable,155
+2008,China,country_to_anchor,newly_observed,5
+2008,China,country_to_anchor,rank_downgrade,2
+2008,China,country_to_anchor,stable,150
+2008,United States,anchor_to_country,newly_observed,3
+2008,United States,anchor_to_country,rank_downgrade,6
+2008,United States,anchor_to_country,rank_upgrade,5
+2008,United States,anchor_to_country,stable,154
+2008,United States,country_to_anchor,focus_only_reduction,2
+2008,United States,country_to_anchor,newly_observed,1
+2008,United States,country_to_anchor,rank_downgrade,9
+2008,United States,country_to_anchor,rank_upgrade,4
+2008,United States,country_to_anchor,stable,167
+2009,China,anchor_to_country,stable,160
+2009,China,country_to_anchor,rank_upgrade,2
+2009,China,country_to_anchor,stable,155
+2009,United States,anchor_to_country,focus_only_reduction,1
+2009,United States,anchor_to_country,mixed_rank_focus_change,1
+2009,United States,anchor_to_country,newly_observed,1
+2009,United States,anchor_to_country,rank_downgrade,34
+2009,United States,anchor_to_country,rank_upgrade,6
+2009,United States,anchor_to_country,stable,125
+2009,United States,country_to_anchor,newly_observed,1
+2009,United States,country_to_anchor,rank_downgrade,17
+2009,United States,country_to_anchor,rank_upgrade,6
+2009,United States,country_to_anchor,stable,160
+2010,China,anchor_to_country,newly_observed,1
+2010,China,anchor_to_country,stable,160
+2010,China,country_to_anchor,newly_observed,2
+2010,China,country_to_anchor,rank_downgrade,1
+2010,China,country_to_anchor,rank_upgrade,2
+2010,China,country_to_anchor,stable,154
+2010,United States,anchor_to_country,focus_only_increase,1
+2010,United States,anchor_to_country,focus_only_reduction,1
+2010,United States,anchor_to_country,indeterminate_rank_change,1
+2010,United States,anchor_to_country,rank_downgrade,5
+2010,United States,anchor_to_country,rank_upgrade,32
+2010,United States,anchor_to_country,stable,128
+2010,United States,country_to_anchor,focus_only_increase,2
+2010,United States,country_to_anchor,newly_observed,1
+2010,United States,country_to_anchor,rank_downgrade,9
+2010,United States,country_to_anchor,rank_upgrade,15
+2010,United States,country_to_anchor,stable,158
+2011,China,anchor_to_country,stable,161
+2011,China,country_to_anchor,rank_downgrade,1
+2011,China,country_to_anchor,rank_upgrade,3
+2011,China,country_to_anchor,stable,155
+2011,United States,anchor_to_country,focus_only_increase,1
+2011,United States,anchor_to_country,rank_downgrade,9
+2011,United States,anchor_to_country,rank_upgrade,7
+2011,United States,anchor_to_country,stable,151
+2011,United States,country_to_anchor,newly_observed,1
+2011,United States,country_to_anchor,rank_downgrade,5
+2011,United States,country_to_anchor,rank_upgrade,10
+2011,United States,country_to_anchor,stable,170
+2012,China,anchor_to_country,indeterminate_rank_change,1
+2012,China,anchor_to_country,newly_observed,2
+2012,China,anchor_to_country,rank_downgrade,1
+2012,China,anchor_to_country,stable,159
+2012,China,country_to_anchor,newly_observed,1
+2012,China,country_to_anchor,rank_downgrade,1
+2012,China,country_to_anchor,rank_upgrade,1
+2012,China,country_to_anchor,stable,157
+2012,United States,anchor_to_country,explicit_adverse_event,1
+2012,United States,anchor_to_country,newly_observed,1
+2012,United States,anchor_to_country,rank_downgrade,6
+2012,United States,anchor_to_country,rank_upgrade,10
+2012,United States,anchor_to_country,stable,151
+2012,United States,country_to_anchor,focus_only_reduction,1
+2012,United States,country_to_anchor,newly_observed,1
+2012,United States,country_to_anchor,rank_downgrade,3
+2012,United States,country_to_anchor,rank_upgrade,4
+2012,United States,country_to_anchor,stable,177
+2013,China,anchor_to_country,rank_downgrade,2
+2013,China,anchor_to_country,rank_upgrade,1
+2013,China,anchor_to_country,stable,160
+2013,China,country_to_anchor,newly_observed,1
+2013,China,country_to_anchor,rank_downgrade,3
+2013,China,country_to_anchor,rank_upgrade,1
+2013,China,country_to_anchor,stable,156
+2013,United States,anchor_to_country,rank_downgrade,7
+2013,United States,anchor_to_country,rank_upgrade,4
+2013,United States,anchor_to_country,stable,156
+2013,United States,country_to_anchor,focus_only_increase,1
+2013,United States,country_to_anchor,newly_observed,2
+2013,United States,country_to_anchor,rank_downgrade,7
+2013,United States,country_to_anchor,rank_upgrade,1
+2013,United States,country_to_anchor,stable,177
+2014,China,anchor_to_country,rank_downgrade,1
+2014,China,anchor_to_country,rank_upgrade,2
+2014,China,anchor_to_country,stable,159
+2014,China,country_to_anchor,rank_downgrade,1
+2014,China,country_to_anchor,rank_upgrade,2
+2014,China,country_to_anchor,stable,156
+2014,United States,anchor_to_country,explicit_adverse_event,2
+2014,United States,anchor_to_country,newly_observed,3
+2014,United States,anchor_to_country,rank_downgrade,22
+2014,United States,anchor_to_country,rank_upgrade,4
+2014,United States,anchor_to_country,stable,138
+2014,United States,country_to_anchor,focus_only_reduction,1
+2014,United States,country_to_anchor,indeterminate_rank_change,1
+2014,United States,country_to_anchor,rank_downgrade,10
+2014,United States,country_to_anchor,rank_upgrade,7
+2014,United States,country_to_anchor,stable,169
+2015,China,anchor_to_country,newly_observed,2
+2015,China,anchor_to_country,rank_upgrade,1
+2015,China,anchor_to_country,stable,161
+2015,China,country_to_anchor,newly_observed,3
+2015,China,country_to_anchor,rank_upgrade,1
+2015,China,country_to_anchor,stable,158
+2015,United States,anchor_to_country,explicit_adverse_event,1
+2015,United States,anchor_to_country,focus_only_increase,1
+2015,United States,anchor_to_country,newly_observed,2
+2015,United States,anchor_to_country,rank_downgrade,9
+2015,United States,anchor_to_country,rank_upgrade,19
+2015,United States,anchor_to_country,stable,138
+2015,United States,country_to_anchor,indeterminate_rank_change,1
+2015,United States,country_to_anchor,newly_observed,1
+2015,United States,country_to_anchor,rank_downgrade,5
+2015,United States,country_to_anchor,rank_upgrade,2
+2015,United States,country_to_anchor,stable,180
+2016,China,anchor_to_country,newly_observed,3
+2016,China,anchor_to_country,rank_downgrade,1
+2016,China,anchor_to_country,stable,163
+2016,China,country_to_anchor,newly_observed,1
+2016,China,country_to_anchor,rank_downgrade,3
+2016,China,country_to_anchor,rank_upgrade,1
+2016,China,country_to_anchor,stable,153
+2016,United States,anchor_to_country,explicit_adverse_event,1
+2016,United States,anchor_to_country,focus_only_increase,1
+2016,United States,anchor_to_country,focus_only_reduction,1
+2016,United States,anchor_to_country,rank_downgrade,33
+2016,United States,anchor_to_country,rank_upgrade,12
+2016,United States,anchor_to_country,restoration_from_adverse,1
+2016,United States,anchor_to_country,stable,119
+2016,United States,country_to_anchor,focus_only_reduction,1
+2016,United States,country_to_anchor,newly_observed,1
+2016,United States,country_to_anchor,rank_and_focus_upgrade,1
+2016,United States,country_to_anchor,rank_downgrade,13
+2016,United States,country_to_anchor,rank_upgrade,12
+2016,United States,country_to_anchor,stable,158
+2017,China,anchor_to_country,newly_observed,1
+2017,China,anchor_to_country,rank_downgrade,1
+2017,China,anchor_to_country,rank_upgrade,1
+2017,China,anchor_to_country,stable,165
+2017,China,country_to_anchor,focus_only_reduction,1
+2017,China,country_to_anchor,newly_observed,6
+2017,China,country_to_anchor,rank_downgrade,1
+2017,China,country_to_anchor,rank_upgrade,2
+2017,China,country_to_anchor,stable,154
+2017,United States,anchor_to_country,explicit_adverse_event,1
+2017,United States,anchor_to_country,focus_only_reduction,1
+2017,United States,anchor_to_country,newly_observed,2
+2017,United States,anchor_to_country,rank_and_focus_downgrade,1
+2017,United States,anchor_to_country,rank_downgrade,15
+2017,United States,anchor_to_country,rank_upgrade,22
+2017,United States,anchor_to_country,stable,127
+2017,United States,country_to_anchor,focus_only_reduction,1
+2017,United States,country_to_anchor,newly_observed,3
+2017,United States,country_to_anchor,rank_downgrade,6
+2017,United States,country_to_anchor,rank_upgrade,14
+2017,United States,country_to_anchor,stable,159
+2018,China,anchor_to_country,newly_observed,2
+2018,China,anchor_to_country,rank_downgrade,1
+2018,China,anchor_to_country,rank_upgrade,1
+2018,China,anchor_to_country,stable,166
+2018,China,country_to_anchor,focus_only_reduction,1
+2018,China,country_to_anchor,indeterminate_rank_change,1
+2018,China,country_to_anchor,newly_observed,2
+2018,China,country_to_anchor,rank_downgrade,5
+2018,China,country_to_anchor,rank_upgrade,2
+2018,China,country_to_anchor,stable,155
+2018,United States,anchor_to_country,rank_downgrade,13
+2018,United States,anchor_to_country,rank_upgrade,16
+2018,United States,anchor_to_country,stable,139
+2018,United States,country_to_anchor,explicit_adverse_event,2
+2018,United States,country_to_anchor,newly_observed,6
+2018,United States,country_to_anchor,rank_downgrade,9
+2018,United States,country_to_anchor,rank_upgrade,7
+2018,United States,country_to_anchor,stable,165
+2019,China,anchor_to_country,newly_observed,1
+2019,China,anchor_to_country,rank_downgrade,2
+2019,China,anchor_to_country,stable,168
+2019,China,country_to_anchor,focus_only_increase,2
+2019,China,country_to_anchor,indeterminate_rank_change,2
+2019,China,country_to_anchor,newly_observed,2
+2019,China,country_to_anchor,rank_downgrade,3
+2019,China,country_to_anchor,rank_upgrade,3
+2019,China,country_to_anchor,stable,156
+2019,United States,anchor_to_country,newly_observed,1
+2019,United States,anchor_to_country,rank_downgrade,5
+2019,United States,anchor_to_country,rank_upgrade,18
+2019,United States,anchor_to_country,stable,145
+2019,United States,country_to_anchor,rank_downgrade,11
+2019,United States,country_to_anchor,rank_upgrade,9
+2019,United States,country_to_anchor,stable,167
+2020,China,anchor_to_country,newly_observed,2
+2020,China,anchor_to_country,rank_downgrade,1
+2020,China,anchor_to_country,rank_upgrade,2
+2020,China,anchor_to_country,stable,168
+2020,China,country_to_anchor,indeterminate_rank_change,1
+2020,China,country_to_anchor,newly_observed,1
+2020,China,country_to_anchor,rank_downgrade,3
+2020,China,country_to_anchor,rank_upgrade,3
+2020,China,country_to_anchor,stable,161
+2020,United States,anchor_to_country,focus_only_increase,1
+2020,United States,anchor_to_country,mixed_rank_focus_change,2
+2020,United States,anchor_to_country,rank_downgrade,50
+2020,United States,anchor_to_country,rank_upgrade,8
+2020,United States,anchor_to_country,stable,108
+2020,United States,country_to_anchor,rank_downgrade,12
+2020,United States,country_to_anchor,rank_upgrade,11
+2020,United States,country_to_anchor,stable,164
+2021,China,anchor_to_country,explicit_adverse_event,1
+2021,China,anchor_to_country,newly_observed,1
+2021,China,anchor_to_country,rank_downgrade,2
+2021,China,anchor_to_country,rank_upgrade,1
+2021,China,anchor_to_country,stable,169
+2021,China,country_to_anchor,stable,168
+2021,United States,anchor_to_country,explicit_adverse_event,2
+2021,United States,anchor_to_country,rank_downgrade,15
+2021,United States,anchor_to_country,rank_upgrade,30
+2021,United States,anchor_to_country,stable,122
+2021,United States,country_to_anchor,explicit_adverse_event,1
+2021,United States,country_to_anchor,focus_only_increase,1
+2021,United States,country_to_anchor,rank_downgrade,15
+2021,United States,country_to_anchor,rank_upgrade,14
+2021,United States,country_to_anchor,stable,156
+2022,China,anchor_to_country,explicit_adverse_event,1
+2022,China,anchor_to_country,rank_downgrade,8
+2022,China,anchor_to_country,rank_upgrade,2
+2022,China,anchor_to_country,stable,163
+2022,China,country_to_anchor,newly_observed,1
+2022,China,country_to_anchor,rank_downgrade,5
+2022,China,country_to_anchor,rank_upgrade,2
+2022,China,country_to_anchor,stable,161
+2022,United States,anchor_to_country,explicit_adverse_event,1
+2022,United States,anchor_to_country,newly_observed,1
+2022,United States,anchor_to_country,rank_downgrade,13
+2022,United States,anchor_to_country,rank_upgrade,37
+2022,United States,anchor_to_country,stable,117
+2022,United States,country_to_anchor,rank_downgrade,7
+2022,United States,country_to_anchor,rank_upgrade,13
+2022,United States,country_to_anchor,stable,164
+2023,China,anchor_to_country,newly_observed,1
+2023,China,anchor_to_country,rank_downgrade,4
+2023,China,anchor_to_country,rank_upgrade,6
+2023,China,anchor_to_country,restoration_from_adverse,1
+2023,China,anchor_to_country,stable,163
+2023,China,country_to_anchor,indeterminate_rank_change,1
+2023,China,country_to_anchor,newly_observed,3
+2023,China,country_to_anchor,rank_downgrade,5
+2023,China,country_to_anchor,rank_upgrade,8
+2023,China,country_to_anchor,stable,155
+2023,United States,anchor_to_country,focus_only_reduction,1
+2023,United States,anchor_to_country,newly_observed,3
+2023,United States,anchor_to_country,rank_downgrade,8
+2023,United States,anchor_to_country,rank_upgrade,21
+2023,United States,anchor_to_country,restoration_from_adverse,1
+2023,United States,anchor_to_country,stable,137
+2023,United States,country_to_anchor,rank_downgrade,4
+2023,United States,country_to_anchor,rank_upgrade,3
+2023,United States,country_to_anchor,stable,177
+2024,China,anchor_to_country,explicit_adverse_event,1
+2024,China,anchor_to_country,rank_downgrade,10
+2024,China,anchor_to_country,rank_upgrade,5
+2024,China,anchor_to_country,stable,159
+2024,China,country_to_anchor,newly_observed,1
+2024,China,country_to_anchor,rank_downgrade,4
+2024,China,country_to_anchor,rank_upgrade,5
+2024,China,country_to_anchor,stable,162
+2024,United States,anchor_to_country,focus_only_increase,1
+2024,United States,anchor_to_country,newly_observed,1
+2024,United States,anchor_to_country,rank_downgrade,37
+2024,United States,anchor_to_country,rank_upgrade,5
+2024,United States,anchor_to_country,stable,127
+2024,United States,country_to_anchor,focus_only_reduction,1
+2024,United States,country_to_anchor,newly_observed,1
+2024,United States,country_to_anchor,rank_downgrade,9
+2024,United States,country_to_anchor,rank_upgrade,6
+2024,United States,country_to_anchor,stable,168

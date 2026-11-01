@@ -1,0 +1,84 @@
+year,anchor,drd_condition_signal,country_years,drd_condition_severity
+2000,China,normal,155,0
+2000,United States,normal,176,0
+2000,United States,severely_strained,2,2
+2001,China,normal,155,0
+2001,United States,normal,176,0
+2001,United States,strained,1,1
+2002,China,normal,156,0
+2002,United States,normal,178,0
+2003,China,normal,160,0
+2003,United States,normal,179,0
+2004,China,normal,157,0
+2004,China,strained,1,1
+2004,China,severely_strained,1,2
+2004,United States,normal,179,0
+2004,United States,strained,2,1
+2005,China,normal,160,0
+2005,United States,normal,180,0
+2005,United States,severely_strained,1,2
+2006,China,normal,160,0
+2006,United States,normal,182,0
+2006,United States,strained,1,1
+2007,China,normal,162,0
+2007,United States,normal,184,0
+2008,China,normal,164,0
+2008,United States,normal,183,0
+2008,United States,strained,2,1
+2009,China,normal,164,0
+2009,United States,normal,182,0
+2009,United States,strained,3,1
+2010,China,normal,164,0
+2010,United States,normal,185,0
+2010,United States,strained,1,1
+2011,China,normal,164,0
+2011,United States,normal,185,0
+2011,United States,strained,2,1
+2012,China,normal,165,0
+2012,United States,normal,187,0
+2012,United States,severely_strained,1,2
+2013,China,normal,165,0
+2013,United States,normal,189,0
+2014,China,normal,165,0
+2014,United States,normal,186,0
+2014,United States,strained,1,1
+2014,United States,severely_strained,2,2
+2015,China,normal,165,0
+2015,United States,normal,188,0
+2015,United States,severely_strained,2,2
+2016,China,normal,168,0
+2016,United States,normal,187,0
+2016,United States,strained,1,1
+2016,United States,severely_strained,1,2
+2017,China,normal,167,0
+2017,China,strained,1,1
+2017,United States,normal,180,0
+2017,United States,strained,5,1
+2017,United States,severely_strained,1,2
+2018,China,normal,169,0
+2018,China,strained,1,1
+2018,United States,normal,187,0
+2018,United States,strained,1,1
+2018,United States,severely_strained,2,2
+2019,China,normal,171,0
+2019,United States,normal,188,0
+2020,China,normal,173,0
+2020,United States,normal,187,0
+2020,United States,strained,1,1
+2021,China,normal,173,0
+2021,China,severely_strained,1,2
+2021,United States,normal,186,0
+2021,United States,severely_strained,1,2
+2021,United States,ruptured,1,3
+2022,China,normal,173,0
+2022,China,severely_strained,1,2
+2022,United States,normal,185,0
+2022,United States,strained,1,1
+2022,United States,severely_strained,1,2
+2023,China,normal,175,0
+2023,United States,normal,186,0
+2023,United States,strained,1,1
+2024,China,normal,175,0
+2024,China,severely_strained,1,2
+2024,United States,normal,186,0
+2024,United States,strained,1,1

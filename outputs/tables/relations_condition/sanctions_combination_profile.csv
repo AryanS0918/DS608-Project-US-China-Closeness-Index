@@ -1,0 +1,64 @@
+anchor,family_combination,country_anchor_years
+China,arms+military,571
+China,arms+military+trade+financial+travel,138
+China,arms+military+financial+travel,80
+China,financial+travel,42
+China,arms+military+trade+financial+travel+other,40
+China,arms+military+financial+travel+other,36
+China,arms,29
+China,arms+financial+travel,29
+China,trade,20
+China,travel,13
+China,trade+travel+other,8
+China,arms+financial,7
+China,arms+travel,7
+China,arms+trade+financial+travel,6
+China,trade+financial+travel,5
+China,arms+military+trade+financial+other,4
+China,arms+trade+travel,4
+China,arms+military+trade+travel,3
+China,financial,2
+China,trade+financial,2
+China,trade+travel,2
+China,travel+other,2
+China,arms+trade,1
+United States,military,716
+United States,financial,514
+United States,trade+financial,197
+United States,trade+financial+travel,194
+United States,military+financial,102
+United States,arms+military+trade+financial+travel,99
+United States,arms,68
+United States,financial+travel,68
+United States,arms+military+trade+financial+travel+other,66
+United States,arms+military,65
+United States,travel,54
+United States,arms+trade+financial+travel+other,42
+United States,arms+trade+financial+travel,41
+United States,arms+military+financial+travel,39
+United States,trade,39
+United States,arms+military+financial+travel+other,37
+United States,military+trade,31
+United States,arms+military+financial,29
+United States,military+trade+financial,24
+United States,arms+financial,20
+United States,trade+financial+travel+other,20
+United States,arms+military+trade+financial,16
+United States,arms+trade+financial,13
+United States,arms+financial+travel,12
+United States,military+trade+financial+travel,11
+United States,trade+financial+other,10
+United States,military+financial+travel,8
+United States,other,8
+United States,military+other,7
+United States,arms+military+travel,6
+United States,arms+military+trade+travel,5
+United States,arms+military+trade+financial+other,4
+United States,travel+other,4
+United States,military+financial+other,3
+United States,military+trade+financial+travel+other,3
+United States,arms+trade+travel,2
+United States,arms+trade+other,1
+United States,arms+travel,1
+United States,military+financial+travel+other,1
+United States,military+travel,1

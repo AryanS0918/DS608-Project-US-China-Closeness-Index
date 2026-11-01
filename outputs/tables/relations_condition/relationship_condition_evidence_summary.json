@@ -1,0 +1,23 @@
+{
+  "study_period": [
+    2000,
+    2024
+  ],
+  "rows": 8918,
+  "countries": 199,
+  "duplicate_keys": 0,
+  "invalid_country_keys": 0,
+  "resolved_drd_names": 196,
+  "unresolved_drd_names": 0,
+  "historical_entities": [
+    "Serbia and Montenegro"
+  ],
+  "condition_counts": {
+    "normal": 5331,
+    "strained": 3302,
+    "severely_strained": 284,
+    "ruptured": 1
+  },
+  "rupture_rows": 1,
+  "source_crosswalk_rows": 403
+}

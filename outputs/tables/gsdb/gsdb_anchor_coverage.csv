@@ -1,0 +1,558 @@
+dataset,anchor,sanctions_direction,year,dyadic_rows,countries,cases
+R5,China,anchor_to_anchor,1609459200000000000,1,1,1
+R5,China,anchor_to_anchor,1640995200000000000,1,1,1
+R5,China,anchor_to_anchor,1672531200000000000,1,1,1
+R5,China,anchor_to_anchor,1704067200000000000,1,1,1
+R5,China,anchor_to_anchor,1735689600000000000,1,1,1
+R5,China,anchor_to_country,-599616000000000000,1,1,1
+R5,China,anchor_to_country,-568080000000000000,1,1,1
+R5,China,anchor_to_country,-536457600000000000,1,1,1
+R5,China,anchor_to_country,-504921600000000000,1,1,1
+R5,China,anchor_to_country,-473385600000000000,1,1,1
+R5,China,anchor_to_country,-441849600000000000,1,1,1
+R5,China,anchor_to_country,-410227200000000000,1,1,1
+R5,China,anchor_to_country,-378691200000000000,1,1,1
+R5,China,anchor_to_country,-347155200000000000,1,1,1
+R5,China,anchor_to_country,-315619200000000000,1,1,1
+R5,China,anchor_to_country,-283996800000000000,1,1,1
+R5,China,anchor_to_country,-252460800000000000,1,1,1
+R5,China,anchor_to_country,-220924800000000000,2,2,2
+R5,China,anchor_to_country,-189388800000000000,2,2,2
+R5,China,anchor_to_country,-157766400000000000,4,4,3
+R5,China,anchor_to_country,-126230400000000000,6,6,5
+R5,China,anchor_to_country,-94694400000000000,7,7,6
+R5,China,anchor_to_country,-63158400000000000,7,7,6
+R5,China,anchor_to_country,-31536000000000000,7,7,6
+R5,China,anchor_to_country,0,7,7,6
+R5,China,anchor_to_country,31536000000000000,7,7,6
+R5,China,anchor_to_country,63072000000000000,6,6,5
+R5,China,anchor_to_country,94694400000000000,6,6,5
+R5,China,anchor_to_country,126230400000000000,6,6,5
+R5,China,anchor_to_country,157766400000000000,5,5,4
+R5,China,anchor_to_country,189302400000000000,3,3,3
+R5,China,anchor_to_country,220924800000000000,3,3,3
+R5,China,anchor_to_country,252460800000000000,5,5,5
+R5,China,anchor_to_country,283996800000000000,5,5,5
+R5,China,anchor_to_country,315532800000000000,4,4,4
+R5,China,anchor_to_country,347155200000000000,4,4,4
+R5,China,anchor_to_country,378691200000000000,4,4,4
+R5,China,anchor_to_country,410227200000000000,4,4,4
+R5,China,anchor_to_country,441763200000000000,3,3,3
+R5,China,anchor_to_country,473385600000000000,3,3,3
+R5,China,anchor_to_country,504921600000000000,3,3,3
+R5,China,anchor_to_country,536457600000000000,3,3,3
+R5,China,anchor_to_country,567993600000000000,3,3,3
+R5,China,anchor_to_country,599616000000000000,3,3,3
+R5,China,anchor_to_country,631152000000000000,5,5,5
+R5,China,anchor_to_country,662688000000000000,11,11,6
+R5,China,anchor_to_country,694224000000000000,14,14,9
+R5,China,anchor_to_country,725846400000000000,16,16,11
+R5,China,anchor_to_country,757382400000000000,16,16,11
+R5,China,anchor_to_country,788918400000000000,13,13,8
+R5,China,anchor_to_country,820454400000000000,15,15,10
+R5,China,anchor_to_country,852076800000000000,10,10,10
+R5,China,anchor_to_country,883612800000000000,15,15,11
+R5,China,anchor_to_country,915148800000000000,15,15,11
+R5,China,anchor_to_country,946684800000000000,16,16,13
+R5,China,anchor_to_country,978307200000000000,16,16,13
+R5,China,anchor_to_country,1009843200000000000,10,10,10
+R5,China,anchor_to_country,1041379200000000000,11,11,11
+R5,China,anchor_to_country,1072915200000000000,12,12,12
+R5,China,anchor_to_country,1104537600000000000,14,14,14
+R5,China,anchor_to_country,1136073600000000000,15,15,15
+R5,China,anchor_to_country,1167609600000000000,15,15,15
+R5,China,anchor_to_country,1199145600000000000,14,14,14
+R5,China,anchor_to_country,1230768000000000000,14,14,14
+R5,China,anchor_to_country,1262304000000000000,15,15,15
+R5,China,anchor_to_country,1293840000000000000,17,17,17
+R5,China,anchor_to_country,1325376000000000000,18,18,18
+R5,China,anchor_to_country,1356998400000000000,19,19,19
+R5,China,anchor_to_country,1388534400000000000,22,22,22
+R5,China,anchor_to_country,1420070400000000000,22,22,22
+R5,China,anchor_to_country,1451606400000000000,22,22,22
+R5,China,anchor_to_country,1483228800000000000,20,20,20
+R5,China,anchor_to_country,1514764800000000000,20,20,20
+R5,China,anchor_to_country,1546300800000000000,18,18,18
+R5,China,anchor_to_country,1577836800000000000,19,19,19
+R5,China,anchor_to_country,1609459200000000000,48,48,24
+R5,China,anchor_to_country,1640995200000000000,49,49,25
+R5,China,anchor_to_country,1672531200000000000,50,50,26
+R5,China,anchor_to_country,1704067200000000000,50,50,26
+R5,China,anchor_to_country,1735689600000000000,52,52,28
+R5,China,country_to_anchor,-631152000000000000,33,33,5
+R5,China,country_to_anchor,-599616000000000000,62,62,8
+R5,China,country_to_anchor,-568080000000000000,65,65,9
+R5,China,country_to_anchor,-536457600000000000,65,65,9
+R5,China,country_to_anchor,-504921600000000000,39,39,7
+R5,China,country_to_anchor,-473385600000000000,38,38,5
+R5,China,country_to_anchor,-441849600000000000,38,38,5
+R5,China,country_to_anchor,-410227200000000000,37,37,3
+R5,China,country_to_anchor,-378691200000000000,37,37,3
+R5,China,country_to_anchor,-347155200000000000,37,37,3
+R5,China,country_to_anchor,-315619200000000000,38,38,4
+R5,China,country_to_anchor,-283996800000000000,38,38,4
+R5,China,country_to_anchor,-252460800000000000,37,37,4
+R5,China,country_to_anchor,-220924800000000000,37,37,4
+R5,China,country_to_anchor,-189388800000000000,37,37,4
+R5,China,country_to_anchor,-157766400000000000,37,37,4
+R5,China,country_to_anchor,-126230400000000000,37,37,4
+R5,China,country_to_anchor,-94694400000000000,39,39,4
+R5,China,country_to_anchor,-63158400000000000,39,39,4
+R5,China,country_to_anchor,-31536000000000000,40,40,4
+R5,China,country_to_anchor,0,40,40,4
+R5,China,country_to_anchor,31536000000000000,39,39,3
+R5,China,country_to_anchor,63072000000000000,39,39,3
+R5,China,country_to_anchor,94694400000000000,39,39,3
+R5,China,country_to_anchor,126230400000000000,39,39,3
+R5,China,country_to_anchor,157766400000000000,40,40,3
+R5,China,country_to_anchor,189302400000000000,40,40,3
+R5,China,country_to_anchor,220924800000000000,41,41,3
+R5,China,country_to_anchor,252460800000000000,41,41,3
+R5,China,country_to_anchor,283996800000000000,43,43,3
+R5,China,country_to_anchor,315532800000000000,43,43,3
+R5,China,country_to_anchor,347155200000000000,45,45,3
+R5,China,country_to_anchor,378691200000000000,46,46,3
+R5,China,country_to_anchor,410227200000000000,46,46,3
+R5,China,country_to_anchor,441763200000000000,47,47,3
+R5,China,country_to_anchor,473385600000000000,47,47,3
+R5,China,country_to_anchor,599616000000000000,15,15,6
+R5,China,country_to_anchor,631152000000000000,14,14,5
+R5,China,country_to_anchor,662688000000000000,13,13,4
+R5,China,country_to_anchor,694224000000000000,12,12,2
+R5,China,country_to_anchor,725846400000000000,12,12,1
+R5,China,country_to_anchor,757382400000000000,12,12,1
+R5,China,country_to_anchor,788918400000000000,16,16,2
+R5,China,country_to_anchor,820454400000000000,16,16,2
+R5,China,country_to_anchor,852076800000000000,16,16,2
+R5,China,country_to_anchor,883612800000000000,15,15,1
+R5,China,country_to_anchor,915148800000000000,15,15,1
+R5,China,country_to_anchor,946684800000000000,15,15,1
+R5,China,country_to_anchor,978307200000000000,15,15,1
+R5,China,country_to_anchor,1009843200000000000,15,15,1
+R5,China,country_to_anchor,1041379200000000000,15,15,1
+R5,China,country_to_anchor,1072915200000000000,25,25,1
+R5,China,country_to_anchor,1104537600000000000,25,25,1
+R5,China,country_to_anchor,1136073600000000000,25,25,1
+R5,China,country_to_anchor,1167609600000000000,27,27,1
+R5,China,country_to_anchor,1199145600000000000,27,27,1
+R5,China,country_to_anchor,1230768000000000000,27,27,1
+R5,China,country_to_anchor,1262304000000000000,27,27,1
+R5,China,country_to_anchor,1293840000000000000,27,27,1
+R5,China,country_to_anchor,1325376000000000000,27,27,1
+R5,China,country_to_anchor,1356998400000000000,28,28,1
+R5,China,country_to_anchor,1388534400000000000,28,28,1
+R5,China,country_to_anchor,1420070400000000000,28,28,1
+R5,China,country_to_anchor,1451606400000000000,28,28,1
+R5,China,country_to_anchor,1483228800000000000,28,28,1
+R5,China,country_to_anchor,1514764800000000000,28,28,1
+R5,China,country_to_anchor,1546300800000000000,28,28,1
+R5,China,country_to_anchor,1577836800000000000,28,28,1
+R5,China,country_to_anchor,1609459200000000000,29,29,3
+R5,China,country_to_anchor,1640995200000000000,29,29,3
+R5,China,country_to_anchor,1672531200000000000,29,29,3
+R5,China,country_to_anchor,1704067200000000000,31,31,5
+R5,China,country_to_anchor,1735689600000000000,31,31,5
+R5,United States,anchor_to_anchor,-631152000000000000,1,1,1
+R5,United States,anchor_to_anchor,-599616000000000000,1,1,1
+R5,United States,anchor_to_anchor,-568080000000000000,1,1,1
+R5,United States,anchor_to_anchor,-536457600000000000,1,1,1
+R5,United States,anchor_to_anchor,-504921600000000000,1,1,1
+R5,United States,anchor_to_anchor,-473385600000000000,1,1,1
+R5,United States,anchor_to_anchor,-441849600000000000,1,1,1
+R5,United States,anchor_to_anchor,-410227200000000000,1,1,1
+R5,United States,anchor_to_anchor,-378691200000000000,1,1,1
+R5,United States,anchor_to_anchor,-347155200000000000,1,1,1
+R5,United States,anchor_to_anchor,-315619200000000000,1,1,1
+R5,United States,anchor_to_anchor,-283996800000000000,1,1,1
+R5,United States,anchor_to_anchor,-252460800000000000,1,1,1
+R5,United States,anchor_to_anchor,-220924800000000000,1,1,1
+R5,United States,anchor_to_anchor,-189388800000000000,1,1,1
+R5,United States,anchor_to_anchor,-157766400000000000,1,1,1
+R5,United States,anchor_to_anchor,-126230400000000000,1,1,1
+R5,United States,anchor_to_anchor,-94694400000000000,1,1,1
+R5,United States,anchor_to_anchor,-63158400000000000,1,1,1
+R5,United States,anchor_to_anchor,-31536000000000000,1,1,1
+R5,United States,anchor_to_anchor,0,1,1,1
+R5,United States,anchor_to_anchor,31536000000000000,1,1,1
+R5,United States,anchor_to_anchor,63072000000000000,1,1,1
+R5,United States,anchor_to_anchor,94694400000000000,1,1,1
+R5,United States,anchor_to_anchor,126230400000000000,1,1,1
+R5,United States,anchor_to_anchor,157766400000000000,1,1,1
+R5,United States,anchor_to_anchor,189302400000000000,1,1,1
+R5,United States,anchor_to_anchor,220924800000000000,1,1,1
+R5,United States,anchor_to_anchor,252460800000000000,1,1,1
+R5,United States,anchor_to_anchor,283996800000000000,1,1,1
+R5,United States,anchor_to_anchor,315532800000000000,1,1,1
+R5,United States,anchor_to_anchor,347155200000000000,1,1,1
+R5,United States,anchor_to_anchor,378691200000000000,1,1,1
+R5,United States,anchor_to_anchor,410227200000000000,1,1,1
+R5,United States,anchor_to_anchor,441763200000000000,1,1,1
+R5,United States,anchor_to_anchor,473385600000000000,1,1,1
+R5,United States,anchor_to_anchor,599616000000000000,1,1,1
+R5,United States,anchor_to_anchor,631152000000000000,1,1,1
+R5,United States,anchor_to_anchor,662688000000000000,1,1,1
+R5,United States,anchor_to_anchor,694224000000000000,1,1,1
+R5,United States,anchor_to_anchor,725846400000000000,1,1,1
+R5,United States,anchor_to_anchor,757382400000000000,1,1,1
+R5,United States,anchor_to_anchor,788918400000000000,1,1,1
+R5,United States,anchor_to_anchor,820454400000000000,1,1,1
+R5,United States,anchor_to_anchor,852076800000000000,1,1,1
+R5,United States,anchor_to_anchor,883612800000000000,1,1,1
+R5,United States,anchor_to_anchor,915148800000000000,1,1,1
+R5,United States,anchor_to_anchor,946684800000000000,1,1,1
+R5,United States,anchor_to_anchor,978307200000000000,1,1,1
+R5,United States,anchor_to_anchor,1009843200000000000,1,1,1
+R5,United States,anchor_to_anchor,1041379200000000000,1,1,1
+R5,United States,anchor_to_anchor,1072915200000000000,1,1,1
+R5,United States,anchor_to_anchor,1104537600000000000,1,1,1
+R5,United States,anchor_to_anchor,1136073600000000000,1,1,1
+R5,United States,anchor_to_anchor,1167609600000000000,1,1,1
+R5,United States,anchor_to_anchor,1199145600000000000,1,1,1
+R5,United States,anchor_to_anchor,1230768000000000000,1,1,1
+R5,United States,anchor_to_anchor,1262304000000000000,1,1,1
+R5,United States,anchor_to_anchor,1293840000000000000,1,1,1
+R5,United States,anchor_to_anchor,1325376000000000000,1,1,1
+R5,United States,anchor_to_anchor,1356998400000000000,1,1,1
+R5,United States,anchor_to_anchor,1388534400000000000,1,1,1
+R5,United States,anchor_to_anchor,1420070400000000000,1,1,1
+R5,United States,anchor_to_anchor,1451606400000000000,1,1,1
+R5,United States,anchor_to_anchor,1483228800000000000,1,1,1
+R5,United States,anchor_to_anchor,1514764800000000000,1,1,1
+R5,United States,anchor_to_anchor,1546300800000000000,1,1,1
+R5,United States,anchor_to_anchor,1577836800000000000,1,1,1
+R5,United States,anchor_to_anchor,1609459200000000000,1,1,1
+R5,United States,anchor_to_anchor,1640995200000000000,1,1,1
+R5,United States,anchor_to_anchor,1672531200000000000,1,1,1
+R5,United States,anchor_to_anchor,1704067200000000000,1,1,1
+R5,United States,anchor_to_anchor,1735689600000000000,1,1,1
+R5,United States,anchor_to_country,-631152000000000000,10,10,4
+R5,United States,anchor_to_country,-599616000000000000,11,11,6
+R5,United States,anchor_to_country,-568080000000000000,10,10,5
+R5,United States,anchor_to_country,-536457600000000000,10,10,5
+R5,United States,anchor_to_country,-504921600000000000,11,11,7
+R5,United States,anchor_to_country,-473385600000000000,10,10,6
+R5,United States,anchor_to_country,-441849600000000000,12,12,8
+R5,United States,anchor_to_country,-410227200000000000,11,11,8
+R5,United States,anchor_to_country,-378691200000000000,13,13,10
+R5,United States,anchor_to_country,-347155200000000000,12,12,9
+R5,United States,anchor_to_country,-315619200000000000,15,15,12
+R5,United States,anchor_to_country,-283996800000000000,15,15,12
+R5,United States,anchor_to_country,-252460800000000000,20,20,17
+R5,United States,anchor_to_country,-220924800000000000,22,22,19
+R5,United States,anchor_to_country,-189388800000000000,19,19,16
+R5,United States,anchor_to_country,-157766400000000000,19,19,16
+R5,United States,anchor_to_country,-126230400000000000,19,19,16
+R5,United States,anchor_to_country,-94694400000000000,20,20,15
+R5,United States,anchor_to_country,-63158400000000000,24,24,18
+R5,United States,anchor_to_country,-31536000000000000,25,25,18
+R5,United States,anchor_to_country,0,24,24,18
+R5,United States,anchor_to_country,31536000000000000,23,23,18
+R5,United States,anchor_to_country,63072000000000000,22,22,16
+R5,United States,anchor_to_country,94694400000000000,21,21,15
+R5,United States,anchor_to_country,126230400000000000,22,22,16
+R5,United States,anchor_to_country,157766400000000000,23,23,16
+R5,United States,anchor_to_country,189302400000000000,43,43,17
+R5,United States,anchor_to_country,220924800000000000,52,52,25
+R5,United States,anchor_to_country,252460800000000000,52,52,27
+R5,United States,anchor_to_country,283996800000000000,54,54,29
+R5,United States,anchor_to_country,315532800000000000,50,50,26
+R5,United States,anchor_to_country,347155200000000000,51,51,28
+R5,United States,anchor_to_country,378691200000000000,47,47,24
+R5,United States,anchor_to_country,410227200000000000,46,46,23
+R5,United States,anchor_to_country,441763200000000000,46,46,24
+R5,United States,anchor_to_country,473385600000000000,47,47,25
+R5,United States,anchor_to_country,504921600000000000,48,48,27
+R5,United States,anchor_to_country,536457600000000000,50,50,30
+R5,United States,anchor_to_country,567993600000000000,51,51,30
+R5,United States,anchor_to_country,599616000000000000,49,49,29
+R5,United States,anchor_to_country,631152000000000000,52,52,34
+R5,United States,anchor_to_country,662688000000000000,58,58,35
+R5,United States,anchor_to_country,694224000000000000,78,78,40
+R5,United States,anchor_to_country,725846400000000000,77,77,38
+R5,United States,anchor_to_country,757382400000000000,77,77,38
+R5,United States,anchor_to_country,788918400000000000,61,61,41
+R5,United States,anchor_to_country,820454400000000000,62,62,42
+R5,United States,anchor_to_country,852076800000000000,56,56,41
+R5,United States,anchor_to_country,883612800000000000,62,62,42
+R5,United States,anchor_to_country,915148800000000000,57,57,37
+R5,United States,anchor_to_country,946684800000000000,57,57,38
+R5,United States,anchor_to_country,978307200000000000,62,62,41
+R5,United States,anchor_to_country,1009843200000000000,145,145,42
+R5,United States,anchor_to_country,1041379200000000000,149,149,50
+R5,United States,anchor_to_country,1072915200000000000,147,147,48
+R5,United States,anchor_to_country,1104537600000000000,146,146,47
+R5,United States,anchor_to_country,1136073600000000000,145,145,44
+R5,United States,anchor_to_country,1167609600000000000,147,147,45
+R5,United States,anchor_to_country,1199145600000000000,147,147,44
+R5,United States,anchor_to_country,1230768000000000000,144,144,44
+R5,United States,anchor_to_country,1262304000000000000,62,62,41
+R5,United States,anchor_to_country,1293840000000000000,67,67,46
+R5,United States,anchor_to_country,1325376000000000000,69,69,50
+R5,United States,anchor_to_country,1356998400000000000,71,71,53
+R5,United States,anchor_to_country,1388534400000000000,73,73,55
+R5,United States,anchor_to_country,1420070400000000000,69,69,51
+R5,United States,anchor_to_country,1451606400000000000,71,71,52
+R5,United States,anchor_to_country,1483228800000000000,72,72,53
+R5,United States,anchor_to_country,1514764800000000000,79,79,62
+R5,United States,anchor_to_country,1546300800000000000,86,86,68
+R5,United States,anchor_to_country,1577836800000000000,97,97,80
+R5,United States,anchor_to_country,1609459200000000000,105,105,90
+R5,United States,anchor_to_country,1640995200000000000,107,107,94
+R5,United States,anchor_to_country,1672531200000000000,120,120,107
+R5,United States,anchor_to_country,1704067200000000000,126,126,114
+R5,United States,anchor_to_country,1735689600000000000,129,129,116
+R5,United States,country_to_anchor,-94694400000000000,1,1,1
+R5,United States,country_to_anchor,-63158400000000000,1,1,1
+R5,United States,country_to_anchor,-31536000000000000,1,1,1
+R5,United States,country_to_anchor,0,1,1,1
+R5,United States,country_to_anchor,31536000000000000,1,1,1
+R5,United States,country_to_anchor,94694400000000000,18,18,2
+R5,United States,country_to_anchor,126230400000000000,19,19,2
+R5,United States,country_to_anchor,220924800000000000,1,1,1
+R5,United States,country_to_anchor,252460800000000000,1,1,1
+R5,United States,country_to_anchor,283996800000000000,1,1,1
+R5,United States,country_to_anchor,315532800000000000,1,1,1
+R5,United States,country_to_anchor,347155200000000000,1,1,1
+R5,United States,country_to_anchor,378691200000000000,1,1,1
+R5,United States,country_to_anchor,410227200000000000,1,1,1
+R5,United States,country_to_anchor,441763200000000000,1,1,1
+R5,United States,country_to_anchor,1041379200000000000,3,3,3
+R5,United States,country_to_anchor,1072915200000000000,3,3,3
+R5,United States,country_to_anchor,1104537600000000000,3,3,3
+R5,United States,country_to_anchor,1136073600000000000,3,3,3
+R5,United States,country_to_anchor,1167609600000000000,2,2,2
+R5,United States,country_to_anchor,1199145600000000000,2,2,2
+R5,United States,country_to_anchor,1230768000000000000,2,2,2
+R5,United States,country_to_anchor,1262304000000000000,2,2,2
+R5,United States,country_to_anchor,1293840000000000000,2,2,2
+R5,United States,country_to_anchor,1325376000000000000,2,2,2
+R5,United States,country_to_anchor,1356998400000000000,2,2,2
+R5,United States,country_to_anchor,1388534400000000000,2,2,2
+R5,United States,country_to_anchor,1420070400000000000,2,2,2
+R5,United States,country_to_anchor,1451606400000000000,2,2,2
+R5,United States,country_to_anchor,1483228800000000000,2,2,2
+R5,United States,country_to_anchor,1514764800000000000,1,1,1
+R5,United States,country_to_anchor,1546300800000000000,1,1,1
+R5,United States,country_to_anchor,1577836800000000000,1,1,1
+R5,United States,country_to_anchor,1609459200000000000,3,3,3
+R5,United States,country_to_anchor,1640995200000000000,4,4,4
+R5,United States,country_to_anchor,1672531200000000000,4,4,4
+R5,United States,country_to_anchor,1704067200000000000,4,4,4
+R5,United States,country_to_anchor,1735689600000000000,4,4,4
+FS,China,anchor_to_anchor,1609459200000000000,1,1,1
+FS,China,anchor_to_anchor,1640995200000000000,1,1,1
+FS,China,anchor_to_anchor,1672531200000000000,1,1,1
+FS,China,anchor_to_anchor,1704067200000000000,1,1,1
+FS,China,anchor_to_anchor,1735689600000000000,1,1,1
+FS,China,anchor_to_country,-94694400000000000,1,1,1
+FS,China,anchor_to_country,-63158400000000000,2,2,2
+FS,China,anchor_to_country,-31536000000000000,2,2,2
+FS,China,anchor_to_country,0,2,2,2
+FS,China,anchor_to_country,31536000000000000,2,2,2
+FS,China,anchor_to_country,63072000000000000,1,1,1
+FS,China,anchor_to_country,94694400000000000,1,1,1
+FS,China,anchor_to_country,126230400000000000,1,1,1
+FS,China,anchor_to_country,157766400000000000,1,1,1
+FS,China,anchor_to_country,189302400000000000,1,1,1
+FS,China,anchor_to_country,220924800000000000,1,1,1
+FS,China,anchor_to_country,252460800000000000,3,3,3
+FS,China,anchor_to_country,283996800000000000,3,3,3
+FS,China,anchor_to_country,315532800000000000,2,2,2
+FS,China,anchor_to_country,347155200000000000,2,2,2
+FS,China,anchor_to_country,378691200000000000,2,2,2
+FS,China,anchor_to_country,410227200000000000,2,2,2
+FS,China,anchor_to_country,441763200000000000,1,1,1
+FS,China,anchor_to_country,473385600000000000,1,1,1
+FS,China,anchor_to_country,504921600000000000,1,1,1
+FS,China,anchor_to_country,536457600000000000,1,1,1
+FS,China,anchor_to_country,567993600000000000,1,1,1
+FS,China,anchor_to_country,631152000000000000,2,2,2
+FS,China,anchor_to_country,662688000000000000,2,2,2
+FS,China,anchor_to_country,694224000000000000,7,7,2
+FS,China,anchor_to_country,725846400000000000,9,9,4
+FS,China,anchor_to_country,757382400000000000,9,9,4
+FS,China,anchor_to_country,788918400000000000,8,8,3
+FS,China,anchor_to_country,820454400000000000,8,8,3
+FS,China,anchor_to_country,852076800000000000,2,2,2
+FS,China,anchor_to_country,883612800000000000,3,3,3
+FS,China,anchor_to_country,915148800000000000,4,4,4
+FS,China,anchor_to_country,946684800000000000,4,4,4
+FS,China,anchor_to_country,978307200000000000,4,4,4
+FS,China,anchor_to_country,1009843200000000000,5,5,5
+FS,China,anchor_to_country,1041379200000000000,4,4,4
+FS,China,anchor_to_country,1072915200000000000,5,5,5
+FS,China,anchor_to_country,1104537600000000000,9,9,9
+FS,China,anchor_to_country,1136073600000000000,11,11,11
+FS,China,anchor_to_country,1167609600000000000,11,11,11
+FS,China,anchor_to_country,1199145600000000000,10,10,10
+FS,China,anchor_to_country,1230768000000000000,11,11,11
+FS,China,anchor_to_country,1262304000000000000,11,11,11
+FS,China,anchor_to_country,1293840000000000000,13,13,13
+FS,China,anchor_to_country,1325376000000000000,13,13,13
+FS,China,anchor_to_country,1356998400000000000,13,13,13
+FS,China,anchor_to_country,1388534400000000000,17,17,17
+FS,China,anchor_to_country,1420070400000000000,17,17,17
+FS,China,anchor_to_country,1451606400000000000,16,16,16
+FS,China,anchor_to_country,1483228800000000000,15,15,15
+FS,China,anchor_to_country,1514764800000000000,15,15,15
+FS,China,anchor_to_country,1546300800000000000,14,14,14
+FS,China,anchor_to_country,1577836800000000000,14,14,14
+FS,China,anchor_to_country,1609459200000000000,16,16,16
+FS,China,anchor_to_country,1640995200000000000,18,18,18
+FS,China,anchor_to_country,1672531200000000000,19,19,19
+FS,China,anchor_to_country,1704067200000000000,18,18,18
+FS,China,anchor_to_country,1735689600000000000,20,20,20
+FS,China,country_to_anchor,-599616000000000000,59,59,6
+FS,China,country_to_anchor,-568080000000000000,59,59,6
+FS,China,country_to_anchor,-536457600000000000,59,59,6
+FS,China,country_to_anchor,-315619200000000000,1,1,1
+FS,China,country_to_anchor,-283996800000000000,1,1,1
+FS,China,country_to_anchor,-252460800000000000,1,1,1
+FS,China,country_to_anchor,-220924800000000000,1,1,1
+FS,China,country_to_anchor,-189388800000000000,1,1,1
+FS,China,country_to_anchor,-157766400000000000,1,1,1
+FS,China,country_to_anchor,-126230400000000000,1,1,1
+FS,China,country_to_anchor,-94694400000000000,1,1,1
+FS,China,country_to_anchor,-63158400000000000,1,1,1
+FS,China,country_to_anchor,-31536000000000000,1,1,1
+FS,China,country_to_anchor,0,1,1,1
+FS,China,country_to_anchor,599616000000000000,6,6,5
+FS,China,country_to_anchor,631152000000000000,5,5,4
+FS,China,country_to_anchor,662688000000000000,4,4,3
+FS,China,country_to_anchor,694224000000000000,1,1,1
+FS,China,country_to_anchor,788918400000000000,1,1,1
+FS,China,country_to_anchor,820454400000000000,1,1,1
+FS,China,country_to_anchor,852076800000000000,1,1,1
+FS,China,country_to_anchor,1609459200000000000,29,29,3
+FS,China,country_to_anchor,1640995200000000000,29,29,3
+FS,China,country_to_anchor,1672531200000000000,29,29,3
+FS,China,country_to_anchor,1704067200000000000,31,31,5
+FS,China,country_to_anchor,1735689600000000000,31,31,5
+FS,United States,anchor_to_anchor,-631152000000000000,1,1,1
+FS,United States,anchor_to_anchor,-599616000000000000,1,1,1
+FS,United States,anchor_to_anchor,-568080000000000000,1,1,1
+FS,United States,anchor_to_anchor,-536457600000000000,1,1,1
+FS,United States,anchor_to_anchor,-504921600000000000,1,1,1
+FS,United States,anchor_to_anchor,-473385600000000000,1,1,1
+FS,United States,anchor_to_anchor,-441849600000000000,1,1,1
+FS,United States,anchor_to_anchor,-410227200000000000,1,1,1
+FS,United States,anchor_to_anchor,-378691200000000000,1,1,1
+FS,United States,anchor_to_anchor,-347155200000000000,1,1,1
+FS,United States,anchor_to_anchor,-315619200000000000,1,1,1
+FS,United States,anchor_to_anchor,-283996800000000000,1,1,1
+FS,United States,anchor_to_anchor,-252460800000000000,1,1,1
+FS,United States,anchor_to_anchor,-220924800000000000,1,1,1
+FS,United States,anchor_to_anchor,-189388800000000000,1,1,1
+FS,United States,anchor_to_anchor,-157766400000000000,1,1,1
+FS,United States,anchor_to_anchor,-126230400000000000,1,1,1
+FS,United States,anchor_to_anchor,-94694400000000000,1,1,1
+FS,United States,anchor_to_anchor,-63158400000000000,1,1,1
+FS,United States,anchor_to_anchor,-31536000000000000,1,1,1
+FS,United States,anchor_to_anchor,0,1,1,1
+FS,United States,anchor_to_anchor,31536000000000000,1,1,1
+FS,United States,anchor_to_anchor,63072000000000000,1,1,1
+FS,United States,anchor_to_anchor,94694400000000000,1,1,1
+FS,United States,anchor_to_anchor,126230400000000000,1,1,1
+FS,United States,anchor_to_anchor,157766400000000000,1,1,1
+FS,United States,anchor_to_anchor,189302400000000000,1,1,1
+FS,United States,anchor_to_anchor,220924800000000000,1,1,1
+FS,United States,anchor_to_anchor,252460800000000000,1,1,1
+FS,United States,anchor_to_anchor,283996800000000000,1,1,1
+FS,United States,anchor_to_anchor,1483228800000000000,1,1,1
+FS,United States,anchor_to_anchor,1514764800000000000,1,1,1
+FS,United States,anchor_to_anchor,1546300800000000000,1,1,1
+FS,United States,anchor_to_anchor,1577836800000000000,1,1,1
+FS,United States,anchor_to_anchor,1609459200000000000,1,1,1
+FS,United States,anchor_to_anchor,1640995200000000000,1,1,1
+FS,United States,anchor_to_anchor,1672531200000000000,1,1,1
+FS,United States,anchor_to_anchor,1704067200000000000,1,1,1
+FS,United States,anchor_to_anchor,1735689600000000000,1,1,1
+FS,United States,anchor_to_country,-631152000000000000,2,2,2
+FS,United States,anchor_to_country,-599616000000000000,3,3,3
+FS,United States,anchor_to_country,-568080000000000000,3,3,3
+FS,United States,anchor_to_country,-536457600000000000,3,3,3
+FS,United States,anchor_to_country,-504921600000000000,3,3,3
+FS,United States,anchor_to_country,-473385600000000000,3,3,3
+FS,United States,anchor_to_country,-441849600000000000,5,5,5
+FS,United States,anchor_to_country,-410227200000000000,4,4,4
+FS,United States,anchor_to_country,-378691200000000000,5,5,5
+FS,United States,anchor_to_country,-347155200000000000,4,4,4
+FS,United States,anchor_to_country,-315619200000000000,4,4,4
+FS,United States,anchor_to_country,-283996800000000000,6,6,6
+FS,United States,anchor_to_country,-252460800000000000,10,10,10
+FS,United States,anchor_to_country,-220924800000000000,12,12,12
+FS,United States,anchor_to_country,-189388800000000000,10,10,10
+FS,United States,anchor_to_country,-157766400000000000,9,9,9
+FS,United States,anchor_to_country,-126230400000000000,7,7,7
+FS,United States,anchor_to_country,-94694400000000000,6,6,6
+FS,United States,anchor_to_country,-63158400000000000,7,7,7
+FS,United States,anchor_to_country,-31536000000000000,7,7,7
+FS,United States,anchor_to_country,0,9,9,9
+FS,United States,anchor_to_country,31536000000000000,12,12,12
+FS,United States,anchor_to_country,63072000000000000,9,9,9
+FS,United States,anchor_to_country,94694400000000000,9,9,9
+FS,United States,anchor_to_country,126230400000000000,9,9,9
+FS,United States,anchor_to_country,157766400000000000,11,11,11
+FS,United States,anchor_to_country,189302400000000000,31,31,12
+FS,United States,anchor_to_country,220924800000000000,37,37,17
+FS,United States,anchor_to_country,252460800000000000,35,35,16
+FS,United States,anchor_to_country,283996800000000000,39,39,20
+FS,United States,anchor_to_country,315532800000000000,36,36,18
+FS,United States,anchor_to_country,347155200000000000,38,38,20
+FS,United States,anchor_to_country,378691200000000000,36,36,18
+FS,United States,anchor_to_country,410227200000000000,36,36,18
+FS,United States,anchor_to_country,441763200000000000,36,36,19
+FS,United States,anchor_to_country,473385600000000000,35,35,18
+FS,United States,anchor_to_country,504921600000000000,37,37,21
+FS,United States,anchor_to_country,536457600000000000,39,39,23
+FS,United States,anchor_to_country,567993600000000000,40,40,25
+FS,United States,anchor_to_country,599616000000000000,38,38,23
+FS,United States,anchor_to_country,631152000000000000,38,38,25
+FS,United States,anchor_to_country,662688000000000000,46,46,28
+FS,United States,anchor_to_country,694224000000000000,49,49,30
+FS,United States,anchor_to_country,725846400000000000,48,48,28
+FS,United States,anchor_to_country,757382400000000000,46,46,26
+FS,United States,anchor_to_country,788918400000000000,46,46,26
+FS,United States,anchor_to_country,820454400000000000,46,46,26
+FS,United States,anchor_to_country,852076800000000000,40,40,25
+FS,United States,anchor_to_country,883612800000000000,44,44,24
+FS,United States,anchor_to_country,915148800000000000,43,43,23
+FS,United States,anchor_to_country,946684800000000000,42,42,23
+FS,United States,anchor_to_country,978307200000000000,46,46,25
+FS,United States,anchor_to_country,1009843200000000000,47,47,27
+FS,United States,anchor_to_country,1041379200000000000,47,47,26
+FS,United States,anchor_to_country,1072915200000000000,47,47,27
+FS,United States,anchor_to_country,1104537600000000000,47,47,28
+FS,United States,anchor_to_country,1136073600000000000,46,46,28
+FS,United States,anchor_to_country,1167609600000000000,45,45,27
+FS,United States,anchor_to_country,1199145600000000000,45,45,27
+FS,United States,anchor_to_country,1230768000000000000,49,49,31
+FS,United States,anchor_to_country,1262304000000000000,49,49,28
+FS,United States,anchor_to_country,1293840000000000000,57,57,36
+FS,United States,anchor_to_country,1325376000000000000,58,58,39
+FS,United States,anchor_to_country,1356998400000000000,62,62,44
+FS,United States,anchor_to_country,1388534400000000000,65,65,47
+FS,United States,anchor_to_country,1420070400000000000,61,61,43
+FS,United States,anchor_to_country,1451606400000000000,61,61,42
+FS,United States,anchor_to_country,1483228800000000000,61,61,42
+FS,United States,anchor_to_country,1514764800000000000,70,70,53
+FS,United States,anchor_to_country,1546300800000000000,77,77,59
+FS,United States,anchor_to_country,1577836800000000000,85,85,68
+FS,United States,anchor_to_country,1609459200000000000,94,94,79
+FS,United States,anchor_to_country,1640995200000000000,99,99,86
+FS,United States,anchor_to_country,1672531200000000000,111,111,98
+FS,United States,anchor_to_country,1704067200000000000,120,120,108
+FS,United States,anchor_to_country,1735689600000000000,122,122,109
+FS,United States,country_to_anchor,220924800000000000,1,1,1
+FS,United States,country_to_anchor,252460800000000000,1,1,1
+FS,United States,country_to_anchor,283996800000000000,1,1,1
+FS,United States,country_to_anchor,315532800000000000,1,1,1
+FS,United States,country_to_anchor,347155200000000000,1,1,1
+FS,United States,country_to_anchor,378691200000000000,1,1,1
+FS,United States,country_to_anchor,410227200000000000,1,1,1
+FS,United States,country_to_anchor,441763200000000000,1,1,1
+FS,United States,country_to_anchor,1609459200000000000,1,1,1
+FS,United States,country_to_anchor,1640995200000000000,3,3,3
+FS,United States,country_to_anchor,1672531200000000000,3,3,3
+FS,United States,country_to_anchor,1704067200000000000,3,3,3
+FS,United States,country_to_anchor,1735689600000000000,3,3,3

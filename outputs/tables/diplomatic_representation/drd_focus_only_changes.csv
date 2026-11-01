@@ -1,0 +1,45 @@
+country,anchor,year,direction,DestinationRegion,DestinationSubregion,SendingRegion,SendingSubregion,Location,Embassy,Focus,EmbassyFocus,LOR,previous_year,previous_lor,previous_embassy,previous_focus,consecutive_previous_year,lor_change,embassy_change,focus_change,explicit_adverse,change_event,candidate_strain_event
+Algeria,United States,2001,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,6,2,62,0.5,2000,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Algeria,United States,2002,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,6,1,61,1.0,2001,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2001,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,2,32,0.125,2000,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,1,31,0.125,2001,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2003,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,2,32,0.125,2002,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2006,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,1,31,0.125,2005,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,2,32,0.125,2008,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2010,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,3,1,31,0.125,2009,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2001,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,1,31,0.125,2000,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2002,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,2,32,0.125,2001,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2004,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,1,31,0.125,2003,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,2,32,0.125,2007,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2010,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,1,31,0.125,2009,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2012,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,2,32,0.125,2011,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Cuba,United States,2013,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,1,31,0.125,2012,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Cuba,United States,2014,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,3,2,32,0.125,2013,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Fiji,United States,2010,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,2,62,0.5,2009,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Fiji,United States,2011,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,1,61,1.0,2010,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Fiji,United States,2020,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,1,61,1.0,2019,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Grenada,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,6,1,61,1.0,2015,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Holy See (Vatican),United States,2004,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),6,2,62,0.5,2003,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Iran,United States,2001,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,1,31,0.125,2000,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Iran,United States,2002,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,2,32,0.125,2001,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Iran,United States,2004,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,1,31,0.125,2003,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Iran,United States,2008,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,2,32,0.125,2007,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Iran,United States,2010,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,1,31,0.125,2009,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Iran,United States,2016,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,2,32,0.125,2015,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Iraq,United States,2001,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,3,1,31,0.125,2000,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Iraq,United States,2002,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,3,2,32,0.125,2001,0.125,3.0,1.0,True,0.0,0.0,1.0,False,focus_only_reduction,False
+Iraq,United States,2004,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,3,1,31,0.125,2003,0.125,3.0,2.0,True,0.0,0.0,-1.0,False,focus_only_increase,False
+Liberia,United States,2023,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Liberia,6,2,62,0.5,2022,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Liberia,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Liberia,6,1,61,1.0,2023,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Maldives,China,2018,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,6,2,62,0.5,2017,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Maldives,China,2019,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,6,1,61,1.0,2018,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Malta,China,2017,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,6,2,62,0.5,2016,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Malta,China,2019,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,6,1,61,1.0,2018,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+New Zealand,United States,2017,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,New Zealand,6,2,62,0.5,2016,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Pakistan,United States,2001,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,1,61,1.0,2000,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Pakistan,United States,2017,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,2,62,0.5,2016,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Pakistan,United States,2021,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,1,61,1.0,2020,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Pakistan,United States,2024,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,2,62,0.5,2023,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Samoa,United States,2015,anchor_to_country,Oceania,Polynesia,Americas,Northern America,Samoa,6,1,61,1.0,2014,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False
+Samoa,United States,2016,anchor_to_country,Oceania,Polynesia,Americas,Northern America,Samoa,6,2,62,0.5,2015,1.0,6.0,1.0,True,-0.5,0.0,1.0,False,focus_only_reduction,False
+Switzerland,United States,2001,country_to_anchor,Americas,Northern America,Europe,Western Europe,United States,6,1,61,1.0,2000,0.5,6.0,2.0,True,0.5,0.0,-1.0,False,focus_only_increase,False

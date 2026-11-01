@@ -1,0 +1,583 @@
+country,anchor,year,direction,DestinationRegion,DestinationSubregion,SendingRegion,SendingSubregion,Location,Embassy,Focus,EmbassyFocus,LOR,previous_year,previous_lor,previous_embassy,previous_focus,consecutive_previous_year,lor_change,embassy_change,focus_change,explicit_adverse,change_event,candidate_strain_event
+Afghanistan,China,2022,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Afghanistan,United States,2016,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Afghanistan,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Albania,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Albania,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Albania,United States,2023,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Albania,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Albania,United States,2006,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Albania,United States,2015,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Algeria,United States,2020,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Algeria,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Algeria,United States,2023,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Algeria,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Algeria,United States,2005,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Andorra,United States,2004,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Angola,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Angola,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Antigua and Barbuda,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Argentina,China,2008,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Argentina,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Argentina,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Argentina,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Armenia,China,2024,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Armenia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Armenia,United States,2007,anchor_to_country,Asia,Western Asia,Americas,Northern America,Armenia,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Australia,United States,2006,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Australia,United States,2009,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Australia,United States,2016,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Australia,United States,2020,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Australia,United States,2024,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Austria,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Austria,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Austria,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Austria,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Austria,United States,2009,country_to_anchor,Americas,Northern America,Europe,Western Europe,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,China,2024,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Azerbaijan,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,China,2016,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,United States,2010,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Azerbaijan,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahamas,United States,2004,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bahamas,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahamas,United States,2012,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bahamas,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahamas,United States,2001,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahamas,United States,2007,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahamas,United States,2013,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahrain,United States,2011,anchor_to_country,Asia,Western Asia,Americas,Northern America,Bahrain,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahrain,United States,2020,anchor_to_country,Asia,Western Asia,Americas,Northern America,Bahrain,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bahrain,United States,2005,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bangladesh,United States,2024,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Bangladesh,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Barbados,China,2024,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Barbados,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Barbados,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Barbados,United States,2010,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Barbados,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Barbados,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belarus,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belarus,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belgium,United States,2004,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belgium,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belgium,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belgium,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belgium,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belize,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Belize,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belize,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Belize,United States,2020,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Benin,China,2023,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Benin,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Benin,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bolivia,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bolivia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bolivia,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bolivia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bolivia,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bolivia,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bosnia and Herzegovina,United States,2014,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Bosnia and Herzegovina,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bosnia and Herzegovina,United States,2009,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bosnia and Herzegovina,United States,2018,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Botswana,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Botswana,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brazil,United States,2006,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Brazil,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brazil,United States,2021,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Brazil,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brazil,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brazil,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brunei,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Brunei,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Brunei,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bulgaria,China,2022,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bulgaria,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Bulgaria,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bulgaria,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Bulgaria,United States,2021,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burkina Faso,United States,2010,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burkina Faso,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burkina Faso,United States,2015,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burkina Faso,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burundi,United States,2013,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burundi,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burundi,United States,2019,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burundi,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burundi,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burundi,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Burundi,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cabo Verde,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cabo Verde,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cabo Verde,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cabo Verde,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cambodia,United States,2018,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Cambodia,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cambodia,United States,2024,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Cambodia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cameroon,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cameroon,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cameroon,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cameroon,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Canada,China,2018,country_to_anchor,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Canada,China,2023,country_to_anchor,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Canada,United States,2009,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Canada,United States,2016,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Canada,United States,2020,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Central African Republic,China,2022,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Central African Republic,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Central African Republic,United States,2017,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Central African Republic,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Chad,China,2019,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Chad,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Chad,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Chile,United States,2018,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Chile,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Chile,United States,2023,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Chile,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Chile,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+China,United States,2020,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Colombia,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Colombia,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Colombia,United States,2022,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Colombia,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Congo-Kinshasa,China,2018,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Congo-Kinshasa,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Congo-Kinshasa,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Congo-Kinshasa,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Costa Rica,China,2022,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Costa Rica,United States,2005,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Costa Rica,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Costa Rica,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Costa Rica,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Croatia,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Croatia,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cuba,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cyprus,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Cyprus,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cyprus,United States,2013,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Cyprus,United States,2017,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,China,2014,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Czech Republic,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,China,2021,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Czech Republic,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2001,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2016,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Czech Republic,United States,2011,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Côte d'Ivoire,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Côte d'Ivoire,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,China,2023,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Denmark,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,United States,2013,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Denmark,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Djibouti,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Djibouti,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Dominica,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Dominica,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Dominican Republic,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Dominican Republic,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Dominican Republic,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Dominican Republic,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Dominican Republic,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ecuador,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Ecuador,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ecuador,United States,2003,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2002,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ecuador,United States,2005,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ecuador,United States,2023,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Egypt,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Egypt,United States,2017,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Egypt,United States,2022,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+El Salvador,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+El Salvador,United States,2012,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+El Salvador,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+El Salvador,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Equatorial Guinea,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Eritrea,United States,2011,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Eritrea,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Eritrea,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,China,2022,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Estonia,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2007,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2018,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2021,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Estonia,United States,2020,country_to_anchor,Americas,Northern America,Europe,Northern Europe,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ethiopia,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Ethiopia,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ethiopia,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Ethiopia,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ethiopia,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Fiji,United States,2017,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,4,2,42,0.375,2016,1.0,6.0,1.0,True,-0.625,-2.0,1.0,False,rank_and_focus_downgrade,True
+Fiji,United States,2021,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Fiji,United States,2004,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Fiji,United States,2019,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Finland,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Finland,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Finland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Finland,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2001,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2014,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+France,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Gabon,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Gabon,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Gabon,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Gabon,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Gabon,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Gambia, The",United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,"Gambia, The",4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Gambia, The",United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Gambia, The",United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Gambia, The",United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Georgia,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Georgia,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Georgia,United States,2024,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Germany,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Germany,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Germany,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ghana,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ghana,United States,2009,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ghana,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Greece,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Greece,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Grenada,China,2013,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Grenada,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Grenada,United States,2021,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,5,1,51,0.75,2020,1.0,6.0,1.0,True,-0.25,-1.0,0.0,False,rank_downgrade,True
+Grenada,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guatemala,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guinea,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Guinea,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guinea,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Guinea,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guinea-Bissau,China,2023,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Guinea-Bissau,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guinea-Bissau,China,2008,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guinea-Bissau,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guyana,China,2007,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guyana,United States,2008,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guyana,United States,2010,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Guyana,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Haiti,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Haiti,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Haiti,United States,2022,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Haiti,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Haiti,United States,2018,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Haiti,United States,2024,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Holy See (Vatican),United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Holy See (Vatican),United States,2013,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Holy See (Vatican),United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Holy See (Vatican),United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Holy See (Vatican),United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Honduras,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Honduras,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Hungary,United States,2014,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Hungary,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Hungary,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iceland,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iceland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iceland,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,China,2022,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,India,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2016,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2024,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2004,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2009,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+India,United States,2023,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2023,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Indonesia,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2002,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2010,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2014,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2019,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Indonesia,United States,2024,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iraq,China,2004,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Iraq,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iraq,China,2004,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iraq,United States,2016,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Iraq,United States,2022,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ireland,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ireland,United States,2013,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ireland,United States,2017,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ireland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Israel,United States,2020,anchor_to_country,Asia,Western Asia,Americas,Northern America,Israel,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Italy,United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Italy,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Italy,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jamaica,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jamaica,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jamaica,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jamaica,United States,2002,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jamaica,United States,2004,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Japan,United States,2009,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Japan,United States,2016,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Japan,United States,2019,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Jordan,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Jordan,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kazakhstan,United States,2011,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kazakhstan,United States,2014,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kazakhstan,United States,2021,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kazakhstan,United States,2020,country_to_anchor,Americas,Northern America,Asia,Central Asia,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kenya,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Kenya,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kenya,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Kenya,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kenya,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kenya,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Korea, Democratic People's Republic of",China,2021,anchor_to_country,Asia,Eastern Asia,Asia,Eastern Asia,"Korea, Democratic People's Republic of",4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Korea, Republic of",United States,2005,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Korea, Republic of",United States,2016,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Korea, Republic of",United States,2020,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Korea, Republic of",United States,2009,country_to_anchor,Americas,Northern America,Asia,Eastern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kosovo,United States,2010,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kosovo,United States,2020,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kuwait,United States,2014,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kuwait,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kuwait,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kyrgyzstan,United States,2009,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kyrgyzstan,United States,2015,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kyrgyzstan,United States,2017,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Kyrgyzstan,United States,2021,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lao People's Democratic Republic,China,2023,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Lao People's Democratic Republic,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lao People's Democratic Republic,United States,2021,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Latvia,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Latvia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lebanon,China,2016,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lebanon,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,Lebanon,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lebanon,United States,2008,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lebanon,United States,2016,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lebanon,United States,2020,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lesotho,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Lesotho,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lesotho,United States,2023,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Lesotho,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lesotho,United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lesotho,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Liberia,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Liberia,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Liberia,China,2024,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Liberia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Liberia,China,2023,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Liberia,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Liberia,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Libya,China,2018,anchor_to_country,Africa,Northern Africa,Asia,Eastern Asia,Libya,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Libya,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Northern Africa,China,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Libya,United States,2013,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Libya,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Libya,United States,2021,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Lithuania,United States,2019,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Lithuania,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Luxembourg,United States,2002,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Luxembourg,United States,2011,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Luxembourg,United States,2015,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Macedonia,China,2005,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Macedonia,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Macedonia,United States,2005,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Macedonia,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Macedonia,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Macedonia,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Macedonia,United States,2018,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Madagascar,United States,2011,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Madagascar,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Madagascar,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Madagascar,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Madagascar,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Madagascar,United States,2022,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malawi,China,2022,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malawi,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Malawi,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malawi,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Malawi,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,China,2010,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,China,2023,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,United States,2010,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Malaysia,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,United States,2014,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malaysia,United States,2021,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Maldives,United States,2009,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mali,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mali,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mali,United States,2015,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mali,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mali,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mali,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malta,United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Malta,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malta,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Malta,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Malta,United States,2012,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Marshall Islands,United States,2023,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Marshall Islands,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Marshall Islands,United States,2010,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Marshall Islands,United States,2016,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Marshall Islands,United States,2021,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritania,United States,2007,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritania,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritania,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritania,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritania,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2012,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2006,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mauritius,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mexico,China,2001,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Mexico,4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mexico,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mexico,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mexico,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mexico,United States,2017,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Micronesia, Federated States of",United States,2001,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Micronesia, Federated States of",United States,2022,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Micronesia, Federated States of",United States,2024,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Micronesia, Federated States of",United States,2007,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+"Micronesia, Federated States of",United States,2016,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Moldova,United States,2003,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2002,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Moldova,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Moldova,United States,2016,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Moldova,United States,2019,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mongolia,United States,2017,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Mongolia,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Montenegro,United States,2020,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Morocco,United States,2009,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Morocco,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Morocco,United States,2016,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Morocco,United States,2020,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Mozambique,United States,2002,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Myanmar,United States,2022,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Myanmar,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Myanmar,United States,2005,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Myanmar,United States,2022,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Namibia,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Namibia,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Namibia,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Namibia,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nepal,United States,2002,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nepal,United States,2004,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nepal,United States,2014,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Netherlands,United States,2008,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Netherlands,United States,2012,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Netherlands,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Netherlands,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+New Zealand,United States,2009,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,New Zealand,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+New Zealand,United States,2016,country_to_anchor,Americas,Northern America,Oceania,Australia and New Zealand,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nicaragua,China,2024,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Nicaragua,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nicaragua,United States,2005,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Nicaragua,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nicaragua,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nicaragua,United States,2023,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2005,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Niger,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,United States,2004,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Nigeria,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,United States,2009,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Nigeria,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Norway,China,2012,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Norway,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Norway,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Northern Europe,China,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Norway,United States,2014,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Norway,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Norway,United States,2023,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Oman,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Oman,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Oman,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Oman,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Pakistan,China,2022,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Pakistan,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Pakistan,China,2024,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Pakistan,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Pakistan,United States,2002,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Pakistan,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Pakistan,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Pakistan,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Palau,United States,2022,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Palau,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Palau,United States,2024,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Palau,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Panama,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Panama,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Panama,United States,2018,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Panama,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Panama,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Papua New Guinea,United States,2021,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Papua New Guinea,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Papua New Guinea,United States,2013,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Papua New Guinea,United States,2018,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Papua New Guinea,United States,2022,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Paraguay,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Paraguay,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Paraguay,United States,2014,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Paraguay,United States,2020,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Peru,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Peru,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Peru,United States,2002,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Peru,United States,2018,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Philippines,China,2004,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Philippines,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Philippines,China,2011,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Philippines,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Philippines,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Philippines,United States,2016,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Poland,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Poland,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Poland,United States,2024,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Portugal,United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Portugal,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Portugal,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Portugal,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Qatar,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Qatar,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,China,2024,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Romania,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,China,2012,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,China,2016,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Romania,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,United States,2013,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Romania,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Romania,United States,2007,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Rwanda,China,2024,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Rwanda,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Rwanda,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Rwanda,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Rwanda,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Rwanda,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saint Kitts and Nevis,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saint Lucia,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saint Lucia,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saint Vincent and the Grenadines,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sao Tome and Principe,China,2017,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Sao Tome and Principe,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saudi Arabia,United States,2009,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saudi Arabia,United States,2016,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Saudi Arabia,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Serbia,China,2013,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Serbia,China,2020,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Serbia,United States,2014,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Serbia,United States,2024,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Serbia and Montenegro,United States,2004,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Serbia and Montenegro,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Seychelles,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Seychelles,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sierra Leone,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Singapore,China,2013,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Singapore,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Singapore,United States,2016,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Singapore,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovakia,United States,2005,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Slovakia,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovakia,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Slovakia,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovenia,China,2024,anchor_to_country,Europe,Southern Europe,Asia,Eastern Asia,Slovenia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovenia,United States,2008,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovenia,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovenia,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Slovenia,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Solomon Islands,United States,2002,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Somalia,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,China,2016,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,South Africa,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2009,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Africa,United States,2023,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Sudan,United States,2015,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Sudan,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+South Sudan,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Sudan,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Spain,China,2023,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Spain,United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Spain,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Spain,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Spain,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sri Lanka,China,2019,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Sri Lanka,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sri Lanka,United States,2015,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Sri Lanka,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sri Lanka,United States,2003,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2002,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sri Lanka,United States,2018,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,China,2022,anchor_to_country,Africa,Northern Africa,Asia,Eastern Asia,Sudan,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,China,2019,country_to_anchor,Asia,Eastern Asia,Africa,Northern Africa,China,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,United States,2023,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Sudan,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,United States,2002,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,2001,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,United States,2008,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sudan,United States,2021,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Suriname,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Swaziland,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Swaziland,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sweden,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Northern Europe,China,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sweden,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sweden,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sweden,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Sweden,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,China,2013,anchor_to_country,Europe,Western Europe,Asia,Eastern Asia,Switzerland,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,China,2024,anchor_to_country,Europe,Western Europe,Asia,Eastern Asia,Switzerland,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,United States,2014,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Switzerland,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Syria,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Syria,United States,2008,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Syria,United States,2012,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tajikistan,United States,2017,anchor_to_country,Asia,Central Asia,Americas,Northern America,Tajikistan,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tanzania,United States,2004,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tanzania,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tanzania,United States,2017,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tanzania,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Tanzania,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,China,2020,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Thailand,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2015,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2018,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2004,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2003,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Thailand,United States,2017,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Timor-Leste,China,2023,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,2022,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Timor-Leste,United States,2014,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Timor-Leste,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Timor-Leste,United States,2021,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Timor-Leste,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Timor-Leste,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Togo,China,2020,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Togo,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Togo,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Togo,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Togo,United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Togo,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Trinidad and Tobago,China,2017,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Trinidad and Tobago,United States,2013,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Trinidad and Tobago,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Trinidad and Tobago,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Trinidad and Tobago,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Trinidad and Tobago,United States,2003,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2002,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Trinidad and Tobago,United States,2024,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Turkey,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Turkey,4,1,41,0.75,2016,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Turkey,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Turkey,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Turkmenistan,United States,2007,anchor_to_country,Asia,Central Asia,Americas,Northern America,Turkmenistan,4,1,41,0.75,2006,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uganda,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,China,2019,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Ukraine,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,China,2013,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,China,2020,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,United States,2019,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,United States,2021,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Ukraine,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Arab Emirates,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,2007,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Arab Emirates,United States,2011,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Arab Emirates,United States,2018,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,2017,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Arab Emirates,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Kingdom,United States,2005,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,2004,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Kingdom,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Kingdom,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Kingdom,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+United Kingdom,United States,2019,country_to_anchor,Americas,Northern America,Europe,Northern Europe,United States,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2001,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2000,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2006,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2005,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2011,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uruguay,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Uzbekistan,United States,2011,anchor_to_country,Asia,Central Asia,Americas,Northern America,Uzbekistan,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2011,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,2010,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,2023,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2008,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2012,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2011,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Venezuela,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,2014,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Yemen,China,2022,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Yemen,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Yemen,China,2014,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Yemen,China,2019,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Yemen,United States,2013,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,2012,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zambia,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zambia,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zambia,United States,2019,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zambia,4,1,41,0.75,2018,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zambia,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2015,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zimbabwe,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Zimbabwe,4,1,41,0.75,2021,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zimbabwe,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zimbabwe,4,1,41,0.75,2020,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zimbabwe,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2013,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True
+Zimbabwe,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,2019,1.0,6.0,1.0,True,-0.25,-2.0,0.0,False,rank_downgrade,True

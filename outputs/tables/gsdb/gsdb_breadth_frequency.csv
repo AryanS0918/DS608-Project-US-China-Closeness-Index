@@ -1,0 +1,50 @@
+anchor,r5_distinct_category_count,fs_distinct_category_count,country_years
+China,1,1,3
+China,1,,66
+China,2,1,22
+China,2,2,34
+China,2,,584
+China,3,1,25
+China,3,2,13
+China,3,3,2
+China,3,,12
+China,4,1,36
+China,4,2,29
+China,4,,3
+China,5,1,62
+China,5,2,141
+China,5,3,4
+China,6,1,17
+China,6,2,5
+China,6,3,13
+China,6,4,8
+United States,1,1,407
+United States,1,2,118
+United States,1,3,2
+United States,1,4,2
+United States,1,,892
+United States,2,1,158
+United States,2,2,239
+United States,2,3,20
+United States,2,,109
+United States,3,1,79
+United States,3,2,217
+United States,3,3,43
+United States,3,4,5
+United States,3,,9
+United States,4,1,16
+United States,4,2,50
+United States,4,3,33
+United States,4,4,12
+United States,4,5,4
+United States,4,,5
+United States,5,1,54
+United States,5,2,30
+United States,5,3,56
+United States,5,4,54
+United States,5,5,1
+United States,6,1,15
+United States,6,2,16
+United States,6,3,22
+United States,6,4,9
+United States,6,5,8

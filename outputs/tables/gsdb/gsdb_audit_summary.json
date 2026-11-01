@@ -1,0 +1,109 @@
+{
+  "datasets": {
+    "R5": {
+      "dataset": "R5",
+      "case_rows": 1794,
+      "case_columns": 18,
+      "dyad_rows": 170563,
+      "dyad_columns": 17,
+      "year_min": -631152000000000000,
+      "year_max": 1735689600000000000,
+      "anchor_rows": 7838,
+      "anchor_countries": 195,
+      "country_anchor_years": 7620,
+      "binary_category_columns": [
+        "arms",
+        "military",
+        "trade",
+        "financial",
+        "travel",
+        "other",
+        "target_mult",
+        "sender_mult"
+      ],
+      "identified_case_columns": {
+        "case_id": "case_id",
+        "begin_year": "begin_year",
+        "end_year": "end_year",
+        "sender": "sanctioning_state",
+        "target": "sanctioned_state"
+      },
+      "identified_dyad_columns": {
+        "case_id": "case_id",
+        "year": "year",
+        "sender_iso": "sanctioning_state_iso3",
+        "target_iso": "sanctioned_state_iso3",
+        "sender_name": "sanctioning_state",
+        "target_name": "sanctioned_state"
+      },
+      "merge_audit": {
+        "dataset": "R5",
+        "case_rows": 1794,
+        "dyad_rows": 170563,
+        "case_id_case_column": "case_id",
+        "case_id_dyad_column": "case_id",
+        "case_id_unique_case_level": true,
+        "case_ids_case_level": 1794,
+        "case_ids_dyad_level": 2346,
+        "dyad_case_ids_missing_from_case": 2346,
+        "case_ids_without_dyad_rows": 1794
+      }
+    },
+    "FS": {
+      "dataset": "FS",
+      "case_rows": 1072,
+      "case_columns": 7,
+      "dyad_rows": 91914,
+      "dyad_columns": 14,
+      "year_min": -631152000000000000,
+      "year_max": 1735689600000000000,
+      "anchor_rows": 3676,
+      "anchor_countries": 167,
+      "country_anchor_years": 3652,
+      "binary_category_columns": [
+        "financial",
+        "fin_asset_freeze",
+        "fin_services",
+        "fin_aid",
+        "fin_investment",
+        "fin_other",
+        "fin_payment_infra"
+      ],
+      "identified_case_columns": {
+        "case_id": "case_id",
+        "begin_year": "begin_year",
+        "end_year": "end_year",
+        "sender": "sanctioning_state",
+        "target": "sanctioned_state"
+      },
+      "identified_dyad_columns": {
+        "case_id": "case_id",
+        "year": "year",
+        "sender_iso": "sanctioning_state_iso3",
+        "target_iso": "sanctioned_state_iso3",
+        "sender_name": "sanctioning_state",
+        "target_name": "sanctioned_state"
+      },
+      "merge_audit": {
+        "dataset": "FS",
+        "case_rows": 1072,
+        "dyad_rows": 91914,
+        "case_id_case_column": "case_id",
+        "case_id_dyad_column": "case_id",
+        "case_id_unique_case_level": true,
+        "case_ids_case_level": 1072,
+        "case_ids_dyad_level": 1695,
+        "dyad_case_ids_missing_from_case": 1695,
+        "case_ids_without_dyad_rows": 1072
+      }
+    }
+  },
+  "case_level_compatibility": {
+    "r5_case_ids": 1794,
+    "fs_case_ids": 1072,
+    "shared_case_ids": 1072,
+    "fs_ids_not_in_r5": 0,
+    "r5_ids_not_in_fs": 722,
+    "fs_is_subset_of_r5": true
+  }
+}

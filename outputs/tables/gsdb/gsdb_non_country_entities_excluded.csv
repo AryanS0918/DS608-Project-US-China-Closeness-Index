@@ -1,0 +1,209 @@
+dataset,year,anchor,sanctions_direction,sanctioning_state_iso3,sanctioned_state_iso3,underlying_case_id,country_side_entity,sanctioning_state,sanctioned_state,begin_year,end_year,exclusion_reason
+R5,2002,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2002,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2003,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2003,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2004,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2004,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2005,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2005,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2006,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2006,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2007,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2007,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2008,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2008,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2009,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2009,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2010,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2010,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2011,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2011,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2011,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2011,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+R5,2011,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2011,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2012,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2012,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2012,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2012,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2013,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2013,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2013,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2013,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2014,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2014,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2014,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2014,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2014,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2014,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2015,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2015,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2015,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2015,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2015,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2015,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2016,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2016,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2016,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2016,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2016,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2016,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2017,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2017,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2017,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2017,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2017,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2017,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2018,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2018,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2018,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2018,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2018,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2018,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2019,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2019,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2019,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2019,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2019,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2019,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2020,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2020,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2020,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2020,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2020,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2020,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2021,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2021,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2021,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2021,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2021,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2021,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2022,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2022,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2022,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2022,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2022,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2022,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2023,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2023,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2023,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2023,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2023,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2023,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2024,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2024,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2024,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2024,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2024,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2024,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2025,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2025,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2025,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+R5,2025,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+R5,2025,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+R5,2025,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2002,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2002,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2003,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2003,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2004,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2004,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2005,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2005,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2006,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2006,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2007,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2007,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2008,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2008,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2009,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2009,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2010,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2010,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2011,China,anchor_to_country,CHN,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2011,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2011,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2011,United States,anchor_to_country,USA,,696,Terrorist Organizations (Taliban and Al-Qaeda),UN,Terrorist Organizations (Taliban and Al-Qaeda),2002,2011,non_state_sanctions_target
+FS,2011,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2011,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2012,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2012,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2012,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2012,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2013,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2013,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2013,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2013,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2014,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2014,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2014,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2014,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2014,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2014,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2015,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2015,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2015,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2015,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2015,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2015,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2016,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2016,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2016,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2016,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2016,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2016,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2017,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2017,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2017,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2017,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2017,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2017,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2018,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2018,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2018,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2018,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2018,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2018,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2019,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2019,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2019,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2019,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2019,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2019,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2020,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2020,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2020,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2020,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2020,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2020,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2021,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2021,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2021,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2021,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2021,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2021,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2022,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2022,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2022,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2022,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2022,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2022,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2023,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2023,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2023,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2023,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2023,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2023,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2024,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2024,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2024,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2024,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2024,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2024,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2025,China,anchor_to_country,CHN,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2025,China,anchor_to_country,CHN,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2025,China,anchor_to_country,CHN,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target
+FS,2025,United States,anchor_to_country,USA,,1023,Terrorist Organizations (ISIL and ANF),UN,Terrorist Organizations (ISIL and ANF),2014,2025,non_state_sanctions_target
+FS,2025,United States,anchor_to_country,USA,,924,Terrorist Organizations (Al-Qaeda),UN,Terrorist Organizations (Al-Qaeda),2011,2025,non_state_sanctions_target
+FS,2025,United States,anchor_to_country,USA,,925,Terrorist Organizations (Taliban),UN,Terrorist Organizations (Taliban),2011,2025,non_state_sanctions_target

@@ -1,0 +1,26 @@
+{
+  "study_period": [
+    2000,
+    2024
+  ],
+  "evidence_country_anchor_years": 12365,
+  "sanctions_positive_country_anchor_years": 3632,
+  "drd_unilateral_disruption_country_anchor_years": 18,
+  "drd_bilateral_disruption_country_anchor_years": 1,
+  "complete_trade_country_anchor_years": 113,
+  "complete_trade_both_directions_country_anchor_years": 86,
+  "reciprocal_sanctions_country_anchor_years": 145,
+  "payment_infrastructure_combination_country_anchor_years": 31,
+  "sanctions_plus_drd_disruption_country_anchor_years": 0,
+  "three_state_counts_within_evidence_universe": {
+    "normal": 8714,
+    "strained": 3651
+  },
+  "four_state_counts_within_evidence_universe": {
+    "normal": 8714,
+    "strained": 3377,
+    "severely_strained": 274
+  },
+  "rupture_identified": false,
+  "note": "Normal counts are limited to the union of GSDB-positive and DRD-observed country-anchor-years, not the final master country universe."
+}

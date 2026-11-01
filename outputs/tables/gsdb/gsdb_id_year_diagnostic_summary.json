@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "R5",
+    "case_id_dtype": "int64",
+    "dyad_case_id_dtype": "object",
+    "case_ids": 1794,
+    "dyad_ids": 2346,
+    "dyad_ids_matching_by_candidate_base": 2346,
+    "dyad_ids_unmatched": 0,
+    "matched_distinct_case_ids": 1056,
+    "year_dtype": "datetime64[ns]",
+    "year_encoding": "datetime",
+    "year_min": 1950,
+    "year_max": 2025,
+    "year_unique": 76
+  },
+  {
+    "dataset": "FS",
+    "case_id_dtype": "int64",
+    "dyad_case_id_dtype": "object",
+    "case_ids": 1072,
+    "dyad_ids": 1695,
+    "dyad_ids_matching_by_candidate_base": 1695,
+    "dyad_ids_unmatched": 0,
+    "matched_distinct_case_ids": 678,
+    "year_dtype": "datetime64[ns]",
+    "year_encoding": "datetime",
+    "year_min": 1950,
+    "year_max": 2025,
+    "year_unique": 76
+  }
+]
