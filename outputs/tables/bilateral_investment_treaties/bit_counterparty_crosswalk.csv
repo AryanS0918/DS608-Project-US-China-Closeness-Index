@@ -1,0 +1,181 @@
+counterparty_source_name,counterparty_normalized_name,country_iso3,anchor,multi_country_source_entity
+Angola,angola,AGO,China,False
+Albania,albania,ALB,China,False
+United Arab Emirates,united arab emirates,ARE,China,False
+Argentina,argentina,ARG,China,False
+Armenia,armenia,ARM,China,False
+Australia,australia,AUS,China,False
+Austria,austria,AUT,China,False
+Azerbaijan,azerbaijan,AZE,China,False
+BLEU (Belgium-Luxembourg Economic Union),bleu belgium luxembourg economic union,BEL,China,True
+Benin,benin,BEN,China,False
+Bangladesh,bangladesh,BGD,China,False
+Bulgaria,bulgaria,BGR,China,False
+Bahrain,bahrain,BHR,China,False
+Bahamas,bahamas,BHS,China,False
+Bosnia and Herzegovina,bosnia and herzegovina,BIH,China,False
+Belarus,belarus,BLR,China,False
+"Bolivia, Plurinational State of",bolivia plurinational state of,BOL,China,False
+Barbados,barbados,BRB,China,False
+Brunei Darussalam,brunei darussalam,BRN,China,False
+Botswana,botswana,BWA,China,False
+Canada,canada,CAN,China,False
+Switzerland,switzerland,CHE,China,False
+Chile,chile,CHL,China,False
+Côte d'Ivoire,cote d ivoire,CIV,China,False
+Cameroon,cameroon,CMR,China,False
+"Congo, Democratic Republic of the",congo democratic republic of the,COD,China,False
+Congo,congo,COG,China,False
+Colombia,colombia,COL,China,False
+Cabo Verde,cabo verde,CPV,China,False
+Costa Rica,costa rica,CRI,China,False
+Cuba,cuba,CUB,China,False
+Cyprus,cyprus,CYP,China,False
+Czechia,czechia,CZE,China,False
+Germany,germany,DEU,China,False
+Djibouti,djibouti,DJI,China,False
+Denmark,denmark,DNK,China,False
+Algeria,algeria,DZA,China,False
+Ecuador,ecuador,ECU,China,False
+Egypt,egypt,EGY,China,False
+Spain,spain,ESP,China,False
+Estonia,estonia,EST,China,False
+Ethiopia,ethiopia,ETH,China,False
+Finland,finland,FIN,China,False
+France,france,FRA,China,False
+Gabon,gabon,GAB,China,False
+United Kingdom,united kingdom,GBR,China,False
+Georgia,georgia,GEO,China,False
+Ghana,ghana,GHA,China,False
+Guinea,guinea,GIN,China,False
+Equatorial Guinea,equatorial guinea,GNQ,China,False
+Greece,greece,GRC,China,False
+Guyana,guyana,GUY,China,False
+Croatia,croatia,HRV,China,False
+Hungary,hungary,HUN,China,False
+Indonesia,indonesia,IDN,China,False
+India,india,IND,China,False
+"Iran, Islamic Republic of",iran islamic republic of,IRN,China,False
+Iceland,iceland,ISL,China,False
+Israel,israel,ISR,China,False
+Italy,italy,ITA,China,False
+Jamaica,jamaica,JAM,China,False
+Jordan,jordan,JOR,China,False
+Japan,japan,JPN,China,False
+Kazakhstan,kazakhstan,KAZ,China,False
+Kenya,kenya,KEN,China,False
+Kyrgyzstan,kyrgyzstan,KGZ,China,False
+Cambodia,cambodia,KHM,China,False
+"Korea, Republic of",korea republic of,KOR,China,False
+Kuwait,kuwait,KWT,China,False
+Lao People's Democratic Republic,lao people s democratic republic,LAO,China,False
+Lebanon,lebanon,LBN,China,False
+Libya,libya,LBY,China,False
+Sri Lanka,sri lanka,LKA,China,False
+Lithuania,lithuania,LTU,China,False
+BLEU (Belgium-Luxembourg Economic Union),bleu belgium luxembourg economic union,LUX,China,True
+Latvia,latvia,LVA,China,False
+Morocco,morocco,MAR,China,False
+"Moldova, Republic of",moldova republic of,MDA,China,False
+Madagascar,madagascar,MDG,China,False
+Mexico,mexico,MEX,China,False
+North Macedonia,north macedonia,MKD,China,False
+Mali,mali,MLI,China,False
+Malta,malta,MLT,China,False
+Myanmar,myanmar,MMR,China,False
+Mongolia,mongolia,MNG,China,False
+Mozambique,mozambique,MOZ,China,False
+Mauritius,mauritius,MUS,China,False
+Malaysia,malaysia,MYS,China,False
+Namibia,namibia,NAM,China,False
+Nigeria,nigeria,NGA,China,False
+Netherlands,netherlands,NLD,China,False
+Norway,norway,NOR,China,False
+New Zealand,new zealand,NZL,China,False
+Oman,oman,OMN,China,False
+Pakistan,pakistan,PAK,China,False
+Peru,peru,PER,China,False
+Philippines,philippines,PHL,China,False
+Papua New Guinea,papua new guinea,PNG,China,False
+Poland,poland,POL,China,False
+"Korea, Dem. People's Rep. of",korea dem people s rep of,PRK,China,False
+Portugal,portugal,PRT,China,False
+Qatar,qatar,QAT,China,False
+Romania,romania,ROU,China,False
+Russian Federation,russian federation,RUS,China,False
+Saudi Arabia,saudi arabia,SAU,China,False
+Sudan,sudan,SDN,China,False
+Singapore,singapore,SGP,China,False
+Sierra Leone,sierra leone,SLE,China,False
+Serbia,serbia,SRB,China,False
+Slovakia,slovakia,SVK,China,False
+Slovenia,slovenia,SVN,China,False
+Sweden,sweden,SWE,China,False
+Seychelles,seychelles,SYC,China,False
+Syrian Arab Republic,syrian arab republic,SYR,China,False
+Chad,chad,TCD,China,False
+Thailand,thailand,THA,China,False
+Tajikistan,tajikistan,TJK,China,False
+Turkmenistan,turkmenistan,TKM,China,False
+Trinidad and Tobago,trinidad and tobago,TTO,China,False
+Tunisia,tunisia,TUN,China,False
+Türkiye,turkiye,TUR,China,False
+"Tanzania, United Republic of",tanzania united republic of,TZA,China,False
+Uganda,uganda,UGA,China,False
+Ukraine,ukraine,UKR,China,False
+Uruguay,uruguay,URY,China,False
+Uzbekistan,uzbekistan,UZB,China,False
+"Venezuela, Bolivarian Republic of",venezuela bolivarian republic of,VEN,China,False
+Viet Nam,viet nam,VNM,China,False
+Vanuatu,vanuatu,VUT,China,False
+Yemen,yemen,YEM,China,False
+South Africa,south africa,ZAF,China,False
+Zambia,zambia,ZMB,China,False
+Zimbabwe,zimbabwe,ZWE,China,False
+Albania,albania,ALB,United States,False
+Argentina,argentina,ARG,United States,False
+Armenia,armenia,ARM,United States,False
+Azerbaijan,azerbaijan,AZE,United States,False
+Bangladesh,bangladesh,BGD,United States,False
+Bulgaria,bulgaria,BGR,United States,False
+Bahrain,bahrain,BHR,United States,False
+Belarus,belarus,BLR,United States,False
+"Bolivia, Plurinational State of",bolivia plurinational state of,BOL,United States,False
+Cameroon,cameroon,CMR,United States,False
+"Congo, Democratic Republic of the",congo democratic republic of the,COD,United States,False
+Congo,congo,COG,United States,False
+Czechia,czechia,CZE,United States,False
+Ecuador,ecuador,ECU,United States,False
+Egypt,egypt,EGY,United States,False
+Estonia,estonia,EST,United States,False
+Georgia,georgia,GEO,United States,False
+Grenada,grenada,GRD,United States,False
+Honduras,honduras,HND,United States,False
+Croatia,croatia,HRV,United States,False
+Haiti,haiti,HTI,United States,False
+Jamaica,jamaica,JAM,United States,False
+Jordan,jordan,JOR,United States,False
+Kazakhstan,kazakhstan,KAZ,United States,False
+Kyrgyzstan,kyrgyzstan,KGZ,United States,False
+Sri Lanka,sri lanka,LKA,United States,False
+Lithuania,lithuania,LTU,United States,False
+Latvia,latvia,LVA,United States,False
+Morocco,morocco,MAR,United States,False
+"Moldova, Republic of",moldova republic of,MDA,United States,False
+Mongolia,mongolia,MNG,United States,False
+Mozambique,mozambique,MOZ,United States,False
+Nicaragua,nicaragua,NIC,United States,False
+Panama,panama,PAN,United States,False
+Poland,poland,POL,United States,False
+Romania,romania,ROU,United States,False
+Russian Federation,russian federation,RUS,United States,False
+Rwanda,rwanda,RWA,United States,False
+Senegal,senegal,SEN,United States,False
+El Salvador,el salvador,SLV,United States,False
+Slovakia,slovakia,SVK,United States,False
+Trinidad and Tobago,trinidad and tobago,TTO,United States,False
+Tunisia,tunisia,TUN,United States,False
+Türkiye,turkiye,TUR,United States,False
+Ukraine,ukraine,UKR,United States,False
+Uruguay,uruguay,URY,United States,False
+Uzbekistan,uzbekistan,UZB,United States,False

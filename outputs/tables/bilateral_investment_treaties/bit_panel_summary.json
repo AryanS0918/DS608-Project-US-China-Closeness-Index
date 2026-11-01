@@ -1,0 +1,37 @@
+{
+  "rows": 9612,
+  "countries_or_historical_entities": 199,
+  "years": [
+    2000,
+    2024
+  ],
+  "state_counts": {
+    "none": 5345,
+    "in_force": 3554,
+    "signed_not_in_force": 637,
+    "historical_terminated": 76
+  },
+  "anchor_state_counts": {
+    "China|historical_terminated": 56,
+    "China|in_force": 2581,
+    "China|none": 1701,
+    "China|signed_not_in_force": 468,
+    "United States|historical_terminated": 20,
+    "United States|in_force": 973,
+    "United States|none": 3644,
+    "United States|signed_not_in_force": 169
+  },
+  "validation_failures": {
+    "duplicate_keys": 0,
+    "blank_country_names": 0,
+    "raw_score_out_of_bounds": 0,
+    "scaled_score_out_of_bounds": 0,
+    "in_force_score_mismatch": 0,
+    "signed_score_mismatch": 0
+  },
+  "treaty_records": {
+    "China": 150,
+    "United States": 47,
+    "expanded_country_treaty_records": 199
+  }
+}

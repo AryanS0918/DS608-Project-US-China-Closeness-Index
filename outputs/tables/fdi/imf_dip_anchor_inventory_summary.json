@@ -1,0 +1,51 @@
+{
+  "source_file": "dataset_2026-11-01T09_48_38.188032077Z_DEFAULT_INTEGRATION_IMF.STA_DIP_12.0.1.csv",
+  "source_size_bytes": 2244249778,
+  "source_years": [
+    2009,
+    2024
+  ],
+  "source_rows_read": 819948,
+  "source_chunks_read": 17,
+  "anchor_series_rows_retained": 21550,
+  "anchor_long_rows": 344800,
+  "anchor_observed_values": 159096,
+  "recognized_anchor_names": [
+    "China",
+    "United States"
+  ],
+  "unrecognized_anchor_like_names": [
+    "Hong Kong Special Administrative Region, People's Republic of China",
+    "Macao Special Administrative Region, People's Republic of China",
+    "Taiwan Province of China",
+    "United States Virgin Islands"
+  ],
+  "dv_type_counts": {
+    "Reported official data": 10775,
+    "Derived using counterparty information": 10775
+  },
+  "direction_counts": {
+    "Outward": 10775,
+    "Inward": 10775
+  },
+  "instrument_counts": {
+    "Debt instruments": 13920,
+    "All financial instruments": 4638,
+    "Equity": 2992
+  },
+  "entity_counts": {
+    "All entities": 14600,
+    "Resident enterprises that are not financial intermediaries": 2694,
+    "Resident financial intermediaries": 2630,
+    "Fellow enterprises": 1626
+  },
+  "accounting_entry_counts": {
+    "Net (assets less liabilities)": 7441,
+    "Net (liabilities less assets)": 7441,
+    "Assets (gross)": 3334,
+    "Liabilities (gross)": 3334
+  },
+  "negative_observed_values": 8032,
+  "zero_observed_values": 37852,
+  "interim_subset": "data/interim/fdi/imf_dip_anchor_series.parquet"
+}

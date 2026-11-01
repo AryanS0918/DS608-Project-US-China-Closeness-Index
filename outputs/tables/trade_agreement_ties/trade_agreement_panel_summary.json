@@ -1,0 +1,31 @@
+{
+  "rows": 9612,
+  "countries_or_historical_entities": 199,
+  "study_years": [
+    2000,
+    2024
+  ],
+  "normalized_membership_records": 868,
+  "officially_reconstructed_records": 30,
+  "score_weights": {
+    "bilateral_comprehensive_fta": 0.6,
+    "regional_trade_agreement": 0.35,
+    "sectoral_trade_agreement": 0.05
+  },
+  "score_distribution": {
+    "0.0": 8828,
+    "0.35": 399,
+    "0.6": 349,
+    "0.65": 2,
+    "0.95": 34
+  },
+  "validation_failures": {
+    "duplicate_keys": 0,
+    "blank_country_names": 0,
+    "unresolved_register_countries": 0,
+    "original_weight_mismatches": 0,
+    "score_formula_mismatches": 0,
+    "score_bound_failures": 0,
+    "source_unavailable_rows": 0
+  }
+}

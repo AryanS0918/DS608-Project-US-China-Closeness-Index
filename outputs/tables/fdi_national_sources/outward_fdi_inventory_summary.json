@@ -1,0 +1,71 @@
+{
+  "source_file": "Outward Direct Investment.xlsx",
+  "source_size_bytes": 2555042,
+  "sheet_names": [
+    "Wind Link",
+    "BEA US Data",
+    "Links",
+    "Annual",
+    "Sheet1",
+    "Alignment"
+  ],
+  "annual_shape": [
+    203,
+    964
+  ],
+  "stock_years": [
+    1999,
+    2025
+  ],
+  "blocks": [
+    {
+      "label": "China Outward Direct Investment",
+      "block": "china_odi_stock",
+      "start": 1,
+      "end": 200
+    },
+    {
+      "label": "US Outward Direct Investment",
+      "block": "us_odi_stock",
+      "start": 201,
+      "end": 438
+    },
+    {
+      "label": "US Less China Outward Direct Investment",
+      "block": "prototype_us_minus_china",
+      "start": 439,
+      "end": 701
+    },
+    {
+      "label": "World Bank Nominal GDP",
+      "block": "world_bank_nominal_gdp",
+      "start": 702,
+      "end": 963
+    }
+  ],
+  "block_column_counts": {
+    "china_odi_stock": 200,
+    "prototype_us_minus_china": 263,
+    "us_odi_stock": 238,
+    "world_bank_nominal_gdp": 262
+  },
+  "block_observed_values": {
+    "china_odi_stock": 4084,
+    "prototype_us_minus_china": 4774,
+    "us_odi_stock": 5529,
+    "world_bank_nominal_gdp": 6926
+  },
+  "block_negative_values": {
+    "china_odi_stock": 1,
+    "prototype_us_minus_china": 1790,
+    "us_odi_stock": 291,
+    "world_bank_nominal_gdp": 0
+  },
+  "block_zero_values": {
+    "china_odi_stock": 12,
+    "prototype_us_minus_china": 609,
+    "us_odi_stock": 303,
+    "world_bank_nominal_gdp": 0
+  },
+  "duplicate_country_columns": 4
+}

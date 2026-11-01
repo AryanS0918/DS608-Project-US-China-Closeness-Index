@@ -1,0 +1,25 @@
+dimension,value,series_rows
+DV_TYPE,Reported official data,10775
+DV_TYPE,Derived using counterparty information,10775
+DI_DIRECTION,Outward,10775
+DI_DIRECTION,Inward,10775
+INSTR_ASSET,Debt instruments,13920
+INSTR_ASSET,All financial instruments,4638
+INSTR_ASSET,Equity,2992
+DI_ENTITY,All entities,14600
+DI_ENTITY,Resident enterprises that are not financial intermediaries,2694
+DI_ENTITY,Resident financial intermediaries,2630
+DI_ENTITY,Fellow enterprises,1626
+ACCOUNTING_ENTRY,Net (assets less liabilities),7441
+ACCOUNTING_ENTRY,Net (liabilities less assets),7441
+ACCOUNTING_ENTRY,Assets (gross),3334
+ACCOUNTING_ENTRY,Liabilities (gross),3334
+UNIT,US dollar,21550
+SCALE,Millions,21550
+GROUP_FLAG,<missing>,20778
+GROUP_FLAG,True,772
+anchor_involvement,counterpart_economy,10747
+anchor_involvement,reporting_economy,10747
+anchor_involvement,both_sides_are_anchors,56
+anchor,United States,10902
+anchor,China,10648

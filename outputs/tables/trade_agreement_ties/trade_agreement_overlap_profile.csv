@@ -1,0 +1,12 @@
+anchor,bilateral_fta_active,regional_fta_count,sectoral_trade_agreement_active,active_trade_agreement_family_count,country_anchor_years
+China,False,0,False,0,4413
+China,False,1,False,1,199
+China,True,0,False,1,124
+China,False,2,False,1,33
+China,True,1,False,2,25
+China,True,2,False,2,9
+China,False,3,False,1,3
+United States,False,0,False,0,4415
+United States,True,0,False,1,225
+United States,False,1,False,1,164
+United States,True,0,True,2,2

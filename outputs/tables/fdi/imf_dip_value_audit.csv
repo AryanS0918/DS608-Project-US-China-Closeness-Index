@@ -1,0 +1,5 @@
+anchor,economic_direction,eligible,observed,zero,negative,positive,minimum_usd_mn,median_usd_mn,maximum_usd_mn,missing
+China,anchor_to_country,3232,1176,99,0,1077,0.0,307.86365,1920809.36388532,2056
+China,country_to_anchor,3232,794,110,9,675,-328.7874,420.2889487607981,1134814.270994333,2438
+United States,anchor_to_country,3232,2309,340,95,1874,-21251.0,548.0,1041247.0,923
+United States,country_to_anchor,3232,912,68,18,826,-31892.21714,5260.655264911158,1084187.442316255,2320

@@ -1,0 +1,41 @@
+{
+  "rows": 9612,
+  "countries_or_historical_entities": 199,
+  "study_years": [
+    2000,
+    2024
+  ],
+  "component_weights": {
+    "trade_agreement": 0.75,
+    "bit": 0.25
+  },
+  "effective_family_weights": {
+    "bilateral_fta": 0.45,
+    "regional_trade_agreement": 0.2625,
+    "sectoral_trade_agreement": 0.0375,
+    "bit": 0.25
+  },
+  "bit_state_counts": {
+    "none": 5345,
+    "in_force": 3554,
+    "signed_not_in_force": 637,
+    "historical_terminated": 76
+  },
+  "score_distribution": {
+    "count": 9612.0,
+    "mean": 0.12643570536828963,
+    "std": 0.16637802531232104,
+    "min": 0.0,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 0.25,
+    "max": 0.9624999999999999
+  },
+  "validation_failures": {
+    "duplicate_keys": 0,
+    "blank_country_names": 0,
+    "score_bound_failures": 0,
+    "formula_identity_failures": 0,
+    "missing_bit_states": 0
+  }
+}

@@ -1,0 +1,869 @@
+country_source_name,country_iso3,anchor,year,agreement_name,agreement_id,agreement_family,member,original_signed_weight,original_weight_magnitude,expected_original_weight,record_source,source_note
+AUSTRALIA,AUS,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+AUSTRALIA,AUS,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BGD,BGD,China,2001,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+BGD,BGD,China,2002,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+BGD,BGD,China,2003,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+BANGLADESH,BGD,China,2004,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2005,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2006,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2007,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2008,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2009,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2010,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2011,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2012,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2013,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2014,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2015,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2016,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2017,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2018,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2019,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BANGLADESH,BGD,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BAHRAIN,BHR,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+BRUNEI,BRN,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAN,CAN,United States,2000,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+CAN,CAN,United States,2001,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+CAN,CAN,United States,2002,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+CAN,CAN,United States,2003,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+CANADA,CAN,United States,2004,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2005,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2006,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2007,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2008,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2009,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2010,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2011,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2012,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2013,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2014,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2015,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2016,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2017,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2018,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2019,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2020,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2021,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2022,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2023,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+CANADA,CAN,United States,2024,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SWITZERLAND,CHE,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2006,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2007,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2008,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2009,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2010,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2004,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CHILE,CHL,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COLOMBIA,COL,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+COSTA RICA,CRI,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+DOMINICAN REPUBLIC,DOM,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+ECUADOR,ECU,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GEORGIA,GEO,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+GUATEMALA,GTM,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+HONDURAS,HND,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDONESIA,IDN,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+IND,IND,China,2001,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+IND,IND,China,2002,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+IND,IND,China,2003,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+INDIA,IND,China,2004,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2005,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2006,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2007,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2008,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2009,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2010,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2011,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2012,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2013,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2014,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2015,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2016,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2017,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2018,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2019,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+INDIA,IND,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ICELAND,ISL,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+ISR,ISR,United States,2000,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Israel FTA; entered into force 1985
+ISR,ISR,United States,2001,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Israel FTA; entered into force 1985
+ISR,ISR,United States,2002,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Israel FTA; entered into force 1985
+ISR,ISR,United States,2003,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Israel FTA; entered into force 1985
+ISRAEL,ISR,United States,2004,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+ISRAEL,ISR,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JOR,JOR,United States,2001,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Jordan FTA; entered into force 17 December 2001
+JOR,JOR,United States,2002,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Jordan FTA; entered into force 17 December 2001
+JOR,JOR,United States,2003,us_bilateral_fta,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,official_date_reconstruction,USTR Jordan FTA; entered into force 17 December 2001
+JORDAN,JOR,United States,2004,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JORDAN,JOR,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2023,US-Japan critical minerals,us_japan_critical_minerals,sectoral_trade_agreement,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+JAPAN,JPN,United States,2024,US-Japan critical minerals,us_japan_critical_minerals,sectoral_trade_agreement,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+CAMBODIA,KHM,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+KOR,KOR,China,2001,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+KOR,KOR,China,2002,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+KOR,KOR,China,2003,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+SOUTH KOREA,KOR,China,2004,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2005,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2006,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2007,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2008,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2009,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2010,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2011,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2012,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2013,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2014,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2015,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2016,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2017,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2018,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2019,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SOUTH KOREA,KOR,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+LAO,LAO,China,2001,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+LAO,LAO,China,2002,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+LAO,LAO,China,2003,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+LAOS,LAO,China,2004,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2005,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2006,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2007,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2008,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2009,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2010,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2011,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2012,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2013,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2014,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2015,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2016,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2017,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2018,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2019,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LAOS,LAO,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+LKA,LKA,China,2001,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+LKA,LKA,China,2002,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+LKA,LKA,China,2003,apta,apta,regional_trade_agreement,True,-1.0,1.0,-1,official_date_reconstruction,UN ESCAP APTA; China acceded in 2001
+SRI LANKA,LKA,China,2004,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2005,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2006,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2007,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2008,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2009,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2010,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2011,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2012,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2013,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2014,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2015,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2016,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2017,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2018,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2019,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SRI LANKA,LKA,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MOROCCO,MAR,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+MEX,MEX,United States,2000,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+MEX,MEX,United States,2001,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+MEX,MEX,United States,2002,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+MEX,MEX,United States,2003,usmca_nafta,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,official_date_reconstruction,USTR NAFTA; entered into force 1994
+MEXICO,MEX,United States,2004,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2005,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2006,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2007,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2008,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2009,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2010,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2011,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2012,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2013,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2014,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2015,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2016,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2017,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2018,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2019,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2020,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2021,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2022,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2023,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MEXICO,MEX,United States,2024,USMCA/NAFTA,usmca_nafta,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MYANMAR,MMR,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MONGOLIA,MNG,China,2020,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MONGOLIA,MNG,China,2021,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MONGOLIA,MNG,China,2022,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MONGOLIA,MNG,China,2023,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MONGOLIA,MNG,China,2024,Asia Pacific Trade Agreement,apta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MAURITIUS,MUS,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+MAURITIUS,MUS,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+MAURITIUS,MUS,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+MAURITIUS,MUS,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+MALAYSIA,MYS,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NICARAGUA,NIC,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2008,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2009,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2010,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+NEW ZEALAND,NZL,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2004,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+OMAN,OMN,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2006,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2007,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2008,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2009,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2010,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PAKISTAN,PAK,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PANAMA,PAN,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2010,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PERU,PER,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+PHILIPPINES,PHL,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2009,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2010,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2011,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2012,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2013,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2014,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2015,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2016,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2017,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2018,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2019,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2020,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2021,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2022,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2023,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2024,Bilateral FTA with China,china_bilateral_fta,bilateral_comprehensive_fta,True,-2.0,2.0,-2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2004,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2005,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2006,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2007,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2008,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2009,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2010,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2011,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2012,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2013,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2014,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2015,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2016,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2017,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2018,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2019,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2020,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2021,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2022,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2023,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+SINGAPORE,SGP,United States,2024,Bilateral FTA with US,us_bilateral_fta,bilateral_comprehensive_fta,True,2.0,2.0,2,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2006,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2007,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2008,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2009,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2010,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2011,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2012,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2013,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2014,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2015,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2016,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2017,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2018,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2019,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2020,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2021,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2022,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2023,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+EL SALVADOR,SLV,United States,2024,CAFTA-DR,cafta_dr,regional_trade_agreement,True,1.0,1.0,1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+THAILAND,THA,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2010,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2011,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2012,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2013,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2014,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2015,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2016,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2017,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2018,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2019,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2020,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2021,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2022,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2022,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2023,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2023,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2024,China-ASEAN FTA,china_asean_fta,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook
+VIETNAM,VNM,China,2024,Regional Comprehensive Economic Partnership,rcep,regional_trade_agreement,True,-1.0,1.0,-1,annual_workbook,US-China Index Treaties workbook

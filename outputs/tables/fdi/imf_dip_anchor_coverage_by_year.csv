@@ -1,0 +1,349 @@
+year,anchor,anchor_involvement,DV_TYPE,DI_DIRECTION,observed_values,reporting_economies,counterpart_economies,negative_values,zero_values
+2009,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2009,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2009,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2009,China,counterpart_economy,Derived using counterparty information,Outward,511,253,1,8,80
+2009,China,counterpart_economy,Reported official data,Inward,539,87,1,24,140
+2009,China,counterpart_economy,Reported official data,Outward,362,57,1,5,111
+2009,China,reporting_economy,Derived using counterparty information,Inward,362,1,57,5,111
+2009,China,reporting_economy,Derived using counterparty information,Outward,539,1,87,24,140
+2009,China,reporting_economy,Reported official data,Inward,511,1,253,8,80
+2009,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2009,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2009,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2009,United States,counterpart_economy,Derived using counterparty information,Inward,433,195,1,20,40
+2009,United States,counterpart_economy,Derived using counterparty information,Outward,313,184,1,42,62
+2009,United States,counterpart_economy,Reported official data,Inward,684,99,1,26,84
+2009,United States,counterpart_economy,Reported official data,Outward,414,63,1,10,98
+2009,United States,reporting_economy,Derived using counterparty information,Inward,414,1,63,10,98
+2009,United States,reporting_economy,Derived using counterparty information,Outward,684,1,99,26,84
+2009,United States,reporting_economy,Reported official data,Inward,313,1,184,42,62
+2009,United States,reporting_economy,Reported official data,Outward,433,1,195,20,40
+2010,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2010,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2010,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2010,China,counterpart_economy,Derived using counterparty information,Outward,436,213,1,10,4
+2010,China,counterpart_economy,Reported official data,Inward,578,91,1,36,122
+2010,China,counterpart_economy,Reported official data,Outward,404,64,1,10,100
+2010,China,reporting_economy,Derived using counterparty information,Inward,404,1,64,10,100
+2010,China,reporting_economy,Derived using counterparty information,Outward,578,1,91,36,122
+2010,China,reporting_economy,Reported official data,Inward,436,1,213,10,4
+2010,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2010,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2010,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2010,United States,counterpart_economy,Derived using counterparty information,Inward,434,198,1,29,38
+2010,United States,counterpart_economy,Derived using counterparty information,Outward,337,204,1,35,78
+2010,United States,counterpart_economy,Reported official data,Inward,716,104,1,33,83
+2010,United States,counterpart_economy,Reported official data,Outward,464,71,1,18,94
+2010,United States,reporting_economy,Derived using counterparty information,Inward,464,1,71,18,94
+2010,United States,reporting_economy,Derived using counterparty information,Outward,716,1,104,33,83
+2010,United States,reporting_economy,Reported official data,Inward,337,1,204,35,78
+2010,United States,reporting_economy,Reported official data,Outward,434,1,198,29,38
+2011,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2011,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2011,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2011,China,counterpart_economy,Derived using counterparty information,Outward,450,221,1,14,18
+2011,China,counterpart_economy,Reported official data,Inward,629,98,1,57,128
+2011,China,counterpart_economy,Reported official data,Outward,451,74,1,10,126
+2011,China,reporting_economy,Derived using counterparty information,Inward,451,1,74,10,126
+2011,China,reporting_economy,Derived using counterparty information,Outward,629,1,98,57,128
+2011,China,reporting_economy,Reported official data,Inward,450,1,221,14,18
+2011,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2011,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2011,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2011,United States,counterpart_economy,Derived using counterparty information,Inward,428,192,1,32,36
+2011,United States,counterpart_economy,Derived using counterparty information,Outward,346,195,1,37,78
+2011,United States,counterpart_economy,Reported official data,Inward,779,114,1,29,88
+2011,United States,counterpart_economy,Reported official data,Outward,494,79,1,18,112
+2011,United States,reporting_economy,Derived using counterparty information,Inward,494,1,79,18,112
+2011,United States,reporting_economy,Derived using counterparty information,Outward,779,1,114,29,88
+2011,United States,reporting_economy,Reported official data,Inward,346,1,195,37,78
+2011,United States,reporting_economy,Reported official data,Outward,428,1,192,32,36
+2012,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2012,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2012,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2012,China,counterpart_economy,Derived using counterparty information,Outward,428,210,1,18,0
+2012,China,counterpart_economy,Reported official data,Inward,698,103,1,49,172
+2012,China,counterpart_economy,Reported official data,Outward,474,70,1,17,146
+2012,China,reporting_economy,Derived using counterparty information,Inward,474,1,70,17,146
+2012,China,reporting_economy,Derived using counterparty information,Outward,698,1,103,49,172
+2012,China,reporting_economy,Reported official data,Inward,428,1,210,18,0
+2012,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2012,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2012,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2012,United States,counterpart_economy,Derived using counterparty information,Inward,431,195,1,31,35
+2012,United States,counterpart_economy,Derived using counterparty information,Outward,352,195,1,38,74
+2012,United States,counterpart_economy,Reported official data,Inward,798,117,1,50,90
+2012,United States,counterpart_economy,Reported official data,Outward,525,81,1,13,131
+2012,United States,reporting_economy,Derived using counterparty information,Inward,525,1,81,13,131
+2012,United States,reporting_economy,Derived using counterparty information,Outward,798,1,117,50,90
+2012,United States,reporting_economy,Reported official data,Inward,352,1,195,38,74
+2012,United States,reporting_economy,Reported official data,Outward,431,1,195,31,35
+2013,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2013,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2013,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2013,China,counterpart_economy,Derived using counterparty information,Outward,522,257,1,10,92
+2013,China,counterpart_economy,Reported official data,Inward,743,103,1,52,176
+2013,China,counterpart_economy,Reported official data,Outward,507,71,1,16,143
+2013,China,reporting_economy,Derived using counterparty information,Inward,507,1,71,16,143
+2013,China,reporting_economy,Derived using counterparty information,Outward,743,1,103,52,176
+2013,China,reporting_economy,Reported official data,Inward,522,1,257,10,92
+2013,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2013,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2013,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2013,United States,counterpart_economy,Derived using counterparty information,Inward,422,189,1,32,31
+2013,United States,counterpart_economy,Derived using counterparty information,Outward,346,185,1,45,65
+2013,United States,counterpart_economy,Reported official data,Inward,817,115,1,61,71
+2013,United States,counterpart_economy,Reported official data,Outward,558,79,1,20,128
+2013,United States,reporting_economy,Derived using counterparty information,Inward,558,1,79,20,128
+2013,United States,reporting_economy,Derived using counterparty information,Outward,817,1,115,61,71
+2013,United States,reporting_economy,Reported official data,Inward,346,1,185,45,65
+2013,United States,reporting_economy,Reported official data,Outward,422,1,189,32,31
+2014,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2014,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2014,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2014,China,counterpart_economy,Derived using counterparty information,Outward,521,257,1,14,100
+2014,China,counterpart_economy,Reported official data,Inward,788,110,1,64,167
+2014,China,counterpart_economy,Reported official data,Outward,537,73,1,17,164
+2014,China,reporting_economy,Derived using counterparty information,Inward,537,1,73,17,164
+2014,China,reporting_economy,Derived using counterparty information,Outward,788,1,110,64,167
+2014,China,reporting_economy,Reported official data,Inward,521,1,257,14,100
+2014,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2014,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2014,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2014,United States,counterpart_economy,Derived using counterparty information,Inward,428,197,1,32,29
+2014,United States,counterpart_economy,Derived using counterparty information,Outward,356,197,1,45,69
+2014,United States,counterpart_economy,Reported official data,Inward,839,118,1,76,68
+2014,United States,counterpart_economy,Reported official data,Outward,553,82,1,15,128
+2014,United States,reporting_economy,Derived using counterparty information,Inward,553,1,82,15,128
+2014,United States,reporting_economy,Derived using counterparty information,Outward,839,1,118,76,68
+2014,United States,reporting_economy,Reported official data,Inward,356,1,197,45,69
+2014,United States,reporting_economy,Reported official data,Outward,428,1,197,32,29
+2015,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2015,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2015,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2015,China,counterpart_economy,Derived using counterparty information,Outward,523,257,1,30,92
+2015,China,counterpart_economy,Reported official data,Inward,799,111,1,65,145
+2015,China,counterpart_economy,Reported official data,Outward,537,73,1,16,160
+2015,China,reporting_economy,Derived using counterparty information,Inward,537,1,73,16,160
+2015,China,reporting_economy,Derived using counterparty information,Outward,799,1,111,65,145
+2015,China,reporting_economy,Reported official data,Inward,523,1,257,30,92
+2015,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2015,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2015,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2015,United States,counterpart_economy,Derived using counterparty information,Inward,434,202,1,23,30
+2015,United States,counterpart_economy,Derived using counterparty information,Outward,353,190,1,43,70
+2015,United States,counterpart_economy,Reported official data,Inward,870,121,1,72,69
+2015,United States,counterpart_economy,Reported official data,Outward,570,83,1,26,131
+2015,United States,reporting_economy,Derived using counterparty information,Inward,570,1,83,26,131
+2015,United States,reporting_economy,Derived using counterparty information,Outward,870,1,121,72,69
+2015,United States,reporting_economy,Reported official data,Inward,353,1,190,43,70
+2015,United States,reporting_economy,Reported official data,Outward,434,1,202,23,30
+2016,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2016,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2016,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2016,China,counterpart_economy,Derived using counterparty information,Outward,521,256,1,24,100
+2016,China,counterpart_economy,Reported official data,Inward,797,115,1,64,140
+2016,China,counterpart_economy,Reported official data,Outward,523,76,1,16,136
+2016,China,reporting_economy,Derived using counterparty information,Inward,523,1,76,16,136
+2016,China,reporting_economy,Derived using counterparty information,Outward,797,1,115,64,140
+2016,China,reporting_economy,Reported official data,Inward,521,1,256,24,100
+2016,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2016,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2016,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2016,United States,counterpart_economy,Derived using counterparty information,Inward,394,202,1,21,30
+2016,United States,counterpart_economy,Derived using counterparty information,Outward,351,197,1,40,72
+2016,United States,counterpart_economy,Reported official data,Inward,869,128,1,84,67
+2016,United States,counterpart_economy,Reported official data,Outward,612,89,1,20,126
+2016,United States,reporting_economy,Derived using counterparty information,Inward,612,1,89,20,126
+2016,United States,reporting_economy,Derived using counterparty information,Outward,869,1,128,84,67
+2016,United States,reporting_economy,Reported official data,Inward,351,1,197,40,72
+2016,United States,reporting_economy,Reported official data,Outward,394,1,202,21,30
+2017,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2017,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2017,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2017,China,counterpart_economy,Derived using counterparty information,Outward,524,257,1,24,94
+2017,China,counterpart_economy,Reported official data,Inward,782,115,1,62,132
+2017,China,counterpart_economy,Reported official data,Outward,528,79,1,21,140
+2017,China,reporting_economy,Derived using counterparty information,Inward,528,1,79,21,140
+2017,China,reporting_economy,Derived using counterparty information,Outward,782,1,115,62,132
+2017,China,reporting_economy,Reported official data,Inward,524,1,257,24,94
+2017,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2017,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2017,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2017,United States,counterpart_economy,Derived using counterparty information,Inward,419,198,1,26,29
+2017,United States,counterpart_economy,Derived using counterparty information,Outward,346,190,1,29,61
+2017,United States,counterpart_economy,Reported official data,Inward,879,130,1,78,69
+2017,United States,counterpart_economy,Reported official data,Outward,628,89,1,28,130
+2017,United States,reporting_economy,Derived using counterparty information,Inward,628,1,89,28,130
+2017,United States,reporting_economy,Derived using counterparty information,Outward,879,1,130,78,69
+2017,United States,reporting_economy,Reported official data,Inward,346,1,190,29,61
+2017,United States,reporting_economy,Reported official data,Outward,419,1,198,26,29
+2018,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2018,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2018,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2018,China,both_sides_are_anchors,Reported official data,Outward,2,1,1,0,0
+2018,China,counterpart_economy,Derived using counterparty information,Inward,524,257,1,0,118
+2018,China,counterpart_economy,Derived using counterparty information,Outward,523,257,1,8,0
+2018,China,counterpart_economy,Reported official data,Inward,797,117,1,61,141
+2018,China,counterpart_economy,Reported official data,Outward,575,84,1,22,165
+2018,China,reporting_economy,Derived using counterparty information,Inward,575,1,84,22,165
+2018,China,reporting_economy,Derived using counterparty information,Outward,797,1,117,61,141
+2018,China,reporting_economy,Reported official data,Inward,523,1,257,8,0
+2018,China,reporting_economy,Reported official data,Outward,524,1,257,0,118
+2018,United States,both_sides_are_anchors,Derived using counterparty information,Inward,2,1,1,0,0
+2018,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2018,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2018,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2018,United States,counterpart_economy,Derived using counterparty information,Inward,380,197,1,20,29
+2018,United States,counterpart_economy,Derived using counterparty information,Outward,347,187,1,33,56
+2018,United States,counterpart_economy,Reported official data,Inward,877,130,1,78,74
+2018,United States,counterpart_economy,Reported official data,Outward,665,93,1,20,153
+2018,United States,reporting_economy,Derived using counterparty information,Inward,665,1,93,20,153
+2018,United States,reporting_economy,Derived using counterparty information,Outward,877,1,130,78,74
+2018,United States,reporting_economy,Reported official data,Inward,347,1,187,33,56
+2018,United States,reporting_economy,Reported official data,Outward,380,1,197,20,29
+2019,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2019,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2019,China,both_sides_are_anchors,Reported official data,Inward,2,1,1,0,0
+2019,China,both_sides_are_anchors,Reported official data,Outward,2,1,1,0,0
+2019,China,counterpart_economy,Derived using counterparty information,Inward,524,257,1,0,117
+2019,China,counterpart_economy,Derived using counterparty information,Outward,524,257,1,40,87
+2019,China,counterpart_economy,Reported official data,Inward,789,117,1,51,134
+2019,China,counterpart_economy,Reported official data,Outward,611,88,1,36,184
+2019,China,reporting_economy,Derived using counterparty information,Inward,611,1,88,36,184
+2019,China,reporting_economy,Derived using counterparty information,Outward,789,1,117,51,134
+2019,China,reporting_economy,Reported official data,Inward,524,1,257,40,87
+2019,China,reporting_economy,Reported official data,Outward,524,1,257,0,117
+2019,United States,both_sides_are_anchors,Derived using counterparty information,Inward,2,1,1,0,0
+2019,United States,both_sides_are_anchors,Derived using counterparty information,Outward,2,1,1,0,0
+2019,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2019,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2019,United States,counterpart_economy,Derived using counterparty information,Inward,416,190,1,34,30
+2019,United States,counterpart_economy,Derived using counterparty information,Outward,335,180,1,29,69
+2019,United States,counterpart_economy,Reported official data,Inward,890,130,1,72,71
+2019,United States,counterpart_economy,Reported official data,Outward,671,94,1,24,139
+2019,United States,reporting_economy,Derived using counterparty information,Inward,671,1,94,24,139
+2019,United States,reporting_economy,Derived using counterparty information,Outward,890,1,130,72,71
+2019,United States,reporting_economy,Reported official data,Inward,335,1,180,29,69
+2019,United States,reporting_economy,Reported official data,Outward,416,1,190,34,30
+2020,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2020,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2020,China,both_sides_are_anchors,Reported official data,Inward,7,1,1,0,0
+2020,China,both_sides_are_anchors,Reported official data,Outward,7,1,1,0,1
+2020,China,counterpart_economy,Derived using counterparty information,Inward,1799,257,1,0,844
+2020,China,counterpart_economy,Derived using counterparty information,Outward,1799,257,1,33,902
+2020,China,counterpart_economy,Reported official data,Inward,789,115,1,52,133
+2020,China,counterpart_economy,Reported official data,Outward,575,84,1,44,165
+2020,China,reporting_economy,Derived using counterparty information,Inward,575,1,84,44,165
+2020,China,reporting_economy,Derived using counterparty information,Outward,789,1,115,52,133
+2020,China,reporting_economy,Reported official data,Inward,1799,1,257,33,902
+2020,China,reporting_economy,Reported official data,Outward,1799,1,257,0,844
+2020,United States,both_sides_are_anchors,Derived using counterparty information,Inward,7,1,1,0,1
+2020,United States,both_sides_are_anchors,Derived using counterparty information,Outward,7,1,1,0,0
+2020,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2020,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2020,United States,counterpart_economy,Derived using counterparty information,Inward,355,193,1,27,30
+2020,United States,counterpart_economy,Derived using counterparty information,Outward,344,189,1,28,70
+2020,United States,counterpart_economy,Reported official data,Inward,873,127,1,65,78
+2020,United States,counterpart_economy,Reported official data,Outward,624,90,1,25,122
+2020,United States,reporting_economy,Derived using counterparty information,Inward,624,1,90,25,122
+2020,United States,reporting_economy,Derived using counterparty information,Outward,873,1,127,65,78
+2020,United States,reporting_economy,Reported official data,Inward,344,1,189,28,70
+2020,United States,reporting_economy,Reported official data,Outward,355,1,193,27,30
+2021,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2021,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2021,China,both_sides_are_anchors,Reported official data,Inward,7,1,1,0,0
+2021,China,both_sides_are_anchors,Reported official data,Outward,7,1,1,0,1
+2021,China,counterpart_economy,Derived using counterparty information,Inward,1792,256,1,0,828
+2021,China,counterpart_economy,Derived using counterparty information,Outward,1796,257,1,49,899
+2021,China,counterpart_economy,Reported official data,Inward,805,114,1,53,123
+2021,China,counterpart_economy,Reported official data,Outward,588,85,1,39,156
+2021,China,reporting_economy,Derived using counterparty information,Inward,588,1,85,39,156
+2021,China,reporting_economy,Derived using counterparty information,Outward,805,1,114,53,123
+2021,China,reporting_economy,Reported official data,Inward,1796,1,257,49,899
+2021,China,reporting_economy,Reported official data,Outward,1792,1,256,0,828
+2021,United States,both_sides_are_anchors,Derived using counterparty information,Inward,7,1,1,0,1
+2021,United States,both_sides_are_anchors,Derived using counterparty information,Outward,7,1,1,0,0
+2021,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2021,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2021,United States,counterpart_economy,Derived using counterparty information,Inward,384,192,1,31,29
+2021,United States,counterpart_economy,Derived using counterparty information,Outward,341,182,1,24,69
+2021,United States,counterpart_economy,Reported official data,Inward,869,123,1,77,62
+2021,United States,counterpart_economy,Reported official data,Outward,644,91,1,28,118
+2021,United States,reporting_economy,Derived using counterparty information,Inward,644,1,91,28,118
+2021,United States,reporting_economy,Derived using counterparty information,Outward,869,1,123,77,62
+2021,United States,reporting_economy,Reported official data,Inward,341,1,182,24,69
+2021,United States,reporting_economy,Reported official data,Outward,384,1,192,31,29
+2022,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2022,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2022,China,both_sides_are_anchors,Reported official data,Inward,7,1,1,0,0
+2022,China,both_sides_are_anchors,Reported official data,Outward,7,1,1,0,2
+2022,China,counterpart_economy,Derived using counterparty information,Inward,1791,256,1,0,836
+2022,China,counterpart_economy,Derived using counterparty information,Outward,1795,257,1,51,895
+2022,China,counterpart_economy,Reported official data,Inward,791,114,1,55,121
+2022,China,counterpart_economy,Reported official data,Outward,593,84,1,44,169
+2022,China,reporting_economy,Derived using counterparty information,Inward,593,1,84,44,169
+2022,China,reporting_economy,Derived using counterparty information,Outward,791,1,114,55,121
+2022,China,reporting_economy,Reported official data,Inward,1795,1,257,51,895
+2022,China,reporting_economy,Reported official data,Outward,1791,1,256,0,836
+2022,United States,both_sides_are_anchors,Derived using counterparty information,Inward,7,1,1,0,2
+2022,United States,both_sides_are_anchors,Derived using counterparty information,Outward,7,1,1,0,0
+2022,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2022,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2022,United States,counterpart_economy,Derived using counterparty information,Inward,367,185,1,29,30
+2022,United States,counterpart_economy,Derived using counterparty information,Outward,325,180,1,23,64
+2022,United States,counterpart_economy,Reported official data,Inward,845,123,1,73,64
+2022,United States,counterpart_economy,Reported official data,Outward,662,92,1,24,127
+2022,United States,reporting_economy,Derived using counterparty information,Inward,662,1,92,24,127
+2022,United States,reporting_economy,Derived using counterparty information,Outward,845,1,123,73,64
+2022,United States,reporting_economy,Reported official data,Inward,325,1,180,23,64
+2022,United States,reporting_economy,Reported official data,Outward,367,1,185,29,30
+2023,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2023,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2023,China,both_sides_are_anchors,Reported official data,Inward,7,1,1,0,0
+2023,China,both_sides_are_anchors,Reported official data,Outward,7,1,1,0,1
+2023,China,counterpart_economy,Derived using counterparty information,Inward,1792,256,1,0,827
+2023,China,counterpart_economy,Derived using counterparty information,Outward,1799,257,1,49,910
+2023,China,counterpart_economy,Reported official data,Inward,763,108,1,44,110
+2023,China,counterpart_economy,Reported official data,Outward,581,81,1,38,157
+2023,China,reporting_economy,Derived using counterparty information,Inward,581,1,81,38,157
+2023,China,reporting_economy,Derived using counterparty information,Outward,763,1,108,44,110
+2023,China,reporting_economy,Reported official data,Inward,1799,1,257,49,910
+2023,China,reporting_economy,Reported official data,Outward,1792,1,256,0,827
+2023,United States,both_sides_are_anchors,Derived using counterparty information,Inward,7,1,1,0,1
+2023,United States,both_sides_are_anchors,Derived using counterparty information,Outward,7,1,1,0,0
+2023,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2023,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2023,United States,counterpart_economy,Derived using counterparty information,Inward,372,185,1,31,31
+2023,United States,counterpart_economy,Derived using counterparty information,Outward,345,194,1,27,69
+2023,United States,counterpart_economy,Reported official data,Inward,839,120,1,69,69
+2023,United States,counterpart_economy,Reported official data,Outward,647,89,1,26,138
+2023,United States,reporting_economy,Derived using counterparty information,Inward,647,1,89,26,138
+2023,United States,reporting_economy,Derived using counterparty information,Outward,839,1,120,69,69
+2023,United States,reporting_economy,Reported official data,Inward,345,1,194,27,69
+2023,United States,reporting_economy,Reported official data,Outward,372,1,185,31,31
+2024,China,both_sides_are_anchors,Derived using counterparty information,Inward,5,1,1,0,0
+2024,China,both_sides_are_anchors,Derived using counterparty information,Outward,5,1,1,0,0
+2024,China,both_sides_are_anchors,Reported official data,Inward,7,1,1,0,0
+2024,China,both_sides_are_anchors,Reported official data,Outward,7,1,1,0,1
+2024,China,counterpart_economy,Derived using counterparty information,Inward,1792,256,1,0,838
+2024,China,counterpart_economy,Derived using counterparty information,Outward,1796,257,1,48,903
+2024,China,counterpart_economy,Reported official data,Inward,758,106,1,48,104
+2024,China,counterpart_economy,Reported official data,Outward,565,78,1,48,144
+2024,China,reporting_economy,Derived using counterparty information,Inward,565,1,78,48,144
+2024,China,reporting_economy,Derived using counterparty information,Outward,758,1,106,48,104
+2024,China,reporting_economy,Reported official data,Inward,1796,1,257,48,903
+2024,China,reporting_economy,Reported official data,Outward,1792,1,256,0,838
+2024,United States,both_sides_are_anchors,Derived using counterparty information,Inward,7,1,1,0,1
+2024,United States,both_sides_are_anchors,Derived using counterparty information,Outward,7,1,1,0,0
+2024,United States,both_sides_are_anchors,Reported official data,Inward,5,1,1,0,0
+2024,United States,both_sides_are_anchors,Reported official data,Outward,5,1,1,0,0
+2024,United States,counterpart_economy,Derived using counterparty information,Inward,370,182,1,31,30
+2024,United States,counterpart_economy,Derived using counterparty information,Outward,340,185,1,28,69
+2024,United States,counterpart_economy,Reported official data,Inward,818,115,1,73,70
+2024,United States,counterpart_economy,Reported official data,Outward,617,86,1,24,128
+2024,United States,reporting_economy,Derived using counterparty information,Inward,617,1,86,24,128
+2024,United States,reporting_economy,Derived using counterparty information,Outward,818,1,115,73,70
+2024,United States,reporting_economy,Reported official data,Inward,340,1,185,28,69
+2024,United States,reporting_economy,Reported official data,Outward,370,1,182,31,30
