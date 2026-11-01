@@ -1,0 +1,29 @@
+{
+  "rows": 9612,
+  "countries_or_historical_entities": 199,
+  "duplicate_keys": 0,
+  "blank_country_names": 0,
+  "severity_mismatches": 0,
+  "rupture_without_bilateral_disruption": 0,
+  "bilateral_disruption_without_rupture": 0,
+  "wrong_rupture_controller": 0,
+  "missing_all_condition_triggers": 0,
+  "historical_period_violations": 0,
+  "study_period": [
+    2000,
+    2024
+  ],
+  "condition_counts": {
+    "normal": 6025,
+    "strained": 3302,
+    "severely_strained": 284,
+    "ruptured": 1
+  },
+  "rupture_key": {
+    "country_iso3": "AFG",
+    "country_name": "Afghanistan",
+    "anchor": "United States",
+    "year": 2021
+  },
+  "universe_rule": "For each year, include both anchor comparisons for every country observed for either anchor, excluding anchor self-relations and restricting historical entities to their documented existence period."
+}

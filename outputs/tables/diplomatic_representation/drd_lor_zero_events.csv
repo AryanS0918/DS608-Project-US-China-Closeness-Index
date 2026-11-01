@@ -1,0 +1,21 @@
+country,anchor,year,direction,DestinationRegion,DestinationSubregion,SendingRegion,SendingSubregion,Location,Embassy,Focus,EmbassyFocus,LOR,lor_band,previous_year,previous_lor,previous_band,consecutive_previous_year,band_drop,band_gain,lor_zero_event,focus_three_event,material_downgrade,one_band_downgrade,restoration_from_zero,material_restoration
+Afghanistan,United States,2000,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,3,43,0.0,0.0,,,,,,,True,True,False,False,False,False
+Afghanistan,United States,2021,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,3,43,0.0,0.0,2020,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Afghanistan,United States,2021,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Austria,United States,2000,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,6,3,63,0.0,0.0,,,,,,,True,True,False,False,False,False
+Belarus,United States,2021,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Belarus,United States,2022,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,4,3,43,0.0,0.0,2021,0.0,0.0,True,0.0,0.0,True,True,False,False,False,False
+Central African Republic,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,6,3,63,0.0,0.0,2013,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Central African Republic,United States,2015,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,6,3,63,0.0,0.0,2014,0.0,0.0,True,0.0,0.0,True,True,False,False,False,False
+Iran,United States,2015,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Iran,2,3,23,0.0,0.0,,,,,,,True,True,False,False,False,False
+Iran,United States,2016,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Iran,2,3,23,0.0,0.0,2015,0.0,0.0,True,0.0,0.0,True,True,False,False,False,False
+Iran,United States,2018,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,3,33,0.0,0.0,2017,0.125,1.0,True,1.0,-1.0,True,True,False,True,False,False
+Libya,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Libya,4,3,43,0.0,0.0,2013,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Lithuania,China,2021,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Lithuania,China,2022,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,3,63,0.0,0.0,2021,0.0,0.0,True,0.0,0.0,True,True,False,False,False,False
+Lithuania,China,2024,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,3,63,0.0,0.0,2023,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Sao Tome and Principe,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,6,3,63,0.0,0.0,2017,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Somalia,China,2004,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Somalia,1,3,13,0.0,0.0,2003,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Syria,United States,2005,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,6,3,63,0.0,0.0,2004,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Syria,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,1,3,13,0.0,0.0,2011,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Yemen,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Yemen,6,3,63,0.0,0.0,2016,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False

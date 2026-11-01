@@ -1,0 +1,15 @@
+column,dtype,rows,non_missing,missing,missing_pct,unique_non_missing
+Destination,object,453775,453775,0,0.0,204
+DestinationRegion,object,453775,453775,0,0.0,5
+DestinationSubregion,object,453775,453775,0,0.0,17
+SendingCountry,object,453775,453775,0,0.0,206
+SendingRegion,object,453775,453775,0,0.0,5
+SendingSubregion,object,453775,453775,0,0.0,17
+Year,Int64,453775,453775,0,0.0,65
+Location,object,453775,453775,0,0.0,204
+Embassy,int64,453775,453775,0,0.0,6
+Focus,int64,453775,453775,0,0.0,3
+EmbassyFocus,int64,453775,453775,0,0.0,18
+LOR,float64,453775,453775,0,0.0,7
+sending_country_standard,object,453775,453775,0,0.0,206
+destination_standard,object,453775,453775,0,0.0,204

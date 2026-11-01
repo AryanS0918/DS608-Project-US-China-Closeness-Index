@@ -1,0 +1,800 @@
+file_ref,sheet,column,dtype,rows,missing,missing_pct,unique_non_missing
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,case_id,int64,1072,0,0.0,1072
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,sanctioning_state,object,1072,0,0.0,116
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,sanctioned_state,object,1072,0,0.0,191
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,begin_year,int64,1072,0,0.0,72
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,end_year,int64,1072,0,0.0,66
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,financial,int64,1072,0,0.0,1
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv,,descr_financial,object,1072,0,0.0,34
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,case_id,object,91914,0,0.0,1695
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,sanctioning_state_iso3,object,91914,0,0.0,204
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,sanctioning_state,object,91914,0,0.0,206
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,sanctioned_state_iso3,object,91914,10050,10.934,160
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,sanctioned_state,object,91914,0,0.0,166
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,year,datetime64[ns],91914,0,0.0,76
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,financial,int8,91914,0,0.0,1
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_asset_freeze,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_services,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_aid,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_investment,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_other,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,fin_payment_infra,int8,91914,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta,,descr_financial,object,91914,0,0.0,28
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,case_id,int64,1794,0,0.0,1794
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,sanctioned_state,object,1794,0,0.0,241
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,sanctioning_state,object,1794,0,0.0,197
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,begin_year,int64,1794,0,0.0,76
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,begin_month,object,1794,61,3.4,12
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,end_year,int64,1794,0,0.0,74
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,end_month,object,1794,916,51.059,12
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,trade,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,descr_trade,object,1794,1052,58.64,11
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,arms,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,military,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,financial,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,travel,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,other,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,target_mult,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,sender_mult,int64,1794,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,objective,object,1794,0,0.0,91
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv,,success,object,1794,0,0.0,33
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,case_id,object,170563,0,0.0,2346
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,sanctioning_state_iso3,object,170563,0,0.0,210
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,sanctioning_state,object,170563,0,0.0,212
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,sanctioned_state_iso3,object,170563,10050,5.892,189
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,sanctioned_state,object,170563,0,0.0,196
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,year,datetime64[ns],170563,0,0.0,76
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,arms,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,military,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,trade,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,descr_trade,object,170563,111297,65.253,8
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,financial,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,travel,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,other,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,target_mult,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,sender_mult,int8,170563,0,0.0,2
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,objective,object,170563,0,0.0,887
+data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta,,success,object,170563,0,0.0,454
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,case_id,int64,1072,0,0.0,1072
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,sanctioning_state,object,1072,0,0.0,116
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,sanctioned_state,object,1072,0,0.0,191
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,begin_year,int64,1072,0,0.0,72
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,end_year,int64,1072,0,0.0,66
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,financial,int64,1072,0,0.0,1
+data/raw/relations/gsdb/financial/GSDB-FS.csv,,descr_financial,object,1072,0,0.0,34
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,case_id,object,91914,0,0.0,1695
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,sanctioning_state_iso3,object,91914,0,0.0,204
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,sanctioning_state,object,91914,0,0.0,206
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,sanctioned_state_iso3,object,91914,10050,10.934,160
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,sanctioned_state,object,91914,0,0.0,166
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,year,datetime64[ns],91914,0,0.0,76
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,financial,int8,91914,0,0.0,1
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_asset_freeze,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_services,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_aid,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_investment,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_other,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,fin_payment_infra,int8,91914,0,0.0,2
+data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta,,descr_financial,object,91914,0,0.0,28
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,case_id,int64,1794,0,0.0,1794
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,sanctioned_state,object,1794,0,0.0,241
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,sanctioning_state,object,1794,0,0.0,197
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,begin_year,int64,1794,0,0.0,76
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,begin_month,object,1794,61,3.4,12
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,end_year,int64,1794,0,0.0,74
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,end_month,object,1794,916,51.059,12
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,trade,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,descr_trade,object,1794,1052,58.64,11
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,arms,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,military,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,financial,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,travel,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,other,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,target_mult,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,sender_mult,int64,1794,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,objective,object,1794,0,0.0,91
+data/raw/relations/gsdb/r5/GSDB-R5.csv,,success,object,1794,0,0.0,33
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,case_id,object,170563,0,0.0,2346
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,sanctioning_state_iso3,object,170563,0,0.0,210
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,sanctioning_state,object,170563,0,0.0,212
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,sanctioned_state_iso3,object,170563,10050,5.892,189
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,sanctioned_state,object,170563,0,0.0,196
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,year,datetime64[ns],170563,0,0.0,76
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,arms,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,military,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,trade,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,descr_trade,object,170563,111297,65.253,8
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,financial,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,travel,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,other,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,target_mult,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,sender_mult,int8,170563,0,0.0,2
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,objective,object,170563,0,0.0,887
+data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta,,success,object,170563,0,0.0,454
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,No.,int64,150,0,0.0,150
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Title of agreement,object,150,149,99.333,1
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Short title,object,150,0,0.0,150
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Parties,object,150,0,0.0,132
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Type of agreement,object,150,0,0.0,1
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Status,object,150,0,0.0,3
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Files,object,150,3,2.0,147
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Date of signature,datetime64[ns],150,0,0.0,149
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Date of entry into force,datetime64[ns],150,19,12.667,121
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Date of termination,datetime64[ns],150,126,84.0,24
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Type of termination,object,150,126,84.0,2
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Amendment protocols,object,150,0,0.0,7
+data/sources/relations/Bilateral Investment Treaty with China.xlsx,Treaties,Side instruments,object,150,0,0.0,1
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,No.,float64,53,6,11.321,47
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Title of agreement,object,53,51,96.226,2
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Short title,object,53,6,11.321,47
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Parties,object,53,6,11.321,47
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Type of agreement,object,53,6,11.321,1
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Status,object,53,6,11.321,3
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Files,object,53,6,11.321,47
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Date of signature,datetime64[ns],53,6,11.321,44
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Date of entry into force,datetime64[ns],53,12,22.642,38
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Date of termination,datetime64[ns],53,51,96.226,2
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Type of termination,object,53,51,96.226,1
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Amendment protocols,object,53,6,11.321,6
+data/sources/relations/Bilateral Investment Treaty with US.xlsx,Treaties,Side instruments,object,53,6,11.321,1
+data/sources/relations/US-China Index Treaties.xlsx,Sheet2,Unnamed: 0,float64,27,27,100.0,0
+data/sources/relations/US-China Index Treaties.xlsx,Sheet2,Unnamed: 1,float64,27,27,100.0,0
+data/sources/relations/US-China Index Treaties.xlsx,Sheet2,Unnamed: 2,float64,27,27,100.0,0
+data/sources/relations/US-China Index Treaties.xlsx,Sheet2,Unnamed: 3,float64,27,27,100.0,0
+data/sources/relations/US-China Index Treaties.xlsx,Sheet2,Unnamed: 4,object,27,4,14.815,23
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,"NATO, US Bilateral Trade & Investment Agreements, Rio Treaty, Major Non-NATO, Non-Rio Allies, US Japan Critical minerals, Five Eyes, Quad Updated",object,211,16,7.583,195
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US,object,211,187,88.626,12
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US,object,211,168,79.621,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies,object,211,193,91.469,5
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8),object,211,202,95.735,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue,object,211,205,97.156,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes,object,211,204,96.682,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS,object,211,206,97.63,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO,object,211,177,83.886,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty,object,211,191,90.521,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals,object,211,207,98.104,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA,object,211,206,97.63,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR,object,211,202,95.735,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement,object,211,207,98.104,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA),object,211,206,97.63,5
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China,object,211,207,98.104,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China,object,211,192,90.995,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China,object,211,100,47.393,5
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA,object,211,198,93.839,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership,object,211,194,91.943,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement,object,211,202,95.735,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs,object,211,199,94.313,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative,object,211,63,29.858,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation,object,211,199,94.313,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.1,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.1,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.1,float64,211,194,91.943,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).1,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.1,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.1,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.1,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.1,float64,211,178,84.36,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.1,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.1,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.1,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.1,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.1,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).1,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.1,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.1,float64,211,194,91.943,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.1,float64,211,103,48.815,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.1,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.1,float64,211,195,92.417,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.1,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.1,float64,211,201,95.261,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.1,float64,211,63,29.858,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.1,float64,211,200,94.787,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.2,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.2,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.2,float64,211,194,91.943,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).2,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.2,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.2,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.2,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.2,float64,211,178,84.36,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.2,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.2,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.2,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.2,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.2,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).2,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.2,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.2,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.2,float64,211,103,48.815,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.2,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.2,float64,211,195,92.417,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.2,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.2,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.2,float64,211,62,29.384,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.2,float64,211,201,95.261,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.3,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.3,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.3,float64,211,194,91.943,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).3,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.3,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.3,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.3,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.3,float64,211,179,84.834,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.3,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.3,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.3,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.3,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.3,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).3,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.3,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.3,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.3,float64,211,103,48.815,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.3,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.3,float64,211,195,92.417,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.3,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.3,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.3,float64,211,64,30.332,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.3,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.4,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.4,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.4,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).4,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.4,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.4,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.4,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.4,float64,211,179,84.834,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.4,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.4,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.4,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.4,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.4,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).4,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.4,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.4,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.4,float64,211,103,48.815,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.4,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.4,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.4,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.4,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.4,float64,211,68,32.227,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.4,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.5,float64,211,196,92.891,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.5,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.5,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).5,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.5,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.5,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.5,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.5,float64,211,179,84.834,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.5,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.5,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.5,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.5,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.5,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).5,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.5,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.5,float64,211,198,93.839,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.5,float64,211,102,48.341,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.5,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.5,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.5,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.5,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.5,float64,211,73,34.597,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.5,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.6,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.6,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.6,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).6,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.6,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.6,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.6,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.6,float64,211,180,85.308,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.6,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.6,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.6,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.6,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.6,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).6,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.6,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.6,float64,211,198,93.839,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.6,float64,211,101,47.867,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.6,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.6,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.6,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.6,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.6,float64,211,74,35.071,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.6,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.7,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.7,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.7,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).7,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.7,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.7,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.7,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.7,float64,211,180,85.308,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.7,float64,211,193,91.469,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.7,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.7,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.7,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.7,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).7,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.7,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.7,float64,211,198,93.839,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.7,float64,211,100,47.393,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.7,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.7,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.7,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.7,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.7,float64,211,89,42.18,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.7,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.8,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.8,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.8,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).8,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.8,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.8,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.8,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.8,float64,211,180,85.308,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.8,float64,211,193,91.469,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.8,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.8,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.8,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.8,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).8,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.8,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.8,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.8,float64,211,99,46.919,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.8,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.8,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.8,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.8,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.8,float64,211,149,70.616,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.8,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.9,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.9,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.9,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).9,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.9,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.9,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.9,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.9,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.9,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.9,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.9,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.9,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.9,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).9,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.9,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.9,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.9,float64,211,99,46.919,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.9,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.9,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.9,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.9,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.9,float64,211,173,81.991,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.9,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.10,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.10,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.10,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).10,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.10,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.10,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.10,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.10,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.10,float64,211,191,90.521,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.10,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.10,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.10,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.10,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).10,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.10,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.10,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.10,float64,211,99,46.919,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.10,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.10,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.10,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.10,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.10,float64,211,178,84.36,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.10,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.11,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.11,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.11,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).11,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.11,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.11,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.11,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.11,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.11,float64,211,189,89.573,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.11,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.11,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.11,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.11,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).11,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.11,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.11,float64,211,201,95.261,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.11,float64,211,98,46.445,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.11,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.11,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.11,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.11,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.11,float64,211,201,95.261,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.11,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.12,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.12,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.12,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).12,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.12,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.12,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.12,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.12,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.12,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.12,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.12,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.12,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.12,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).12,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.12,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.12,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.12,float64,211,100,47.393,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.12,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.12,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.12,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.12,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.12,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.12,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.13,float64,211,197,93.365,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.13,float64,211,168,79.621,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.13,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).13,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.13,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.13,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.13,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.13,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.13,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.13,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.13,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.13,float64,211,101,47.867,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.13,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.13,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.13,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.13,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.13,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.13,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.14,float64,211,200,94.787,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.14,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.14,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).14,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.14,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.14,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.14,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.14,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.14,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.14,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.14,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.14,float64,211,101,47.867,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.14,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.14,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.14,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.14,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.14,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.14,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.15,float64,211,200,94.787,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.15,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.15,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).15,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.15,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.15,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.15,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.15,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.15,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.15,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.15,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.15,float64,211,101,47.867,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.15,float64,211,199,94.313,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.15,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.15,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.15,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.15,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.15,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.16,float64,211,200,94.787,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.16,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.16,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).16,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.16,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.16,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.16,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.16,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.16,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.16,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.16,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.16,float64,211,102,48.341,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.16,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.16,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.16,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.16,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.16,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.17,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.17,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.17,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).17,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.17,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.17,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.17,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.17,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.17,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.17,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.17,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.17,float64,211,107,50.711,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.17,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.17,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.17,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.17,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.17,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.18,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.18,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.18,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).18,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.18,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.18,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.18,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.18,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.18,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.18,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.18,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.18,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.18,float64,211,210,99.526,1
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).18,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.18,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.18,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.18,float64,211,107,50.711,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.18,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.18,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.18,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.18,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.18,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.18,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.19,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.19,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.19,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).19,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.19,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.19,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.19,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.19,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.19,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.19,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.19,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.19,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.19,float64,211,210,99.526,1
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).19,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.19,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.19,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.19,float64,211,108,51.185,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.19,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.19,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.19,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.19,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.19,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.19,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.20,float64,211,203,96.209,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.20,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.20,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).20,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.20,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.20,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.20,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.20,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.20,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.20,float64,211,210,99.526,1
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.20,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.20,float64,211,108,51.185,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.20,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.20,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.20,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.20,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with US.21,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with US.21,float64,211,169,80.095,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Major US Non-Nato & Non Rio Treaty Allies.21,float64,211,196,92.891,4
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,G7 (Formerly G8).21,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Quadrilateral Security Dialogue.21,float64,211,206,97.63,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Five Eyes.21,float64,211,205,97.156,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,AUKUS.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,NATO.21,float64,211,181,85.782,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Rio Treaty.21,float64,211,192,90.995,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-Japan critical minerals.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,USMCA/NAFTA.21,float64,211,207,98.104,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,CAFTA-DR.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US-India Civil Nuclear Agreement.21,float64,211,210,99.526,1
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,US India General Security of Military Information Agreement (GSOMIA).21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Treaty Allies Of China.21,float64,211,208,98.578,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral FTA with China.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Bilateral Investment Treaty with China.21,float64,211,108,51.185,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,China-ASEAN FTA.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Regional Comprehensive Economic Partnership.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Asia Pacific Trade Agreement.21,float64,211,204,96.682,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,BRICs.21,float64,211,209,99.052,2
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Belt & Road Initiative.21,float64,211,202,95.735,3
+data/sources/relations/US-China Index Treaties.xlsx,Treaties,Shanghai Cooperation Organisation.21,float64,211,204,96.682,3
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,Destination,object,453775,0,0.0,204
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,DestinationRegion,object,453775,0,0.0,5
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,DestinationSubregion,object,453775,0,0.0,17
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,SendingCountry,object,453775,0,0.0,206
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,SendingRegion,object,453775,0,0.0,5
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,SendingSubregion,object,453775,0,0.0,17
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,Year,int64,453775,0,0.0,65
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,Location,object,453775,0,0.0,204
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,Embassy,int64,453775,0,0.0,6
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,Focus,int64,453775,0,0.0,3
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,EmbassyFocus,int64,453775,0,0.0,18
+data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx,Diplometrics_Diplomatic-Represe,LOR,float64,453775,0,0.0,7
+data/sources/relations/diplomatic_representation/annual.dta,,countrya,object,1542564,0,0.0,207
+data/sources/relations/diplomatic_representation/annual.dta,,countryb,object,1542564,0,0.0,207
+data/sources/relations/diplomatic_representation/annual.dta,,year,int16,1542564,0,0.0,36
+data/sources/relations/diplomatic_representation/annual.dta,,neu_dr_rcpt_ann,float64,1542564,613374,39.763,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lndist_ann,float32,1542564,303948,19.704,16300
+data/sources/relations/diplomatic_representation/annual.dta,,neu_powerpc_recipient_ann,float64,1542564,380052,24.638,5616
+data/sources/relations/diplomatic_representation/annual.dta,,neu_powerpc_sender_ann,float64,1542564,380052,24.638,5616
+data/sources/relations/diplomatic_representation/annual.dta,,neu_s3uni_ann,float64,1542564,318636,20.656,433350
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lngdppc_recipient_ann,float64,1542564,357696,23.188,5593
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lngdppc_sender_ann,float64,1542564,357696,23.188,5593
+data/sources/relations/diplomatic_representation/annual.dta,,neu_westandruscoldummy_ann,int8,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_samedyad_ann,int8,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/annual.dta,,prepost,float32,1542564,0,0.0,1
+data/sources/relations/diplomatic_representation/annual.dta,,binemb,float32,1542564,1251953,81.161,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_dr_at_recipient_dum,float64,1542564,1329198,86.168,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_s3uni,float32,1542564,1328783,86.141,9991
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lngdppc_recipient,float32,1542564,1321695,85.682,978
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lngdppc_sender,float32,1542564,1321695,85.682,978
+data/sources/relations/diplomatic_representation/annual.dta,,neu_dr_at_sender_dum,float64,1542564,1329198,86.168,2
+data/sources/relations/diplomatic_representation/annual.dta,,dyadid,float32,1542564,1199772,77.778,42849
+data/sources/relations/diplomatic_representation/annual.dta,,neu_samedyad,float64,1542564,1199772,77.778,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_independence_sender,float64,1542564,1244484,80.676,70
+data/sources/relations/diplomatic_representation/annual.dta,,neu_demdem,float64,1542564,1382198,89.604,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_powerpc_recipient,float32,1542564,1335357,86.567,1001
+data/sources/relations/diplomatic_representation/annual.dta,,neu_powerpc_sender,float32,1542564,1335357,86.567,1001
+data/sources/relations/diplomatic_representation/annual.dta,,neu_autocautoc,float64,1542564,1382198,89.604,2
+data/sources/relations/diplomatic_representation/annual.dta,,neu_bilattradegdp_sender,float32,1542564,1331177,86.296,101700
+data/sources/relations/diplomatic_representation/annual.dta,,neu_countryid,float64,1542564,1199772,77.778,207
+data/sources/relations/diplomatic_representation/annual.dta,,neu_lndistance,float32,1542564,1267316,82.156,16300
+data/sources/relations/diplomatic_representation/annual.dta,,neu_westandruscoldummy,float64,1542564,1199772,77.778,2
+data/sources/relations/diplomatic_representation/annual.dta,,neumayer_ann_merge,int8,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/annual.dta,,dist_cepii,float32,1542564,428507,27.779,18253
+data/sources/relations/diplomatic_representation/annual.dta,,EmbassyNew,float64,1542564,1312999,85.118,6
+data/sources/relations/diplomatic_representation/annual.dta,,FocusNew,float64,1542564,1251953,81.161,4
+data/sources/relations/diplomatic_representation/annual.dta,,LOR,float64,1542564,1251953,81.161,8
+data/sources/relations/diplomatic_representation/annual.dta,,dup,float32,1542564,1251953,81.161,1
+data/sources/relations/diplomatic_representation/annual.dta,,EmbassyNew_sender,float64,1542564,1312998,85.118,6
+data/sources/relations/diplomatic_representation/annual.dta,,binemb_sender,float32,1542564,1251952,81.16,2
+data/sources/relations/diplomatic_representation/annual.dta,,sender_merge,float64,1542564,1209559,78.412,3
+data/sources/relations/diplomatic_representation/annual.dta,,dup_sender,float32,1542564,1209559,78.412,1
+data/sources/relations/diplomatic_representation/annual.dta,,diplo_merge,float64,1542564,286409,18.567,3
+data/sources/relations/diplomatic_representation/annual.dta,,dup_diplo,float32,1542564,286409,18.567,2
+data/sources/relations/diplomatic_representation/annual.dta,,valuea,float32,1542564,492298,31.914,5698
+data/sources/relations/diplomatic_representation/annual.dta,,lngdppca,float32,1542564,492298,31.914,5698
+data/sources/relations/diplomatic_representation/annual.dta,,gdp_merge,float64,1542564,286409,18.567,2
+data/sources/relations/diplomatic_representation/annual.dta,,valueb,float32,1542564,492253,31.911,5702
+data/sources/relations/diplomatic_representation/annual.dta,,lngdppcb,float32,1542564,492253,31.911,5702
+data/sources/relations/diplomatic_representation/annual.dta,,gdp_merge2,float64,1542564,286409,18.567,2
+data/sources/relations/diplomatic_representation/annual.dta,,merge_diplo_to_neumayer,int8,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/annual.dta,,countryaidn,float32,1542564,0,0.0,207
+data/sources/relations/diplomatic_representation/annual.dta,,group1,float32,1542564,573804,37.198,1
+data/sources/relations/diplomatic_representation/annual.dta,,group2,float32,1542564,968760,62.802,1
+data/sources/relations/diplomatic_representation/annual.dta,,dyadidn,float32,1542564,0,0.0,42849
+data/sources/relations/diplomatic_representation/annual.dta,,dyadidn1,float32,1542564,573804,37.198,26910
+data/sources/relations/diplomatic_representation/annual.dta,,dyadidn2,float32,1542564,968760,62.802,15939
+data/sources/relations/diplomatic_representation/annual.dta,,neu_dr_sender_ann,float64,1542564,613374,39.763,2
+data/sources/relations/diplomatic_representation/annual.dta,,firsttime,float32,1542564,303804,19.695,7
+data/sources/relations/diplomatic_representation/annual.dta,,binemb_neubirth,float32,1542564,609123,39.488,2
+data/sources/relations/diplomatic_representation/annual.dta,,post1985,float32,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/annual.dta,,binemb_neubirth_send,float32,1542564,609122,39.488,2
+data/sources/relations/diplomatic_representation/annual.dta,,Corrected_samedyad,float32,1542564,0,0.0,2
+data/sources/relations/diplomatic_representation/embassy.tsv,,countrya,object,424368,0,0.0,201
+data/sources/relations/diplomatic_representation/embassy.tsv,,countryb,object,424368,0,0.0,202
+data/sources/relations/diplomatic_representation/embassy.tsv,,year,int64,424368,0,0.0,54
+data/sources/relations/diplomatic_representation/embassy.tsv,,EmbassyNew,float64,424368,77855,18.346,6
+data/sources/relations/diplomatic_representation/embassy.tsv,,FocusNew,int64,424368,0,0.0,4
+data/sources/relations/diplomatic_representation/embassy.tsv,,LOR,float64,424368,0,0.0,8
+data/sources/relations/diplomatic_representation/embassy.tsv,,binemb,float64,424368,0,0.0,2
+data/sources/relations/diplomatic_representation/embassy.tsv,,dup,float64,424368,0,0.0,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,year,int64,342792,0,0.0,8
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,countrya,object,342792,0,0.0,207
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,countryb,object,342792,0,0.0,207
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_dr_at_recipient_dum,float64,342792,129426,37.756,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_dr_at_sender_dum,float64,342792,129426,37.756,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_dyadid,float64,342792,0,0.0,42849
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_samedyad,int64,342792,0,0.0,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_independence_sender,float64,342792,44712,13.043,70
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_lngdppc_recipient,float64,342792,121923,35.568,978
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_lngdppc_sender,float64,342792,121923,35.568,978
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_demdem,float64,342792,182426,53.218,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_powerpc_recipient,float64,342792,135585,39.553,1001
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_powerpc_sender,float64,342792,135585,39.553,1001
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_autocautoc,float64,342792,182426,53.218,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_bilattradegdp_sender,float64,342792,131405,38.334,101700
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_countryid,int64,342792,0,0.0,207
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_lndistance,float64,342792,67544,19.704,16300
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_westandruscoldummy,int64,342792,0,0.0,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neu_s3uni,float64,342792,129011,37.635,9991
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,neumayer_ann_merge,int64,342792,0,0.0,1
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,dist_cepii,float64,342792,98335,28.686,18213
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,EmbassyNew,float64,342792,292058,85.2,6
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,FocusNew,float64,342792,280476,81.821,4
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,LOR,float64,342792,280476,81.821,8
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,binemb,float64,342792,280476,81.821,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,dup,float64,342792,280476,81.821,1
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,EmbassyNew_sender,float64,342792,292058,85.2,6
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,binemb_sender,float64,342792,280476,81.821,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,sender_merge,float64,342792,270936,79.038,3
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,dup_sender,float64,342792,270936,79.038,1
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,diplo_merge,float64,342792,67131,19.584,3
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,dup_diplo,float64,342792,67131,19.584,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,valuea,float64,342792,110141,32.131,1273
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,lngdppca,float64,342792,110141,32.131,1273
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,gdp_merge,float64,342792,67131,19.584,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,valueb,float64,342792,110147,32.132,1274
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,lngdppcb,float64,342792,110147,32.132,1274
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,gdp_merge2,float64,342792,67131,19.584,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,merge_diplo_to_neumayer,int64,342792,0,0.0,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,firsttime,float64,342792,129426,37.756,8
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,binemb_neubirth,float64,342792,128934,37.613,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,binemb_neubirth_send,float64,342792,128934,37.613,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,post1985,float64,342792,0,0.0,2
+data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv,,Corrected_samedyad,float64,342792,0,0.0,2
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,9640,object,486,0,0.0,486
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,"ABU TEIR, Mohammed",object,486,1,0.206,485
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,individual,object,486,1,0.206,2
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,NS-PLC,object,486,1,0.206,16
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0-,object,486,1,0.206,12
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .1,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .2,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .3,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .4,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .5,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,-0- .6,object,486,1,0.206,1
+data/sources/relations/ofac/non_sdn/cons_prim.csv,,DOB 1951; POB Umm Tuba.,object,486,1,0.206,465
+data/sources/relations/ofac/sdn/sdn.csv,,36,object,19471,0,0.0,19471
+data/sources/relations/ofac/sdn/sdn.csv,,AEROCARIBBEAN AIRLINES,object,19471,1,0.005,19444
+data/sources/relations/ofac/sdn/sdn.csv,,-0-,object,19471,1,0.005,4
+data/sources/relations/ofac/sdn/sdn.csv,,CUBA,object,19471,1,0.005,244
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .1,object,19471,1,0.005,510
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .2,object,19471,1,0.005,962
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .3,object,19471,1,0.005,43
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .4,object,19471,1,0.005,42
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .5,object,19471,1,0.005,80
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .6,object,19471,1,0.005,66
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .7,object,19471,1,0.005,5
+data/sources/relations/ofac/sdn/sdn.csv,,-0- .8,object,19471,1,0.005,18448

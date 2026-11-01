@@ -1,0 +1,264 @@
+column,value,count
+DestinationRegion,Asia,6055
+DestinationRegion,Americas,5878
+DestinationRegion,Africa,2401
+DestinationRegion,Europe,1978
+DestinationRegion,Oceania,427
+DestinationSubregion,Northern America,4648
+DestinationSubregion,Eastern Asia,4095
+DestinationSubregion,Sub-Saharan Africa,2121
+DestinationSubregion,Latin America and the Caribbean,1230
+DestinationSubregion,Western Asia,830
+DestinationSubregion,Southern Europe,628
+DestinationSubregion,South-eastern Asia,544
+DestinationSubregion,Eastern Europe,500
+DestinationSubregion,Northern Europe,500
+DestinationSubregion,Western Europe,350
+DestinationSubregion,Southern Asia,337
+DestinationSubregion,Northern Africa,280
+DestinationSubregion,Central Asia,249
+DestinationSubregion,Melanesia,135
+DestinationSubregion,Micronesia,112
+DestinationSubregion,Australia and New Zealand,100
+DestinationSubregion,Polynesia,80
+SendingRegion,Asia,6257
+SendingRegion,Americas,5521
+SendingRegion,Africa,2472
+SendingRegion,Europe,2029
+SendingRegion,Oceania,460
+SendingSubregion,Eastern Asia,4264
+SendingSubregion,Northern America,4232
+SendingSubregion,Sub-Saharan Africa,2178
+SendingSubregion,Latin America and the Caribbean,1289
+SendingSubregion,Western Asia,834
+SendingSubregion,Southern Europe,655
+SendingSubregion,South-eastern Asia,541
+SendingSubregion,Eastern Europe,499
+SendingSubregion,Northern Europe,489
+SendingSubregion,Western Europe,386
+SendingSubregion,Southern Asia,376
+SendingSubregion,Northern Africa,294
+SendingSubregion,Central Asia,242
+SendingSubregion,Melanesia,150
+SendingSubregion,Micronesia,120
+SendingSubregion,Australia and New Zealand,100
+SendingSubregion,Polynesia,90
+Location,United States,4598
+Location,China,3920
+Location,"Korea, Republic of",50
+Location,Malaysia,50
+Location,Sri Lanka,50
+Location,Madagascar,50
+Location,Macedonia,50
+Location,Luxembourg,50
+Location,Albania,50
+Location,Suriname,50
+Location,Lesotho,50
+Location,Lebanon,50
+Location,Latvia,50
+Location,Lao People's Democratic Republic,50
+Location,Kyrgyzstan,50
+Location,Kuwait,50
+Location,Lithuania,50
+Location,Mali,50
+Location,Switzerland,50
+Location,Kenya,50
+Location,Kazakhstan,50
+Location,Jordan,50
+Location,Japan,50
+Location,Jamaica,50
+Location,Italy,50
+Location,Israel,50
+Location,Ireland,50
+Location,Tajikistan,50
+Location,Indonesia,50
+Location,India,50
+Location,Iceland,50
+Location,Hungary,50
+Location,Sweden,50
+Location,Malta,50
+Location,Saudi Arabia,50
+Location,Spain,50
+Location,Russia,50
+Location,Romania,50
+Location,Qatar,50
+Location,Portugal,50
+Location,Poland,50
+Location,Philippines,50
+Location,Peru,50
+Location,Singapore,50
+Location,Papua New Guinea,50
+Location,Slovakia,50
+Location,Slovenia,50
+Location,Pakistan,50
+Location,Oman,50
+Location,Norway,50
+Location,Nigeria,50
+Location,South Africa,50
+Location,New Zealand,50
+Location,Netherlands,50
+Location,Nepal,50
+Location,Namibia,50
+Location,Myanmar,50
+Location,Mozambique,50
+Location,Morocco,50
+Location,Mongolia,50
+Location,Moldova,50
+Location,"Micronesia, Federated States of",50
+Location,Mexico,50
+Location,Mauritius,50
+Location,Mauritania,50
+Location,Thailand,50
+Location,Togo,50
+Location,Trinidad and Tobago,50
+Location,Uruguay,50
+Location,Colombia,50
+Location,Chile,50
+Location,Venezuela,50
+Location,Viet Nam,50
+Location,Canada,50
+Location,Cameroon,50
+Location,Cambodia,50
+Location,Cabo Verde,50
+Location,Burundi,50
+Location,Zambia,50
+Location,Bulgaria,50
+Location,Brunei,50
+Location,Brazil,50
+Location,Botswana,50
+Location,Bosnia and Herzegovina,50
+Location,Bolivia,50
+Location,Benin,50
+Location,Zimbabwe,50
+Location,Belgium,50
+Location,Belarus,50
+Location,Bangladesh,50
+Location,Bahrain,50
+Location,Azerbaijan,50
+Location,Austria,50
+Location,Australia,50
+Location,Armenia,50
+Location,Argentina,50
+Location,Angola,50
+Location,Algeria,50
+Location,Guyana,50
+Location,Uzbekistan,50
+Location,United Kingdom,50
+Location,Estonia,50
+Location,Tunisia,50
+Location,Guinea,50
+Location,Turkey,50
+Location,Greece,50
+Location,Ghana,50
+Location,Germany,50
+Location,Georgia,50
+Location,Gabon,50
+Location,France,50
+Location,Finland,50
+Location,Fiji,50
+Location,Côte d'Ivoire,50
+Location,Ethiopia,50
+Location,Sierra Leone,50
+Location,Eritrea,50
+Location,Cyprus,50
+Location,Ukraine,50
+Location,Egypt,50
+Location,Ecuador,50
+Location,United Arab Emirates,50
+Location,Croatia,50
+Location,Cuba,50
+Location,Djibouti,50
+Location,Uganda,50
+Location,Denmark,50
+Location,Czech Republic,50
+Location,Bahamas,49
+Location,Turkmenistan,49
+Location,Barbados,49
+Location,Niger,49
+Location,Sudan,48
+Location,Tanzania,48
+Location,Afghanistan,47
+Location,Central African Republic,47
+Location,Liberia,47
+Location,Iraq,47
+Location,Yemen,45
+Location,Equatorial Guinea,45
+Location,Samoa,45
+Location,Timor-Leste,44
+Location,Congo-Brazzaville,44
+Location,Senegal,44
+Location,Rwanda,43
+Location,Chad,43
+Location,Malawi,42
+Location,Costa Rica,42
+Location,Syria,38
+Location,Congo-Kinshasa,37
+Location,Serbia,36
+Location,Montenegro,36
+Location,Grenada,35
+Location,"Gambia, The",34
+Location,Panama,33
+Location,Burkina Faso,32
+Location,Dominican Republic,32
+Location,Libya,32
+Location,El Salvador,31
+Location,Nicaragua,30
+Location,Somalia,30
+Location,Vanuatu,27
+Location,Honduras,27
+Location,Seychelles,27
+Location,Tonga,27
+Location,Iran,27
+Location,South Sudan,26
+Location,Paraguay,25
+Location,Palau,25
+Location,Comoros,25
+Location,Marshall Islands,25
+Location,Swaziland,25
+Location,"Korea, Democratic People's Republic of",25
+Location,Guatemala,25
+Location,Haiti,25
+Location,Holy See (Vatican),25
+Location,Belize,24
+Location,Guinea-Bissau,24
+Location,Antigua and Barbuda,23
+Location,Dominica,22
+Location,Kosovo,17
+Location,Serbia and Montenegro,14
+Location,Maldives,13
+Location,Sao Tome and Principe,9
+Location,Kiribati,9
+Location,Tuvalu,8
+Location,Saint Lucia,8
+Location,Solomon Islands,8
+Location,Nauru,3
+Embassy,6,15541
+Embassy,4,1089
+Embassy,3,56
+Embassy,1,47
+Embassy,2,4
+Embassy,5,2
+Focus,1,16656
+Focus,2,63
+Focus,3,20
+EmbassyFocus,61,15494
+EmbassyFocus,41,1083
+EmbassyFocus,11,45
+EmbassyFocus,62,36
+EmbassyFocus,31,32
+EmbassyFocus,32,23
+EmbassyFocus,63,11
+EmbassyFocus,43,4
+EmbassyFocus,22,2
+EmbassyFocus,13,2
+EmbassyFocus,23,2
+EmbassyFocus,42,2
+EmbassyFocus,51,2
+EmbassyFocus,33,1
+LOR,1.0,15494
+LOR,0.75,1130
+LOR,0.125,55
+LOR,0.5,36
+LOR,0.0,20
+LOR,0.1,2
+LOR,0.375,2

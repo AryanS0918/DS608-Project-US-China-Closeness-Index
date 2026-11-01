@@ -228,3 +228,24 @@ data/raw/*
 # Microsoft Office temporary lock files
 ~$*
 **/~$*
+
+# Large formal-relations source files kept locally beside their documentation
+data/sources/relations/diplomatic_representation/annual.dta
+data/sources/relations/ofac/sdn/SDN_ADVANCED.XML
+data/sources/relations/ofac/non_sdn/CONS_ADVANCED.XML
+
+# External relationship source datasets and replication files
+data/sources/relations/**
+
+# Retain source documentation
+!data/sources/relations/**/
+!data/sources/relations/**/README.md
+!data/sources/relations/**/*.md
+
+# Generated relationship intermediates
+data/interim/relations/**
+
+# Retain directory documentation and placeholders
+!data/interim/relations/**/
+!data/interim/relations/**/README.md
+!data/interim/relations/**/.gitkeep

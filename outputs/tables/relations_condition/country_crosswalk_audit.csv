@@ -1,0 +1,404 @@
+source_name,normalized_name,iso3,role,ambiguous_normalized_name
+Afghanistan,afghanistan,AFG,sender,False
+Angola,angola,AGO,sender,False
+Albania,albania,ALB,sender,False
+Andorra,andorra,AND,sender,False
+United Arab Emirates,united_arab_emirates,ARE,sender,False
+Argentina,argentina,ARG,sender,False
+Armenia,armenia,ARM,sender,False
+Antigua and Barbuda,antigua_and_barbuda,ATG,sender,False
+Australia,australia,AUS,sender,False
+Austria,austria,AUT,sender,False
+Azerbaijan,azerbaijan,AZE,sender,False
+Burundi,burundi,BDI,sender,False
+Belgium,belgium,BEL,sender,False
+Benin,benin,BEN,sender,False
+Burkina Faso,burkina_faso,BFA,sender,False
+Bangladesh,bangladesh,BGD,sender,False
+Bulgaria,bulgaria,BGR,sender,False
+Bahrain,bahrain,BHR,sender,False
+"Bahamas, The",bahamas_the,BHS,sender,False
+Bahamas,bahamas,BHS,sender,False
+Bosnia and Herzegovina,bosnia_and_herzegovina,BIH,sender,False
+Belarus,belarus,BLR,sender,False
+Belize,belize,BLZ,sender,False
+Bolivia,bolivia,BOL,sender,False
+Brazil,brazil,BRA,sender,False
+Barbados,barbados,BRB,sender,False
+Brunei,brunei,BRN,sender,False
+Bhutan,bhutan,BTN,sender,False
+Botswana,botswana,BWA,sender,False
+Byelorussian SSR,byelorussian_ssr,BYS,sender,False
+Central African Republic,central_african_republic,CAF,sender,False
+Canada,canada,CAN,sender,False
+Switzerland,switzerland,CHE,sender,False
+Chile,chile,CHL,sender,False
+China,china,CHN,sender,False
+Cote d'Ivoire,cote_d_ivoire,CIV,sender,False
+Cameroon,cameroon,CMR,sender,False
+"Congo, Democratic Republic of the",congo_democratic_republic_of_the,COD,sender,False
+"Congo, Republic of the",congo_republic_of_the,COG,sender,False
+Cook Islands,cook_islands,COK,sender,False
+Colombia,colombia,COL,sender,False
+Comoros,comoros,COM,sender,False
+Cape Verde,cape_verde,CPV,sender,False
+Costa Rica,costa_rica,CRI,sender,False
+Czechoslovakia,czechoslovakia,CSK,sender,False
+Cuba,cuba,CUB,sender,False
+Cyprus,cyprus,CYP,sender,False
+Czech Republic,czech_republic,CZE,sender,False
+German Democratic Republic,german_democratic_republic,DDR,sender,False
+Germany,germany,DEU,sender,False
+Dahomey,dahomey,DHY,sender,False
+Djibouti,djibouti,DJI,sender,False
+Dominica,dominica,DMA,sender,False
+Denmark,denmark,DNK,sender,False
+Dominican Republic,dominican_republic,DOM,sender,False
+Algeria,algeria,DZA,sender,False
+Ecuador,ecuador,ECU,sender,False
+"Egypt, Arab Rep.",egypt_arab_rep,EGY,sender,False
+Eritrea,eritrea,ERI,sender,False
+Spanish Sahara,spanish_sahara,ESH,sender,False
+Spain,spain,ESP,sender,False
+Estonia,estonia,EST,sender,False
+Ethiopia (excludes Eritrea),ethiopia_excludes_eritrea,ETH,sender,False
+Finland,finland,FIN,sender,False
+Fiji,fiji,FJI,sender,False
+France,france,FRA,sender,False
+"Micronesia, Federated States of",micronesia_federated_states_of,FSM,sender,False
+Gabon,gabon,GAB,sender,False
+United Kingdom,united_kingdom,GBR,sender,False
+Georgia,georgia,GEO,sender,False
+Ghana,ghana,GHA,sender,False
+Guinea,guinea,GIN,sender,False
+"Gambia, The",gambia_the,GMB,sender,False
+Guinea-Bissau,guinea_bissau,GNB,sender,False
+Equatorial Guinea,equatorial_guinea,GNQ,sender,False
+Greece,greece,GRC,sender,False
+Grenada,grenada,GRD,sender,False
+Guatemala,guatemala,GTM,sender,False
+Guyana,guyana,GUY,sender,False
+Hong Kong,hong_kong,HKG,sender,False
+Honduras,honduras,HND,sender,False
+Croatia,croatia,HRV,sender,False
+Haiti,haiti,HTI,sender,False
+Hungary,hungary,HUN,sender,False
+Upper Volta,upper_volta,HVO,sender,False
+Indonesia,indonesia,IDN,sender,False
+India,india,IND,sender,False
+Ireland,ireland,IRL,sender,False
+Iran,iran,IRN,sender,False
+Iraq,iraq,IRQ,sender,False
+Iceland,iceland,ISL,sender,False
+Israel,israel,ISR,sender,False
+Italy,italy,ITA,sender,False
+Jamaica,jamaica,JAM,sender,False
+Transjordan,transjordan,JOR,sender,False
+Japan,japan,JPN,sender,False
+Kazakhstan,kazakhstan,KAZ,sender,False
+Kenya,kenya,KEN,sender,False
+Kyrgyzstan,kyrgyzstan,KGZ,sender,False
+Cambodia,cambodia,KHM,sender,False
+Kiribati,kiribati,KIR,sender,False
+Saint Kitts and Nevis,saint_kitts_and_nevis,KNA,sender,False
+"Korea, South",korea_south,KOR,sender,False
+Kosovo,kosovo,KSV,sender,False
+Kuwait,kuwait,KWT,sender,False
+Laos,laos,LAO,sender,False
+Lebanon,lebanon,LBN,sender,False
+Liberia,liberia,LBR,sender,False
+Libya,libya,LBY,sender,False
+Saint Lucia,saint_lucia,LCA,sender,False
+Liechtenstein,liechtenstein,LIE,sender,False
+Ceylon,ceylon,LKA,sender,False
+Lesotho,lesotho,LSO,sender,False
+Lithuania,lithuania,LTU,sender,False
+Luxembourg,luxembourg,LUX,sender,False
+Latvia,latvia,LVA,sender,False
+Morocco,morocco,MAR,sender,False
+Monaco,monaco,MCO,sender,False
+Moldova,moldova,MDA,sender,False
+Malagasy Republic,malagasy_republic,MDG,sender,False
+Maldives,maldives,MDV,sender,False
+Mexico,mexico,MEX,sender,False
+Marshall Islands,marshall_islands,MHL,sender,False
+Macedonia,macedonia,MKD,sender,False
+Mali,mali,MLI,sender,False
+Malta,malta,MLT,sender,False
+Myanmar,myanmar,MMR,sender,False
+Burma,burma,MMR,sender,False
+Montenegro,montenegro,MNE,sender,False
+Mongolia,mongolia,MNG,sender,False
+Mozambique,mozambique,MOZ,sender,False
+Mauritania,mauritania,MRT,sender,False
+Montserrat,montserrat,MSR,sender,False
+Mauritius,mauritius,MUS,sender,False
+Malawi,malawi,MWI,sender,False
+Malaya,malaya,MYS,sender,False
+Namibia,namibia,NAM,sender,False
+Niger,niger,NER,sender,False
+Nigeria,nigeria,NGA,sender,False
+Nicaragua,nicaragua,NIC,sender,False
+Niue,niue,NIU,sender,False
+Netherlands,netherlands,NLD,sender,False
+Norway,norway,NOR,sender,False
+Nepal,nepal,NPL,sender,False
+Nauru,nauru,NRU,sender,False
+New Zealand,new_zealand,NZL,sender,False
+Muscat and Oman,muscat_and_oman,OMN,sender,False
+Pakistan,pakistan,PAK,sender,False
+Panama,panama,PAN,sender,False
+Peru,peru,PER,sender,False
+Philippines,philippines,PHL,sender,False
+Palau,palau,PLW,sender,False
+Papua New Guinea,papua_new_guinea,PNG,sender,False
+Poland,poland,POL,sender,False
+"Korea, North",korea_north,PRK,sender,False
+Portugal,portugal,PRT,sender,False
+Paraguay,paraguay,PRY,sender,False
+Palestine,palestine,PSE,sender,False
+Qatar,qatar,QAT,sender,False
+Romania,romania,ROU,sender,False
+Russia,russia,RUS,sender,False
+Rwanda,rwanda,RWA,sender,False
+Saudi Arabia,saudi_arabia,SAU,sender,False
+Sudan,sudan,SDN,sender,False
+Senegal,senegal,SEN,sender,False
+Singapore,singapore,SGP,sender,False
+Solomon Islands,solomon_islands,SLB,sender,False
+Sierra Leone,sierra_leone,SLE,sender,False
+El Salvador,el_salvador,SLV,sender,False
+San Marino,san_marino,SMR,sender,False
+Somalia,somalia,SOM,sender,False
+Serbia,serbia,SRB,sender,False
+South Sudan,south_sudan,SSD,sender,False
+Sao Tome and Principe,sao_tome_and_principe,STP,sender,False
+Suriname,suriname,SUR,sender,False
+Slovakia,slovakia,SVK,sender,False
+Slovenia,slovenia,SVN,sender,False
+Soviet Union,soviet_union,SVU,sender,False
+Sweden,sweden,SWE,sender,False
+Swaziland,swaziland,SWZ,sender,False
+Seychelles,seychelles,SYC,sender,False
+Syria,syria,SYR,sender,False
+Chad,chad,TCD,sender,False
+Togo,togo,TGO,sender,False
+Thailand,thailand,THA,sender,False
+Tajikistan,tajikistan,TJK,sender,False
+Turkmenistan,turkmenistan,TKM,sender,False
+East Timor,east_timor,TLS,sender,False
+Tonga,tonga,TON,sender,False
+Trinidad and Tobago,trinidad_and_tobago,TTO,sender,False
+Tunisia,tunisia,TUN,sender,False
+Turkey,turkey,TUR,sender,False
+Tuvalu,tuvalu,TUV,sender,False
+Taiwan,taiwan,TWN,sender,False
+Tanzania,tanzania,TZA,sender,False
+Uganda,uganda,UGA,sender,False
+Ukraine,ukraine,UKR,sender,False
+Uruguay,uruguay,URY,sender,False
+United States,united_states,USA,sender,False
+Uzbekistan,uzbekistan,UZB,sender,False
+Vatican City,vatican_city,VAT,sender,False
+Saint Vincent,saint_vincent,VCT,sender,False
+North Vietnam,north_vietnam,VDR,sender,False
+Venezuela,venezuela,VEN,sender,False
+South Vietnam,south_vietnam,VNM,sender,False
+Vanuatu,vanuatu,VUT,sender,False
+Western Samoa,western_samoa,WSM,sender,False
+"Yemen, North",yemen_north,YEM,sender,False
+Yugoslavia,yugoslavia,YUG,sender,False
+South Africa,south_africa,ZAF,sender,False
+Zambia,zambia,ZMB,sender,False
+Zimbabwe,zimbabwe,ZWE,sender,False
+Angola,angola,AGO,target,False
+Bosnia and Herzegovina,bosnia_and_herzegovina,BIH,target,False
+Central African Republic,central_african_republic,CAF,target,False
+China,china,CHN,target,False
+Cote d'Ivoire,cote_d_ivoire,CIV,target,False
+"Congo, Democratic Republic of the",congo_democratic_republic_of_the,COD,target,False
+Eritrea,eritrea,ERI,target,False
+Ethiopia (excludes Eritrea),ethiopia_excludes_eritrea,ETH,target,False
+Guinea-Bissau,guinea_bissau,GNB,target,False
+Croatia,croatia,HRV,target,False
+Haiti,haiti,HTI,target,False
+India,india,IND,target,False
+Iran,iran,IRN,target,False
+Iraq,iraq,IRQ,target,False
+Kenya,kenya,KEN,target,False
+Cambodia,cambodia,KHM,target,False
+Kuwait,kuwait,KWT,target,False
+Lebanon,lebanon,LBN,target,False
+Liberia,liberia,LBR,target,False
+Libya,libya,LBY,target,False
+Macedonia,macedonia,MKD,target,False
+Mali,mali,MLI,target,False
+Montenegro,montenegro,MNE,target,False
+Nigeria,nigeria,NGA,target,False
+Pakistan,pakistan,PAK,target,False
+"Korea, North",korea_north,PRK,target,False
+Portugal,portugal,PRT,target,False
+Rhodesia,rhodesia,RHO,target,False
+Rwanda,rwanda,RWA,target,False
+Sudan,sudan,SDN,target,False
+Sierra Leone,sierra_leone,SLE,target,False
+Somalia,somalia,SOM,target,False
+Serbia,serbia,SRB,target,False
+South Sudan,south_sudan,SSD,target,False
+Slovenia,slovenia,SVN,target,False
+Syria,syria,SYR,target,False
+"Yemen, North",yemen_north,YEM,target,False
+South Africa,south_africa,ZAF,target,False
+Afghanistan,afghanistan,AFG,target,False
+Burundi,burundi,BDI,target,False
+Burkina Faso,burkina_faso,BFA,target,False
+"Egypt, Arab Rep.",egypt_arab_rep,EGY,target,False
+Gabon,gabon,GAB,target,False
+Guinea,guinea,GIN,target,False
+Malagasy Republic,malagasy_republic,MDG,target,False
+Mauritania,mauritania,MRT,target,False
+Niger,niger,NER,target,False
+Togo,togo,TGO,target,False
+Armenia,armenia,ARM,target,False
+Azerbaijan,azerbaijan,AZE,target,False
+Belarus,belarus,BLR,target,False
+Guatemala,guatemala,GTM,target,False
+Moldova,moldova,MDA,target,False
+Myanmar,myanmar,MMR,target,False
+Russia,russia,RUS,target,False
+Tunisia,tunisia,TUN,target,False
+Ukraine,ukraine,UKR,target,False
+Venezuela,venezuela,VEN,target,False
+Zimbabwe,zimbabwe,ZWE,target,False
+Canada,canada,CAN,target,False
+Germany,germany,DEU,target,False
+Denmark,denmark,DNK,target,False
+United Kingdom,united_kingdom,GBR,target,False
+Israel,israel,ISR,target,False
+Japan,japan,JPN,target,False
+Netherlands,netherlands,NLD,target,False
+Palestine,palestine,PSE,target,False
+Qatar,qatar,QAT,target,False
+United States,united_states,USA,target,False
+Belgium,belgium,BEL,target,False
+Cuba,cuba,CUB,target,False
+Dominican Republic,dominican_republic,DOM,target,False
+France,france,FRA,target,False
+Greece,greece,GRC,target,False
+Honduras,honduras,HND,target,False
+Ireland,ireland,IRL,target,False
+Italy,italy,ITA,target,False
+Luxembourg,luxembourg,LUX,target,False
+Paraguay,paraguay,PRY,target,False
+Fiji,fiji,FJI,target,False
+Grenada,grenada,GRD,target,False
+Albania,albania,ALB,target,False
+Argentina,argentina,ARG,target,False
+Bulgaria,bulgaria,BGR,target,False
+Czechoslovakia,czechoslovakia,CSK,target,False
+German Democratic Republic,german_democratic_republic,DDR,target,False
+Estonia,estonia,EST,target,False
+Georgia,georgia,GEO,target,False
+Hungary,hungary,HUN,target,False
+Indonesia,indonesia,IDN,target,False
+Kazakhstan,kazakhstan,KAZ,target,False
+Kyrgyzstan,kyrgyzstan,KGZ,target,False
+Lithuania,lithuania,LTU,target,False
+Latvia,latvia,LVA,target,False
+Mongolia,mongolia,MNG,target,False
+Poland,poland,POL,target,False
+Romania,romania,ROU,target,False
+Soviet Union,soviet_union,SVU,target,False
+Tajikistan,tajikistan,TJK,target,False
+Turkmenistan,turkmenistan,TKM,target,False
+Uzbekistan,uzbekistan,UZB,target,False
+South Vietnam,south_vietnam,VNM,target,False
+United Arab Emirates,united_arab_emirates,ARE,target,False
+Benin,benin,BEN,target,False
+Belize,belize,BLZ,target,False
+Cameroon,cameroon,CMR,target,False
+"Congo, Republic of the",congo_republic_of_the,COG,target,False
+Colombia,colombia,COL,target,False
+"Gambia, The",gambia_the,GMB,target,False
+Equatorial Guinea,equatorial_guinea,GNQ,target,False
+Hong Kong,hong_kong,HKG,target,False
+Kosovo,kosovo,KSV,target,False
+Ceylon,ceylon,LKA,target,False
+Mozambique,mozambique,MOZ,target,False
+Malawi,malawi,MWI,target,False
+Nicaragua,nicaragua,NIC,target,False
+Philippines,philippines,PHL,target,False
+Singapore,singapore,SGP,target,False
+Chad,chad,TCD,target,False
+Thailand,thailand,THA,target,False
+Turkey,turkey,TUR,target,False
+Tanzania,tanzania,TZA,target,False
+Vanuatu,vanuatu,VUT,target,False
+Zambia,zambia,ZMB,target,False
+Austria,austria,AUT,target,False
+Chile,chile,CHL,target,False
+Algeria,algeria,DZA,target,False
+Cape Verde,cape_verde,CPV,target,False
+Ghana,ghana,GHA,target,False
+Senegal,senegal,SEN,target,False
+Brazil,brazil,BRA,target,False
+Cyprus,cyprus,CYP,target,False
+Czech Republic,czech_republic,CZE,target,False
+Spain,spain,ESP,target,False
+Finland,finland,FIN,target,False
+Laos,laos,LAO,target,False
+Malta,malta,MLT,target,False
+Peru,peru,PER,target,False
+Saudi Arabia,saudi_arabia,SAU,target,False
+Slovakia,slovakia,SVK,target,False
+Sweden,sweden,SWE,target,False
+Uganda,uganda,UGA,target,False
+Australia,australia,AUS,target,False
+"Korea, South",korea_south,KOR,target,False
+Burma,burma,MMR,target,False
+Norway,norway,NOR,target,False
+Taiwan,taiwan,TWN,target,False
+Cyprus (Northern),cyprus_northern,CYP,target,False
+El Salvador,el_salvador,SLV,target,False
+Yugoslavia,yugoslavia,YUG,target,False
+Morocco,morocco,MAR,target,False
+Transjordan,transjordan,JOR,target,False
+Gibraltar,gibraltar,GIB,target,False
+New Zealand,new_zealand,NZL,target,False
+Lesotho,lesotho,LSO,target,False
+Nepal,nepal,NPL,target,False
+Malaya,malaya,MYS,target,False
+Switzerland,switzerland,CHE,target,False
+Ecuador,ecuador,ECU,target,False
+Suriname,suriname,SUR,target,False
+Iceland,iceland,ISL,target,False
+Liechtenstein,liechtenstein,LIE,target,False
+Andorra,andorra,AND,target,False
+Antigua and Barbuda,antigua_and_barbuda,ATG,target,False
+Bangladesh,bangladesh,BGD,target,False
+Bahrain,bahrain,BHR,target,False
+Bolivia,bolivia,BOL,target,False
+Barbados,barbados,BRB,target,False
+Botswana,botswana,BWA,target,False
+Comoros,comoros,COM,target,False
+Costa Rica,costa_rica,CRI,target,False
+Djibouti,djibouti,DJI,target,False
+Dominica,dominica,DMA,target,False
+Guyana,guyana,GUY,target,False
+Jamaica,jamaica,JAM,target,False
+Saint Lucia,saint_lucia,LCA,target,False
+Maldives,maldives,MDV,target,False
+Mexico,mexico,MEX,target,False
+Marshall Islands,marshall_islands,MHL,target,False
+Mauritius,mauritius,MUS,target,False
+Namibia,namibia,NAM,target,False
+Nauru,nauru,NRU,target,False
+Muscat and Oman,muscat_and_oman,OMN,target,False
+Panama,panama,PAN,target,False
+Palau,palau,PLW,target,False
+San Marino,san_marino,SMR,target,False
+Seychelles,seychelles,SYC,target,False
+Trinidad and Tobago,trinidad_and_tobago,TTO,target,False
+Uruguay,uruguay,URY,target,False
+North Vietnam,north_vietnam,VDR,target,False
+Western Samoa,western_samoa,WSM,target,False

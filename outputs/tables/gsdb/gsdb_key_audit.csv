@@ -1,0 +1,11 @@
+dataset,level,candidate_key,rows,missing_key_rows,duplicate_key_rows,unique_key_values,is_unique_complete_key
+R5,case,case_id,1794,0,0,1794,True
+R5,dyadic,case_id,170563,0,169833,2346,False
+R5,dyadic,case_id + sanctioning_state_iso3 + sanctioned_state_iso3 + year,170563,0,0,170563,True
+R5,dyadic,case_id + sanctioning_state + sanctioned_state + year,170563,0,0,170563,True
+R5,dyadic,sanctioning_state_iso3 + sanctioned_state_iso3 + year,170563,0,8326,165132,False
+FS,case,case_id,1072,0,0,1072,True
+FS,dyadic,case_id,91914,0,91336,1695,False
+FS,dyadic,case_id + sanctioning_state_iso3 + sanctioned_state_iso3 + year,91914,0,0,91914,True
+FS,dyadic,case_id + sanctioning_state + sanctioned_state + year,91914,0,0,91914,True
+FS,dyadic,sanctioning_state_iso3 + sanctioned_state_iso3 + year,91914,0,8326,86483,False

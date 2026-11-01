@@ -1,0 +1,16 @@
+dataset,category,anchor_rows_active,anchor_cases_active,country_anchor_years_active
+R5,arms,2821,424,2821
+R5,military,2968,402,2968
+R5,trade,3733,591,3654
+R5,financial,3676,766,3652
+R5,travel,1811,498,1663
+R5,other,708,188,700
+R5,target_mult,3219,368,3165
+R5,sender_mult,4306,421,4297
+FS,financial,3676,766,3652
+FS,fin_asset_freeze,2048,563,2030
+FS,fin_services,1346,411,1327
+FS,fin_aid,1025,264,1025
+FS,fin_investment,1472,230,1468
+FS,fin_other,28,19,28
+FS,fin_payment_infra,38,18,38

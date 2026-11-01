@@ -1,0 +1,56 @@
+{
+  "study_period": [
+    2000,
+    2025
+  ],
+  "r5": {
+    "dyad_rows": 3943,
+    "country_anchor_years": 3764,
+    "bridge": {
+      "dataset": "R5",
+      "bridge_rows": 7583,
+      "bridge_unique_case_ids": 629,
+      "invalid_against_r5_master_rows": 0,
+      "invalid_against_r5_master_unique_ids": 0,
+      "rows_in_dataset_subset": 7583,
+      "unique_ids_in_dataset_subset": 629,
+      "rows_outside_dataset_subset": 0,
+      "unique_ids_outside_dataset_subset": 0,
+      "duplicate_bridge_rows": 0
+    },
+    "active_case_count_max": 27,
+    "distinct_family_count_max": 6
+  },
+  "fs": {
+    "dyad_rows": 2108,
+    "country_anchor_years": 2084,
+    "bridge": {
+      "dataset": "FS",
+      "bridge_rows": 5607,
+      "bridge_unique_case_ids": 576,
+      "invalid_against_r5_master_rows": 0,
+      "invalid_against_r5_master_unique_ids": 0,
+      "rows_in_dataset_subset": 4189,
+      "unique_ids_in_dataset_subset": 426,
+      "rows_outside_dataset_subset": 1418,
+      "unique_ids_outside_dataset_subset": 150,
+      "duplicate_bridge_rows": 0
+    },
+    "active_case_count_max": 23,
+    "distinct_subcategory_count_max": 5
+  },
+  "non_country_entities": {
+    "audit_rows": 208,
+    "distinct_case_ids": 4,
+    "exclusion_reasons": {
+      "non_state_sanctions_target": 208
+    }
+  },
+  "combined_country_anchor_years": 3764,
+  "fs_country_years_without_r5_financial_flag": 0,
+  "candidate_state_counts": {
+    "severely_strained": 2278,
+    "strained": 1486
+  },
+  "rupture_identifiable_from_sanctions_alone": false
+}

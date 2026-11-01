@@ -1,0 +1,786 @@
+country,anchor,year,drd_condition_signal,Embassy__anchor_to_country,Embassy__country_to_anchor,Focus__anchor_to_country,Focus__country_to_anchor,LOR__anchor_to_country,LOR__country_to_anchor,band_drop__anchor_to_country,band_drop__country_to_anchor,band_gain__anchor_to_country,band_gain__country_to_anchor,lor_band__anchor_to_country,lor_band__country_to_anchor,previous_band__anchor_to_country,previous_band__country_to_anchor,previous_lor__anchor_to_country,previous_lor__country_to_anchor,directional_coverage,bilateral_lor_mean,available_direction_lor_mean,drd_condition_severity
+Afghanistan,United States,2000,severely_strained,4.0,,3.0,,0.0,,,,,,0.0,,,,,,anchor_to_country_only,,0.0,2
+Afghanistan,United States,2001,normal,4.0,,1.0,,0.75,,-3.0,,3.0,,3.0,,0.0,,0.0,,anchor_to_country_only,,0.75,0
+Afghanistan,United States,2002,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+Afghanistan,United States,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Andorra,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Andorra,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2004,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Andorra,United States,2005,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Andorra,United States,2006,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Andorra,United States,2007,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Andorra,United States,2008,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Andorra,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Andorra,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Angola,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2002,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2012,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2013,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2015,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2018,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2019,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2020,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2021,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2022,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2023,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,China,2024,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Antigua and Barbuda,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2015,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Antigua and Barbuda,United States,2016,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Antigua and Barbuda,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Argentina,United States,2016,normal,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,,anchor_to_country_only,,0.75,0
+Armenia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Armenia,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Armenia,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Bahamas,China,2001,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Bahamas,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Bahamas,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Bahamas,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Bahamas,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Barbados,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Barbados,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Belize,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Bhutan,United States,2016,normal,,3.0,,1.0,,0.125,,,,,,1.0,,,,,country_to_anchor_only,,0.125,0
+Bosnia and Herzegovina,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Bosnia and Herzegovina,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Bosnia and Herzegovina,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Cabo Verde,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Cabo Verde,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Central African Republic,China,2000,normal,4.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Central African Republic,China,2001,normal,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Central African Republic,China,2002,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+Central African Republic,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Central African Republic,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Central African Republic,China,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Central African Republic,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Central African Republic,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Chad,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+China,United States,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2012,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2013,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2015,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2018,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2019,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2020,normal,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,,anchor_to_country_only,,0.75,0
+China,United States,2021,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+China,United States,2022,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2023,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+China,United States,2024,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Comoros,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2012,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2013,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2015,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,China,2018,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Comoros,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Comoros,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2018,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Comoros,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Comoros,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Congo-Brazzaville,United States,2003,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Brazzaville,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Congo-Kinshasa,China,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Djibouti,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Djibouti,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Djibouti,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Dominica,China,2003,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Dominica,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Dominica,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Dominica,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2008,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Dominica,United States,2009,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Dominica,United States,2010,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Dominica,United States,2011,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Dominica,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Dominica,United States,2022,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Dominica,United States,2023,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Dominica,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Equatorial Guinea,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Equatorial Guinea,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Equatorial Guinea,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Equatorial Guinea,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Equatorial Guinea,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Estonia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Estonia,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Estonia,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Estonia,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Estonia,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Estonia,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Fiji,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Fiji,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Fiji,United States,2022,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+Fiji,United States,2023,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Gambia, The",China,2016,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+"Gambia, The",China,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Gambia, The",China,2018,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Gambia, The",China,2019,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Georgia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Georgia,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Georgia,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Georgia,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Georgia,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Grenada,China,2005,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Grenada,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Grenada,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Grenada,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Guinea-Bissau,China,2000,normal,,1.0,,1.0,,0.75,,,,,,3.0,,,,,country_to_anchor_only,,0.75,0
+Guinea-Bissau,China,2001,normal,,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Guinea-Bissau,China,2002,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2004,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Guinea-Bissau,United States,2005,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Guinea-Bissau,United States,2006,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Guinea-Bissau,United States,2007,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2012,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Guinea-Bissau,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Hungary,United States,2016,normal,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Iran,United States,2000,normal,,3.0,,2.0,,0.125,,,,,,1.0,,,,,country_to_anchor_only,,0.125,0
+Iran,United States,2001,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2002,normal,,3.0,,2.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2003,normal,,3.0,,2.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2004,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2005,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2006,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2007,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2008,normal,,3.0,,2.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2009,normal,,3.0,,2.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2010,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2011,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2012,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2013,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2014,normal,,1.0,,1.0,,0.75,,-2.0,,2.0,,3.0,,1.0,,0.125,country_to_anchor_only,,0.75,0
+Iran,United States,2017,normal,,3.0,,2.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iran,United States,2018,severely_strained,,3.0,,3.0,,0.0,,1.0,,-1.0,,0.0,,1.0,,0.125,country_to_anchor_only,,0.0,2
+Iraq,United States,2000,normal,,3.0,,2.0,,0.125,,,,,,1.0,,,,,country_to_anchor_only,,0.125,0
+Iraq,United States,2001,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Iraq,United States,2004,normal,,3.0,,1.0,,0.125,,0.0,,0.0,,1.0,,1.0,,0.125,country_to_anchor_only,,0.125,0
+Jamaica,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Jamaica,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Jamaica,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Jamaica,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Jamaica,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Jamaica,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Kiribati,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2020,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Kiribati,China,2021,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2022,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,China,2024,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Kiribati,United States,2018,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Kiribati,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kiribati,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kiribati,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kiribati,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kiribati,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kiribati,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Kosovo,United States,2008,normal,4.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Latvia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Liberia,China,2003,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Liberia,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Liberia,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Libya,United States,2006,normal,,1.0,,1.0,,0.75,,,,,,3.0,,,,,country_to_anchor_only,,0.75,0
+Libya,United States,2007,normal,,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Libya,United States,2015,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Libya,United States,2016,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Libya,United States,2017,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Libya,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Libya,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Libya,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Libya,United States,2021,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Libya,United States,2022,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Libya,United States,2023,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Libya,United States,2024,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Liechtenstein,United States,2004,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2017,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Liechtenstein,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Lithuania,China,2021,severely_strained,6.0,,3.0,,0.0,,4.0,,-4.0,,0.0,,4.0,,1.0,,anchor_to_country_only,,0.0,2
+Lithuania,China,2022,severely_strained,6.0,,3.0,,0.0,,0.0,,0.0,,0.0,,0.0,,0.0,,anchor_to_country_only,,0.0,2
+Lithuania,China,2023,normal,6.0,,1.0,,1.0,,-4.0,,4.0,,4.0,,0.0,,0.0,,anchor_to_country_only,,1.0,0
+Lithuania,China,2024,severely_strained,6.0,,3.0,,0.0,,4.0,,-4.0,,0.0,,4.0,,1.0,,anchor_to_country_only,,0.0,2
+Macedonia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Macedonia,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Macedonia,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Macedonia,United States,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Macedonia,United States,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Maldives,China,2008,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Maldives,China,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,China,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,China,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2004,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Maldives,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2009,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Maldives,United States,2010,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Maldives,United States,2011,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Maldives,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Maldives,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Mali,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Mauritius,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Mauritius,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Mauritius,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Mauritius,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+"Micronesia, Federated States of",China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Monaco,United States,2008,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Monaco,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Monaco,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Montenegro,China,2007,normal,4.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Nauru,China,2003,normal,1.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Nauru,China,2004,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+Nauru,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Nauru,China,2024,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Nauru,United States,2006,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Nauru,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Nauru,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Netherlands,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Nicaragua,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Nicaragua,China,2021,normal,1.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Nicaragua,China,2022,normal,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Niger,China,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Panama,China,2016,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Rwanda,China,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Rwanda,China,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2022,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Saint Kitts and Nevis,United States,2023,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Saint Kitts and Nevis,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Saint Lucia,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2008,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Saint Lucia,United States,2009,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2021,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Saint Lucia,United States,2022,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Lucia,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2016,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Saint Vincent and the Grenadines,United States,2017,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Saint Vincent and the Grenadines,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Samoa,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Samoa,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,China,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Samoa,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Samoa,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Samoa,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Samoa,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Samoa,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2010,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+San Marino,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+San Marino,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,China,2016,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Sao Tome and Principe,United States,2007,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sao Tome and Principe,United States,2018,severely_strained,,6.0,,3.0,,0.0,,4.0,,-4.0,,0.0,,4.0,,1.0,country_to_anchor_only,,0.0,2
+Senegal,China,2006,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Serbia and Montenegro,United States,2000,normal,4.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Serbia and Montenegro,United States,2001,normal,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,,anchor_to_country_only,,1.0,0
+Seychelles,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Seychelles,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Seychelles,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Seychelles,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2002,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Seychelles,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Slovenia,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Solomon Islands,China,2020,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Solomon Islands,China,2021,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Solomon Islands,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2001,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2002,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+Solomon Islands,United States,2003,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Solomon Islands,United States,2004,normal,,6.0,,1.0,,1.0,,-1.0,,1.0,,4.0,,3.0,,0.75,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Solomon Islands,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,China,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,United States,2000,normal,1.0,,1.0,,0.75,,,,,,3.0,,,,,,anchor_to_country_only,,0.75,0
+Somalia,United States,2001,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2002,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2003,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2004,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2005,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2006,normal,1.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,,anchor_to_country_only,,0.75,0
+Somalia,United States,2011,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Somalia,United States,2015,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Somalia,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,United States,2017,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Somalia,United States,2018,normal,,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,country_to_anchor_only,,0.75,0
+South Sudan,China,2012,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+South Sudan,United States,2012,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Sudan,China,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Sudan,United States,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Suriname,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Suriname,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Suriname,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Suriname,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Suriname,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Syria,United States,2013,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Syria,United States,2014,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Syria,United States,2015,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Syria,United States,2016,normal,,4.0,,1.0,,0.75,,0.0,,0.0,,3.0,,3.0,,0.75,country_to_anchor_only,,0.75,0
+Tajikistan,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Tajikistan,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tajikistan,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tajikistan,United States,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Tajikistan,United States,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tajikistan,United States,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tajikistan,United States,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tanzania,China,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tanzania,China,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Timor-Leste,China,2003,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Timor-Leste,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Timor-Leste,United States,2003,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Tonga,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Tonga,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tonga,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tonga,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tonga,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tonga,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tonga,United States,2002,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Tonga,United States,2003,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2004,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2005,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2006,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2007,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2008,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2009,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2010,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2011,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2012,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2013,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2014,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2015,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2018,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Tonga,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tonga,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Trinidad and Tobago,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2012,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2013,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Trinidad and Tobago,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Turkmenistan,China,2000,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Turkmenistan,United States,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Tuvalu,United States,2013,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Tuvalu,United States,2016,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tuvalu,United States,2017,normal,6.0,,2.0,,0.5,,,,,,2.0,,,,,,anchor_to_country_only,,0.5,0
+Tuvalu,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Tuvalu,United States,2024,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+United States,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+United States,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2006,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2007,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2008,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2009,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2010,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2011,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2012,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2013,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2014,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2015,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2016,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2017,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2018,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2019,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2020,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2021,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2022,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2023,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+United States,China,2024,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2001,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2002,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2003,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2004,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,China,2005,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Vanuatu,United States,2000,normal,6.0,,1.0,,1.0,,,,,,4.0,,,,,,anchor_to_country_only,,1.0,0
+Vanuatu,United States,2018,normal,,6.0,,1.0,,1.0,,,,,,4.0,,,,,country_to_anchor_only,,1.0,0
+Vanuatu,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Vanuatu,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Vanuatu,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Vanuatu,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Vanuatu,United States,2023,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Venezuela,United States,2022,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Venezuela,United States,2023,normal,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,,anchor_to_country_only,,1.0,0
+Venezuela,United States,2024,normal,4.0,,1.0,,0.75,,1.0,,-1.0,,3.0,,4.0,,1.0,,anchor_to_country_only,,0.75,0
+Yemen,United States,2018,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Yemen,United States,2019,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Yemen,United States,2020,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Yemen,United States,2021,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0
+Yemen,United States,2022,normal,,6.0,,1.0,,1.0,,0.0,,0.0,,4.0,,4.0,,1.0,country_to_anchor_only,,1.0,0

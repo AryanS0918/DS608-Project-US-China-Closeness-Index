@@ -1,0 +1,12 @@
+anchor,trade_scope_profile,country_anchor_years
+China,export_complete+import_complete,4
+China,export_partial,12
+China,export_partial+import_partial,157
+China,import_partial,60
+United States,export_complete+import_complete,82
+United States,export_complete+import_partial,5
+United States,export_partial,29
+United States,export_partial+import_partial,582
+United States,import_complete,3
+United States,import_complete+export_partial,19
+United States,import_partial,98

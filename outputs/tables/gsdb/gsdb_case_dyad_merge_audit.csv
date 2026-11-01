@@ -1,0 +1,4 @@
+dataset,case_rows,dyad_rows,case_id_case_column,case_id_dyad_column,case_id_unique_case_level,case_ids_case_level,case_ids_dyad_level,dyad_case_ids_missing_from_case,case_ids_without_dyad_rows,r5_case_ids,fs_case_ids,shared_case_ids,fs_ids_not_in_r5,r5_ids_not_in_fs,fs_is_subset_of_r5
+R5,1794.0,170563.0,case_id,case_id,True,1794.0,2346.0,2346.0,1794.0,,,,,,
+FS,1072.0,91914.0,case_id,case_id,True,1072.0,1695.0,1695.0,1072.0,,,,,,
+R5-FS compatibility,,,,,,,,,,1794.0,1072.0,1072.0,0.0,722.0,True

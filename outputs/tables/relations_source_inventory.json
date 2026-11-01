@@ -1,0 +1,2274 @@
+{
+  "generated_at": "2026-11-01T15:36:13",
+  "repository_root": ".",
+  "sources_root": "data/sources/relations",
+  "restricted_root": "data/raw/relations",
+  "files": [
+    {
+      "path": "data/raw/relations/gsdb/CHECKSUMS.sha256",
+      "filename": "CHECKSUMS.sha256",
+      "extension": ".sha256",
+      "storage_class": "restricted_raw",
+      "size_bytes": 1752,
+      "modified_at": "2026-10-24T20:51:32",
+      "sha256": "52e7605b4bebde95d9fda147b2a36c15978b6fdb35f9b65142567a74b307bcc2",
+      "years_in_filename": [],
+      "warnings": [],
+      "note": "Metadata only; no dedicated parser configured."
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv",
+      "filename": "GSDB-FS.csv",
+      "extension": ".csv",
+      "storage_class": "restricted_raw",
+      "size_bytes": 72127,
+      "modified_at": "2026-08-14T00:42:22",
+      "sha256": "c71b7a42628b64145a65add58a13ecd9ef24a8ea46955e39c235851b99705ab5",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv",
+          "sheet": null,
+          "rows": 1072,
+          "columns": 7,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "case_id",
+            "case_id + sanctioning_state",
+            "case_id + sanctioned_state",
+            "case_id + begin_year",
+            "case_id + end_year"
+          ],
+          "temporal_coverage": {
+            "begin_year": {
+              "kind": "year",
+              "min": 1950,
+              "max": 2025,
+              "non_missing": 1072
+            },
+            "end_year": {
+              "kind": "year",
+              "min": 1953,
+              "max": 2025,
+              "non_missing": 1072
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state": {
+              "non_missing": 1072,
+              "unique": 116
+            },
+            "sanctioned_state": {
+              "non_missing": 1072,
+              "unique": 191
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Codebook.pdf",
+      "filename": "GSDB-FS_Codebook.pdf",
+      "extension": ".pdf",
+      "storage_class": "restricted_raw",
+      "size_bytes": 307526,
+      "modified_at": "2026-08-15T20:39:46",
+      "sha256": "aa2a7438a4f423bdf5b99c294b88aabcc311965ebc4f6c20066a69feb8c38887",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta",
+      "filename": "GSDB-FS_Dyadic.dta",
+      "extension": ".dta",
+      "storage_class": "restricted_raw",
+      "size_bytes": 10192067,
+      "modified_at": "2026-08-14T00:44:24",
+      "sha256": "2de834241cf79ab1fd1926728f077dc7999b4aca652fd1de7463f657baabf4f9",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta",
+          "sheet": null,
+          "rows": 91914,
+          "columns": 14,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "date",
+              "min": "1950-01-01",
+              "max": "2025-01-01",
+              "non_missing": 91914
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state_iso3": {
+              "non_missing": 91914,
+              "unique": 204
+            },
+            "sanctioning_state": {
+              "non_missing": 91914,
+              "unique": 206
+            },
+            "sanctioned_state_iso3": {
+              "non_missing": 91914,
+              "unique": 161
+            },
+            "sanctioned_state": {
+              "non_missing": 91914,
+              "unique": 166
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv",
+      "filename": "GSDB-R5.csv",
+      "extension": ".csv",
+      "storage_class": "restricted_raw",
+      "size_bytes": 189401,
+      "modified_at": "2026-08-14T00:42:22",
+      "sha256": "ac552dc9eb5d769df45fe007af3c6761c07c638d70865c41e8aa25144c61490a",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv",
+          "sheet": null,
+          "rows": 1794,
+          "columns": 18,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "case_id",
+            "case_id + sanctioned_state",
+            "case_id + sanctioning_state",
+            "case_id + begin_year",
+            "case_id + end_year",
+            "case_id + target_mult",
+            "case_id + sender_mult"
+          ],
+          "temporal_coverage": {
+            "begin_year": {
+              "kind": "year",
+              "min": 1949,
+              "max": 2025,
+              "non_missing": 1794
+            },
+            "end_year": {
+              "kind": "year",
+              "min": 1951,
+              "max": 2025,
+              "non_missing": 1794
+            },
+            "sender_mult": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 1794
+            }
+          },
+          "geographic_fields": {
+            "sanctioned_state": {
+              "non_missing": 1794,
+              "unique": 241
+            },
+            "sanctioning_state": {
+              "non_missing": 1794,
+              "unique": 197
+            },
+            "target_mult": {
+              "non_missing": 1794,
+              "unique": 2
+            },
+            "sender_mult": {
+              "non_missing": 1794,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Codebook.pdf",
+      "filename": "GSDB-R5_Codebook.pdf",
+      "extension": ".pdf",
+      "storage_class": "restricted_raw",
+      "size_bytes": 320806,
+      "modified_at": "2026-08-15T19:53:14",
+      "sha256": "a86146027272894228c315e23fbdc0d6abffe2db892fe45c6a18c7a9aa5f1149",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta",
+      "filename": "GSDB-R5_Dyadic.dta",
+      "extension": ".dta",
+      "storage_class": "restricted_raw",
+      "size_bytes": 21883352,
+      "modified_at": "2026-08-14T00:44:22",
+      "sha256": "f146013d39ea97da5f8b9111397c5c8ea55b7d9d4628d6d448c2599255cd12bf",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta",
+          "sheet": null,
+          "rows": 170563,
+          "columns": 17,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "date",
+              "min": "1950-01-01",
+              "max": "2025-01-01",
+              "non_missing": 170563
+            },
+            "sender_mult": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 170563
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state_iso3": {
+              "non_missing": 170563,
+              "unique": 210
+            },
+            "sanctioning_state": {
+              "non_missing": 170563,
+              "unique": 212
+            },
+            "sanctioned_state_iso3": {
+              "non_missing": 170563,
+              "unique": 190
+            },
+            "sanctioned_state": {
+              "non_missing": 170563,
+              "unique": 196
+            },
+            "target_mult": {
+              "non_missing": 170563,
+              "unique": 2
+            },
+            "sender_mult": {
+              "non_missing": 170563,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/financial/GSDB-FS.csv",
+      "filename": "GSDB-FS.csv",
+      "extension": ".csv",
+      "storage_class": "restricted_raw",
+      "size_bytes": 72127,
+      "modified_at": "2026-08-14T00:42:22",
+      "sha256": "c71b7a42628b64145a65add58a13ecd9ef24a8ea46955e39c235851b99705ab5",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/financial/GSDB-FS.csv",
+          "sheet": null,
+          "rows": 1072,
+          "columns": 7,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "case_id",
+            "case_id + sanctioning_state",
+            "case_id + sanctioned_state",
+            "case_id + begin_year",
+            "case_id + end_year"
+          ],
+          "temporal_coverage": {
+            "begin_year": {
+              "kind": "year",
+              "min": 1950,
+              "max": 2025,
+              "non_missing": 1072
+            },
+            "end_year": {
+              "kind": "year",
+              "min": 1953,
+              "max": 2025,
+              "non_missing": 1072
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state": {
+              "non_missing": 1072,
+              "unique": 116
+            },
+            "sanctioned_state": {
+              "non_missing": 1072,
+              "unique": 191
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/financial/GSDB-FS_Codebook.pdf",
+      "filename": "GSDB-FS_Codebook.pdf",
+      "extension": ".pdf",
+      "storage_class": "restricted_raw",
+      "size_bytes": 307526,
+      "modified_at": "2026-08-15T20:39:46",
+      "sha256": "aa2a7438a4f423bdf5b99c294b88aabcc311965ebc4f6c20066a69feb8c38887",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta",
+      "filename": "GSDB-FS_Dyadic.dta",
+      "extension": ".dta",
+      "storage_class": "restricted_raw",
+      "size_bytes": 10192067,
+      "modified_at": "2026-08-14T00:44:24",
+      "sha256": "2de834241cf79ab1fd1926728f077dc7999b4aca652fd1de7463f657baabf4f9",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta",
+          "sheet": null,
+          "rows": 91914,
+          "columns": 14,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "date",
+              "min": "1950-01-01",
+              "max": "2025-01-01",
+              "non_missing": 91914
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state_iso3": {
+              "non_missing": 91914,
+              "unique": 204
+            },
+            "sanctioning_state": {
+              "non_missing": 91914,
+              "unique": 206
+            },
+            "sanctioned_state_iso3": {
+              "non_missing": 91914,
+              "unique": 161
+            },
+            "sanctioned_state": {
+              "non_missing": 91914,
+              "unique": 166
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/r5/GSDB-R5.csv",
+      "filename": "GSDB-R5.csv",
+      "extension": ".csv",
+      "storage_class": "restricted_raw",
+      "size_bytes": 189401,
+      "modified_at": "2026-08-14T00:42:22",
+      "sha256": "ac552dc9eb5d769df45fe007af3c6761c07c638d70865c41e8aa25144c61490a",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/r5/GSDB-R5.csv",
+          "sheet": null,
+          "rows": 1794,
+          "columns": 18,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "case_id",
+            "case_id + sanctioned_state",
+            "case_id + sanctioning_state",
+            "case_id + begin_year",
+            "case_id + end_year",
+            "case_id + target_mult",
+            "case_id + sender_mult"
+          ],
+          "temporal_coverage": {
+            "begin_year": {
+              "kind": "year",
+              "min": 1949,
+              "max": 2025,
+              "non_missing": 1794
+            },
+            "end_year": {
+              "kind": "year",
+              "min": 1951,
+              "max": 2025,
+              "non_missing": 1794
+            },
+            "sender_mult": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 1794
+            }
+          },
+          "geographic_fields": {
+            "sanctioned_state": {
+              "non_missing": 1794,
+              "unique": 241
+            },
+            "sanctioning_state": {
+              "non_missing": 1794,
+              "unique": 197
+            },
+            "target_mult": {
+              "non_missing": 1794,
+              "unique": 2
+            },
+            "sender_mult": {
+              "non_missing": 1794,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/relations/gsdb/r5/GSDB-R5_Codebook.pdf",
+      "filename": "GSDB-R5_Codebook.pdf",
+      "extension": ".pdf",
+      "storage_class": "restricted_raw",
+      "size_bytes": 320806,
+      "modified_at": "2026-08-15T19:53:14",
+      "sha256": "a86146027272894228c315e23fbdc0d6abffe2db892fe45c6a18c7a9aa5f1149",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta",
+      "filename": "GSDB-R5_Dyadic.dta",
+      "extension": ".dta",
+      "storage_class": "restricted_raw",
+      "size_bytes": 21883352,
+      "modified_at": "2026-08-14T00:44:22",
+      "sha256": "f146013d39ea97da5f8b9111397c5c8ea55b7d9d4628d6d448c2599255cd12bf",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta",
+          "sheet": null,
+          "rows": 170563,
+          "columns": 17,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "date",
+              "min": "1950-01-01",
+              "max": "2025-01-01",
+              "non_missing": 170563
+            },
+            "sender_mult": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 170563
+            }
+          },
+          "geographic_fields": {
+            "sanctioning_state_iso3": {
+              "non_missing": 170563,
+              "unique": 210
+            },
+            "sanctioning_state": {
+              "non_missing": 170563,
+              "unique": 212
+            },
+            "sanctioned_state_iso3": {
+              "non_missing": 170563,
+              "unique": 190
+            },
+            "sanctioned_state": {
+              "non_missing": 170563,
+              "unique": 196
+            },
+            "target_mult": {
+              "non_missing": 170563,
+              "unique": 2
+            },
+            "sender_mult": {
+              "non_missing": 170563,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/sources/relations/Bilateral Investment Treaty with China.xlsx",
+      "filename": "Bilateral Investment Treaty with China.xlsx",
+      "extension": ".xlsx",
+      "storage_class": "tracked_source",
+      "size_bytes": 34255,
+      "modified_at": "2026-10-24T20:39:42",
+      "sha256": "6bf66b92900c2b9d015bcc811b1a0f2397a2a54d4bb1353901fbc7c65a53caaf",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/Bilateral Investment Treaty with China.xlsx",
+          "sheet": "Treaties",
+          "rows": 150,
+          "columns": 13,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "Parties + Date of signature",
+            "Date of signature + Amendment protocols"
+          ],
+          "temporal_coverage": {
+            "Date of signature": {
+              "kind": "date",
+              "min": "1982-03-29",
+              "max": "2025-06-16",
+              "non_missing": 150
+            },
+            "Date of entry into force": {
+              "kind": "date",
+              "min": "1982-03-29",
+              "max": "2025-12-01",
+              "non_missing": 131
+            },
+            "Date of termination": {
+              "kind": "date",
+              "min": "2004-08-01",
+              "max": "2025-12-01",
+              "non_missing": 24
+            }
+          },
+          "geographic_fields": {
+            "Parties": {
+              "non_missing": 150,
+              "unique": 132
+            },
+            "Date of termination": {
+              "non_missing": 24,
+              "unique": 24
+            },
+            "Type of termination": {
+              "non_missing": 24,
+              "unique": 2
+            }
+          }
+        }
+      ],
+      "workbook_structure": {
+        "sheet_names": [
+          "Treaties"
+        ],
+        "sheet_dimensions": {
+          "Treaties": {
+            "max_row": 151,
+            "max_column": 13
+          }
+        }
+      }
+    },
+    {
+      "path": "data/sources/relations/Bilateral Investment Treaty with US.xlsx",
+      "filename": "Bilateral Investment Treaty with US.xlsx",
+      "extension": ".xlsx",
+      "storage_class": "tracked_source",
+      "size_bytes": 29335,
+      "modified_at": "2026-10-24T20:39:36",
+      "sha256": "fbc1fb5319b101ac6c2369ed39c15fcca3fa0ca2d82d09a011e53654c04c4a68",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/Bilateral Investment Treaty with US.xlsx",
+          "sheet": "Treaties",
+          "rows": 53,
+          "columns": 13,
+          "duplicate_rows": 3,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "Date of signature": {
+              "kind": "date",
+              "min": "1982-10-27",
+              "max": "2008-02-19",
+              "non_missing": 47
+            },
+            "Date of entry into force": {
+              "kind": "date",
+              "min": "1989-03-03",
+              "max": "2012-01-01",
+              "non_missing": 41
+            },
+            "Date of termination": {
+              "kind": "date",
+              "min": "2012-06-10",
+              "max": "2018-05-18",
+              "non_missing": 2
+            }
+          },
+          "geographic_fields": {
+            "Parties": {
+              "non_missing": 47,
+              "unique": 47
+            },
+            "Date of termination": {
+              "non_missing": 2,
+              "unique": 2
+            },
+            "Type of termination": {
+              "non_missing": 2,
+              "unique": 1
+            }
+          }
+        }
+      ],
+      "workbook_structure": {
+        "sheet_names": [
+          "Treaties"
+        ],
+        "sheet_dimensions": {
+          "Treaties": {
+            "max_row": 61,
+            "max_column": 13
+          }
+        }
+      }
+    },
+    {
+      "path": "data/sources/relations/US-China Index Treaties Sources.docx",
+      "filename": "US-China Index Treaties Sources.docx",
+      "extension": ".docx",
+      "storage_class": "tracked_source",
+      "size_bytes": 27826,
+      "modified_at": "2026-10-24T20:39:56",
+      "sha256": "ae691bbd8dcfda6b7c27a3e5109fde11ed0fe0fcfb9e5699fa43d7bd8c73502b",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "docx"
+    },
+    {
+      "path": "data/sources/relations/US-China Index Treaties.xlsx",
+      "filename": "US-China Index Treaties.xlsx",
+      "extension": ".xlsx",
+      "storage_class": "tracked_source",
+      "size_bytes": 106333,
+      "modified_at": "2026-10-24T20:39:52",
+      "sha256": "7c694d6b152c663e8890d64b3b1994dcd99d8424c3ffabd53b5803797df80240",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/US-China Index Treaties.xlsx",
+          "sheet": "Sheet2",
+          "rows": 27,
+          "columns": 5,
+          "duplicate_rows": 3,
+          "candidate_keys": [],
+          "temporal_coverage": {},
+          "geographic_fields": {}
+        },
+        {
+          "file_ref": "data/sources/relations/US-China Index Treaties.xlsx",
+          "sheet": "Treaties",
+          "rows": 211,
+          "columns": 507,
+          "duplicate_rows": 5,
+          "candidate_keys": [],
+          "temporal_coverage": {},
+          "geographic_fields": {}
+        }
+      ],
+      "workbook_structure": {
+        "sheet_names": [
+          "Sheet2",
+          "Treaties"
+        ],
+        "sheet_dimensions": {
+          "Sheet2": {
+            "max_row": 28,
+            "max_column": 5
+          },
+          "Treaties": {
+            "max_row": 212,
+            "max_column": 507
+          }
+        }
+      }
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplo Exchange robustness check log1 - Prepost1985_Moyer Turner Meisel_JPR_2020.log",
+      "filename": "Diplo Exchange robustness check log1 - Prepost1985_Moyer Turner Meisel_JPR_2020.log",
+      "extension": ".log",
+      "storage_class": "tracked_source",
+      "size_bytes": 92188,
+      "modified_at": "2026-10-24T21:01:57",
+      "sha256": "21a14cfefcd1565bd484c1829d2657cc2a022f3e66e2736d5895815de9e251e9",
+      "years_in_filename": [
+        1985,
+        2020
+      ],
+      "warnings": [],
+      "note": "Metadata only; no dedicated parser configured."
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplo Exchange robustness check log2 - annual data_Moyer Turner Meisel_JPR_2020.log",
+      "filename": "Diplo Exchange robustness check log2 - annual data_Moyer Turner Meisel_JPR_2020.log",
+      "extension": ".log",
+      "storage_class": "tracked_source",
+      "size_bytes": 377290,
+      "modified_at": "2026-10-24T21:01:49",
+      "sha256": "5e76b604d990fb87a7d21e0b892c35c8b6d9ddbab1ad87e0eadf9225cb8648c5",
+      "years_in_filename": [
+        2020
+      ],
+      "warnings": [],
+      "note": "Metadata only; no dedicated parser configured."
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplo Exhange replication log_Moyer Turner Mesiel_JPR_2020.smcl",
+      "filename": "Diplo Exhange replication log_Moyer Turner Mesiel_JPR_2020.smcl",
+      "extension": ".smcl",
+      "storage_class": "tracked_source",
+      "size_bytes": 2459321,
+      "modified_at": "2026-10-24T21:03:04",
+      "sha256": "a6177c561a32fb8cc5844ea5de688534b300ee966b945663a0c8fe486ae8fcab",
+      "years_in_filename": [
+        2020
+      ],
+      "warnings": [],
+      "note": "Metadata only; no dedicated parser configured."
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplomatic Representation Codebook_V20230829.pdf",
+      "filename": "Diplomatic Representation Codebook_V20230829.pdf",
+      "extension": ".pdf",
+      "storage_class": "tracked_source",
+      "size_bytes": 522312,
+      "modified_at": "2026-10-24T21:02:37",
+      "sha256": "39e02075cd61f9bc5af2698eacaaa8a4fc155d91272183be78b83c2e87163059",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplomatic_Exchange_V3.16.16.pdf",
+      "filename": "Diplomatic_Exchange_V3.16.16.pdf",
+      "extension": ".pdf",
+      "storage_class": "tracked_source",
+      "size_bytes": 1001962,
+      "modified_at": "2026-10-24T21:02:42",
+      "sha256": "442b1e53ac2f544741704c7d014b56c0f38e6d87251eedeebca039e55cd94435",
+      "years_in_filename": [],
+      "warnings": [],
+      "document_type": "pdf"
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx",
+      "filename": "Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx",
+      "extension": ".xlsx",
+      "storage_class": "tracked_source",
+      "size_bytes": 21618624,
+      "modified_at": "2026-10-24T21:02:59",
+      "sha256": "10d353336b86f24687c6917d9b584e5c716981487674ed20d21db47df2d7668a",
+      "years_in_filename": [
+        1960
+      ],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx",
+          "sheet": "Diplometrics_Diplomatic-Represe",
+          "rows": 453775,
+          "columns": 12,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "Year": {
+              "kind": "year",
+              "min": 1960,
+              "max": 2024,
+              "non_missing": 453775
+            }
+          },
+          "geographic_fields": {
+            "Destination": {
+              "non_missing": 453775,
+              "unique": 204
+            },
+            "DestinationRegion": {
+              "non_missing": 453775,
+              "unique": 5
+            },
+            "DestinationSubregion": {
+              "non_missing": 453775,
+              "unique": 17
+            },
+            "SendingCountry": {
+              "non_missing": 453775,
+              "unique": 206
+            },
+            "Location": {
+              "non_missing": 453775,
+              "unique": 204
+            }
+          }
+        }
+      ],
+      "workbook_structure": {
+        "sheet_names": [
+          "Diplometrics_Diplomatic-Represe"
+        ],
+        "sheet_dimensions": {
+          "Diplometrics_Diplomatic-Represe": {
+            "max_row": 453776,
+            "max_column": 12
+          }
+        }
+      }
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/README.md",
+      "filename": "README.md",
+      "extension": ".md",
+      "storage_class": "tracked_source",
+      "size_bytes": 0,
+      "modified_at": "2026-10-24T21:29:00",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 1,
+        "characters": 0
+      }
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/annual.dta",
+      "filename": "annual.dta",
+      "extension": ".dta",
+      "storage_class": "tracked_source",
+      "size_bytes": 445818007,
+      "modified_at": "2026-10-24T21:03:33",
+      "sha256": "7e16ed76472617443298608b5e20b2e5fd349dfdbfb0b478eafa7c8fd68ee51a",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/diplomatic_representation/annual.dta",
+          "sheet": null,
+          "rows": 1542564,
+          "columns": 61,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "year",
+              "min": 1970,
+              "max": 2005,
+              "non_missing": 1542564
+            },
+            "neu_powerpc_sender_ann": {
+              "kind": "date",
+              "min": "1969-12-31",
+              "max": "1970-01-01",
+              "non_missing": 1162512
+            },
+            "neu_lngdppc_sender_ann": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 1184868
+            },
+            "neu_lngdppc_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 220869
+            },
+            "neu_dr_at_sender_dum": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 213366
+            },
+            "neu_independence_sender": {
+              "kind": "year",
+              "min": 1816,
+              "max": 1993,
+              "non_missing": 298080
+            },
+            "neu_powerpc_sender": {
+              "kind": "date",
+              "min": "1969-12-31",
+              "max": "1970-01-01",
+              "non_missing": 207207
+            },
+            "neu_bilattradegdp_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 211387
+            },
+            "EmbassyNew_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 229566
+            },
+            "binemb_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 290612
+            },
+            "sender_merge": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 333005
+            },
+            "dup_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 333005
+            },
+            "neu_dr_sender_ann": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 929190
+            },
+            "binemb_neubirth_send": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 933442
+            }
+          },
+          "geographic_fields": {
+            "countrya": {
+              "non_missing": 1542564,
+              "unique": 207
+            },
+            "countryb": {
+              "non_missing": 1542564,
+              "unique": 207
+            },
+            "neu_powerpc_sender_ann": {
+              "non_missing": 1162512,
+              "unique": 5616
+            },
+            "neu_lngdppc_sender_ann": {
+              "non_missing": 1184868,
+              "unique": 5593
+            },
+            "neu_samedyad_ann": {
+              "non_missing": 1542564,
+              "unique": 2
+            },
+            "neu_lngdppc_sender": {
+              "non_missing": 220869,
+              "unique": 978
+            },
+            "neu_dr_at_sender_dum": {
+              "non_missing": 213366,
+              "unique": 2
+            },
+            "dyadid": {
+              "non_missing": 342792,
+              "unique": 42849
+            },
+            "neu_samedyad": {
+              "non_missing": 342792,
+              "unique": 2
+            },
+            "neu_independence_sender": {
+              "non_missing": 298080,
+              "unique": 70
+            },
+            "neu_powerpc_sender": {
+              "non_missing": 207207,
+              "unique": 1001
+            },
+            "neu_bilattradegdp_sender": {
+              "non_missing": 211387,
+              "unique": 101700
+            },
+            "neu_countryid": {
+              "non_missing": 342792,
+              "unique": 207
+            },
+            "EmbassyNew_sender": {
+              "non_missing": 229566,
+              "unique": 6
+            },
+            "binemb_sender": {
+              "non_missing": 290612,
+              "unique": 2
+            },
+            "sender_merge": {
+              "non_missing": 333005,
+              "unique": 3
+            },
+            "dup_sender": {
+              "non_missing": 333005,
+              "unique": 1
+            },
+            "countryaidn": {
+              "non_missing": 1542564,
+              "unique": 207
+            },
+            "dyadidn": {
+              "non_missing": 1542564,
+              "unique": 42849
+            },
+            "dyadidn1": {
+              "non_missing": 968760,
+              "unique": 26910
+            },
+            "dyadidn2": {
+              "non_missing": 573804,
+              "unique": 15939
+            },
+            "neu_dr_sender_ann": {
+              "non_missing": 929190,
+              "unique": 2
+            },
+            "Corrected_samedyad": {
+              "non_missing": 1542564,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/diplomatic_exchange_analysis_replication_Moyer Turner Meisel_JPR_2020.do",
+      "filename": "diplomatic_exchange_analysis_replication_Moyer Turner Meisel_JPR_2020.do",
+      "extension": ".do",
+      "storage_class": "tracked_source",
+      "size_bytes": 40698,
+      "modified_at": "2026-10-24T21:01:44",
+      "sha256": "be8be672fc0b3d82862c1e452db46e4bbeb952e43566687de63e8c0504af9012",
+      "years_in_filename": [
+        2020
+      ],
+      "warnings": [],
+      "note": "Metadata only; no dedicated parser configured."
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/embassy.tsv",
+      "filename": "embassy.tsv",
+      "extension": ".tsv",
+      "storage_class": "tracked_source",
+      "size_bytes": 18582186,
+      "modified_at": "2026-10-24T21:00:44",
+      "sha256": "3869404718040e9b3204b1b4b3af6a7a4f130da9147f522069d9b74de9945f08",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/diplomatic_representation/embassy.tsv",
+          "sheet": null,
+          "rows": 424368,
+          "columns": 8,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {
+            "year": {
+              "kind": "year",
+              "min": 1960,
+              "max": 2013,
+              "non_missing": 424368
+            }
+          },
+          "geographic_fields": {
+            "countrya": {
+              "non_missing": 424368,
+              "unique": 201
+            },
+            "countryb": {
+              "non_missing": 424368,
+              "unique": 202
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv",
+      "filename": "final_5_yr_blocks.tsv",
+      "extension": ".tsv",
+      "storage_class": "tracked_source",
+      "size_bytes": 61431759,
+      "modified_at": "2026-10-24T21:01:57",
+      "sha256": "934385446033cc36d338be68c0bb368e860778c02a57e762a28987f178499f85",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv",
+          "sheet": null,
+          "rows": 342792,
+          "columns": 44,
+          "duplicate_rows": 0,
+          "candidate_keys": [
+            "year + neu_dyadid"
+          ],
+          "temporal_coverage": {
+            "year": {
+              "kind": "year",
+              "min": 1970,
+              "max": 2005,
+              "non_missing": 342792
+            },
+            "neu_dr_at_sender_dum": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 213366
+            },
+            "neu_independence_sender": {
+              "kind": "year",
+              "min": 1816,
+              "max": 1993,
+              "non_missing": 298080
+            },
+            "neu_lngdppc_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 220869
+            },
+            "neu_powerpc_sender": {
+              "kind": "date",
+              "min": "1969-12-31",
+              "max": "1970-01-01",
+              "non_missing": 207207
+            },
+            "neu_bilattradegdp_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 211387
+            },
+            "EmbassyNew_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 50734
+            },
+            "binemb_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 62316
+            },
+            "sender_merge": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 71856
+            },
+            "dup_sender": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 71856
+            },
+            "binemb_neubirth_send": {
+              "kind": "date",
+              "min": "1970-01-01",
+              "max": "1970-01-01",
+              "non_missing": 213858
+            }
+          },
+          "geographic_fields": {
+            "countrya": {
+              "non_missing": 342792,
+              "unique": 207
+            },
+            "countryb": {
+              "non_missing": 342792,
+              "unique": 207
+            },
+            "neu_dr_at_sender_dum": {
+              "non_missing": 213366,
+              "unique": 2
+            },
+            "neu_dyadid": {
+              "non_missing": 342792,
+              "unique": 42849
+            },
+            "neu_samedyad": {
+              "non_missing": 342792,
+              "unique": 2
+            },
+            "neu_independence_sender": {
+              "non_missing": 298080,
+              "unique": 70
+            },
+            "neu_lngdppc_sender": {
+              "non_missing": 220869,
+              "unique": 978
+            },
+            "neu_powerpc_sender": {
+              "non_missing": 207207,
+              "unique": 1001
+            },
+            "neu_bilattradegdp_sender": {
+              "non_missing": 211387,
+              "unique": 101700
+            },
+            "neu_countryid": {
+              "non_missing": 342792,
+              "unique": 207
+            },
+            "EmbassyNew_sender": {
+              "non_missing": 50734,
+              "unique": 6
+            },
+            "binemb_sender": {
+              "non_missing": 62316,
+              "unique": 2
+            },
+            "sender_merge": {
+              "non_missing": 71856,
+              "unique": 3
+            },
+            "dup_sender": {
+              "non_missing": 71856,
+              "unique": 1
+            },
+            "Corrected_samedyad": {
+              "non_missing": 342792,
+              "unique": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/sources/relations/ofac/README.md",
+      "filename": "README.md",
+      "extension": ".md",
+      "storage_class": "tracked_source",
+      "size_bytes": 0,
+      "modified_at": "2026-10-24T21:28:43",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 1,
+        "characters": 0
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/documentation/advanced_xml.xsd",
+      "filename": "advanced_xml.xsd",
+      "extension": ".xsd",
+      "storage_class": "tracked_source",
+      "size_bytes": 85050,
+      "modified_at": "2026-10-24T21:32:44",
+      "sha256": "83c7addeee933968567e45ecbe00dd7e85e32af3b01a8c51ce61ef13cacdff51",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 1693,
+        "characters": 83358
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/documentation/dat_spec.txt",
+      "filename": "dat_spec.txt",
+      "extension": ".txt",
+      "storage_class": "tracked_source",
+      "size_bytes": 15153,
+      "modified_at": "2026-10-24T21:33:13",
+      "sha256": "8fc7ea2019b5430fe63b64da2ff636c4c8185ce57230fb6ae8a7c4bb33508382",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 308,
+        "characters": 14846
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/documentation/xml.xsd",
+      "filename": "xml.xsd",
+      "extension": ".xsd",
+      "storage_class": "tracked_source",
+      "size_bytes": 7400,
+      "modified_at": "2026-10-24T21:33:02",
+      "sha256": "1b32871c50abbafd09a38a71d8759b3a99e8a89d97902829c660a9e93476dd0a",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 165,
+        "characters": 7236
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/non_sdn/CONS_ADVANCED.XML",
+      "filename": "CONS_ADVANCED.XML",
+      "extension": ".xml",
+      "storage_class": "tracked_source",
+      "size_bytes": 4580537,
+      "modified_at": "2026-10-20T13:35:36",
+      "sha256": "dc3f61dce650a4661ff69d6c1847f0d5a90f2fa63951267af68fcfacdb6d8a75",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 96934,
+        "characters": 4481204
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/non_sdn/cons_prim.csv",
+      "filename": "cons_prim.csv",
+      "extension": ".csv",
+      "storage_class": "tracked_source",
+      "size_bytes": 268508,
+      "modified_at": "2026-10-24T21:26:42",
+      "sha256": "48068ff381b20ba05db297e5744b790e69e9921c738ce88efcaed7e0c3d55033",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/ofac/non_sdn/cons_prim.csv",
+          "sheet": null,
+          "rows": 486,
+          "columns": 12,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {},
+          "geographic_fields": {}
+        }
+      ]
+    },
+    {
+      "path": "data/sources/relations/ofac/sdn/SDN_ADVANCED.XML",
+      "filename": "SDN_ADVANCED.XML",
+      "extension": ".xml",
+      "storage_class": "tracked_source",
+      "size_bytes": 127668232,
+      "modified_at": "2026-10-20T13:35:30",
+      "sha256": "0d805bf58997908c8b5ba3233bc9b2b6d59bb04ea7881cfdc3c4c47d90d36e27",
+      "years_in_filename": [],
+      "warnings": [],
+      "text_metadata": {
+        "lines": 2742523,
+        "characters": 124767593
+      }
+    },
+    {
+      "path": "data/sources/relations/ofac/sdn/sdn.csv",
+      "filename": "sdn.csv",
+      "extension": ".csv",
+      "storage_class": "tracked_source",
+      "size_bytes": 5744136,
+      "modified_at": "2026-10-24T21:28:10",
+      "sha256": "96dade5a1cde8c9746937b4859ad75d8f2a34eed1a4046cc1f2240a830f70bda",
+      "years_in_filename": [],
+      "warnings": [],
+      "tabular_objects": [
+        {
+          "file_ref": "data/sources/relations/ofac/sdn/sdn.csv",
+          "sheet": null,
+          "rows": 19471,
+          "columns": 12,
+          "duplicate_rows": 0,
+          "candidate_keys": [],
+          "temporal_coverage": {},
+          "geographic_fields": {}
+        }
+      ]
+    }
+  ],
+  "tabular_objects": [
+    {
+      "file_ref": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS.csv",
+      "sheet": null,
+      "rows": 1072,
+      "columns": 7,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "case_id",
+        "case_id + sanctioning_state",
+        "case_id + sanctioned_state",
+        "case_id + begin_year",
+        "case_id + end_year"
+      ],
+      "temporal_coverage": {
+        "begin_year": {
+          "kind": "year",
+          "min": 1950,
+          "max": 2025,
+          "non_missing": 1072
+        },
+        "end_year": {
+          "kind": "year",
+          "min": 1953,
+          "max": 2025,
+          "non_missing": 1072
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state": {
+          "non_missing": 1072,
+          "unique": 116
+        },
+        "sanctioned_state": {
+          "non_missing": 1072,
+          "unique": 191
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/downloads/GSDB-FS/GSDB-FS_Dyadic.dta",
+      "sheet": null,
+      "rows": 91914,
+      "columns": 14,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "date",
+          "min": "1950-01-01",
+          "max": "2025-01-01",
+          "non_missing": 91914
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state_iso3": {
+          "non_missing": 91914,
+          "unique": 204
+        },
+        "sanctioning_state": {
+          "non_missing": 91914,
+          "unique": 206
+        },
+        "sanctioned_state_iso3": {
+          "non_missing": 91914,
+          "unique": 161
+        },
+        "sanctioned_state": {
+          "non_missing": 91914,
+          "unique": 166
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5.csv",
+      "sheet": null,
+      "rows": 1794,
+      "columns": 18,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "case_id",
+        "case_id + sanctioned_state",
+        "case_id + sanctioning_state",
+        "case_id + begin_year",
+        "case_id + end_year",
+        "case_id + target_mult",
+        "case_id + sender_mult"
+      ],
+      "temporal_coverage": {
+        "begin_year": {
+          "kind": "year",
+          "min": 1949,
+          "max": 2025,
+          "non_missing": 1794
+        },
+        "end_year": {
+          "kind": "year",
+          "min": 1951,
+          "max": 2025,
+          "non_missing": 1794
+        },
+        "sender_mult": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 1794
+        }
+      },
+      "geographic_fields": {
+        "sanctioned_state": {
+          "non_missing": 1794,
+          "unique": 241
+        },
+        "sanctioning_state": {
+          "non_missing": 1794,
+          "unique": 197
+        },
+        "target_mult": {
+          "non_missing": 1794,
+          "unique": 2
+        },
+        "sender_mult": {
+          "non_missing": 1794,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/downloads/GSDB-R5/GSDB-R5_Dyadic.dta",
+      "sheet": null,
+      "rows": 170563,
+      "columns": 17,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "date",
+          "min": "1950-01-01",
+          "max": "2025-01-01",
+          "non_missing": 170563
+        },
+        "sender_mult": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 170563
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state_iso3": {
+          "non_missing": 170563,
+          "unique": 210
+        },
+        "sanctioning_state": {
+          "non_missing": 170563,
+          "unique": 212
+        },
+        "sanctioned_state_iso3": {
+          "non_missing": 170563,
+          "unique": 190
+        },
+        "sanctioned_state": {
+          "non_missing": 170563,
+          "unique": 196
+        },
+        "target_mult": {
+          "non_missing": 170563,
+          "unique": 2
+        },
+        "sender_mult": {
+          "non_missing": 170563,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/financial/GSDB-FS.csv",
+      "sheet": null,
+      "rows": 1072,
+      "columns": 7,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "case_id",
+        "case_id + sanctioning_state",
+        "case_id + sanctioned_state",
+        "case_id + begin_year",
+        "case_id + end_year"
+      ],
+      "temporal_coverage": {
+        "begin_year": {
+          "kind": "year",
+          "min": 1950,
+          "max": 2025,
+          "non_missing": 1072
+        },
+        "end_year": {
+          "kind": "year",
+          "min": 1953,
+          "max": 2025,
+          "non_missing": 1072
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state": {
+          "non_missing": 1072,
+          "unique": 116
+        },
+        "sanctioned_state": {
+          "non_missing": 1072,
+          "unique": 191
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/financial/GSDB-FS_Dyadic.dta",
+      "sheet": null,
+      "rows": 91914,
+      "columns": 14,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "date",
+          "min": "1950-01-01",
+          "max": "2025-01-01",
+          "non_missing": 91914
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state_iso3": {
+          "non_missing": 91914,
+          "unique": 204
+        },
+        "sanctioning_state": {
+          "non_missing": 91914,
+          "unique": 206
+        },
+        "sanctioned_state_iso3": {
+          "non_missing": 91914,
+          "unique": 161
+        },
+        "sanctioned_state": {
+          "non_missing": 91914,
+          "unique": 166
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/r5/GSDB-R5.csv",
+      "sheet": null,
+      "rows": 1794,
+      "columns": 18,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "case_id",
+        "case_id + sanctioned_state",
+        "case_id + sanctioning_state",
+        "case_id + begin_year",
+        "case_id + end_year",
+        "case_id + target_mult",
+        "case_id + sender_mult"
+      ],
+      "temporal_coverage": {
+        "begin_year": {
+          "kind": "year",
+          "min": 1949,
+          "max": 2025,
+          "non_missing": 1794
+        },
+        "end_year": {
+          "kind": "year",
+          "min": 1951,
+          "max": 2025,
+          "non_missing": 1794
+        },
+        "sender_mult": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 1794
+        }
+      },
+      "geographic_fields": {
+        "sanctioned_state": {
+          "non_missing": 1794,
+          "unique": 241
+        },
+        "sanctioning_state": {
+          "non_missing": 1794,
+          "unique": 197
+        },
+        "target_mult": {
+          "non_missing": 1794,
+          "unique": 2
+        },
+        "sender_mult": {
+          "non_missing": 1794,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/raw/relations/gsdb/r5/GSDB-R5_Dyadic.dta",
+      "sheet": null,
+      "rows": 170563,
+      "columns": 17,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "date",
+          "min": "1950-01-01",
+          "max": "2025-01-01",
+          "non_missing": 170563
+        },
+        "sender_mult": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 170563
+        }
+      },
+      "geographic_fields": {
+        "sanctioning_state_iso3": {
+          "non_missing": 170563,
+          "unique": 210
+        },
+        "sanctioning_state": {
+          "non_missing": 170563,
+          "unique": 212
+        },
+        "sanctioned_state_iso3": {
+          "non_missing": 170563,
+          "unique": 190
+        },
+        "sanctioned_state": {
+          "non_missing": 170563,
+          "unique": 196
+        },
+        "target_mult": {
+          "non_missing": 170563,
+          "unique": 2
+        },
+        "sender_mult": {
+          "non_missing": 170563,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/Bilateral Investment Treaty with China.xlsx",
+      "sheet": "Treaties",
+      "rows": 150,
+      "columns": 13,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "Parties + Date of signature",
+        "Date of signature + Amendment protocols"
+      ],
+      "temporal_coverage": {
+        "Date of signature": {
+          "kind": "date",
+          "min": "1982-03-29",
+          "max": "2025-06-16",
+          "non_missing": 150
+        },
+        "Date of entry into force": {
+          "kind": "date",
+          "min": "1982-03-29",
+          "max": "2025-12-01",
+          "non_missing": 131
+        },
+        "Date of termination": {
+          "kind": "date",
+          "min": "2004-08-01",
+          "max": "2025-12-01",
+          "non_missing": 24
+        }
+      },
+      "geographic_fields": {
+        "Parties": {
+          "non_missing": 150,
+          "unique": 132
+        },
+        "Date of termination": {
+          "non_missing": 24,
+          "unique": 24
+        },
+        "Type of termination": {
+          "non_missing": 24,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/Bilateral Investment Treaty with US.xlsx",
+      "sheet": "Treaties",
+      "rows": 53,
+      "columns": 13,
+      "duplicate_rows": 3,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "Date of signature": {
+          "kind": "date",
+          "min": "1982-10-27",
+          "max": "2008-02-19",
+          "non_missing": 47
+        },
+        "Date of entry into force": {
+          "kind": "date",
+          "min": "1989-03-03",
+          "max": "2012-01-01",
+          "non_missing": 41
+        },
+        "Date of termination": {
+          "kind": "date",
+          "min": "2012-06-10",
+          "max": "2018-05-18",
+          "non_missing": 2
+        }
+      },
+      "geographic_fields": {
+        "Parties": {
+          "non_missing": 47,
+          "unique": 47
+        },
+        "Date of termination": {
+          "non_missing": 2,
+          "unique": 2
+        },
+        "Type of termination": {
+          "non_missing": 2,
+          "unique": 1
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/US-China Index Treaties.xlsx",
+      "sheet": "Sheet2",
+      "rows": 27,
+      "columns": 5,
+      "duplicate_rows": 3,
+      "candidate_keys": [],
+      "temporal_coverage": {},
+      "geographic_fields": {}
+    },
+    {
+      "file_ref": "data/sources/relations/US-China Index Treaties.xlsx",
+      "sheet": "Treaties",
+      "rows": 211,
+      "columns": 507,
+      "duplicate_rows": 5,
+      "candidate_keys": [],
+      "temporal_coverage": {},
+      "geographic_fields": {}
+    },
+    {
+      "file_ref": "data/sources/relations/diplomatic_representation/Diplometrics_Diplomatic-Representation_1960-2024_20250825.xlsx",
+      "sheet": "Diplometrics_Diplomatic-Represe",
+      "rows": 453775,
+      "columns": 12,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "Year": {
+          "kind": "year",
+          "min": 1960,
+          "max": 2024,
+          "non_missing": 453775
+        }
+      },
+      "geographic_fields": {
+        "Destination": {
+          "non_missing": 453775,
+          "unique": 204
+        },
+        "DestinationRegion": {
+          "non_missing": 453775,
+          "unique": 5
+        },
+        "DestinationSubregion": {
+          "non_missing": 453775,
+          "unique": 17
+        },
+        "SendingCountry": {
+          "non_missing": 453775,
+          "unique": 206
+        },
+        "Location": {
+          "non_missing": 453775,
+          "unique": 204
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/diplomatic_representation/annual.dta",
+      "sheet": null,
+      "rows": 1542564,
+      "columns": 61,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "year",
+          "min": 1970,
+          "max": 2005,
+          "non_missing": 1542564
+        },
+        "neu_powerpc_sender_ann": {
+          "kind": "date",
+          "min": "1969-12-31",
+          "max": "1970-01-01",
+          "non_missing": 1162512
+        },
+        "neu_lngdppc_sender_ann": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 1184868
+        },
+        "neu_lngdppc_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 220869
+        },
+        "neu_dr_at_sender_dum": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 213366
+        },
+        "neu_independence_sender": {
+          "kind": "year",
+          "min": 1816,
+          "max": 1993,
+          "non_missing": 298080
+        },
+        "neu_powerpc_sender": {
+          "kind": "date",
+          "min": "1969-12-31",
+          "max": "1970-01-01",
+          "non_missing": 207207
+        },
+        "neu_bilattradegdp_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 211387
+        },
+        "EmbassyNew_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 229566
+        },
+        "binemb_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 290612
+        },
+        "sender_merge": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 333005
+        },
+        "dup_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 333005
+        },
+        "neu_dr_sender_ann": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 929190
+        },
+        "binemb_neubirth_send": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 933442
+        }
+      },
+      "geographic_fields": {
+        "countrya": {
+          "non_missing": 1542564,
+          "unique": 207
+        },
+        "countryb": {
+          "non_missing": 1542564,
+          "unique": 207
+        },
+        "neu_powerpc_sender_ann": {
+          "non_missing": 1162512,
+          "unique": 5616
+        },
+        "neu_lngdppc_sender_ann": {
+          "non_missing": 1184868,
+          "unique": 5593
+        },
+        "neu_samedyad_ann": {
+          "non_missing": 1542564,
+          "unique": 2
+        },
+        "neu_lngdppc_sender": {
+          "non_missing": 220869,
+          "unique": 978
+        },
+        "neu_dr_at_sender_dum": {
+          "non_missing": 213366,
+          "unique": 2
+        },
+        "dyadid": {
+          "non_missing": 342792,
+          "unique": 42849
+        },
+        "neu_samedyad": {
+          "non_missing": 342792,
+          "unique": 2
+        },
+        "neu_independence_sender": {
+          "non_missing": 298080,
+          "unique": 70
+        },
+        "neu_powerpc_sender": {
+          "non_missing": 207207,
+          "unique": 1001
+        },
+        "neu_bilattradegdp_sender": {
+          "non_missing": 211387,
+          "unique": 101700
+        },
+        "neu_countryid": {
+          "non_missing": 342792,
+          "unique": 207
+        },
+        "EmbassyNew_sender": {
+          "non_missing": 229566,
+          "unique": 6
+        },
+        "binemb_sender": {
+          "non_missing": 290612,
+          "unique": 2
+        },
+        "sender_merge": {
+          "non_missing": 333005,
+          "unique": 3
+        },
+        "dup_sender": {
+          "non_missing": 333005,
+          "unique": 1
+        },
+        "countryaidn": {
+          "non_missing": 1542564,
+          "unique": 207
+        },
+        "dyadidn": {
+          "non_missing": 1542564,
+          "unique": 42849
+        },
+        "dyadidn1": {
+          "non_missing": 968760,
+          "unique": 26910
+        },
+        "dyadidn2": {
+          "non_missing": 573804,
+          "unique": 15939
+        },
+        "neu_dr_sender_ann": {
+          "non_missing": 929190,
+          "unique": 2
+        },
+        "Corrected_samedyad": {
+          "non_missing": 1542564,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/diplomatic_representation/embassy.tsv",
+      "sheet": null,
+      "rows": 424368,
+      "columns": 8,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {
+        "year": {
+          "kind": "year",
+          "min": 1960,
+          "max": 2013,
+          "non_missing": 424368
+        }
+      },
+      "geographic_fields": {
+        "countrya": {
+          "non_missing": 424368,
+          "unique": 201
+        },
+        "countryb": {
+          "non_missing": 424368,
+          "unique": 202
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/diplomatic_representation/final_5_yr_blocks.tsv",
+      "sheet": null,
+      "rows": 342792,
+      "columns": 44,
+      "duplicate_rows": 0,
+      "candidate_keys": [
+        "year + neu_dyadid"
+      ],
+      "temporal_coverage": {
+        "year": {
+          "kind": "year",
+          "min": 1970,
+          "max": 2005,
+          "non_missing": 342792
+        },
+        "neu_dr_at_sender_dum": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 213366
+        },
+        "neu_independence_sender": {
+          "kind": "year",
+          "min": 1816,
+          "max": 1993,
+          "non_missing": 298080
+        },
+        "neu_lngdppc_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 220869
+        },
+        "neu_powerpc_sender": {
+          "kind": "date",
+          "min": "1969-12-31",
+          "max": "1970-01-01",
+          "non_missing": 207207
+        },
+        "neu_bilattradegdp_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 211387
+        },
+        "EmbassyNew_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 50734
+        },
+        "binemb_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 62316
+        },
+        "sender_merge": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 71856
+        },
+        "dup_sender": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 71856
+        },
+        "binemb_neubirth_send": {
+          "kind": "date",
+          "min": "1970-01-01",
+          "max": "1970-01-01",
+          "non_missing": 213858
+        }
+      },
+      "geographic_fields": {
+        "countrya": {
+          "non_missing": 342792,
+          "unique": 207
+        },
+        "countryb": {
+          "non_missing": 342792,
+          "unique": 207
+        },
+        "neu_dr_at_sender_dum": {
+          "non_missing": 213366,
+          "unique": 2
+        },
+        "neu_dyadid": {
+          "non_missing": 342792,
+          "unique": 42849
+        },
+        "neu_samedyad": {
+          "non_missing": 342792,
+          "unique": 2
+        },
+        "neu_independence_sender": {
+          "non_missing": 298080,
+          "unique": 70
+        },
+        "neu_lngdppc_sender": {
+          "non_missing": 220869,
+          "unique": 978
+        },
+        "neu_powerpc_sender": {
+          "non_missing": 207207,
+          "unique": 1001
+        },
+        "neu_bilattradegdp_sender": {
+          "non_missing": 211387,
+          "unique": 101700
+        },
+        "neu_countryid": {
+          "non_missing": 342792,
+          "unique": 207
+        },
+        "EmbassyNew_sender": {
+          "non_missing": 50734,
+          "unique": 6
+        },
+        "binemb_sender": {
+          "non_missing": 62316,
+          "unique": 2
+        },
+        "sender_merge": {
+          "non_missing": 71856,
+          "unique": 3
+        },
+        "dup_sender": {
+          "non_missing": 71856,
+          "unique": 1
+        },
+        "Corrected_samedyad": {
+          "non_missing": 342792,
+          "unique": 2
+        }
+      }
+    },
+    {
+      "file_ref": "data/sources/relations/ofac/non_sdn/cons_prim.csv",
+      "sheet": null,
+      "rows": 486,
+      "columns": 12,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {},
+      "geographic_fields": {}
+    },
+    {
+      "file_ref": "data/sources/relations/ofac/sdn/sdn.csv",
+      "sheet": null,
+      "rows": 19471,
+      "columns": 12,
+      "duplicate_rows": 0,
+      "candidate_keys": [],
+      "temporal_coverage": {},
+      "geographic_fields": {}
+    }
+  ]
+}

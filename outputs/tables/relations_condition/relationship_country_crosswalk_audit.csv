@@ -1,0 +1,197 @@
+drd_country_name,normalized_country_name,country,historical_entity
+Afghanistan,afghanistan,AFG,False
+Angola,angola,AGO,False
+Albania,albania,ALB,False
+Andorra,andorra,AND,False
+United Arab Emirates,united_arab_emirates,ARE,False
+Argentina,argentina,ARG,False
+Armenia,armenia,ARM,False
+Antigua and Barbuda,antigua_and_barbuda,ATG,False
+Australia,australia,AUS,False
+Austria,austria,AUT,False
+Azerbaijan,azerbaijan,AZE,False
+Burundi,burundi,BDI,False
+Belgium,belgium,BEL,False
+Benin,benin,BEN,False
+Burkina Faso,burkina_faso,BFA,False
+Bangladesh,bangladesh,BGD,False
+Bulgaria,bulgaria,BGR,False
+Bahrain,bahrain,BHR,False
+Bahamas,bahamas,BHS,False
+Bosnia and Herzegovina,bosnia_and_herzegovina,BIH,False
+Belarus,belarus,BLR,False
+Belize,belize,BLZ,False
+Bolivia,bolivia,BOL,False
+Brazil,brazil,BRA,False
+Barbados,barbados,BRB,False
+Brunei,brunei,BRN,False
+Bhutan,bhutan,BTN,False
+Botswana,botswana,BWA,False
+Central African Republic,central_african_republic,CAF,False
+Canada,canada,CAN,False
+Switzerland,switzerland,CHE,False
+Chile,chile,CHL,False
+China,china,CHN,False
+Côte d'Ivoire,c_te_d_ivoire,CIV,False
+Cameroon,cameroon,CMR,False
+Congo-Kinshasa,congo_kinshasa,COD,False
+Congo-Brazzaville,congo_brazzaville,COG,False
+Colombia,colombia,COL,False
+Comoros,comoros,COM,False
+Cabo Verde,cabo_verde,CPV,False
+Costa Rica,costa_rica,CRI,False
+Cuba,cuba,CUB,False
+Cyprus,cyprus,CYP,False
+Czech Republic,czech_republic,CZE,False
+Germany,germany,DEU,False
+Djibouti,djibouti,DJI,False
+Dominica,dominica,DMA,False
+Denmark,denmark,DNK,False
+Dominican Republic,dominican_republic,DOM,False
+Algeria,algeria,DZA,False
+Ecuador,ecuador,ECU,False
+Egypt,egypt,EGY,False
+Eritrea,eritrea,ERI,False
+Spain,spain,ESP,False
+Estonia,estonia,EST,False
+Ethiopia,ethiopia,ETH,False
+Finland,finland,FIN,False
+Fiji,fiji,FJI,False
+France,france,FRA,False
+"Micronesia, Federated States of",micronesia_federated_states_of,FSM,False
+Gabon,gabon,GAB,False
+United Kingdom,united_kingdom,GBR,False
+Georgia,georgia,GEO,False
+Ghana,ghana,GHA,False
+Guinea,guinea,GIN,False
+"Gambia, The",gambia_the,GMB,False
+Guinea-Bissau,guinea_bissau,GNB,False
+Equatorial Guinea,equatorial_guinea,GNQ,False
+Greece,greece,GRC,False
+Grenada,grenada,GRD,False
+Guatemala,guatemala,GTM,False
+Guyana,guyana,GUY,False
+Honduras,honduras,HND,False
+Croatia,croatia,HRV,False
+Haiti,haiti,HTI,False
+Hungary,hungary,HUN,False
+Indonesia,indonesia,IDN,False
+India,india,IND,False
+Ireland,ireland,IRL,False
+Iran,iran,IRN,False
+Iraq,iraq,IRQ,False
+Iceland,iceland,ISL,False
+Israel,israel,ISR,False
+Italy,italy,ITA,False
+Jamaica,jamaica,JAM,False
+Jordan,jordan,JOR,False
+Japan,japan,JPN,False
+Kazakhstan,kazakhstan,KAZ,False
+Kenya,kenya,KEN,False
+Kyrgyzstan,kyrgyzstan,KGZ,False
+Cambodia,cambodia,KHM,False
+Kiribati,kiribati,KIR,False
+Saint Kitts and Nevis,saint_kitts_and_nevis,KNA,False
+"Korea, Republic of",korea_republic_of,KOR,False
+Kosovo,kosovo,KSV,False
+Kuwait,kuwait,KWT,False
+Lao People's Democratic Republic,lao_people_s_democratic_republic,LAO,False
+Lebanon,lebanon,LBN,False
+Liberia,liberia,LBR,False
+Libya,libya,LBY,False
+Saint Lucia,saint_lucia,LCA,False
+Liechtenstein,liechtenstein,LIE,False
+Sri Lanka,sri_lanka,LKA,False
+Lesotho,lesotho,LSO,False
+Lithuania,lithuania,LTU,False
+Luxembourg,luxembourg,LUX,False
+Latvia,latvia,LVA,False
+Morocco,morocco,MAR,False
+Monaco,monaco,MCO,False
+Moldova,moldova,MDA,False
+Madagascar,madagascar,MDG,False
+Maldives,maldives,MDV,False
+Mexico,mexico,MEX,False
+Marshall Islands,marshall_islands,MHL,False
+Macedonia,macedonia,MKD,False
+Mali,mali,MLI,False
+Malta,malta,MLT,False
+Myanmar,myanmar,MMR,False
+Montenegro,montenegro,MNE,False
+Mongolia,mongolia,MNG,False
+Mozambique,mozambique,MOZ,False
+Mauritania,mauritania,MRT,False
+Mauritius,mauritius,MUS,False
+Malawi,malawi,MWI,False
+Malaysia,malaysia,MYS,False
+Namibia,namibia,NAM,False
+Niger,niger,NER,False
+Nigeria,nigeria,NGA,False
+Nicaragua,nicaragua,NIC,False
+Netherlands,netherlands,NLD,False
+Norway,norway,NOR,False
+Nepal,nepal,NPL,False
+Nauru,nauru,NRU,False
+New Zealand,new_zealand,NZL,False
+Oman,oman,OMN,False
+Pakistan,pakistan,PAK,False
+Panama,panama,PAN,False
+Peru,peru,PER,False
+Philippines,philippines,PHL,False
+Palau,palau,PLW,False
+Papua New Guinea,papua_new_guinea,PNG,False
+Poland,poland,POL,False
+"Korea, Democratic People's Republic of",korea_democratic_people_s_republic_of,PRK,False
+Portugal,portugal,PRT,False
+Paraguay,paraguay,PRY,False
+Qatar,qatar,QAT,False
+Romania,romania,ROU,False
+Russia,russia,RUS,False
+Rwanda,rwanda,RWA,False
+Saudi Arabia,saudi_arabia,SAU,False
+Serbia and Montenegro,serbia_and_montenegro,SCG,True
+Sudan,sudan,SDN,False
+Senegal,senegal,SEN,False
+Singapore,singapore,SGP,False
+Solomon Islands,solomon_islands,SLB,False
+Sierra Leone,sierra_leone,SLE,False
+El Salvador,el_salvador,SLV,False
+San Marino,san_marino,SMR,False
+Somalia,somalia,SOM,False
+Serbia,serbia,SRB,False
+South Sudan,south_sudan,SSD,False
+Sao Tome and Principe,sao_tome_and_principe,STP,False
+Suriname,suriname,SUR,False
+Slovakia,slovakia,SVK,False
+Slovenia,slovenia,SVN,False
+Sweden,sweden,SWE,False
+Swaziland,swaziland,SWZ,False
+Seychelles,seychelles,SYC,False
+Syria,syria,SYR,False
+Chad,chad,TCD,False
+Togo,togo,TGO,False
+Thailand,thailand,THA,False
+Tajikistan,tajikistan,TJK,False
+Turkmenistan,turkmenistan,TKM,False
+Timor-Leste,timor_leste,TLS,False
+Tonga,tonga,TON,False
+Trinidad and Tobago,trinidad_and_tobago,TTO,False
+Tunisia,tunisia,TUN,False
+Turkey,turkey,TUR,False
+Tuvalu,tuvalu,TUV,False
+Tanzania,tanzania,TZA,False
+Uganda,uganda,UGA,False
+Ukraine,ukraine,UKR,False
+Uruguay,uruguay,URY,False
+United States,united_states,USA,False
+Uzbekistan,uzbekistan,UZB,False
+Holy See (Vatican),holy_see_vatican,VAT,False
+Saint Vincent and the Grenadines,saint_vincent_and_the_grenadines,VCT,False
+Venezuela,venezuela,VEN,False
+Viet Nam,viet_nam,VNM,False
+Vanuatu,vanuatu,VUT,False
+Samoa,samoa,WSM,False
+Yemen,yemen,YEM,False
+South Africa,south_africa,ZAF,False
+Zambia,zambia,ZMB,False
+Zimbabwe,zimbabwe,ZWE,False

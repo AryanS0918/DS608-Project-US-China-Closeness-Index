@@ -1,0 +1,609 @@
+country,anchor,year,direction,DestinationRegion,DestinationSubregion,SendingRegion,SendingSubregion,Location,Embassy,Focus,EmbassyFocus,LOR,lor_band,previous_year,previous_lor,previous_band,consecutive_previous_year,band_drop,band_gain,lor_zero_event,focus_three_event,material_downgrade,one_band_downgrade,restoration_from_zero,material_restoration
+Afghanistan,China,2022,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Afghanistan,United States,2016,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Afghanistan,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Afghanistan,United States,2021,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,3,43,0.0,0.0,2020,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Afghanistan,United States,2021,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Albania,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Albania,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Albania,United States,2023,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Albania,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Albania,United States,2006,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Albania,United States,2015,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Algeria,United States,2020,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Algeria,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Algeria,United States,2023,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Algeria,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Algeria,United States,2001,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,6,2,62,0.5,2.0,2000,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Algeria,United States,2005,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Andorra,United States,2004,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Angola,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Angola,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Antigua and Barbuda,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Argentina,China,2008,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Argentina,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Argentina,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Argentina,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Argentina,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Armenia,China,2024,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Armenia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Armenia,United States,2007,anchor_to_country,Asia,Western Asia,Americas,Northern America,Armenia,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Australia,United States,2006,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Australia,United States,2009,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Australia,United States,2016,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Australia,United States,2020,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Australia,United States,2024,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,Australia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Austria,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Austria,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Austria,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Austria,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Austria,United States,2009,country_to_anchor,Americas,Northern America,Europe,Western Europe,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,China,2024,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Azerbaijan,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,China,2016,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,United States,2010,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Azerbaijan,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Azerbaijan,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahamas,United States,2004,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bahamas,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahamas,United States,2012,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bahamas,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahamas,United States,2001,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahamas,United States,2007,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahamas,United States,2013,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahrain,United States,2011,anchor_to_country,Asia,Western Asia,Americas,Northern America,Bahrain,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahrain,United States,2020,anchor_to_country,Asia,Western Asia,Americas,Northern America,Bahrain,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bahrain,United States,2005,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bangladesh,United States,2024,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Bangladesh,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Barbados,China,2024,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Barbados,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Barbados,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Barbados,United States,2010,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Barbados,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Barbados,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Barbados,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belarus,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belarus,United States,2021,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Belarus,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belgium,United States,2004,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belgium,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belgium,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belgium,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belgium,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Belgium,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belize,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Belize,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belize,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Belize,United States,2020,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Benin,China,2023,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Benin,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Benin,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bolivia,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bolivia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bolivia,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Bolivia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bolivia,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bolivia,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bosnia and Herzegovina,United States,2014,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Bosnia and Herzegovina,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bosnia and Herzegovina,United States,2009,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bosnia and Herzegovina,United States,2018,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Botswana,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Botswana,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brazil,United States,2006,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Brazil,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brazil,United States,2021,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Brazil,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brazil,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brazil,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brunei,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Brunei,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Brunei,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bulgaria,China,2022,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bulgaria,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Bulgaria,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bulgaria,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Bulgaria,United States,2021,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burkina Faso,United States,2010,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burkina Faso,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burkina Faso,United States,2015,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burkina Faso,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burundi,United States,2013,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burundi,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burundi,United States,2019,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Burundi,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burundi,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burundi,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Burundi,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cabo Verde,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cabo Verde,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cabo Verde,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cabo Verde,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cambodia,United States,2018,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Cambodia,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cambodia,United States,2024,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Cambodia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cameroon,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cameroon,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cameroon,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Cameroon,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Canada,China,2018,country_to_anchor,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Canada,China,2023,country_to_anchor,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Canada,United States,2009,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Canada,United States,2016,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Canada,United States,2020,anchor_to_country,Americas,Northern America,Americas,Northern America,Canada,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Central African Republic,China,2022,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Central African Republic,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Central African Republic,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,6,3,63,0.0,0.0,2013,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Central African Republic,United States,2017,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Central African Republic,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Chad,China,2019,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Chad,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Chad,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Chile,United States,2018,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Chile,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Chile,United States,2023,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Chile,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Chile,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+China,United States,2020,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,China,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Colombia,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Colombia,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Colombia,United States,2022,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Colombia,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Congo-Kinshasa,China,2018,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Congo-Kinshasa,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Congo-Kinshasa,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Congo-Kinshasa,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Costa Rica,China,2022,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Costa Rica,United States,2005,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Costa Rica,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Costa Rica,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Costa Rica,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Costa Rica,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Croatia,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Croatia,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cuba,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cyprus,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Cyprus,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cyprus,United States,2013,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Cyprus,United States,2017,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,China,2014,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Czech Republic,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,China,2021,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Czech Republic,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2001,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2016,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Czech Republic,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Czech Republic,United States,2011,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Côte d'Ivoire,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Côte d'Ivoire,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,China,2023,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Denmark,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,United States,2013,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Denmark,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Denmark,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Djibouti,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Djibouti,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Dominica,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Dominica,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Dominican Republic,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Dominican Republic,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Dominican Republic,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Dominican Republic,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Dominican Republic,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ecuador,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Ecuador,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ecuador,United States,2003,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2002,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ecuador,United States,2005,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ecuador,United States,2023,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Egypt,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Egypt,United States,2017,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Egypt,United States,2022,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Egypt,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+El Salvador,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+El Salvador,United States,2012,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+El Salvador,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,El Salvador,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+El Salvador,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Equatorial Guinea,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Eritrea,United States,2011,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Eritrea,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Eritrea,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,China,2022,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Estonia,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2007,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2018,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2021,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Estonia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Estonia,United States,2020,country_to_anchor,Americas,Northern America,Europe,Northern Europe,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ethiopia,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Ethiopia,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ethiopia,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Ethiopia,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ethiopia,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Fiji,United States,2010,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,2,62,0.5,2.0,2009,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Fiji,United States,2017,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,4,2,42,0.375,2.0,2016,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Fiji,United States,2021,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Fiji,United States,2004,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Fiji,United States,2019,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Finland,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Finland,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Finland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Finland,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Finland,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2001,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2014,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+France,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,France,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Gabon,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Gabon,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Gabon,United States,2018,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Gabon,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Gabon,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Gambia, The",United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,"Gambia, The",4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Gambia, The",United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Gambia, The",United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Gambia, The",United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Georgia,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Georgia,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Georgia,United States,2024,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Germany,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Germany,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Germany,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Germany,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ghana,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ghana,United States,2009,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ghana,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Greece,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Greece,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Grenada,China,2013,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Grenada,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Grenada,United States,2021,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,5,1,51,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Grenada,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guatemala,United States,2019,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guinea,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Guinea,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guinea,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Guinea,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guinea-Bissau,China,2023,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Guinea-Bissau,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guinea-Bissau,China,2008,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guinea-Bissau,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guyana,China,2007,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guyana,United States,2008,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guyana,United States,2010,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Guyana,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Guyana,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Haiti,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Haiti,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Haiti,United States,2022,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Haiti,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Haiti,United States,2018,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Haiti,United States,2024,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Holy See (Vatican),United States,2004,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),6,2,62,0.5,2.0,2003,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Holy See (Vatican),United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Holy See (Vatican),United States,2013,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Holy See (Vatican),United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Holy See (Vatican),United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Holy See (Vatican),United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Holy See (Vatican),4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Honduras,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Honduras,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Hungary,United States,2014,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Hungary,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Hungary,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Hungary,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iceland,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iceland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iceland,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Iceland,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,China,2022,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,India,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2016,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2024,anchor_to_country,Asia,Southern Asia,Americas,Northern America,India,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2004,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2009,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+India,United States,2023,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2023,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Indonesia,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2002,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2010,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2014,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2019,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Indonesia,United States,2024,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iran,United States,2015,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,1,31,0.125,1.0,2014,0.75,3.0,True,2.0,-2.0,False,False,True,False,False,False
+Iran,United States,2018,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,3,3,33,0.0,0.0,2017,0.125,1.0,True,1.0,-1.0,True,True,False,True,False,False
+Iraq,China,2004,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Iraq,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iraq,China,2004,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iraq,United States,2016,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Iraq,United States,2022,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ireland,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ireland,United States,2013,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ireland,United States,2017,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ireland,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Ireland,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Israel,United States,2020,anchor_to_country,Asia,Western Asia,Americas,Northern America,Israel,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Italy,United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Italy,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Italy,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Italy,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jamaica,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jamaica,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jamaica,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Jamaica,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jamaica,United States,2002,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jamaica,United States,2004,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Japan,United States,2009,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Japan,United States,2016,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Japan,United States,2019,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Japan,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Jordan,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Jordan,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kazakhstan,United States,2011,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kazakhstan,United States,2014,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kazakhstan,United States,2021,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kazakhstan,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kazakhstan,United States,2020,country_to_anchor,Americas,Northern America,Asia,Central Asia,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kenya,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Kenya,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kenya,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Kenya,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kenya,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kenya,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Korea, Democratic People's Republic of",China,2021,anchor_to_country,Asia,Eastern Asia,Asia,Eastern Asia,"Korea, Democratic People's Republic of",4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Korea, Republic of",United States,2005,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Korea, Republic of",United States,2016,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Korea, Republic of",United States,2020,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,"Korea, Republic of",4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Korea, Republic of",United States,2009,country_to_anchor,Americas,Northern America,Asia,Eastern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kosovo,United States,2010,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kosovo,United States,2020,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kuwait,United States,2014,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kuwait,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kuwait,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Kuwait,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kyrgyzstan,United States,2009,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kyrgyzstan,United States,2015,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kyrgyzstan,United States,2017,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Kyrgyzstan,United States,2021,anchor_to_country,Asia,Central Asia,Americas,Northern America,Kyrgyzstan,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lao People's Democratic Republic,China,2023,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Lao People's Democratic Republic,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lao People's Democratic Republic,United States,2021,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Latvia,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Latvia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lebanon,China,2016,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lebanon,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,Lebanon,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lebanon,United States,2008,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lebanon,United States,2016,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lebanon,United States,2020,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lesotho,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Lesotho,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lesotho,United States,2023,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Lesotho,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lesotho,United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lesotho,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Liberia,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Liberia,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Liberia,China,2024,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Liberia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Liberia,China,2023,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Liberia,United States,2023,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Liberia,6,2,62,0.5,2.0,2022,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Liberia,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Liberia,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Libya,China,2018,anchor_to_country,Africa,Northern Africa,Asia,Eastern Asia,Libya,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Libya,China,2020,country_to_anchor,Asia,Eastern Asia,Africa,Northern Africa,China,1,1,11,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Libya,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Northern Africa,China,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Libya,United States,2013,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Libya,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Libya,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Libya,4,3,43,0.0,0.0,2013,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Libya,United States,2021,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Lithuania,China,2021,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,3,63,0.0,0.0,2020,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Lithuania,China,2024,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,3,63,0.0,0.0,2023,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Lithuania,United States,2019,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Lithuania,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Luxembourg,United States,2002,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Luxembourg,United States,2011,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Luxembourg,United States,2015,anchor_to_country,Europe,Western Europe,Americas,Northern America,Luxembourg,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Macedonia,China,2005,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Macedonia,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Macedonia,United States,2005,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Macedonia,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Macedonia,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Macedonia,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Macedonia,United States,2018,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Madagascar,United States,2011,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Madagascar,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Madagascar,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Madagascar,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Madagascar,United States,2011,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Madagascar,United States,2022,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malawi,China,2022,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malawi,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Malawi,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malawi,United States,2010,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Malawi,1,1,11,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malawi,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Malawi,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,China,2010,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,China,2023,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,United States,2010,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Malaysia,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,United States,2014,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malaysia,United States,2021,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Maldives,China,2018,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,6,2,62,0.5,2.0,2017,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Maldives,United States,2009,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mali,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mali,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mali,United States,2015,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mali,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mali,United States,2017,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mali,United States,2021,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malta,China,2017,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,6,2,62,0.5,2.0,2016,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Malta,United States,2009,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Malta,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malta,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Malta,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Malta,United States,2012,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Marshall Islands,United States,2023,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Marshall Islands,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Marshall Islands,United States,2010,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Marshall Islands,United States,2016,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Marshall Islands,United States,2021,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritania,United States,2007,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritania,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritania,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritania,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritania,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2012,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Mauritius,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2006,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2019,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mauritius,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mexico,China,2001,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Mexico,4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mexico,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mexico,United States,2017,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mexico,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Mexico,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mexico,United States,2017,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Micronesia, Federated States of",United States,2001,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Micronesia, Federated States of",United States,2022,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Micronesia, Federated States of",United States,2024,anchor_to_country,Oceania,Micronesia,Americas,Northern America,"Micronesia, Federated States of",4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Micronesia, Federated States of",United States,2007,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+"Micronesia, Federated States of",United States,2016,country_to_anchor,Americas,Northern America,Oceania,Micronesia,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Moldova,United States,2003,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2002,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Moldova,United States,2010,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Moldova,United States,2016,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Moldova,United States,2019,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mongolia,United States,2017,anchor_to_country,Asia,Eastern Asia,Americas,Northern America,Mongolia,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Montenegro,United States,2020,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Morocco,United States,2009,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Morocco,United States,2014,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Morocco,United States,2016,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Morocco,United States,2020,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Morocco,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Mozambique,United States,2002,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Myanmar,United States,2022,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Myanmar,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Myanmar,United States,2005,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Myanmar,United States,2022,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Namibia,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Namibia,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Namibia,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Namibia,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nepal,United States,2002,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nepal,United States,2004,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nepal,United States,2014,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Netherlands,United States,2008,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Netherlands,United States,2012,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Netherlands,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Netherlands,United States,2020,anchor_to_country,Europe,Western Europe,Americas,Northern America,Netherlands,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+New Zealand,United States,2009,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,New Zealand,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+New Zealand,United States,2017,anchor_to_country,Oceania,Australia and New Zealand,Americas,Northern America,New Zealand,6,2,62,0.5,2.0,2016,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+New Zealand,United States,2016,country_to_anchor,Americas,Northern America,Oceania,Australia and New Zealand,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nicaragua,China,2024,anchor_to_country,Americas,Latin America and the Caribbean,Asia,Eastern Asia,Nicaragua,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nicaragua,United States,2005,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Nicaragua,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nicaragua,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nicaragua,United States,2023,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Niger,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2005,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Niger,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,United States,2004,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Nigeria,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,United States,2004,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,United States,2009,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Nigeria,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Norway,China,2012,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Norway,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Norway,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Northern Europe,China,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Norway,United States,2014,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Norway,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Norway,United States,2023,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Norway,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Oman,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,Oman,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Oman,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Oman,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Pakistan,China,2022,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Pakistan,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Pakistan,China,2024,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Pakistan,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Pakistan,United States,2002,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Pakistan,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Pakistan,United States,2020,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Pakistan,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Pakistan,United States,2017,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,2,62,0.5,2.0,2016,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Pakistan,United States,2024,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,2,62,0.5,2.0,2023,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Palau,United States,2022,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Palau,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Palau,United States,2024,anchor_to_country,Oceania,Micronesia,Americas,Northern America,Palau,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Panama,United States,2002,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Panama,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Panama,United States,2018,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Panama,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Panama,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Papua New Guinea,United States,2021,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Papua New Guinea,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Papua New Guinea,United States,2013,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Papua New Guinea,United States,2018,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Papua New Guinea,United States,2022,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Paraguay,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Paraguay,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Paraguay,United States,2014,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Paraguay,United States,2020,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Peru,United States,2014,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Peru,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Peru,United States,2002,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Peru,United States,2018,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Philippines,China,2004,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Philippines,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Philippines,China,2011,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Philippines,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Philippines,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Philippines,United States,2016,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Poland,United States,2020,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Poland,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Poland,United States,2024,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Portugal,United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Portugal,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Portugal,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Portugal,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Qatar,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Qatar,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,China,2024,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Romania,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,China,2012,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,China,2016,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Romania,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,United States,2013,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Romania,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Romania,United States,2007,country_to_anchor,Americas,Northern America,Europe,Eastern Europe,United States,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Rwanda,China,2024,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Rwanda,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Rwanda,United States,2005,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Rwanda,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Rwanda,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Rwanda,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saint Kitts and Nevis,United States,2022,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saint Lucia,United States,2008,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saint Lucia,United States,2021,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saint Vincent and the Grenadines,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Samoa,United States,2016,anchor_to_country,Oceania,Polynesia,Americas,Northern America,Samoa,6,2,62,0.5,2.0,2015,1.0,4.0,True,2.0,-2.0,False,False,True,False,False,False
+Sao Tome and Principe,China,2017,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Sao Tome and Principe,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sao Tome and Principe,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,6,3,63,0.0,0.0,2017,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Saudi Arabia,United States,2009,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saudi Arabia,United States,2016,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Saudi Arabia,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Saudi Arabia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Serbia,China,2013,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Serbia,China,2020,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Serbia,United States,2014,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Serbia,United States,2024,country_to_anchor,Americas,Northern America,Europe,Southern Europe,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Serbia and Montenegro,United States,2004,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Serbia and Montenegro,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Seychelles,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Seychelles,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sierra Leone,United States,2024,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Singapore,China,2013,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Singapore,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Singapore,United States,2016,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Singapore,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovakia,United States,2005,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Slovakia,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovakia,United States,2009,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Slovakia,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovenia,China,2024,anchor_to_country,Europe,Southern Europe,Asia,Eastern Asia,Slovenia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovenia,United States,2008,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovenia,United States,2018,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovenia,United States,2020,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Slovenia,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Slovenia,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Solomon Islands,United States,2002,country_to_anchor,Americas,Northern America,Oceania,Melanesia,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Somalia,China,2004,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Somalia,1,3,13,0.0,0.0,2003,0.75,3.0,True,3.0,-3.0,True,True,True,False,False,False
+Somalia,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,China,2016,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,South Africa,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2006,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Africa,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2010,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2009,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2018,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Africa,United States,2023,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Sudan,United States,2015,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Sudan,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+South Sudan,United States,2020,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,South Sudan,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Spain,China,2023,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Spain,United States,2016,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Spain,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Spain,United States,2024,anchor_to_country,Europe,Southern Europe,Americas,Northern America,Spain,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sri Lanka,China,2019,anchor_to_country,Asia,Southern Asia,Asia,Eastern Asia,Sri Lanka,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sri Lanka,United States,2015,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Sri Lanka,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sri Lanka,United States,2003,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2002,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sri Lanka,United States,2018,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,China,2022,anchor_to_country,Africa,Northern Africa,Asia,Eastern Asia,Sudan,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,China,2019,country_to_anchor,Asia,Eastern Asia,Africa,Northern Africa,China,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,United States,2023,anchor_to_country,Africa,Northern Africa,Americas,Northern America,Sudan,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,United States,2002,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,3.0,2001,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,United States,2008,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sudan,United States,2021,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Suriname,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Swaziland,United States,2022,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Swaziland,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sweden,China,2018,country_to_anchor,Asia,Eastern Asia,Europe,Northern Europe,China,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sweden,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sweden,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sweden,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Sweden,United States,2024,anchor_to_country,Europe,Northern Europe,Americas,Northern America,Sweden,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,China,2013,anchor_to_country,Europe,Western Europe,Asia,Eastern Asia,Switzerland,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,China,2024,anchor_to_country,Europe,Western Europe,Asia,Eastern Asia,Switzerland,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,United States,2009,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,United States,2014,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,United States,2016,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Switzerland,United States,2024,anchor_to_country,Europe,Western Europe,Americas,Northern America,Switzerland,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Syria,United States,2005,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,6,3,63,0.0,0.0,2004,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Syria,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Syria,United States,2012,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,1,3,13,0.0,0.0,2011,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Syria,United States,2008,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Syria,United States,2012,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tajikistan,United States,2017,anchor_to_country,Asia,Central Asia,Americas,Northern America,Tajikistan,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tanzania,United States,2004,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tanzania,United States,2009,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tanzania,United States,2017,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tanzania,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Tanzania,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Tanzania,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,China,2020,anchor_to_country,Asia,South-eastern Asia,Asia,Eastern Asia,Thailand,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2015,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2018,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2020,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Thailand,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2004,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2003,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Thailand,United States,2017,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Timor-Leste,China,2023,country_to_anchor,Asia,Eastern Asia,Asia,South-eastern Asia,China,4,1,41,0.75,3.0,2022,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Timor-Leste,United States,2014,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Timor-Leste,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Timor-Leste,United States,2021,anchor_to_country,Asia,South-eastern Asia,Americas,Northern America,Timor-Leste,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Timor-Leste,United States,2009,country_to_anchor,Americas,Northern America,Asia,South-eastern Asia,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Togo,China,2020,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Togo,China,2024,country_to_anchor,Asia,Eastern Asia,Africa,Sub-Saharan Africa,China,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Togo,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Togo,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Togo,United States,2008,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Togo,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Trinidad and Tobago,China,2017,country_to_anchor,Asia,Eastern Asia,Americas,Latin America and the Caribbean,China,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Trinidad and Tobago,United States,2013,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Trinidad and Tobago,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Trinidad and Tobago,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Trinidad and Tobago,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Trinidad and Tobago,United States,2003,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2002,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Trinidad and Tobago,United States,2024,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Turkey,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Turkey,4,1,41,0.75,3.0,2016,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Turkey,United States,2024,anchor_to_country,Asia,Western Asia,Americas,Northern America,Turkey,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Turkmenistan,United States,2007,anchor_to_country,Asia,Central Asia,Americas,Northern America,Turkmenistan,4,1,41,0.75,3.0,2006,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uganda,United States,2013,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,China,2019,anchor_to_country,Europe,Eastern Europe,Asia,Eastern Asia,Ukraine,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,China,2013,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,China,2020,country_to_anchor,Asia,Eastern Asia,Europe,Eastern Europe,China,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,United States,2019,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,United States,2021,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Ukraine,United States,2024,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Ukraine,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Arab Emirates,United States,2008,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,3.0,2007,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Arab Emirates,United States,2011,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Arab Emirates,United States,2018,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,3.0,2017,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Arab Emirates,United States,2022,anchor_to_country,Asia,Western Asia,Americas,Northern America,United Arab Emirates,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Kingdom,United States,2005,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,3.0,2004,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Kingdom,United States,2009,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Kingdom,United States,2016,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Kingdom,United States,2020,anchor_to_country,Europe,Northern Europe,Americas,Northern America,United Kingdom,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+United Kingdom,United States,2019,country_to_anchor,Americas,Northern America,Europe,Northern Europe,United States,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2001,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2000,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2006,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2005,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2011,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2015,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uruguay,United States,2020,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Uruguay,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Uzbekistan,United States,2011,anchor_to_country,Asia,Central Asia,Americas,Northern America,Uzbekistan,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2009,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2011,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,3.0,2010,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2024,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Venezuela,4,1,41,0.75,3.0,2023,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2009,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2008,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2012,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2011,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Venezuela,United States,2015,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,4,1,41,0.75,3.0,2014,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Yemen,China,2022,anchor_to_country,Asia,Western Asia,Asia,Eastern Asia,Yemen,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Yemen,China,2014,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Yemen,China,2019,country_to_anchor,Asia,Eastern Asia,Asia,Western Asia,China,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Yemen,United States,2017,anchor_to_country,Asia,Western Asia,Americas,Northern America,Yemen,6,3,63,0.0,0.0,2016,1.0,4.0,True,4.0,-4.0,True,True,True,False,False,False
+Yemen,United States,2013,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,4,1,41,0.75,3.0,2012,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zambia,United States,2014,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zambia,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zambia,United States,2019,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zambia,4,1,41,0.75,3.0,2018,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zambia,United States,2016,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2015,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zimbabwe,China,2022,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Zimbabwe,4,1,41,0.75,3.0,2021,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zimbabwe,United States,2021,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Zimbabwe,4,1,41,0.75,3.0,2020,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zimbabwe,United States,2014,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2013,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False
+Zimbabwe,United States,2020,country_to_anchor,Americas,Northern America,Africa,Sub-Saharan Africa,United States,4,1,41,0.75,3.0,2019,1.0,4.0,True,1.0,-1.0,False,False,False,True,False,False

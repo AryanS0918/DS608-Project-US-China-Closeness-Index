@@ -1,0 +1,27 @@
+{
+  "input": "data/interim/relations/drd_anchor_directed_country_year.parquet",
+  "study_period": [
+    2000,
+    2024
+  ],
+  "directed_rows": 16739,
+  "country_anchor_years": 8762,
+  "countries": 196,
+  "duplicate_directed_keys": 0,
+  "coverage_counts": {
+    "both_directions": 7977,
+    "country_to_anchor_only": 491,
+    "anchor_to_country_only": 294
+  },
+  "condition_counts": {
+    "normal": 8716,
+    "strained": 27,
+    "severely_strained": 18,
+    "ruptured": 1
+  },
+  "lor_zero_or_focus_three_rows": 20,
+  "material_downgrade_rows": 24,
+  "one_band_downgrade_rows": 584,
+  "restoration_from_zero_rows": 7,
+  "material_restoration_rows": 22
+}

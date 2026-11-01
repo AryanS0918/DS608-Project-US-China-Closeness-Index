@@ -1,0 +1,23 @@
+country,anchor,year,direction,DestinationRegion,DestinationSubregion,SendingRegion,SendingSubregion,Location,Embassy,Focus,EmbassyFocus,LOR,lor_band,previous_year,previous_lor,previous_band,consecutive_previous_year,band_drop,band_gain,lor_zero_event,focus_three_event,material_downgrade,one_band_downgrade,restoration_from_zero,material_restoration
+Afghanistan,United States,2001,anchor_to_country,Asia,Southern Asia,Americas,Northern America,Afghanistan,4,1,41,0.75,3.0,2000,0.0,0.0,True,-3.0,3.0,False,False,False,False,True,True
+Algeria,United States,2002,country_to_anchor,Americas,Northern America,Africa,Northern Africa,United States,6,1,61,1.0,4.0,2001,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Austria,United States,2001,anchor_to_country,Europe,Western Europe,Americas,Northern America,Austria,6,1,61,1.0,4.0,2000,0.0,0.0,True,-4.0,4.0,False,False,False,False,True,True
+Belarus,United States,2023,anchor_to_country,Europe,Eastern Europe,Americas,Northern America,Belarus,4,1,41,0.75,3.0,2022,0.0,0.0,True,-3.0,3.0,False,False,False,False,True,True
+Central African Republic,United States,2016,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Central African Republic,6,1,61,1.0,4.0,2015,0.0,0.0,True,-4.0,4.0,False,False,False,False,True,True
+Cuba,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Cuba,4,1,41,0.75,3.0,2015,0.125,1.0,True,-2.0,2.0,False,False,False,False,False,True
+Cuba,United States,2016,country_to_anchor,Americas,Northern America,Americas,Latin America and the Caribbean,United States,6,1,61,1.0,4.0,2015,0.125,1.0,True,-3.0,3.0,False,False,False,False,False,True
+Fiji,United States,2011,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,1,61,1.0,4.0,2010,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Fiji,United States,2020,anchor_to_country,Oceania,Melanesia,Americas,Northern America,Fiji,6,1,61,1.0,4.0,2019,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Grenada,United States,2016,anchor_to_country,Americas,Latin America and the Caribbean,Americas,Northern America,Grenada,6,1,61,1.0,4.0,2015,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Iran,United States,2014,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,1,1,11,0.75,3.0,2013,0.125,1.0,True,-2.0,2.0,False,False,False,False,False,True
+Iraq,United States,2005,country_to_anchor,Americas,Northern America,Asia,Western Asia,United States,6,1,61,1.0,4.0,2004,0.125,1.0,True,-3.0,3.0,False,False,False,False,False,True
+Liberia,United States,2024,anchor_to_country,Africa,Sub-Saharan Africa,Americas,Northern America,Liberia,6,1,61,1.0,4.0,2023,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Lithuania,China,2023,anchor_to_country,Europe,Northern Europe,Asia,Eastern Asia,Lithuania,6,1,61,1.0,4.0,2022,0.0,0.0,True,-4.0,4.0,False,False,False,False,True,True
+Maldives,China,2019,country_to_anchor,Asia,Eastern Asia,Asia,Southern Asia,China,6,1,61,1.0,4.0,2018,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Malta,China,2019,country_to_anchor,Asia,Eastern Asia,Europe,Southern Europe,China,6,1,61,1.0,4.0,2018,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Pakistan,United States,2001,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,1,61,1.0,4.0,2000,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Pakistan,United States,2021,country_to_anchor,Americas,Northern America,Asia,Southern Asia,United States,6,1,61,1.0,4.0,2020,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Samoa,United States,2015,anchor_to_country,Oceania,Polynesia,Americas,Northern America,Samoa,6,1,61,1.0,4.0,2014,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Somalia,China,2005,anchor_to_country,Africa,Sub-Saharan Africa,Asia,Eastern Asia,Somalia,1,1,11,0.75,3.0,2004,0.0,0.0,True,-3.0,3.0,False,False,False,False,True,True
+Switzerland,United States,2001,country_to_anchor,Americas,Northern America,Europe,Western Europe,United States,6,1,61,1.0,4.0,2000,0.5,2.0,True,-2.0,2.0,False,False,False,False,False,True
+Syria,United States,2006,anchor_to_country,Asia,Western Asia,Americas,Northern America,Syria,6,1,61,1.0,4.0,2005,0.0,0.0,True,-4.0,4.0,False,False,False,False,True,True

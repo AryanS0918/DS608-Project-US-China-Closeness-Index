@@ -1,0 +1,9 @@
+anchor,combined_evidence_profile,country_anchor_years
+China,no_adverse_evidence,2767
+China,sanctions_only,1047
+China,sanctions_plus_unilateral_drd_disruption,4
+United States,no_adverse_evidence,2017
+United States,sanctions_only,2568
+United States,sanctions_plus_bilateral_drd_disruption,1
+United States,sanctions_plus_unilateral_drd_disruption,12
+United States,unilateral_drd_disruption_only,1

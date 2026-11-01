@@ -1,0 +1,3 @@
+dataset,case_id_dtype,dyad_case_id_dtype,case_ids,dyad_ids,dyad_ids_matching_by_candidate_base,dyad_ids_unmatched,matched_distinct_case_ids,year_dtype,year_encoding,year_min,year_max,year_unique
+R5,int64,object,1794,2346,2346,0,1056,datetime64[ns],datetime,1950,2025,76
+FS,int64,object,1072,1695,1695,0,678,datetime64[ns],datetime,1950,2025,76
