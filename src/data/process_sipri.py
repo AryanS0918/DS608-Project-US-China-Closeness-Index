@@ -10,9 +10,9 @@ import numpy as np
 import pandas as pd
 
 # File paths
-US_FILE = Path("data/raw/sipri/us_transfers.csv")
-CN_FILE = Path("data/raw/sipri/cn_transfers.csv")
-GLOBAL_FILE = Path("data/raw/sipri/global_transfers.csv")
+US_FILE = Path("data/raw/us_transfers.csv")
+CN_FILE = Path("data/raw/cn_transfers.csv")
+GLOBAL_FILE = Path("data/raw/global_transfers.csv")
 MAPPING_FILE = Path("data/sources/country_mapping.csv")
 OUTPUT_FILE = Path("data/processed/sipri_arms_country_year.csv")
 UNMAPPED_AUDIT_FILE = Path("data/processed/sipri_unmapped_names.csv")
@@ -67,21 +67,21 @@ def main():
     df = df.fillna(0)
 
     # 1. Remove non-state recipients
-    non_states = [
-        "African Union**",
-        "NATO**",
-        "Syria rebels**",
-        "United Nations**",
-        "Unknown recipient(s)**",
-    ]
-    removed_df = df[df["Recipient"].isin(non_states)]
+    # SIPRI marks non-state recipients with one or two trailing asterisks,
+    # plus a few totals and unnamed recipient summaries without asterisks.
+    is_non_state = (
+        df["Recipient"].str.endswith("*")
+        | df["Recipient"].str.lower().str.startswith("total ")
+        | df["Recipient"].str.lower().str.startswith("unknown recipient")
+    )
+    removed_df = df[is_non_state]
     if not removed_df.empty:
         REMOVED_AUDIT_FILE.parent.mkdir(parents=True, exist_ok=True)
         removed_df["Recipient"].drop_duplicates().to_csv(
             REMOVED_AUDIT_FILE, index=False
         )
 
-    df = df[~df["Recipient"].isin(non_states)]
+    df = df[~is_non_state]
 
     # 2. Map recipient names to ISO3
     if MAPPING_FILE.exists():
