@@ -24,6 +24,7 @@ The security pillar (arms transfers) collection and processing pipeline is compl
 - maps recipient names to standardized ISO3 country codes;
 - calculates a bounded signed score ranging from -1 to +1; and
 - applies low-volume threshold flags and observational status codes.
+- relies on the final panel merge to assign a `no_observed_relationship` status to countries in the master universe that never appear in the SIPRI database.
   
 Other pillars and the Streamlit dashboard remain under development.
 
