@@ -751,3 +751,162 @@ Revisit this decision when:
   rankings; or
 - a component-specific source requires a different treatment.
 
+## Incomplete latest-year data
+
+- **Status:** Provisional project-wide default
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Use 2004–2024 as the complete-data baseline period for the current
+edition of the US–China Closeness Index.
+
+Retain 2025 observations where available to support continuity, source
+monitoring and future updates, but treat 2025 as a provisional extension
+whenever one or more required components lack complete and comparable
+coverage.
+
+Where a 2025 component is structurally unavailable, the likely default
+is to calculate a clearly flagged available-component score rather than
+zero-fill the missing component. This provisional treatment must not be
+presented as directly comparable with the complete-data baseline period.
+
+Do not apply this rule automatically to a new component or to the final
+composite. Confirm the proposed treatment with Darren after reviewing
+the specific source coverage and implications.
+
+### Reporting rule
+
+Unless subsequently decided otherwise:
+
+- baseline estimation, validation and substantive trend analysis use
+  2004–2024;
+- 2025 is presented separately as provisional;
+- 2025 values are excluded from claims requiring consistent component
+  composition across years; and
+- the provisional flag is removed only after all required sources have
+  complete and validated 2025 coverage.
+
+### Reopening triggers
+
+Revisit this decision when:
+
+- complete 2025 data become available for all required components;
+- the final index adopts a different latest-year publication policy;
+- available-component renormalisation materially distorts 2025 scores or
+  rankings; or
+- a component-specific source requires a different treatment.
+
+## Diplomatic subindex integration
+
+- **Status:** Decided
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Combine signed diplomatic structural ties and broad UN General Assembly
+voting alignment with equal conceptual weights when both components are
+available.
+
+The signed structural score is:
+
+`United States structural score - China structural score`
+
+When both components are available:
+
+`diplomatic_score = 0.5 * structural_score + 0.5 * UNGA_score`
+
+When only one component is available, renormalise to the available
+component. Do not zero-fill an unavailable component. When neither
+component is available, retain a missing diplomatic score.
+
+Use 2004–2024 as the comparable complete-data baseline period. Retain
+2025 only as a clearly flagged provisional extension because the
+diplomatic-representation source currently ends in 2024.
+
+Retain provisionally insufficient UNGA participation in the baseline
+with participation status and rate preserved. Retain exclusion of those
+observations as a formal sensitivity.
+
+Use the broad UNGA specification as the baseline and retain the strict
+Yes-versus-No specification as a robustness measure.
+
+Retain one-third/two-thirds component-weight specifications as prominent
+sensitivities because component weighting materially affects some
+directions and rankings.
+
+Keep relationship condition as a contextual layer rather than inserting
+it numerically into the diplomatic subindex.
+
+### Production artefacts
+
+Production output:
+
+`data/processed/diplomatic_subindex_country_year.csv`
+
+Production builder:
+
+`src/data/build_diplomatic_subindex.py`
+
+Development notebook:
+
+`notebooks/15_diplomatic_subindex_integration.ipynb`
+
+Focused tests:
+
+`tests/test_diplomatic_subindex.py`
+
+### Reopening triggers
+
+Revisit this decision if:
+
+- complete and validated diplomatic-representation data become available
+  for 2025;
+- the final composite adopts a different latest-year policy;
+- alternative component weights materially affect the final composite;
+- UNGA participation treatment materially changes final rankings;
+- either component undergoes a methodological revision; or
+- relationship condition is proposed as a numerical diplomatic input.
+
+### Canonical production validation
+
+The regenerated UN Comtrade panel is mapped to the corrected baseline
+entity universe through a separate canonical production builder.
+
+The production panel contains:
+
+- 4,205 country-years;
+- 192 eligible entities;
+- 2004–2025;
+- 3,465 complete four-flow scores;
+- 723 country-years with no source row;
+- 17 source rows with incomplete bilateral flows;
+- 3,332 scores using four reporter-side observations;
+- 133 scores using one or more mirror-side recoveries;
+- 740 missing scores;
+- no duplicate keys;
+- no scores without all four required flows; and
+- all non-missing scores within `[-1, 1]`.
+
+Use 2004–2024 as the comparable baseline period. Retain 2025 only as a
+provisional extension, with 122 available scores and 69 unavailable
+scores.
+
+Interpret provenance labels as reporter-side and mirror-side rather than
+as definitive claims about the meaning of UN Comtrade's `isReported`
+metadata. Preserve the underlying Comtrade metadata in acquisition
+audits.
+
+Production output:
+
+`data/processed/trade_orientation_country_year.csv`
+
+Production builder:
+
+`src/data/build_trade_orientation.py`
+
+Focused tests:
+
+`tests/test_trade_orientation.py`

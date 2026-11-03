@@ -1,0 +1,412 @@
+year,reporter_code,reporter_iso,reporter_name,missing_relationship,anchor_code,anchor_name,mirror_flow_code,mirror_flow_name,period,mirror_reporter_code,mirror_reporter_iso,mirror_reporter,mirror_partner_iso,mirror_partner,returned_mirror_flow_code,returned_mirror_flow_name,mirror_classification,mirror_value_usd,mirror_legacy_estimation_flag,mirror_is_reported,mirror_is_aggregate
+2000,28,ATG,Antigua and Barbuda,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,ATG,Antigua and Barbuda,M,Import,H1,26230.0,0.0,False,False
+2000,44,BHS,Bahamas,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,BHS,Bahamas,M,Import,H1,35.0,0.0,False,False
+2000,84,BLZ,Belize,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,BLZ,Belize,M,Import,H1,206748.0,0.0,False,False
+2000,108,BDI,Burundi,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,BDI,Burundi,M,Import,H1,1119040.0,0.0,False,False
+2000,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,174,COM,Comoros,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,COM,Comoros,M,Import,H1,5256.0,0.0,False,False
+2000,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,175,MYT,Mayotte (Overseas France),exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2000,184,COK,Cook Isds,imports_from_china,156,china,X,exports,2000,156.0,CHN,China,COK,Cook Isds,X,Export,H1,245642.0,0.0,False,False
+2000,184,COK,Cook Isds,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,COK,Cook Isds,M,Import,H1,626.0,0.0,False,False
+2000,184,COK,Cook Isds,imports_from_us,842,us,X,exports,2000,842.0,USA,USA,COK,Cook Isds,X,Export,H1,1132668.0,0.0,False,False
+2000,192,CUB,Cuba,exports_to_us,842,us,M,imports,2000,842.0,USA,USA,CUB,Cuba,M,Import,H1,323097.0,0.0,False,False
+2000,212,DMA,Dominica,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,DMA,Dominica,M,Import,H1,2460131.0,0.0,False,False
+2000,304,GRL,Greenland,imports_from_china,156,china,X,exports,2000,156.0,CHN,China,GRL,Greenland,X,Export,H1,336286.0,0.0,False,False
+2000,426,LSO,Lesotho,imports_from_china,156,china,X,exports,2000,156.0,CHN,China,LSO,Lesotho,X,Export,H1,10423544.0,0.0,False,False
+2000,426,LSO,Lesotho,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,LSO,Lesotho,M,Import,H1,51210.0,0.0,False,False
+2000,426,LSO,Lesotho,exports_to_us,842,us,M,imports,2000,842.0,USA,USA,LSO,Lesotho,M,Import,H1,140325504.0,0.0,False,False
+2000,462,MDV,Maldives,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,MDV,Maldives,M,Import,H1,20327.0,0.0,False,False
+2000,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,MSR,Montserrat,M,Import,H1,128.0,0.0,False,False
+2000,660,AIA,Anguilla,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2000,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H1,513147.0,0.0,False,False
+2000,694,SLE,Sierra Leone,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,SLE,Sierra Leone,M,Import,H1,16287.0,0.0,False,False
+2000,762,TJK,Tajikistan,imports_from_china,156,china,X,exports,2000,156.0,CHN,China,TJK,Tajikistan,X,Export,H1,6792704.0,0.0,False,False
+2000,762,TJK,Tajikistan,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,TJK,Tajikistan,M,Import,H1,10377091.0,0.0,False,False
+2000,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2000,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H1,79147.0,0.0,False,False
+2000,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2000,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H1,104002.0,0.0,False,False
+2000,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2000,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2001,8,ALB,Albania,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,ALB,Albania,M,Import,H1,1467.0,0.0,False,False
+2001,20,AND,Andorra,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,44,BHS,Bahamas,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,BHS,Bahamas,M,Import,H1,21600.0,0.0,False,False
+2001,104,MMR,Myanmar,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,MMR,Myanmar,M,Import,H1,134188026.0,0.0,False,False
+2001,104,MMR,Myanmar,exports_to_us,842,us,M,imports,2001,842.0,USA,USA,MMR,Myanmar,M,Import,H1,469888123.0,0.0,False,False
+2001,108,BDI,Burundi,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,BDI,Burundi,M,Import,H1,2379.0,0.0,False,False
+2001,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,174,COM,Comoros,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,COM,Comoros,M,Import,H1,41693.0,0.0,False,False
+2001,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,184,COK,Cook Isds,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,COK,Cook Isds,M,Import,H1,112792.0,0.0,False,False
+2001,192,CUB,Cuba,exports_to_us,842,us,M,imports,2001,842.0,USA,USA,CUB,Cuba,M,Import,H1,5565.0,0.0,False,False
+2001,212,DMA,Dominica,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,DMA,Dominica,M,Import,H1,900538.0,0.0,False,False
+2001,304,GRL,Greenland,imports_from_china,156,china,X,exports,2001,156.0,CHN,China,GRL,Greenland,X,Export,H1,429115.0,0.0,False,False
+2001,500,MSR,Montserrat,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,660,AIA,Anguilla,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2001,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H1,307599.0,0.0,False,False
+2001,760,SYR,Syria,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,SYR,Syria,M,Import,H1,14193.0,0.0,False,False
+2001,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2001,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H1,3250.0,0.0,False,False
+2001,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2001,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H1,8.0,0.0,False,False
+2001,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,798,TUV,Tuvalu,exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2001,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2001,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,2001,842.0,USA,USA,WLF,Wallis and Futuna Isds,M,Import,H1,2537.0,0.0,False,False
+2001,882,WSM,Samoa,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,20,AND,Andorra,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,AND,Andorra,M,Import,H2,12603.0,0.0,True,False
+2002,44,BHS,Bahamas,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,BHS,Bahamas,M,Import,H2,58480.0,0.0,True,False
+2002,84,BLZ,Belize,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,BLZ,Belize,M,Import,H2,159454.0,0.0,True,False
+2002,108,BDI,Burundi,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,BDI,Burundi,M,Import,H2,490731.0,0.0,True,False
+2002,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,CPV,Cabo Verde,M,Import,H2,262.0,0.0,True,False
+2002,174,COM,Comoros,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,174,COM,Comoros,imports_from_us,842,us,X,exports,2002,842.0,USA,USA,COM,Comoros,X,Export,H2,143891.0,0.0,True,False
+2002,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,184,COK,Cook Isds,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,COK,Cook Isds,M,Import,H2,125304.0,0.0,True,False
+2002,212,DMA,Dominica,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,DMA,Dominica,M,Import,H2,742200.0,0.0,True,False
+2002,266,GAB,Gabon,imports_from_china,156,china,X,exports,2002,156.0,CHN,China,GAB,Gabon,X,Export,H2,4704333.0,0.0,True,False
+2002,266,GAB,Gabon,imports_from_us,842,us,X,exports,2002,842.0,USA,USA,GAB,Gabon,X,Export,H2,65515209.0,0.0,True,False
+2002,288,GHA,Ghana,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,GHA,Ghana,M,Import,H2,30145440.0,0.0,True,False
+2002,288,GHA,Ghana,exports_to_us,842,us,M,imports,2002,842.0,USA,USA,GHA,Ghana,M,Import,H2,128540323.0,0.0,True,False
+2002,304,GRL,Greenland,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,GRL,Greenland,M,Import,H2,12393820.0,0.0,True,False
+2002,426,LSO,Lesotho,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,462,MDV,Maldives,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,MDV,Maldives,M,Import,H2,2112.0,0.0,True,False
+2002,496,MNG,Mongolia,imports_from_china,156,china,X,exports,2002,156.0,CHN,China,MNG,Mongolia,X,Export,H2,140026305.0,0.0,True,False
+2002,496,MNG,Mongolia,imports_from_us,842,us,X,exports,2002,842.0,USA,USA,MNG,Mongolia,X,Export,H2,66273120.0,0.0,True,False
+2002,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,MSR,Montserrat,M,Import,H2,16.0,0.0,True,False
+2002,583,FSM,FS Micronesia,imports_from_china,156,china,X,exports,2002,156.0,CHN,China,FSM,FS Micronesia,X,Export,H2,1301906.0,0.0,True,False
+2002,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,583,FSM,FS Micronesia,imports_from_us,842,us,X,exports,2002,842.0,USA,USA,FSM,FS Micronesia,X,Export,H2,27215103.0,0.0,True,False
+2002,660,AIA,Anguilla,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H2,24000.0,0.0,True,False
+2002,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2002,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H2,431964.0,0.0,True,False
+2002,760,SYR,Syria,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,SYR,Syria,M,Import,H2,14134910.0,0.0,True,False
+2002,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,,,,,,,,,,,,,
+2002,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,854,BFA,Burkina Faso,exports_to_china,156,china,M,imports,2002,156.0,CHN,China,BFA,Burkina Faso,M,Import,H2,701662.0,0.0,True,False
+2002,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2002,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2002,882,WSM,Samoa,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,20,AND,Andorra,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,AND,Andorra,M,Import,H2,8.0,0.0,True,False
+2003,44,BHS,Bahamas,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,BHS,Bahamas,M,Import,H2,781415.0,0.0,True,False
+2003,84,BLZ,Belize,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,BLZ,Belize,M,Import,H2,988369.0,0.0,True,False
+2003,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,CPV,Cabo Verde,M,Import,H2,353.0,0.0,True,False
+2003,174,COM,Comoros,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,COM,Comoros,M,Import,H2,640.0,0.0,True,False
+2003,174,COM,Comoros,exports_to_us,842,us,M,imports,2003,842.0,USA,USA,COM,Comoros,M,Import,H2,4110023.0,0.0,True,False
+2003,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,175,MYT,Mayotte (Overseas France),exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2003,212,DMA,Dominica,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,DMA,Dominica,M,Import,H2,757646.0,0.0,True,False
+2003,270,GMB,Gambia,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,GMB,Gambia,M,Import,H2,1548765.0,0.0,True,False
+2003,304,GRL,Greenland,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,GRL,Greenland,M,Import,H2,22171241.0,0.0,True,False
+2003,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,MSR,Montserrat,M,Import,H2,541452.0,0.0,True,False
+2003,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2003,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H2,2114378.0,0.0,True,False
+2003,660,AIA,Anguilla,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H2,29404.0,0.0,True,False
+2003,748,SWZ,Eswatini,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,SWZ,Eswatini,M,Import,H2,14533067.0,0.0,True,False
+2003,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2003,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H2,23055.0,0.0,True,False
+2003,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2003,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H2,15580.0,0.0,True,False
+2003,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2003,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,2003,842.0,USA,USA,WLF,Wallis and Futuna Isds,M,Import,H2,8868.0,0.0,True,False
+2004,20,AND,Andorra,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,AND,Andorra,M,Import,H2,3714.0,0.0,True,False
+2004,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2004,140,CAF,Central African Rep.,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,CAF,Central African Rep.,M,Import,H2,6245300.0,0.0,True,False
+2004,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2004,842.0,USA,USA,CAF,Central African Rep.,M,Import,H2,8878770.0,0.0,True,False
+2004,174,COM,Comoros,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2004,296,KIR,Kiribati,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2004,296,KIR,Kiribati,exports_to_us,842,us,M,imports,2004,842.0,USA,USA,KIR,Kiribati,M,Import,H2,1669929.0,0.0,True,False
+2004,404,KEN,Kenya,imports_from_china,156,china,X,exports,2004,156.0,CHN,China,KEN,Kenya,X,Export,H2,348793896.0,0.0,True,False
+2004,404,KEN,Kenya,imports_from_us,842,us,X,exports,2004,842.0,USA,USA,KEN,Kenya,X,Export,H2,347522676.0,0.0,True,False
+2004,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,MSR,Montserrat,M,Import,H2,2880.0,0.0,True,False
+2004,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2004,624,GNB,Guinea-Bissau,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,GNB,Guinea-Bissau,M,Import,H2,29251.0,0.0,True,False
+2004,659,KNA,Saint Kitts and Nevis,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,KNA,Saint Kitts and Nevis,M,Import,H2,1060.0,0.0,True,False
+2004,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H2,1337546.0,0.0,True,False
+2004,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2004,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H2,91460.0,0.0,True,False
+2004,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2004,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H2,1919.0,0.0,True,False
+2004,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H2,22437.0,0.0,True,False
+2004,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2004,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,2004,156.0,CHN,China,WLF,Wallis and Futuna Isds,M,Import,H2,75.0,0.0,True,False
+2004,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,2004,842.0,USA,USA,WLF,Wallis and Futuna Isds,M,Import,H2,1439.0,0.0,True,False
+2005,20,AND,Andorra,imports_from_china,156,china,X,exports,2005,156.0,CHN,China,AND,Andorra,X,Export,H2,3230910.0,0.0,True,False
+2005,20,AND,Andorra,imports_from_us,842,us,X,exports,2005,842.0,USA,USA,AND,Andorra,X,Export,H2,10549473.0,0.0,True,False
+2005,44,BHS,Bahamas,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,BHS,Bahamas,M,Import,H2,188349.0,0.0,True,False
+2005,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,BMU,Bermuda,M,Import,H2,2936.0,0.0,True,False
+2005,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2005,842.0,USA,USA,BMU,Bermuda,M,Import,H2,88164711.0,0.0,True,False
+2005,174,COM,Comoros,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,COM,Comoros,M,Import,H2,583.0,0.0,True,False
+2005,174,COM,Comoros,exports_to_us,842,us,M,imports,2005,842.0,USA,USA,COM,Comoros,M,Import,H2,1489319.0,0.0,True,False
+2005,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2005,212,DMA,Dominica,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,DMA,Dominica,M,Import,H2,945822.0,0.0,True,False
+2005,426,LSO,Lesotho,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,LSO,Lesotho,M,Import,H2,330851.0,0.0,True,False
+2005,500,MSR,Montserrat,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2005,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,FSM,FS Micronesia,M,Import,H2,19458.0,0.0,True,False
+2005,624,GNB,Guinea-Bissau,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2005,624,GNB,Guinea-Bissau,imports_from_us,842,us,X,exports,2005,842.0,USA,USA,GNB,Guinea-Bissau,X,Export,H2,2100355.0,0.0,True,False
+2005,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2005,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2005,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H2,223453.0,0.0,True,False
+2005,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2005,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H2,247810.0,0.0,True,False
+2005,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H2,18989.0,0.0,True,False
+2005,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2005,798,TUV,Tuvalu,exports_to_us,842,us,M,imports,2005,842.0,USA,USA,TUV,Tuvalu,M,Import,H2,60458.0,0.0,True,False
+2005,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,2005,156.0,CHN,China,WLF,Wallis and Futuna Isds,M,Import,H2,52862.0,0.0,True,False
+2005,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,2005,842.0,USA,USA,WLF,Wallis and Futuna Isds,M,Import,H2,26295.0,0.0,True,False
+2006,20,AND,Andorra,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,AND,Andorra,M,Import,H2,2745470.0,0.0,True,False
+2006,28,ATG,Antigua and Barbuda,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,ATG,Antigua and Barbuda,M,Import,H2,4705.0,0.0,True,False
+2006,28,ATG,Antigua and Barbuda,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,ATG,Antigua and Barbuda,M,Import,H2,5935891.0,0.0,True,False
+2006,44,BHS,Bahamas,imports_from_china,156,china,X,exports,2006,156.0,CHN,China,BHS,Bahamas,X,Export,H2,164526644.0,0.0,True,False
+2006,60,BMU,Bermuda,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,BMU,Bermuda,M,Import,H2,16615024.0,0.0,True,False
+2006,174,COM,Comoros,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,COM,Comoros,M,Import,H2,683.0,0.0,True,False
+2006,174,COM,Comoros,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,COM,Comoros,M,Import,H2,1601010.0,0.0,True,False
+2006,175,MYT,Mayotte (Overseas France),exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,KIR,Kiribati,M,Import,H2,184.0,0.0,True,False
+2006,296,KIR,Kiribati,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,KIR,Kiribati,M,Import,H2,1544317.0,0.0,True,False
+2006,304,GRL,Greenland,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,GRL,Greenland,M,Import,H2,30039729.0,0.0,True,False
+2006,364,IRN,Iran,imports_from_us,842,us,X,exports,2006,842.0,USA,USA,IRN,Iran,X,Export,H2,84952918.0,0.0,True,False
+2006,426,LSO,Lesotho,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,LSO,Lesotho,M,Import,H2,1280328.0,0.0,True,False
+2006,478,MRT,Mauritania,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,MRT,Mauritania,M,Import,H2,402016196.0,0.0,True,False
+2006,478,MRT,Mauritania,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,MRT,Mauritania,M,Import,H2,53744282.0,0.0,True,False
+2006,499,MNE,Montenegro,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,500,MSR,Montserrat,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,FSM,FS Micronesia,M,Import,H2,72567.0,0.0,True,False
+2006,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,748,SWZ,Eswatini,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,SWZ,Eswatini,M,Import,H2,24822266.0,0.0,True,False
+2006,776,TON,Tonga,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,TON,Tonga,M,Import,H2,13491.0,0.0,True,False
+2006,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2006,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H2,738703.0,0.0,True,False
+2006,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H2,583.0,0.0,True,False
+2006,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,2006,156.0,CHN,China,TUV,Tuvalu,M,Import,H2,76406.0,0.0,True,False
+2006,798,TUV,Tuvalu,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,TUV,Tuvalu,M,Import,H2,23745.0,0.0,True,False
+2006,876,WLF,Wallis and Futuna Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2006,876,WLF,Wallis and Futuna Isds,exports_to_us,842,us,M,imports,2006,842.0,USA,USA,WLF,Wallis and Futuna Isds,M,Import,H2,47978.0,0.0,True,False
+2007,20,AND,Andorra,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,AND,Andorra,M,Import,H3,458803.0,0.0,True,False
+2007,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,BMU,Bermuda,M,Import,H3,17703.0,0.0,True,False
+2007,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,BMU,Bermuda,M,Import,H3,24307289.0,0.0,True,False
+2007,174,COM,Comoros,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,COM,Comoros,M,Import,H3,1773.0,0.0,True,False
+2007,174,COM,Comoros,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,COM,Comoros,M,Import,H3,562297.0,0.0,True,False
+2007,175,MYT,Mayotte (Overseas France),exports_to_us,842,us,M,imports,2007,842.0,USA,USA,MYT,Mayotte (Overseas France),M,Import,H3,312151.0,0.0,True,False
+2007,184,COK,Cook Isds,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,COK,Cook Isds,M,Import,H3,1843774.0,0.0,True,False
+2007,184,COK,Cook Isds,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,COK,Cook Isds,M,Import,H3,1782605.0,0.0,True,False
+2007,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,KIR,Kiribati,M,Import,H3,597.0,0.0,True,False
+2007,304,GRL,Greenland,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,GRL,Greenland,M,Import,H3,10216095.0,0.0,True,False
+2007,426,LSO,Lesotho,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,LSO,Lesotho,M,Import,H3,1243660.0,0.0,True,False
+2007,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,MSR,Montserrat,M,Import,H3,4209.0,0.0,True,False
+2007,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,FSM,FS Micronesia,M,Import,H3,320650.0,0.0,True,False
+2007,585,PLW,Palau,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,PLW,Palau,M,Import,H3,945.0,0.0,True,False
+2007,585,PLW,Palau,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,PLW,Palau,M,Import,H3,665579.0,0.0,True,False
+2007,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2007,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H3,417442.0,0.0,True,False
+2007,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2007,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H3,926168.0,0.0,True,False
+2007,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2007,862,VEN,Venezuela,exports_to_china,156,china,M,imports,2007,156.0,CHN,China,VEN,Venezuela,M,Import,H3,3052881008.0,0.0,True,False
+2007,862,VEN,Venezuela,exports_to_us,842,us,M,imports,2007,842.0,USA,USA,VEN,Venezuela,M,Import,H3,41010703537.0,0.0,True,False
+2008,20,AND,Andorra,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,AND,Andorra,M,Import,H3,902653.0,0.0,True,False
+2008,44,BHS,Bahamas,imports_from_china,156,china,X,exports,2008,156.0,CHN,China,BHS,Bahamas,X,Export,H3,385338947.0,0.0,True,False
+2008,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,BMU,Bermuda,M,Import,H3,3824.0,0.0,True,False
+2008,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,BMU,Bermuda,M,Import,H3,140704279.0,0.0,True,False
+2008,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2008,132,CPV,Cabo Verde,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,CPV,Cabo Verde,M,Import,H3,462840.0,0.0,True,False
+2008,174,COM,Comoros,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2008,184,COK,Cook Isds,imports_from_china,156,china,X,exports,2008,156.0,CHN,China,COK,Cook Isds,X,Export,H3,870316.0,0.0,True,False
+2008,184,COK,Cook Isds,imports_from_us,842,us,X,exports,2008,842.0,USA,USA,COK,Cook Isds,X,Export,H3,2790773.0,0.0,True,False
+2008,212,DMA,Dominica,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,DMA,Dominica,M,Import,H3,2164907.0,0.0,True,False
+2008,296,KIR,Kiribati,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,KIR,Kiribati,M,Import,H3,1165380.0,0.0,True,False
+2008,304,GRL,Greenland,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,GRL,Greenland,M,Import,H3,6278821.0,0.0,True,False
+2008,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,MSR,Montserrat,M,Import,H3,24128.0,0.0,True,False
+2008,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,FSM,FS Micronesia,M,Import,H3,10213.0,0.0,True,False
+2008,585,PLW,Palau,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,PLW,Palau,M,Import,H3,59821.0,0.0,True,False
+2008,585,PLW,Palau,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,PLW,Palau,M,Import,H3,1147269.0,0.0,True,False
+2008,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H3,26199458.0,0.0,True,False
+2008,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2008,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H3,17127.0,0.0,True,False
+2008,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2008,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H3,1380139.0,0.0,True,False
+2008,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2008,798,TUV,Tuvalu,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2008,798,TUV,Tuvalu,exports_to_us,842,us,M,imports,2008,842.0,USA,USA,TUV,Tuvalu,M,Import,H3,94834.0,0.0,True,False
+2009,20,AND,Andorra,imports_from_us,842,us,X,exports,2009,842.0,USA,USA,AND,Andorra,X,Export,H3,9426362.0,0.0,True,False
+2009,20,AND,Andorra,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,AND,Andorra,M,Import,H3,541665.0,0.0,True,False
+2009,44,BHS,Bahamas,imports_from_china,156,china,X,exports,2009,156.0,CHN,China,BHS,Bahamas,X,Export,H3,422538013.0,0.0,True,False
+2009,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,BMU,Bermuda,M,Import,H3,3724.0,0.0,True,False
+2009,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,BMU,Bermuda,M,Import,H3,13613933.0,0.0,True,False
+2009,304,GRL,Greenland,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,GRL,Greenland,M,Import,H3,44260211.0,0.0,True,False
+2009,304,GRL,Greenland,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,GRL,Greenland,M,Import,H3,7862494.0,0.0,True,False
+2009,308,GRD,Grenada,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,GRD,Grenada,M,Import,H3,31256.0,0.0,True,False
+2009,308,GRD,Grenada,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,GRD,Grenada,M,Import,H3,6180235.0,0.0,True,False
+2009,414,KWT,Kuwait,imports_from_china,156,china,X,exports,2009,156.0,CHN,China,KWT,Kuwait,X,Export,H3,1542682893.0,0.0,True,False
+2009,414,KWT,Kuwait,imports_from_us,842,us,X,exports,2009,842.0,USA,USA,KWT,Kuwait,X,Export,H3,1951751131.0,0.0,True,False
+2009,462,MDV,Maldives,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,MDV,Maldives,M,Import,H3,127654.0,0.0,True,False
+2009,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,MSR,Montserrat,M,Import,H3,133352.0,0.0,True,False
+2009,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,FSM,FS Micronesia,M,Import,H3,3963854.0,0.0,True,False
+2009,585,PLW,Palau,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2009,585,PLW,Palau,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,PLW,Palau,M,Import,H3,85617.0,0.0,True,False
+2009,634,QAT,Qatar,imports_from_china,156,china,X,exports,2009,156.0,CHN,China,QAT,Qatar,X,Export,H3,872411299.0,0.0,True,False
+2009,634,QAT,Qatar,imports_from_us,842,us,X,exports,2009,842.0,USA,USA,QAT,Qatar,X,Export,H3,2720183253.0,0.0,True,False
+2009,659,KNA,Saint Kitts and Nevis,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,KNA,Saint Kitts and Nevis,M,Import,H3,43381.0,0.0,True,False
+2009,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2009,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H3,4280.0,0.0,True,False
+2009,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2009,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H3,227021.0,0.0,True,False
+2009,796,TCA,Turks and Caicos Isds,imports_from_china,156,china,X,exports,2009,156.0,CHN,China,TCA,Turks and Caicos Isds,X,Export,H3,406004.0,0.0,True,False
+2009,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2010,20,AND,Andorra,exports_to_us,842,us,M,imports,2010,842.0,USA,USA,AND,Andorra,M,Import,H3,482319.0,0.0,True,False
+2010,44,BHS,Bahamas,imports_from_china,156,china,X,exports,2010,156.0,CHN,China,BHS,Bahamas,X,Export,H3,627810492.0,0.0,True,False
+2010,60,BMU,Bermuda,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2010,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2010,842.0,USA,USA,BMU,Bermuda,M,Import,H3,23073347.0,0.0,True,False
+2010,174,COM,Comoros,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,COM,Comoros,M,Import,H3,24089.0,0.0,True,False
+2010,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,KIR,Kiribati,M,Import,H3,5277.0,0.0,True,False
+2010,296,KIR,Kiribati,exports_to_us,842,us,M,imports,2010,842.0,USA,USA,KIR,Kiribati,M,Import,H3,1222445.0,0.0,True,False
+2010,304,GRL,Greenland,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,GRL,Greenland,M,Import,H3,54547840.0,0.0,True,False
+2010,304,GRL,Greenland,exports_to_us,842,us,M,imports,2010,842.0,USA,USA,GRL,Greenland,M,Import,H3,8537845.0,0.0,True,False
+2010,368,IRQ,Iraq,imports_from_china,156,china,X,exports,2010,156.0,CHN,China,IRQ,Iraq,X,Export,H3,3589866730.0,0.0,True,False
+2010,368,IRQ,Iraq,imports_from_us,842,us,X,exports,2010,842.0,USA,USA,IRQ,Iraq,X,Export,H3,1643064073.0,0.0,True,False
+2010,500,MSR,Montserrat,imports_from_china,156,china,X,exports,2010,156.0,CHN,China,MSR,Montserrat,X,Export,H3,10642.0,0.0,True,False
+2010,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,MSR,Montserrat,M,Import,H3,24085.0,0.0,True,False
+2010,500,MSR,Montserrat,imports_from_us,842,us,X,exports,2010,842.0,USA,USA,MSR,Montserrat,X,Export,H3,4746579.0,0.0,True,False
+2010,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,FSM,FS Micronesia,M,Import,H3,2861402.0,0.0,True,False
+2010,585,PLW,Palau,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,PLW,Palau,M,Import,H3,31913.0,0.0,True,False
+2010,585,PLW,Palau,exports_to_us,842,us,M,imports,2010,842.0,USA,USA,PLW,Palau,M,Import,H3,151220.0,0.0,True,False
+2010,659,KNA,Saint Kitts and Nevis,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,KNA,Saint Kitts and Nevis,M,Import,H3,303727.0,0.0,True,False
+2010,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2010,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H3,10397.0,0.0,True,False
+2011,20,AND,Andorra,imports_from_us,842,us,X,exports,2011,842.0,USA,USA,AND,Andorra,X,Export,H3,5161272.0,0.0,True,False
+2011,20,AND,Andorra,exports_to_us,842,us,M,imports,2011,842.0,USA,USA,AND,Andorra,M,Import,H3,619386.0,0.0,True,False
+2011,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,BMU,Bermuda,M,Import,H3,3000.0,0.0,True,False
+2011,60,BMU,Bermuda,exports_to_us,842,us,M,imports,2011,842.0,USA,USA,BMU,Bermuda,M,Import,H3,60304959.0,0.0,True,False
+2011,174,COM,Comoros,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,COM,Comoros,M,Import,H3,6874.0,0.0,True,False
+2011,275,PSE,State of Palestine,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,PSE,State of Palestine,M,Import,H3,1040844.0,0.0,True,False
+2011,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,KIR,Kiribati,M,Import,H3,89892.0,0.0,True,False
+2011,304,GRL,Greenland,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,GRL,Greenland,M,Import,H3,47937283.0,0.0,True,False
+2011,304,GRL,Greenland,exports_to_us,842,us,M,imports,2011,842.0,USA,USA,GRL,Greenland,M,Import,H3,7641624.0,0.0,True,False
+2011,368,IRQ,Iraq,imports_from_china,156,china,X,exports,2011,156.0,CHN,China,IRQ,Iraq,X,Export,H3,3824651342.0,0.0,True,False
+2011,368,IRQ,Iraq,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,IRQ,Iraq,M,Import,H3,10443633871.0,0.0,True,False
+2011,368,IRQ,Iraq,imports_from_us,842,us,X,exports,2011,842.0,USA,USA,IRQ,Iraq,X,Export,H3,2400364843.0,0.0,True,False
+2011,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,MSR,Montserrat,M,Import,H3,84775.0,0.0,True,False
+2011,500,MSR,Montserrat,exports_to_us,842,us,M,imports,2011,842.0,USA,USA,MSR,Montserrat,M,Import,H3,620661.0,0.0,True,False
+2011,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,FSM,FS Micronesia,M,Import,H3,1615363.0,0.0,True,False
+2011,585,PLW,Palau,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,PLW,Palau,M,Import,H3,5253.0,0.0,True,False
+2011,585,PLW,Palau,exports_to_us,842,us,M,imports,2011,842.0,USA,USA,PLW,Palau,M,Import,H3,217325.0,0.0,True,False
+2011,634,QAT,Qatar,imports_from_china,156,china,X,exports,2011,156.0,CHN,China,QAT,Qatar,X,Export,H3,1198757273.0,0.0,True,False
+2011,634,QAT,Qatar,imports_from_us,842,us,X,exports,2011,842.0,USA,USA,QAT,Qatar,X,Export,H3,2806681719.0,0.0,True,False
+2011,659,KNA,Saint Kitts and Nevis,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,KNA,Saint Kitts and Nevis,M,Import,H3,475607.0,0.0,True,False
+2011,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2011,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H3,1639.0,0.0,True,False
+2011,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,,,,,,,,,,,,,
+2012,4,AFG,Afghanistan,imports_from_us,842,us,X,exports,2012,842.0,USA,USA,AFG,Afghanistan,X,Export,H4,1521555394.0,0.0,True,False
+2012,4,AFG,Afghanistan,exports_to_us,842,us,M,imports,2012,842.0,USA,USA,AFG,Afghanistan,M,Import,H4,37927279.0,0.0,True,False
+2012,20,AND,Andorra,exports_to_us,842,us,M,imports,2012,842.0,USA,USA,AND,Andorra,M,Import,H4,442935.0,0.0,True,False
+2012,275,PSE,State of Palestine,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,PSE,State of Palestine,M,Import,H4,338296.0,0.0,True,False
+2012,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,KIR,Kiribati,M,Import,H4,173169.0,0.0,True,False
+2012,304,GRL,Greenland,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,GRL,Greenland,M,Import,H4,57448481.0,0.0,True,False
+2012,304,GRL,Greenland,exports_to_us,842,us,M,imports,2012,842.0,USA,USA,GRL,Greenland,M,Import,H4,6933212.0,0.0,True,False
+2012,368,IRQ,Iraq,imports_from_china,156,china,X,exports,2012,156.0,CHN,China,IRQ,Iraq,X,Export,H4,4911784801.0,0.0,True,False
+2012,368,IRQ,Iraq,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,IRQ,Iraq,M,Import,H4,12655773459.0,0.0,True,False
+2012,368,IRQ,Iraq,imports_from_us,842,us,X,exports,2012,842.0,USA,USA,IRQ,Iraq,X,Export,H4,2053842278.0,0.0,True,False
+2012,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,MSR,Montserrat,M,Import,H4,39095.0,0.0,True,False
+2012,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,FSM,FS Micronesia,M,Import,H4,10925264.0,0.0,True,False
+2012,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H4,43026.0,0.0,True,False
+2012,796,TCA,Turks and Caicos Isds,exports_to_china,156,china,M,imports,2012,156.0,CHN,China,TCA,Turks and Caicos Isds,M,Import,H4,1125.0,0.0,True,False
+2013,4,AFG,Afghanistan,imports_from_us,842,us,X,exports,2013,842.0,USA,USA,AFG,Afghanistan,X,Export,H4,1409638976.0,0.0,True,False
+2013,4,AFG,Afghanistan,exports_to_us,842,us,M,imports,2013,842.0,USA,USA,AFG,Afghanistan,M,Import,H4,46315853.0,0.0,True,False
+2013,20,AND,Andorra,exports_to_us,842,us,M,imports,2013,842.0,USA,USA,AND,Andorra,M,Import,H4,1430021.0,0.0,True,False
+2013,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,CPV,Cabo Verde,M,Import,H4,160.0,0.0,True,False
+2013,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,CYM,Cayman Isds,M,Import,H4,264497.0,0.0,True,False
+2013,136,CYM,Cayman Isds,exports_to_us,842,us,M,imports,2013,842.0,USA,USA,CYM,Cayman Isds,M,Import,H4,33134161.0,0.0,True,False
+2013,275,PSE,State of Palestine,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,PSE,State of Palestine,M,Import,H4,186381.0,0.0,True,False
+2013,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,KIR,Kiribati,M,Import,H4,456228.0,0.0,True,False
+2013,304,GRL,Greenland,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,GRL,Greenland,M,Import,H4,72134538.0,0.0,True,False
+2013,304,GRL,Greenland,exports_to_us,842,us,M,imports,2013,842.0,USA,USA,GRL,Greenland,M,Import,H4,9654994.0,0.0,True,False
+2013,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,MSR,Montserrat,M,Import,H4,21618.0,0.0,True,False
+2013,583,FSM,FS Micronesia,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,FSM,FS Micronesia,M,Import,H4,9982681.0,0.0,True,False
+2013,585,PLW,Palau,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,PLW,Palau,M,Import,H4,13589.0,0.0,True,False
+2013,585,PLW,Palau,exports_to_us,842,us,M,imports,2013,842.0,USA,USA,PLW,Palau,M,Import,H4,186594.0,0.0,True,False
+2013,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2013,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H4,2464.0,0.0,True,False
+2014,4,AFG,Afghanistan,imports_from_us,842,us,X,exports,2014,842.0,USA,USA,AFG,Afghanistan,X,Export,H4,792389357.0,0.0,True,False
+2014,4,AFG,Afghanistan,exports_to_us,842,us,M,imports,2014,842.0,USA,USA,AFG,Afghanistan,M,Import,H4,72809599.0,0.0,True,False
+2014,20,AND,Andorra,exports_to_us,842,us,M,imports,2014,842.0,USA,USA,AND,Andorra,M,Import,H4,1250517.0,0.0,True,False
+2014,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2014,156.0,CHN,China,KIR,Kiribati,M,Import,H4,2902218.0,0.0,True,False
+2014,304,GRL,Greenland,exports_to_china,156,china,M,imports,2014,156.0,CHN,China,GRL,Greenland,M,Import,H4,64522247.0,0.0,True,False
+2014,304,GRL,Greenland,exports_to_us,842,us,M,imports,2014,842.0,USA,USA,GRL,Greenland,M,Import,H4,5577717.0,0.0,True,False
+2014,368,IRQ,Iraq,exports_to_china,156,china,M,imports,2014,156.0,CHN,China,IRQ,Iraq,M,Import,H4,20761239088.0,0.0,True,False
+2014,368,IRQ,Iraq,exports_to_us,842,us,M,imports,2014,842.0,USA,USA,IRQ,Iraq,M,Import,H4,14158797671.0,0.0,True,False
+2014,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2014,156.0,CHN,China,MSR,Montserrat,M,Import,H4,9073.0,0.0,True,False
+2014,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2014,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H4,58382.0,0.0,True,False
+2014,659,KNA,Saint Kitts and Nevis,exports_to_china,156,china,M,imports,2014,156.0,CHN,China,KNA,Saint Kitts and Nevis,M,Import,H4,423671.0,0.0,True,False
+2015,20,AND,Andorra,exports_to_us,842,us,M,imports,2015,842.0,USA,USA,AND,Andorra,M,Import,H4,4887508.0,0.0,True,False
+2015,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2015,156.0,CHN,China,CPV,Cabo Verde,M,Import,H4,22606.0,0.0,False,True
+2015,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2015,156.0,CHN,China,CYM,Cayman Isds,M,Import,H4,999.0,0.0,False,True
+2015,136,CYM,Cayman Isds,exports_to_us,842,us,M,imports,2015,842.0,USA,USA,CYM,Cayman Isds,M,Import,H4,98052992.0,0.0,True,False
+2015,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2015,156.0,CHN,China,MSR,Montserrat,M,Import,H4,5431.0,0.0,False,True
+2015,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2015,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H4,52382.0,0.0,True,False
+2015,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2015,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H4,33209.0,0.0,False,True
+2016,20,AND,Andorra,exports_to_us,842,us,M,imports,2016,842.0,USA,USA,AND,Andorra,M,Import,H4,6689823.0,4.0,False,True
+2016,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2016,156.0,CHN,China,CPV,Cabo Verde,M,Import,H4,83281.0,4.0,False,True
+2016,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2016,842.0,USA,USA,CAF,Central African Rep.,M,Import,H4,1058282.0,4.0,False,True
+2016,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2016,156.0,CHN,China,KIR,Kiribati,M,Import,H4,9493136.0,4.0,False,True
+2016,304,GRL,Greenland,exports_to_china,156,china,M,imports,2016,156.0,CHN,China,GRL,Greenland,M,Import,H4,101198775.0,4.0,False,True
+2016,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2016,156.0,CHN,China,MSR,Montserrat,M,Import,H4,8964.0,4.0,False,True
+2016,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2016,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H4,176793.0,4.0,False,True
+2016,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2016,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H4,17722.0,4.0,False,True
+2016,678,STP,Sao Tome and Principe,exports_to_us,842,us,M,imports,2016,842.0,USA,USA,STP,Sao Tome and Principe,M,Import,H4,485701.0,4.0,False,True
+2017,20,AND,Andorra,exports_to_us,842,us,M,imports,2017,842.0,USA,USA,AND,Andorra,M,Import,H5,13761814.0,4.0,False,True
+2017,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2017,842.0,USA,USA,CAF,Central African Rep.,M,Import,H5,2263408.0,4.0,False,True
+2017,192,CUB,Cuba,exports_to_us,842,us,M,imports,,,,,,,,,,,,,
+2017,212,DMA,Dominica,exports_to_china,156,china,M,imports,2017,156.0,CHN,China,DMA,Dominica,M,Import,H5,710143.0,0.0,False,True
+2017,426,LSO,Lesotho,imports_from_us,842,us,X,exports,2017,842.0,USA,USA,LSO,Lesotho,X,Export,H5,1901616.0,4.0,False,True
+2017,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2017,156.0,CHN,China,MSR,Montserrat,M,Import,H5,53406.0,0.0,False,True
+2017,533,ABW,Aruba,exports_to_china,156,china,M,imports,2017,156.0,CHN,China,ABW,Aruba,M,Import,H5,7040.0,0.0,False,True
+2017,585,PLW,Palau,exports_to_china,156,china,M,imports,2017,156.0,CHN,China,PLW,Palau,M,Import,H5,1078.0,0.0,False,True
+2017,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2017,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H5,21926.0,4.0,False,True
+2018,20,AND,Andorra,exports_to_us,842,us,M,imports,2018,842.0,USA,USA,AND,Andorra,M,Import,H5,16087299.0,4.0,False,True
+2018,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2018,842.0,USA,USA,CAF,Central African Rep.,M,Import,H5,2923540.0,4.0,False,True
+2018,192,CUB,Cuba,exports_to_us,842,us,M,imports,2018,842.0,USA,USA,CUB,Cuba,M,Import,H5,1275914.0,4.0,False,True
+2018,270,GMB,Gambia,exports_to_china,156,china,M,imports,2018,156.0,CHN,China,GMB,Gambia,M,Import,H5,20062361.0,4.0,False,True
+2018,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2018,156.0,CHN,China,KIR,Kiribati,M,Import,H5,102806.0,4.0,False,True
+2018,533,ABW,Aruba,exports_to_china,156,china,M,imports,2018,156.0,CHN,China,ABW,Aruba,M,Import,H5,34296.0,4.0,False,True
+2018,624,GNB,Guinea-Bissau,exports_to_us,842,us,M,imports,2018,842.0,USA,USA,GNB,Guinea-Bissau,M,Import,H5,197887.0,4.0,False,True
+2018,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2018,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H5,233028.0,4.0,False,True
+2018,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2018,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H5,49225.0,4.0,False,True
+2018,887,YEM,Yemen,exports_to_us,842,us,M,imports,2018,842.0,USA,USA,YEM,Yemen,M,Import,H5,2229716.0,4.0,False,True
+2019,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2019,842.0,USA,USA,CAF,Central African Rep.,M,Import,H5,3649133.0,4.0,False,True
+2019,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2019,156.0,CHN,China,MSR,Montserrat,M,Import,H5,2931.0,4.0,False,True
+2019,531,CUW,Curaçao,exports_to_china,156,china,M,imports,2019,156.0,CHN,China,CUW,Curaçao,M,Import,H5,14310.0,4.0,False,True
+2019,533,ABW,Aruba,exports_to_china,156,china,M,imports,2019,156.0,CHN,China,ABW,Aruba,M,Import,H5,47837.0,4.0,False,True
+2019,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2019,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H5,13720.0,4.0,False,True
+2019,887,YEM,Yemen,exports_to_us,842,us,M,imports,2019,842.0,USA,USA,YEM,Yemen,M,Import,H5,4801072.0,4.0,False,True
+2020,20,AND,Andorra,exports_to_us,842,us,M,imports,2020,842.0,USA,USA,AND,Andorra,M,Import,H5,5492132.0,4.0,False,True
+2020,28,ATG,Antigua and Barbuda,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,ATG,Antigua and Barbuda,M,Import,H5,32718.0,4.0,False,True
+2020,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,CPV,Cabo Verde,M,Import,H5,1209992.0,4.0,False,True
+2020,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,CYM,Cayman Isds,M,Import,H5,12963.0,4.0,False,True
+2020,174,COM,Comoros,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,COM,Comoros,M,Import,H5,117360.0,4.0,False,True
+2020,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,MSR,Montserrat,M,Import,H5,2432.0,4.0,False,True
+2020,533,ABW,Aruba,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,ABW,Aruba,M,Import,H5,88553.0,4.0,False,True
+2020,662,LCA,Saint Lucia,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,LCA,Saint Lucia,M,Import,H5,59338.0,4.0,False,True
+2020,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H5,8927.0,4.0,False,True
+2020,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2020,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H5,46656.0,4.0,False,True
+2021,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,CYM,Cayman Isds,M,Import,H5,106035.0,4.0,False,True
+2021,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2021,842.0,USA,USA,CAF,Central African Rep.,M,Import,H5,1810295.0,4.0,False,True
+2021,275,PSE,State of Palestine,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,PSE,State of Palestine,M,Import,H5,337751.0,4.0,False,True
+2021,296,KIR,Kiribati,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,KIR,Kiribati,M,Import,H5,4770.0,0.0,False,True
+2021,368,IRQ,Iraq,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,IRQ,Iraq,M,Import,H5,26653107562.0,4.0,False,True
+2021,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,MSR,Montserrat,M,Import,H5,16548.0,4.0,False,True
+2021,500,MSR,Montserrat,exports_to_us,842,us,M,imports,2021,842.0,USA,USA,MSR,Montserrat,M,Import,H5,1840329.0,4.0,False,True
+2021,533,ABW,Aruba,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,ABW,Aruba,M,Import,H5,6142.0,4.0,False,True
+2021,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H5,2162.0,4.0,False,True
+2021,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2021,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H5,132797.0,4.0,False,True
+2022,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2022,156.0,CHN,China,CYM,Cayman Isds,M,Import,H6,13946.0,4.0,False,True
+2022,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2022,156.0,CHN,China,MSR,Montserrat,M,Import,H6,11275.0,4.0,False,True
+2022,500,MSR,Montserrat,exports_to_us,842,us,M,imports,2022,842.0,USA,USA,MSR,Montserrat,M,Import,H6,1667851.0,4.0,False,True
+2022,533,ABW,Aruba,exports_to_china,156,china,M,imports,2022,156.0,CHN,China,ABW,Aruba,M,Import,H6,207787.0,4.0,False,True
+2022,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2022,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H6,3360.0,4.0,False,True
+2022,776,TON,Tonga,exports_to_china,156,china,M,imports,2022,156.0,CHN,China,TON,Tonga,M,Import,H6,1887.0,4.0,False,True
+2023,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2023,156.0,CHN,China,CYM,Cayman Isds,M,Import,H6,8618.0,4.0,False,True
+2023,140,CAF,Central African Rep.,exports_to_us,842,us,M,imports,2023,842.0,USA,USA,CAF,Central African Rep.,M,Import,H6,2124995.0,4.0,False,True
+2023,212,DMA,Dominica,exports_to_china,156,china,M,imports,2023,156.0,CHN,China,DMA,Dominica,M,Import,H6,699395.0,4.0,False,True
+2023,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2023,156.0,CHN,China,MSR,Montserrat,M,Import,H6,87214.0,4.0,False,True
+2023,500,MSR,Montserrat,exports_to_us,842,us,M,imports,2023,842.0,USA,USA,MSR,Montserrat,M,Import,H6,1603826.0,4.0,False,True
+2023,533,ABW,Aruba,exports_to_china,156,china,M,imports,2023,156.0,CHN,China,ABW,Aruba,M,Import,H6,3253.0,4.0,False,True
+2023,670,VCT,Saint Vincent and the Grenadines,exports_to_china,156,china,M,imports,2023,156.0,CHN,China,VCT,Saint Vincent and the Grenadines,M,Import,H6,2573.0,4.0,False,True
+2024,60,BMU,Bermuda,exports_to_china,156,china,M,imports,2024,156.0,CHN,China,BMU,Bermuda,M,Import,H6,29124.0,4.0,False,True
+2024,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2024,156.0,CHN,China,CPV,Cabo Verde,M,Import,H6,13758.0,4.0,False,True
+2024,136,CYM,Cayman Isds,exports_to_china,156,china,M,imports,2024,156.0,CHN,China,CYM,Cayman Isds,M,Import,H6,37749.0,4.0,False,True
+2024,500,MSR,Montserrat,exports_to_china,156,china,M,imports,2024,156.0,CHN,China,MSR,Montserrat,M,Import,H6,1077.0,4.0,False,True
+2024,500,MSR,Montserrat,exports_to_us,842,us,M,imports,2024,842.0,USA,USA,MSR,Montserrat,M,Import,H6,5692759.0,4.0,False,True
+2025,132,CPV,Cabo Verde,exports_to_china,156,china,M,imports,2025,156.0,CHN,China,CPV,Cabo Verde,M,Import,H6,8135.0,4.0,False,True
+2025,678,STP,Sao Tome and Principe,exports_to_china,156,china,M,imports,2025,156.0,CHN,China,STP,Sao Tome and Principe,M,Import,H6,53934.0,4.0,False,True
