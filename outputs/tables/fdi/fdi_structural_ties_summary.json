@@ -1,28 +1,57 @@
 {
   "method": "official_outward_positive_log1p_scaled_to_anchor_year_p95",
   "source": "IMF Direct Investment Positions",
-  "start_year": 2018,
-  "end_year": 2024,
-  "rows": 2828,
-  "unique_countries_or_entities": 203,
-  "anchors": [
-    "China",
-    "United States"
+  "rows": 8410,
+  "entities": 192,
+  "years": [
+    2004,
+    2025
   ],
+  "comparable_fdi_source_period": [
+    2018,
+    2024
+  ],
+  "provisional_extension_year": 2025,
+  "evidence_status_counts": {
+    "source_year_unavailable": 5736,
+    "observed_positive_position": 2173,
+    "observed_zero_position": 240,
+    "official_position_unobserved": 207,
+    "observed_negative_net_position": 54
+  },
+  "comparability_status_counts": {
+    "pre_fdi_source_period_unavailable": 5354,
+    "comparable_fdi_source_period_score_available": 2467,
+    "provisional_latest_year_source_unavailable": 382,
+    "comparable_fdi_source_period_score_unavailable": 207
+  },
   "by_anchor": {
     "China": {
-      "rows": 1414,
-      "observed": 1176,
-      "missing": 238,
-      "observed_zero": 99,
+      "source_period_rows": 1337,
+      "observed_positions": 1337,
+      "scored_rows": 1337,
+      "missing_positions": 0,
+      "observed_zero": 81,
       "observed_negative": 0
     },
     "United States": {
-      "rows": 1414,
-      "observed": 995,
-      "missing": 419,
-      "observed_zero": 144,
-      "observed_negative": 50
+      "source_period_rows": 1337,
+      "observed_positions": 1130,
+      "scored_rows": 1130,
+      "missing_positions": 207,
+      "observed_zero": 159,
+      "observed_negative": 54
     }
+  },
+  "validation_failures": {
+    "unexpected_rows": 0,
+    "unexpected_entities": 0,
+    "duplicate_keys": 0,
+    "invalid_status": 0,
+    "score_out_of_bounds": 0,
+    "score_outside_source_period": 0,
+    "score_without_observation": 0,
+    "missing_observed_score": 0,
+    "nonzero_negative_or_zero_score": 0
   }
 }

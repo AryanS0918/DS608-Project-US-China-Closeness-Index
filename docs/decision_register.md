@@ -910,3 +910,108 @@ Production builder:
 Focused tests:
 
 `tests/test_trade_orientation.py`
+
+## FDI structural ties
+
+- **Status:** Decided
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Use IMF Direct Investment Positions to measure each anchor's outward
+direct-investment position in each eligible country.
+
+Use only:
+
+- anchor-reported observations;
+- anchor-to-country economic direction;
+- reported official data;
+- China and the United States as anchors; and
+- 2018–2024 as the comparable FDI source period.
+
+Exclude country-reported inward positions and values derived using
+counterparty information from the baseline.
+
+For each anchor-year, calculate the positive-position intensity as:
+
+1. `log1p(outward position)`;
+2. divide by the anchor-year 95th percentile of positive logged
+   positions; and
+3. cap the score at one.
+
+Assign zero structural intensity to an observed zero position or an
+observed negative net position.
+
+Leave the score missing when the official outward position is
+unobserved. Do not convert missing positions to zero.
+
+Map IMF legal-form country names explicitly to the canonical project
+country master. Exclude aggregates, territories, anchors and
+baseline-ineligible entities.
+
+Retain the full 2004–2025 canonical panel, but leave:
+
+- 2004–2017 as pre-FDI-source-period unavailable; and
+- 2025 as provisional latest-year source unavailable.
+
+### Rationale
+
+The method uses a consistent anchor-reported outward-investment
+perspective and preserves the distinction between:
+
+- positive investment intensity;
+- an observed zero position;
+- an observed negative net position; and
+- an unavailable official position.
+
+The logarithmic transformation limits domination by very large
+positions. Anchor-year 95th-percentile scaling produces a bounded
+relative-intensity score while reducing sensitivity to extreme values.
+
+### Production validation
+
+The canonical production panel contains:
+
+- 8,410 country-anchor-years;
+- 192 eligible entities;
+- 2004–2025;
+- 2,467 scored observations during 2018–2024;
+- 207 unobserved official positions during 2018–2024;
+- 2,173 observed positive positions;
+- 240 observed zero positions;
+- 54 observed negative net positions;
+- 5,736 source-year-unavailable rows;
+- no duplicate keys;
+- no scores outside the comparable source period;
+- no scores without an observed position; and
+- all non-missing scores within `[0, 1]`.
+
+Production output:
+
+`data/processed/fdi_structural_ties_country_anchor_year.csv`
+
+Production builder:
+
+`src/data/build_fdi_structural_ties.py`
+
+Focused tests:
+
+`tests/test_fdi_structural_ties.py`
+
+Crosswalk audit:
+
+`outputs/tables/fdi/fdi_country_crosswalk_production_audit.csv`
+
+### Reopening triggers
+
+Revisit this decision if:
+
+- comparable official Chinese outward-position data become available
+  before 2018 or after 2024;
+- revised IMF data materially change coverage or positions;
+- the treatment of negative net positions requires reconsideration;
+- a different scaling rule materially changes the economic subindex;
+- repaired country mappings are shown to be incorrect; or
+- another source provides more complete and comparable bilateral FDI
+  positions.
