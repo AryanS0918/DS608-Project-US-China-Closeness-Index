@@ -1015,3 +1015,82 @@ Revisit this decision if:
 - repaired country mappings are shown to be incorrect; or
 - another source provides more complete and comparable bilateral FDI
   positions.
+
+  ## Economic institutional ties
+
+- **Status:** Decided
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Combine trade-agreement ties and bilateral investment-treaty ties as:
+
+`economic_institutional_score
+    = 0.75 * trade_agreement_score
+    + 0.25 * BIT_score`
+
+The trade-agreement score uses:
+
+- 60% bilateral FTA;
+- 35% regional trade agreement; and
+- 5% sectoral trade agreement.
+
+The effective family weights are therefore:
+
+- bilateral FTA: 0.4500;
+- regional trade agreement: 0.2625;
+- sectoral trade agreement: 0.0375; and
+- BIT: 0.2500.
+
+Treat absence from the exhaustive agreement registers as a valid zero
+institutional state, not as unavailable evidence. Preserve BIT states
+as `none`, `historical_terminated`, `signed_not_in_force`, or
+`in_force`.
+
+Use directly reconstructed register states for 2004–2024.
+
+Analyst review found no establishment, entry into force, termination,
+replacement, or other change in the relevant trade-agreement or BIT
+states during 2025. Carry the validated 31 December 2024 states into
+2025 and label those rows `verified_unchanged_carry_forward`.
+
+This carry-forward is limited to 2024–2025. Do not extend it
+automatically to later years.
+
+### Production validation
+
+The canonical panel contains:
+
+- 8,410 country-anchor-years;
+- 192 eligible entities;
+- 8,028 directly reconstructed rows;
+- 382 verified-unchanged 2025 rows;
+- no missing component scores;
+- no missing BIT states;
+- no duplicate keys;
+- no score-bound or formula failures; and
+- no 2024-to-2025 carry-forward mismatches.
+
+Production output:
+
+`data/processed/economic_institutional_ties_country_anchor_year.csv`
+
+Production builder:
+
+`src/data/build_economic_institutional_ties.py`
+
+Focused tests:
+
+`tests/test_economic_institutional_ties.py`
+
+### Reopening triggers
+
+Revisit this decision if:
+
+- later evidence identifies a 2025 treaty-state change;
+- the underlying trade-agreement or BIT registers are revised;
+- alternative institutional weights materially change the economic
+  subindex;
+- the interpretation of an absent register state changes; or
+- the index adopts a different treatment of verified carry-forward data.

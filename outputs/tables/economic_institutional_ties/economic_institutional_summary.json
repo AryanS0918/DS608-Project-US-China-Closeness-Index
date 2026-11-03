@@ -1,9 +1,9 @@
 {
-  "rows": 9612,
-  "countries_or_historical_entities": 199,
-  "study_years": [
-    2000,
-    2024
+  "rows": 8410,
+  "entities": 192,
+  "years": [
+    2004,
+    2025
   ],
   "component_weights": {
     "trade_agreement": 0.75,
@@ -15,16 +15,20 @@
     "sectoral_trade_agreement": 0.0375,
     "bit": 0.25
   },
+  "evidence_status_counts": {
+    "directly_reconstructed": 8028,
+    "verified_unchanged_carry_forward": 382
+  },
   "bit_state_counts": {
-    "none": 5345,
-    "in_force": 3554,
-    "signed_not_in_force": 637,
-    "historical_terminated": 76
+    "none": 4561,
+    "in_force": 3208,
+    "signed_not_in_force": 556,
+    "historical_terminated": 85
   },
   "score_distribution": {
-    "count": 9612.0,
-    "mean": 0.12643570536828963,
-    "std": 0.16637802531232104,
+    "count": 8410.0,
+    "mean": 0.1348409631391201,
+    "std": 0.1737408855028156,
     "min": 0.0,
     "25%": 0.0,
     "50%": 0.0,
@@ -32,10 +36,14 @@
     "max": 0.9624999999999999
   },
   "validation_failures": {
+    "unexpected_rows": 0,
+    "unexpected_entities": 0,
     "duplicate_keys": 0,
-    "blank_country_names": 0,
-    "score_bound_failures": 0,
-    "formula_identity_failures": 0,
-    "missing_bit_states": 0
+    "missing_component_scores": 0,
+    "score_out_of_bounds": 0,
+    "formula_failures": 0,
+    "missing_bit_states": 0,
+    "2025_carry_forward_mismatches": 0,
+    "unexpected_2025_evidence_status": 0
   }
 }
