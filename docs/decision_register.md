@@ -621,3 +621,30 @@ Revisit this decision if:
   arms transfers and institutional ties; or
 - the overall index adopts a different rule for structurally unavailable
   component scores.
+
+## Security subindex integration
+
+**Status: Decided**
+
+Adopt equal conceptual weights for institutional-security ties and arms-transfer ties when both are observed. The production score is the arithmetic mean of the institutional signed score and SIPRI arms-transfer score.
+
+When SIPRI reports `no_observed_arms_imports`, treat the arms component as structurally unavailable and renormalise to the institutional score. Do not zero-fill unavailable arms evidence. When SIPRI reports `no_observed_anchor_transfers`, retain the observed arms score of zero at half-weight.
+
+The equal-weight baseline is retained because the components represent distinct structural and operational concepts, no compelling theoretical basis currently favours one, and one-third/two-thirds sensitivity specifications leave results highly correlated with the baseline with few directional changes. Alternative weights and zero-fill treatment remain audit sensitivities rather than production fields.
+
+Production output:
+
+`data/processed/security_subindex_country_year.csv`
+
+Production builder:
+
+`src/data/build_security_subindex.py`
+
+Development notebook:
+
+`notebooks/14_security_subindex_integration.ipynb`
+
+### Reopening triggers
+
+Revisit this decision if the final composite displays material sensitivity to security-component weights, component availability rules change across the index, the institutional or SIPRI method changes, or evidence emerges that the two security components materially double-count the same underlying relationship.
+
