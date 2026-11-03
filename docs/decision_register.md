@@ -76,10 +76,10 @@ Revisit this decision if:
 - validation against the published ideal-point measures reveals a major
   construct or processing problem.
 
-## Diplomatic representation source treatment
+### Diplomatic representation source treatment
 
-- **Status:** Decided
-- **Date:** 1 November 2026
+- **Status:** Decided, superseding the bilateral-observation-only rule
+- **Date:** 3 November 2026
 - **Owner:** Darren
 
 ### Decision
@@ -95,49 +95,105 @@ Preserve separately:
 Use the Level of Representation (`LOR`) as the principal measure of
 directed diplomatic depth.
 
-Calculate a bilateral diplomatic-representation measure only when both
-directed observations are available. Do not assign zero to an
-unobserved direction and do not impute the missing direction.
+Within a valid entity-year and a year covered by the source, assign zero
+recorded structural depth to an absent directed dyad while retaining an
+explicit unobserved-direction flag.
 
-Treat an absent directed dyad-year as missing or as no recorded
-representation. Do not interpret an absent record by itself as evidence
-of diplomatic rupture.
+This treatment represents no diplomatic representation recorded by the
+source. It must not be interpreted as diplomatic rupture, formal
+severance or an observed adverse diplomatic condition.
+
+Preserve an observed `LOR = 0` separately as an adverse source
+observation. The source groups events such as recall, withdrawal,
+expulsion and severance under this value, so it does not necessarily
+establish formal legal severance.
+
+Leave the diplomatic structural score missing when the source year is
+unavailable, the entity-year is invalid or an unresolved source or
+mapping problem prevents a supported interpretation.
+
+Calculate:
+
+`mean_depth = (anchor_to_country_depth + country_to_anchor_depth) / 2`
+
+`reciprocity_depth = min(anchor_to_country_depth, country_to_anchor_depth)`
+
+Use the baseline structural score:
+
+`0.75 * mean_depth + 0.25 * reciprocity_depth`
+
+Retain mean-only, equal mean-reciprocity and geometric specifications as
+sensitivity analyses.
 
 ### Rationale
 
-Diplomatic representation is directional. Preserving both directions
-prevents the analysis from treating unilateral and reciprocal
-representation as equivalent.
+The source is directional and records cases in which diplomatic
+representation above recognition is reported. Within confirmed source
+coverage, an absent directed dyad can therefore be interpreted as zero
+recorded structural representation, provided that the absence remains
+explicitly distinguishable from an observed adverse `LOR = 0`.
 
-Keeping missing directions distinct from observed zero-valued adverse
-coding also prevents source non-observation from being interpreted as a
-diplomatic crisis.
+This source-aware treatment preserves genuine unilateral diplomatic
+structures and allows the reciprocity term to penalise asymmetric
+representation. It avoids the information loss and upward selection
+that would result from calculating scores only when both directions are
+recorded.
 
-### Evidence
+At the same time, it is more conservative than unconditional zero
+filling because source-unavailable years, invalid entity-years and
+unresolved source problems remain missing.
 
-The diplomatic-representation development workflow:
+### Evidence and validation
 
-- preserved the two directed observations separately;
-- audited one-direction-only cases;
-- examined changes in `LOR`, representation rank and mission focus;
-- separated structural diplomatic depth from adverse relationship
-  conditions; and
-- produced a validated country-anchor-year diplomatic structural-ties
-  panel.
+The revised production workflow uses the corrected baseline entity
+universe and validity rules.
+
+Production coverage:
+
+- 8,410 country-anchor-years;
+- 192 eligible entities;
+- 2004–2025;
+- 6,783 bilaterally observed rows;
+- 561 unilateral recorded-representation rows;
+- 684 rows with no representation recorded in either direction;
+- 382 source-year-unavailable rows in 2025;
+- 8,028 scored rows;
+- 382 missing scores;
+- zero duplicate keys;
+- zero covered-year missing scores;
+- zero source-unavailable rows with scores;
+- all non-missing scores within `[0, 1]`; and
+- 12 focused production tests passed.
+
+The 75% mean-depth and 25% reciprocity-depth specification remains the
+production baseline. Alternative scoring formulas remain sensitivity
+outputs.
 
 Production output:
 
 `data/processed/diplomatic_structural_ties_country_anchor_year.csv`
 
+Production builder:
+
+`src/data/build_diplomatic_structural_ties.py`
+
+Focused tests:
+
+`tests/test_diplomatic_structural_ties.py`
+
 ### Reopening triggers
 
 Revisit this decision if:
 
-- a revised Diplomatic Representation Database changes the interpretation
-  of missing directed observations;
-- evidence shows that one-direction-only cases can be combined without
-  imposing an unsupported zero or imputation;
-- the `LOR` coding changes materially; or
+- a revised Diplomatic Representation Database changes the meaning of an
+  absent directed dyad;
+- source documentation shows that absence cannot reasonably represent no
+  recorded structural representation;
+- source coverage expands to 2025 or later;
+- material mapping or ingestion gaps are identified;
+- the `LOR` coding changes materially;
+- alternative scoring specifications materially change the final
+  composite; or
 - another source provides more complete and comparable annual directed
   diplomatic-representation data.
 
