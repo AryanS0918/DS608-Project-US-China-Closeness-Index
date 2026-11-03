@@ -498,3 +498,126 @@ Revisit this decision if:
 - SIPRI integration indicates that institutional depth is being double-
   counted; or
 - source revisions alter arrangement membership spells.
+
+
+## Security arms-transfer ties
+
+- **Status:** Decided
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Construct an annual country-year Security Arms Transfers component from SIPRI
+major-arms transfer TIV data. Use five-year rolling sums and calculate the
+baseline score as:
+
+`arms_transfer_score = (us_tiv_5yr - china_tiv_5yr) / global_tiv_5yr`
+
+Use the complete 1996-2025 source history for rolling calculations and retain
+2004-2025 as the production period.
+
+Retain the following diagnostics without treating them as separate index
+components:
+
+- `direction_score = (us_tiv_5yr - china_tiv_5yr) / anchor_tiv_5yr`;
+- `anchor_exposure_raw = anchor_tiv_5yr / global_tiv_5yr`;
+- `anchor_tiv_5yr`;
+- `low_volume_flag`; and
+- `observation_status`.
+
+Treat empty SIPRI annual cells as zero identified deliveries. Represent a
+displayed SIPRI `0`, which denotes a positive value below 0.5 million TIV, by
+the midpoint `0.25` in the baseline specification. Retain `0` and `0.5`
+substitutions as sensitivity specifications.
+
+Use the canonical relationship-condition country master for mapping,
+baseline eligibility and historical-year validity. Remove source-marked armed
+groups, organisations, totals and unknown recipients from state-level
+processing, while preserving policy-dependent geographic entities for
+country-master treatment.
+
+Assign:
+
+- a score of `0` when global arms imports are observed but neither anchor
+  supplied arms during the rolling window; and
+- a missing score when no global arms imports were identified during the
+  rolling window.
+
+Retain the 100-TIV low-volume threshold only as a provisional diagnostic. It
+does not alter, suppress or weight the baseline score.
+
+### Rationale
+
+The anchor-only directional measure,
+`(us_tiv_5yr - china_tiv_5yr) / anchor_tiv_5yr`, answers which anchor
+predominates conditional on anchor procurement. Used alone, it can assign an
+extreme score to a negligible anchor transfer when most arms imports come
+from other suppliers.
+
+Normalising the net anchor difference by global imports measures material
+alignment rather than conditional direction alone. Algebraically, the
+baseline score equals pure direction multiplied by collective anchor
+exposure. This preserves direction while attenuating relationships that are
+small within the recipient's overall procurement.
+
+Five-year rolling sums reduce volatility from irregular delivery schedules
+and better represent sustained procurement orientation than annual flows.
+The 1996 source start provides complete pre-period history for all production
+years beginning in 2004.
+
+A score of zero when neither anchor supplied observed global imports means
+that neither anchor has a material arms-transfer advantage in that window.
+A missing score when no global imports were identified avoids treating absence
+of an observed arms-import relationship as neutral alignment.
+
+### Validation verdict
+
+The production builder completed successfully:
+
+- source period: 1996-2025;
+- production period: 2004-2025;
+- rolling window: 5 years;
+- production rows: 4,205;
+- production entities: 192;
+- non-missing baseline scores: 3,262;
+- `available` rows: 2,329;
+- `no_observed_anchor_transfers` rows: 933;
+- `no_observed_arms_imports` rows: 943;
+- duplicate ISO3-year keys: 0;
+- unmapped state-like recipient names: 0;
+- exposure violations: 0;
+- baseline score range: within `[-1, 1]`; and
+- focused production tests: 8 passed.
+
+The 100-TIV diagnostic flags 58.8% of scored country-years and is therefore
+not adopted as an exclusion, weighting or confidence rule. Displayed-zero
+sensitivity affects a small minority of country-years but can materially
+affect some very low-volume cases; the midpoint treatment and sensitivity
+audit are retained.
+
+Production output:
+
+`data/processed/sipri_arms_country_year.csv`
+
+Production builder:
+
+`src/data/build_sipri_arms_transfers.py`
+
+Development notebook:
+
+`notebooks/13_security_arms_transfers_development.ipynb`
+
+### Reopening triggers
+
+Revisit this decision if:
+
+- SIPRI revises source values or reporting conventions;
+- displayed-zero sensitivity materially changes the final composite;
+- a different rolling window is selected;
+- the baseline entity universe changes;
+- low volume is proposed as a formal exclusion or weighting rule;
+- security-component integration indicates material double-counting between
+  arms transfers and institutional ties; or
+- the overall index adopts a different rule for structurally unavailable
+  component scores.

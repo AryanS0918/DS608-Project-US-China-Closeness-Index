@@ -1,0 +1,10 @@
+value_treatment,cell_count,source,rounded_zero_value
+blank_to_zero,2205,us_tiv,0.25
+displayed_zero_to_midpoint,48,us_tiv,0.25
+positive_numeric,1677,us_tiv,0.25
+blank_to_zero,1951,china_tiv,0.25
+displayed_zero_to_midpoint,12,china_tiv,0.25
+positive_numeric,497,china_tiv,0.25
+blank_to_zero,1996,global_tiv,0.25
+displayed_zero_to_midpoint,79,global_tiv,0.25
+positive_numeric,3295,global_tiv,0.25

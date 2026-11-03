@@ -1,0 +1,23 @@
+{
+  "source_period": [
+    1996,
+    2025
+  ],
+  "project_period": [
+    2004,
+    2025
+  ],
+  "rolling_window_years": 5,
+  "rounded_zero_value": 0.25,
+  "baseline_formula": "(us_tiv_5yr - china_tiv_5yr) / global_tiv_5yr",
+  "production_rows": 4205,
+  "production_entities": 192,
+  "status_counts": {
+    "available": 2329,
+    "no_observed_arms_imports": 943,
+    "no_observed_anchor_transfers": 933
+  },
+  "non_null_score_rows": 3262,
+  "exposure_violation_rows": 0,
+  "low_volume_threshold": 100.0
+}

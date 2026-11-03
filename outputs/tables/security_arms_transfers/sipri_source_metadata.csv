@@ -1,0 +1,4 @@
+source_file,data_generated,header_row_zero_based,source,recipient_rows_before_removal,recipient_rows_after_removal
+data/raw/us_transfers.csv,26 Oct 2026 12:38:58 PM,9,us_tiv,138,131
+data/raw/cn_transfers.csv,26 Oct 2026 12:39:24 PM,9,china_tiv,85,82
+data/raw/global_transfers.csv,26 Oct 2026 12:39:53 PM,9,global_tiv,209,179

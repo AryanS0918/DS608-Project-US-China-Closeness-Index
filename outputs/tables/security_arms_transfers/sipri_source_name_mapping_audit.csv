@@ -1,0 +1,180 @@
+recipient_source_name,normalized_recipient_name,iso3,source_names_per_iso3
+Afghanistan,afghanistan,AFG,1
+Angola,angola,AGO,1
+Albania,albania,ALB,1
+United Arab Emirates,united arab emirates,ARE,1
+Argentina,argentina,ARG,1
+Armenia,armenia,ARM,1
+Antigua and Barbuda,antigua and barbuda,ATG,1
+Australia,australia,AUS,1
+Austria,austria,AUT,1
+Azerbaijan,azerbaijan,AZE,1
+Burundi,burundi,BDI,1
+Belgium,belgium,BEL,1
+Benin,benin,BEN,1
+Burkina Faso,burkina faso,BFA,1
+Bangladesh,bangladesh,BGD,1
+Bulgaria,bulgaria,BGR,1
+Bahrain,bahrain,BHR,1
+Bahamas,bahamas,BHS,1
+Bosnia-Herzegovina,bosnia herzegovina,BIH,1
+Belarus,belarus,BLR,1
+Belize,belize,BLZ,1
+Bolivia,bolivia,BOL,1
+Brazil,brazil,BRA,1
+Barbados,barbados,BRB,1
+Brunei,brunei,BRN,1
+Bhutan,bhutan,BTN,1
+Botswana,botswana,BWA,1
+Central African Republic,central african republic,CAF,1
+Canada,canada,CAN,1
+Switzerland,switzerland,CHE,1
+Chile,chile,CHL,1
+China,china,CHN,1
+Cote d'Ivoire,cote d ivoire,CIV,1
+Cameroon,cameroon,CMR,1
+DR Congo,dr congo,COD,1
+Congo,congo,COG,1
+Colombia,colombia,COL,1
+Comoros,comoros,COM,1
+Cabo Verde,cabo verde,CPV,1
+Costa Rica,costa rica,CRI,1
+Cuba,cuba,CUB,1
+Cyprus,cyprus,CYP,1
+Czechia,czechia,CZE,1
+Germany,germany,DEU,1
+Djibouti,djibouti,DJI,1
+Denmark,denmark,DNK,1
+Dominican Republic,dominican republic,DOM,1
+Algeria,algeria,DZA,1
+Ecuador,ecuador,ECU,1
+Egypt,egypt,EGY,1
+Eritrea,eritrea,ERI,1
+Western Sahara,western sahara,ESH,1
+Spain,spain,ESP,1
+Estonia,estonia,EST,1
+Ethiopia,ethiopia,ETH,1
+Finland,finland,FIN,1
+Fiji,fiji,FJI,1
+France,france,FRA,1
+Gabon,gabon,GAB,1
+United Kingdom,united kingdom,GBR,1
+Georgia,georgia,GEO,1
+Ghana,ghana,GHA,1
+Guinea,guinea,GIN,1
+Gambia,gambia,GMB,1
+Equatorial Guinea,equatorial guinea,GNQ,1
+Greece,greece,GRC,1
+Guatemala,guatemala,GTM,1
+Guyana,guyana,GUY,1
+Honduras,honduras,HND,1
+Croatia,croatia,HRV,1
+Haiti,haiti,HTI,1
+Hungary,hungary,HUN,1
+Indonesia,indonesia,IDN,1
+India,india,IND,1
+Ireland,ireland,IRL,1
+Iran,iran,IRN,1
+Iraq,iraq,IRQ,1
+Iceland,iceland,ISL,1
+Israel,israel,ISR,1
+Italy,italy,ITA,1
+Jamaica,jamaica,JAM,1
+Jordan,jordan,JOR,1
+Japan,japan,JPN,1
+Kazakhstan,kazakhstan,KAZ,1
+Kenya,kenya,KEN,1
+Kyrgyzstan,kyrgyzstan,KGZ,1
+Cambodia,cambodia,KHM,1
+South Korea,south korea,KOR,1
+Kosovo,kosovo,KSV,1
+Kuwait,kuwait,KWT,1
+Laos,laos,LAO,1
+Lebanon,lebanon,LBN,1
+Liberia,liberia,LBR,1
+Libya,libya,LBY,1
+Sri Lanka,sri lanka,LKA,1
+Lesotho,lesotho,LSO,1
+Lithuania,lithuania,LTU,1
+Luxembourg,luxembourg,LUX,1
+Latvia,latvia,LVA,1
+Morocco,morocco,MAR,1
+Moldova,moldova,MDA,1
+Madagascar,madagascar,MDG,1
+Maldives,maldives,MDV,1
+Mexico,mexico,MEX,1
+North Macedonia,north macedonia,MKD,1
+Mali,mali,MLI,1
+Malta,malta,MLT,1
+Myanmar,myanmar,MMR,1
+Montenegro,montenegro,MNE,1
+Mongolia,mongolia,MNG,1
+Mozambique,mozambique,MOZ,1
+Mauritania,mauritania,MRT,1
+Mauritius,mauritius,MUS,1
+Malawi,malawi,MWI,1
+Malaysia,malaysia,MYS,1
+Namibia,namibia,NAM,1
+Niger,niger,NER,1
+Nigeria,nigeria,NGA,1
+Nicaragua,nicaragua,NIC,1
+Netherlands,netherlands,NLD,1
+Norway,norway,NOR,1
+Nepal,nepal,NPL,1
+New Zealand,new zealand,NZL,1
+Oman,oman,OMN,1
+Pakistan,pakistan,PAK,1
+Peru,peru,PER,1
+Philippines,philippines,PHL,1
+Papua New Guinea,papua new guinea,PNG,1
+Poland,poland,POL,1
+North Korea,north korea,PRK,1
+Portugal,portugal,PRT,1
+Paraguay,paraguay,PRY,1
+Palestine,palestine,PSE,1
+Qatar,qatar,QAT,1
+Romania,romania,ROU,1
+Russia,russia,RUS,1
+Rwanda,rwanda,RWA,1
+Saudi Arabia,saudi arabia,SAU,1
+Sudan,sudan,SDN,1
+Senegal,senegal,SEN,1
+Singapore,singapore,SGP,1
+Solomon Islands,solomon islands,SLB,1
+Sierra Leone,sierra leone,SLE,1
+El Salvador,el salvador,SLV,1
+Somalia,somalia,SOM,1
+Serbia,serbia,SRB,1
+South Sudan,south sudan,SSD,1
+Suriname,suriname,SUR,1
+Slovakia,slovakia,SVK,1
+Slovenia,slovenia,SVN,1
+Sweden,sweden,SWE,1
+eSwatini,eswatini,SWZ,1
+Seychelles,seychelles,SYC,1
+Syria,syria,SYR,1
+Chad,chad,TCD,1
+Togo,togo,TGO,1
+Thailand,thailand,THA,1
+Tajikistan,tajikistan,TJK,1
+Turkmenistan,turkmenistan,TKM,1
+Timor-Leste,timor leste,TLS,1
+Tonga,tonga,TON,1
+Trinidad and Tobago,trinidad and tobago,TTO,1
+Tunisia,tunisia,TUN,1
+Turkiye,turkiye,TUR,1
+Taiwan,taiwan,TWN,1
+Tanzania,tanzania,TZA,1
+Uganda,uganda,UGA,1
+Ukraine,ukraine,UKR,1
+Uruguay,uruguay,URY,1
+United States,united states,USA,1
+Uzbekistan,uzbekistan,UZB,1
+Venezuela,venezuela,VEN,1
+Viet Nam,viet nam,VNM,1
+Vanuatu,vanuatu,VUT,1
+Northern Cyprus,northern cyprus,XNC,1
+Yemen,yemen,YEM,1
+South Africa,south africa,ZAF,1
+Zambia,zambia,ZMB,1
+Zimbabwe,zimbabwe,ZWE,1
