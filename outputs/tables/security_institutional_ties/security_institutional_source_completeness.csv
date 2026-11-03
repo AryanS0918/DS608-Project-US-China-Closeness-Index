@@ -1,0 +1,11 @@
+anchor,arrangement_id,arrangement_name,review_status,membership_spells,countries,first_year,last_year,source_count
+China,china_dprk_treaty,"China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance",verified,1,1,2004,2025,1
+China,china_solomon_security,China-Solomon Islands Security Cooperation Framework,verified,1,1,2022,2025,1
+China,sco_full_member,Shanghai Cooperation Organisation full membership,verified,9,9,2004,2025,1
+United States,aukus,AUKUS,verified,2,2,2021,2025,1
+United States,five_eyes,Five Eyes,verified,4,4,2004,2025,1
+United States,mnna,Major Non-NATO Ally status and associated treaty depth,verified,19,19,2004,2025,1
+United States,nato,North Atlantic Treaty Organization,verified,31,31,2004,2025,1
+United States,quad,Quadrilateral Security Dialogue,verified,6,3,2007,2025,1
+United States,rio_treaty,Inter-American Treaty of Reciprocal Assistance,verified,22,21,2004,2025,1
+United States,us_india_gsomia,US-India GSOMIA,verified,1,1,2004,2025,1

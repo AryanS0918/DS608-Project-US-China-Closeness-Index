@@ -1,0 +1,31 @@
+{
+  "method": "maximum_verified_security_institution_depth_divided_by_3",
+  "source": "verified security arrangement membership register",
+  "start_year": 2004,
+  "end_year": 2025,
+  "rows": 8410,
+  "rows_by_anchor": {
+    "China": 4205,
+    "United States": 4205
+  },
+  "active_rows_by_anchor": {
+    "China": 159,
+    "United States": 1336
+  },
+  "verified_evidence_rows": 1659,
+  "arrangements": 10,
+  "membership_spells": 96,
+  "score_values": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "historical_overlap": {
+    "SCG": [
+      2004,
+      2005,
+      2006
+    ]
+  }
+}

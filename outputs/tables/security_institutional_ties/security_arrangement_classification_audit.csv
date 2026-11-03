@@ -1,0 +1,24 @@
+arrangement,family,anchor,include_baseline,relationship_type
+AUKUS,security,United States,True,defence_technology_partnership
+Asia Pacific Trade Agreement,economic,,False,
+BRICs,economic,,False,
+Belt & Road Initiative,economic,,False,
+Bilateral FTA with China,economic,,False,
+Bilateral FTA with US,economic,,False,
+Bilateral Investment Treaty with China,economic,,False,
+Bilateral Investment Treaty with US,economic,,False,
+CAFTA-DR,economic,,False,
+China-ASEAN FTA,economic,,False,
+Five Eyes,security,United States,True,intelligence_cooperation
+G7 (Formerly G8),economic,,False,
+Major US Non-Nato & Non Rio Treaty Allies,security,United States,True,formal_security_status
+NATO,security,United States,True,collective_defence_alliance
+Quadrilateral Security Dialogue,security,United States,True,structured_security_dialogue
+Regional Comprehensive Economic Partnership,economic,,False,
+Rio Treaty,security,United States,True,collective_defence_alliance
+Shanghai Cooperation Organisation,security,China,True,multilateral_security_organisation
+Treaty Allies Of China,security,China,True,bilateral_defence_alliance
+US India General Security of Military Information Agreement (GSOMIA),security,United States,True,military_information_agreement
+US-India Civil Nuclear Agreement,strategic_technology,United States,False,civil_nuclear_cooperation
+US-Japan critical minerals,economic,,False,
+USMCA/NAFTA,economic,,False,

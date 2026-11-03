@@ -3,53 +3,78 @@
 - **Status:** Decided
 - **Date:** 28 September 2026
 - **Owner:** Darren
+- **Decision:** Use annual UN Comtrade merchandise imports and exports
+  with the United States and China. Prioritise country-reported values
+  and use the corresponding anchor-reported mirror observation when a
+  country-reported flow is unavailable.
+- **Score rule:** Calculate the directional trade score only when all
+  four required bilateral flows are available.
+- **Missing-data rule:** Retain a flow as missing if neither the country
+  nor the relevant anchor reports it. Do not replace missing values
+  with zero.
+- **Anchor rule:** Do not calculate index scores for the United States
+  or China.
+- **Rationale:** The approach is symmetric, reproducible, transparent,
+  historically extensive, and preserves the distinction between zero
+  activity and unavailable data.
+- **Evidence:** The 2000-2025 pipeline produced 4,301 valid non-anchor
+  scores. Mirror supplementation recovered 345 of 409 initially
+  missing flows. All eight unit tests passed.
+- **Reopening triggers:** Material revisions to Comtrade data,
+  sustained gaps for major economies, evidence that mirror use creates
+  material bias, emergence of a superior comparable source, or
+  evidence that insignificant bilateral amounts produce misleading
+  extreme scores.
+
+  ## UNGA source data and indicator construction
+
+**Status:** Decided
+**Date:** 18 October 2026
 
 ### Decision
 
-Use annual UN Comtrade merchandise imports and exports with the United States and China. Prioritise country-reported values and use the corresponding anchor-reported mirror observation when a country-reported flow is unavailable.
+The project-specific UNGA source workbooks will be versioned under
+`data/sources/unga/`, while `data/raw/` will remain fully ignored.
 
-Calculate the directional trade score only when all four required bilateral flows are available. Retain a flow as missing if neither the country nor the relevant anchor reports it. Do not replace missing values with zero. Do not calculate index scores for the United States or China.
+The source workbooks are accompanied by provenance documentation, United
+Nations attribution, SHA-256 checksums, known data-quality limitations, and
+the reproducible processing module `src/data/process_unga.py`.
 
-### Rationale and evidence
-
-The approach is symmetric, reproducible, transparent, historically extensive, and preserves the distinction between zero activity and unavailable data.
-
-The 2000–2025 pipeline produced 4,301 valid non-anchor scores. Mirror supplementation recovered 345 of 409 initially missing flows. All eight unit tests passed.
-
-### Reopening triggers
-
-Revisit this decision if there are material revisions to Comtrade data, sustained gaps for major economies, evidence that mirror use creates material bias, emergence of a superior comparable source, or evidence that insignificant bilateral amounts produce misleading extreme scores.
-
-## UNGA source data and indicator construction
-
-- **Status:** Decided
-- **Date:** 18 October 2026
-- **Owner:** Darren
-
-### Decision
-
-Version the project-specific UNGA source workbooks under `data/sources/unga/`, while keeping `data/raw/` fully ignored.
-
-Accompany the source workbooks with provenance documentation, United Nations attribution, SHA-256 checksums, known data-quality limitations, and the reproducible processing module `src/data/process_unga.py`.
-
-The baseline UNGA indicator includes resolutions where the United States and China both cast substantive votes and selected different positions. Retain a strict Yes-versus-No specification as a robustness measure.
+The baseline UNGA indicator includes resolutions where the United States and
+China both cast substantive votes and selected different positions. A strict
+Yes-versus-No specification is retained as a robustness measure.
 
 For a qualifying resolution:
 
 - matching the United States is scored `+1`;
 - matching China is scored `-1`;
-- matching neither anchor is scored `0`; and
+- matching neither anchor is scored `0`;
 - absence and non-membership are excluded from the country-specific denominator.
 
-Identify duplicate resolutions and malformed vote observations through audit outputs rather than silently correcting them. Write country-year scores, the country-resolution panel, coverage statistics, anchor-resolution eligibility, duplicate records, and ingestion exceptions to `data/processed/`.
+Duplicate resolutions and malformed vote observations are identified through
+audit outputs rather than silently corrected. Country-year scores, the
+country-resolution panel, coverage statistics, anchor-resolution eligibility,
+duplicate records, and ingestion exceptions are written to `data/processed/`.
 
 ### Rationale
 
-This design measures revealed relative voting orientation when the two anchor countries differ, while preserving a transparent robustness specification. Versioning the redistributable source artefacts makes the result reproducible without weakening the rule that `data/raw/` remains local-only and ignored.
+This design measures revealed relative voting orientation when the two anchor
+countries differ, while preserving a transparent robustness specification.
+
+Versioning the redistributable source artefacts makes the result reproducible
+without weakening the repository rule that `data/raw/` remains local-only and
+ignored.
 
 ### Reopening triggers
 
-Revisit this decision if the project migrates fully to an official machine-readable UN voting dataset, the treatment of anchor abstentions changes, participation thresholds materially affect rankings, source redistribution terms change, or validation against published ideal-point measures reveals a major construct or processing problem.
+Revisit this decision if:
+
+- the project migrates fully to an official machine-readable UN voting dataset;
+- the baseline treatment of anchor abstentions changes;
+- participation thresholds materially affect country rankings;
+- source redistribution terms change; or
+- validation against the published ideal-point measures reveals a major
+  construct or processing problem.
 
 ## Diplomatic representation source treatment
 
@@ -59,21 +84,63 @@ Revisit this decision if the project migrates fully to an official machine-reada
 
 ### Decision
 
-Use the Diplomatic Representation Database as a directed country-anchor-year source. Preserve separately representation maintained by the anchor in the country and representation maintained by the country in the anchor.
+Use the Diplomatic Representation Database as a directed
+country-anchor-year source.
 
-Use the Level of Representation (`LOR`) as the principal measure of directed diplomatic depth. Calculate a bilateral measure only when both directed observations are available. Do not assign zero to an unobserved direction or impute it. Treat an absent directed dyad-year as missing or no recorded representation, not by itself as evidence of rupture.
+Preserve separately:
 
-### Rationale and evidence
+- representation maintained by the anchor in the country; and
+- representation maintained by the country in the anchor.
 
-Diplomatic representation is directional. Preserving both directions prevents unilateral and reciprocal representation from being treated as equivalent and prevents source non-observation from being interpreted as a crisis.
+Use the Level of Representation (`LOR`) as the principal measure of
+directed diplomatic depth.
 
-The development workflow preserved both directions, audited one-direction-only cases, examined `LOR`, rank, and mission-focus changes, separated structural depth from adverse condition evidence, and produced:
+Calculate a bilateral diplomatic-representation measure only when both
+directed observations are available. Do not assign zero to an
+unobserved direction and do not impute the missing direction.
+
+Treat an absent directed dyad-year as missing or as no recorded
+representation. Do not interpret an absent record by itself as evidence
+of diplomatic rupture.
+
+### Rationale
+
+Diplomatic representation is directional. Preserving both directions
+prevents the analysis from treating unilateral and reciprocal
+representation as equivalent.
+
+Keeping missing directions distinct from observed zero-valued adverse
+coding also prevents source non-observation from being interpreted as a
+diplomatic crisis.
+
+### Evidence
+
+The diplomatic-representation development workflow:
+
+- preserved the two directed observations separately;
+- audited one-direction-only cases;
+- examined changes in `LOR`, representation rank and mission focus;
+- separated structural diplomatic depth from adverse relationship
+  conditions; and
+- produced a validated country-anchor-year diplomatic structural-ties
+  panel.
+
+Production output:
 
 `data/processed/diplomatic_structural_ties_country_anchor_year.csv`
 
 ### Reopening triggers
 
-Revisit this decision if source revisions change the interpretation of missing directions, evidence supports a valid treatment of one-direction-only cases, `LOR` coding changes materially, or a superior comparable annual source becomes available.
+Revisit this decision if:
+
+- a revised Diplomatic Representation Database changes the interpretation
+  of missing directed observations;
+- evidence shows that one-direction-only cases can be combined without
+  imposing an unsupported zero or imputation;
+- the `LOR` coding changes materially; or
+- another source provides more complete and comparable annual directed
+  diplomatic-representation data.
+
 
 ## Diplomatic representation condition signal
 
@@ -83,24 +150,74 @@ Revisit this decision if source revisions change the interpretation of missing d
 
 ### Decision
 
-Use the Diplomatic Representation Database separately for structural diplomatic depth and explicit adverse diplomatic-condition evidence. Ordinary non-zero changes in embassy rank, representation level, or mission focus do not by themselves generate a strained condition.
+Use the Diplomatic Representation Database separately for:
 
-Use these conservative rules:
+1. structural diplomatic depth; and
+2. explicit adverse diplomatic-condition evidence.
 
-- one observed direction with `LOR = 0` or `Focus = 3`: `severely_strained`;
-- both observed directions with explicit adverse coding in the same country-anchor-year: `ruptured`;
-- positive observed representation without explicit adversity: `normal`; and
-- neither direction observed: `missing`.
+All valid `LOR` observations may affect structural diplomatic depth.
+Ordinary non-zero changes in embassy rank, representation level or
+mission focus do not, by themselves, generate a strained relationship
+condition.
 
-Retain rank and focus changes as diagnostic fields. Retain `ruptured` as the highest state. It denotes observed bilateral operational rupture, not necessarily formal legal severance.
+Use the following conservative condition rules:
 
-### Rationale and evidence
+- one observed direction with `LOR = 0` or `Focus = 3`:
+  `severely_strained`;
+- both observed directions with explicit adverse coding in the same
+  country-anchor-year:
+  `ruptured`;
+- positive observed representation without explicit adverse coding:
+  `normal`;
+- neither direction observed:
+  `missing`.
 
-Diagnostic testing identified 581 non-zero rank downgrades and 541 rank upgrades during 2000–2024. An extended rank-downgrade rule would classify 565 country-anchor-years as strained, including many changes more consistent with appointments, vacancies, administration, or reporting than crises.
+Retain rank and focus changes as diagnostic and explanatory fields
+rather than treating every downgrade as a relationship-condition event.
+
+### Rupture interpretation
+
+Retain `ruptured` as the highest relationship-condition state.
+
+`Ruptured` means an observed bilateral operational rupture in
+diplomatic representation. It does not necessarily establish formal
+legal severance because the source groups severance with events such as
+recall, withdrawal and expulsion.
+
+The classification remains source-based and reproducible rather than
+depending on case-by-case analyst judgement.
+
+### Rationale
+
+Diagnostic testing identified:
+
+- 581 non-zero rank downgrades; and
+- 541 rank upgrades
+
+during 2000–2024.
+
+An extended rule treating ordinary rank downgrades as strained would
+classify 565 country-anchor-years as strained. Many of those changes
+occurred broadly or simultaneously and were more consistent with
+appointments, vacancies, administrative changes or source reporting
+than with diplomatic crises.
+
+The conservative rule therefore reserves the relationship-condition
+signal for explicit adverse source coding.
 
 ### Reopening triggers
 
-Revisit this decision if source documentation distinguishes formal severance more precisely, validated event evidence supports some non-zero changes as crisis signals, the meaning of `Focus = 3` or `LOR = 0` changes, or external validation shows substantial classification error.
+Revisit this decision if:
+
+- source documentation distinguishes formal severance from recall,
+  withdrawal and expulsion;
+- validated event evidence shows that some non-zero `LOR` changes
+  consistently identify diplomatic crises;
+- the source revises `Focus = 3` or `LOR = 0`;
+- the operational interpretation of `ruptured` changes; or
+- external validation shows substantial false positives or false
+  negatives.
+
 
 ## Overall relationship-condition panel
 
@@ -110,13 +227,54 @@ Revisit this decision if source documentation distinguishes formal severance mor
 
 ### Decision
 
-Construct a symmetric country-anchor-year panel using the highest supported severity from harmonised evidence. Use the ordered states `normal`, `strained`, `severely_strained`, and `ruptured`.
+Construct a symmetric country-anchor-year relationship-condition panel
+using the highest supported severity from the available harmonised
+evidence.
 
-Preserve the controlling trigger, all supporting triggers, source-specific evidence, missingness, historical-entity eligibility, and anchor self-relation exclusions. Apply rupture precedence when supported. Do not infer normality from complete source absence.
+Use the ordered states:
+
+1. `normal`;
+2. `strained`;
+3. `severely_strained`;
+4. `ruptured`.
+
+Preserve:
+
+- the controlling condition trigger;
+- all supporting triggers;
+- source-specific evidence;
+- missingness;
+- historical-entity eligibility; and
+- anchor self-relation exclusions.
+
+Apply rupture precedence whenever the source evidence supports the
+`ruptured` state.
+
+Do not infer a normal relationship from complete source absence.
+
+### Rationale
+
+The construction separates the relationship condition from the
+structural-ties scores. Structural depth can change gradually, whereas
+the condition panel records material adverse states supported by
+diplomatic, sanctions or other explicitly adverse evidence.
+
+Using the highest supported severity prevents a severe event from being
+diluted by normal observations from another source.
 
 ### Validation verdict
 
-The corrected GSDB panel, non-state exclusion audit, harmonised evidence panel, DRD country resolution, historical-entity validation, symmetric production grid, four-state classifier, trigger preservation, and rupture precedence all passed.
+The production pipeline completed successfully:
+
+- corrected GSDB panel: passed;
+- non-state exclusion audit: passed;
+- harmonised evidence panel: passed;
+- DRD country resolution: passed;
+- historical-entity validation: passed;
+- symmetric production grid: passed;
+- four-state classifier: passed;
+- trigger preservation: passed; and
+- rupture precedence: passed.
 
 Production output:
 
@@ -124,7 +282,16 @@ Production output:
 
 ### Reopening triggers
 
-Revisit this decision if sanctions persistence changes, another condition source is added, severity ordering changes, external validation reveals systematic errors, historical-entity validity changes, or the project adopts a probabilistic condition model.
+Revisit this decision if:
+
+- the sanctions persistence rule changes;
+- an additional condition source is incorporated;
+- new evidence changes the ordering of condition severity;
+- external validation reveals systematic classification errors;
+- historical-entity validity rules change; or
+- the project adopts a probabilistic rather than categorical condition
+  model.
+
 
 ## Bilateral investment-treaty ties
 
@@ -134,139 +301,200 @@ Revisit this decision if sanctions persistence changes, another condition source
 
 ### Decision
 
-Use the China and United States bilateral investment-treaty workbooks to construct annual country-anchor-year treaty states. Preserve signature, entry into force, termination, and post-termination status separately.
+Use the bilateral investment-treaty source workbooks for China and the
+United States to construct annual country-anchor-year treaty states.
 
-Use the project country master and reviewed crosswalk:
-
-`outputs/tables/bilateral_investment_treaties/bit_counterparty_crosswalk.csv`
-
-Expand a source entity into multiple countries only when the source explicitly represents a multi-country counterparty and the expansion is recorded in the audit.
-
-Production output:
-
-`data/processed/bilateral_investment_treaties_country_anchor_year.csv`
-
-### Reopening triggers
-
-Revisit this decision if the workbooks are revised, treaty succession or survival clauses require different treatment, multi-country mapping changes, or a superior authoritative machine-readable source becomes available.
-
-## Trade-agreement ties
+## Baseline entity universe and historical eligibility
 
 - **Status:** Decided
-- **Date:** 1 November 2026
+- **Date:** 3 November 2026
 - **Owner:** Darren
 
 ### Decision
 
-Construct annual country-anchor-year trade-agreement ties from the reviewed agreement register. Preserve the distinction between bilateral free-trade agreements, regional agreements, and sectoral or limited-scope agreements.
+Use the corrected canonical country master to control entity eligibility
+for the baseline index.
 
-Retain reconstructed pre-source-period memberships only when supported by the reviewed register and explicit validity dates. Do not infer membership from merchandise-trade activity.
+Retain source-level observations for all available reporting entities,
+but exclude the following special, non-sovereign, de facto, partially
+recognised or policy-dependent entities from the baseline headline
+index for the current delivery:
 
-Production output:
+- Cook Islands;
+- Spanish Sahara;
+- Gibraltar;
+- Hong Kong;
+- Kosovo;
+- Montserrat;
+- Niue;
+- Palestine;
+- Taiwan; and
+- Holy See.
 
-`data/processed/trade_agreement_ties_country_anchor_year.csv`
+Exclude the United States and China from anchor self-relations.
+
+Mark the following legacy codes as historical entities outside the
+baseline project window:
+
+- Byelorussian SSR;
+- Czechoslovakia;
+- German Democratic Republic;
+- Dahomey;
+- Upper Volta;
+- Rhodesia;
+- Soviet Union;
+- North Vietnam; and
+- Yugoslavia.
+
+Retain Serbia and Montenegro (`SCG`) only within its recorded validity
+interval. Within the 2004-2025 Security Institutional panel, this means
+eligibility in 2004-2006 only.
+
+Use `preferred_country_name` for modern display labels without replacing
+the established `country_name` field used by existing crosswalks.
+
+### Rationale
+
+The policy distinguishes source reporting from baseline-index
+eligibility. It preserves available observations without requiring the
+current delivery to resolve every sovereignty, recognition or territory
+question.
+
+Year-conditioned historical eligibility prevents obsolete entities from
+being treated as current for the entire panel while retaining valid
+observations where a historical entity overlaps the project period.
+
+### Validation verdict
+
+The corrected canonical master contains:
+
+- 213 entities;
+- 191 sovereign-state rows;
+- 10 historical-state rows;
+- 10 special or policy-dependent rows; and
+- 2 anchor-state rows.
+
+The correction audit records 28 changed or policy-affected entities.
+The Security Institutional production panel contains `SCG` only in
+2004-2006.
 
 ### Reopening triggers
 
-Revisit this decision if membership or effective dates are revised, agreement-family treatment changes, overlapping agreements create material double-counting, or a more complete authoritative database is adopted.
+Revisit this decision if:
 
-## Economic institutional ties
+- the project has sufficient time to evaluate special entities across
+  all component sources;
+- the baseline headline universe is expanded beyond sovereign states;
+- an established component requires a different historical validity
+  rule; or
+- a final assessment instruction prescribes a different entity universe.
 
-- **Status:** Decided for the current specification
-- **Date:** 1 November 2026
-- **Owner:** Darren
 
-### Decision
-
-Combine bilateral investment-treaty and trade-agreement indicators into a country-anchor-year economic institutional-ties component. Retain the underlying indicators so the combined score remains auditable.
-
-Treat an observed state of no active agreement as zero rather than missing when source coverage supports that state. Preserve missingness when source coverage or country mapping is insufficient.
-
-Production output:
-
-`data/processed/economic_institutional_ties_country_anchor_year.csv`
-
-### Reopening triggers
-
-Revisit this decision if the BIT or trade-agreement construction changes, component weights change, sensitivity shows domination by one family, agreement depth becomes consistently measurable, or another institutional family is added.
-
-## FDI source selection and reporting perspective
+## Security institutional ties
 
 - **Status:** Decided
-- **Date:** 1 November 2026
+- **Date:** 3 November 2026
 - **Owner:** Darren
 
 ### Decision
 
-Use IMF Direct Investment Positions as the production source. Use only official asset-owner reporting with economic direction `anchor_to_country`, reporting perspective `anchor_report`, and data type `Reported official data`.
+Construct an annual country-anchor-year Security Institutional component
+from a verified, normalized membership register rather than directly
+from the original wide treaty workbook.
 
-Do not use rows labelled `Derived using counterparty information` as an independent mirror fallback.
+Use the following institutional-depth hierarchy:
 
-### Evidence and country universe
+1. depth `1`: structured security participation without a binding
+   mutual-defence obligation;
+2. depth `2`: formal and durable security cooperation without a full
+   mutual-defence commitment; and
+3. depth `3`: binding mutual-defence, collective-defence or military-
+   assistance commitment.
 
-The audit found 5,191 official observations, 5,191 derived representations, 5,191 paired observations, zero derived-only observations, and zero non-identical pairs. The derived rows are duplicate metadata representations rather than independent evidence.
+For each country-anchor-year, use the highest verified active depth and
+calculate:
 
-The crosswalk maps 170 IMF names to project entities and classifies 89 remaining names as aggregates, confidential or unspecified categories, or entities outside the project master.
+`security_institutional_score_raw = maximum_depth / 3`
 
-Use `outputs/tables/relations_condition/relationship_condition_country_master.csv` as the canonical master. Exclude aggregates, confidential or unspecified categories, entities outside the master, historically ineligible entities, and anchor self-relations.
+Retain all supporting arrangements, relationship types and controlling
+arrangements for audit. Do not add overlapping arrangements in the
+baseline score.
+
+Baseline arrangement treatment includes:
+
+- NATO membership at depth `3` using official accession years;
+- the Rio Treaty at depth `3` using verified effective membership
+  spells;
+- Major Non-NATO Ally status at depth `2`, elevated to depth `3` only
+  where a separate mutual-defence treaty supports alliance depth;
+- Five Eyes at depth `2`;
+- AUKUS at depth `2` from 2021;
+- the Quad at depth `1` for 2007-2008 and from 2017 onward;
+- US-India GSOMIA at depth `2`;
+- the China-DPRK Treaty of Friendship, Cooperation and Mutual
+  Assistance at depth `3`;
+- full Shanghai Cooperation Organisation membership at depth `1`, with
+  observer and dialogue-partner statuses excluded; and
+- the China-Solomon Islands Security Cooperation Framework at depth `2`
+  from 2022.
+
+Retain the Rio Treaty at depth `2` as a sensitivity specification
+because its legal collective-defence commitment is less operationally
+integrated than NATO. Descriptive commitment and integration fields may
+support interpretation and later sensitivity analysis but do not enter
+the baseline numerical score.
+
+### Rationale
+
+Institutional depth measures the strength of formal commitment without
+allowing multiple labels for the same security relationship to generate
+an artificial score above alliance level.
+
+The hierarchy is anchor-neutral. It preserves the substantive
+asymmetry between the dense United States alliance network and China's
+preference for fewer alliances and more flexible, non-bloc security
+partnerships.
+
+The verified register corrects material errors in the original workbook,
+including NATO accession timing, an erroneous Honduras NATO entry,
+reversed Rio Treaty withdrawal periods, Quad phases, the AUKUS start
+year, omitted Major Non-NATO Allies, and missing China-linked formal
+security cooperation.
+
+### Validation verdict
+
+The production builder completed successfully:
+
+- production rows: 8,410;
+- rows per anchor: 4,205;
+- verified annual evidence rows: 1,659;
+- verified membership spells: 96;
+- arrangement families: 10;
+- duplicate country-anchor-year keys: 0;
+- score range and permitted values: passed;
+- anchor self-relation exclusion: passed;
+- special-entity exclusion: passed;
+- historical-year eligibility: passed;
+- validated-notebook candidate reproduction: passed; and
+- focused production tests: 5 passed.
+
+Production output:
+
+`data/processed/security_institutional_ties_country_anchor_year.csv`
+
+Production builder:
+
+`src/data/build_security_institutional_ties.py`
 
 ### Reopening triggers
 
-Revisit this decision if IMF metadata meaning changes, official coverage changes materially, a more comparable source becomes available, national-source validation reveals systematic problems, or the project country universe changes.
+Revisit this decision if:
 
-## FDI structural-ties formulation
-
-- **Status:** Decided for the current index specification
-- **Date:** 1 November 2026
-- **Owner:** Darren
-
-### Statistical object and period
-
-Measure each destination's relative importance within an anchor's annual outward-investment portfolio. The score does not compare untransformed dollar magnitudes across anchors.
-
-Use 2018–2024. Official Chinese anchor-to-country positions are unavailable in the selected IMF representation before 2018. Do not backfill pre-2018 observations with zero.
-
-### Score rule
-
-For observed position `P(i,a,t)` in USD millions:
-
-```text
-P_positive(i,a,t) = max(P(i,a,t), 0)
-L(i,a,t) = log(1 + P_positive(i,a,t))
-Q95(a,t) = 95th percentile of positive L(i,a,t) values
-FDI(i,a,t) = min(L(i,a,t) / Q95(a,t), 1)
-```
-
-Apply these data rules:
-
-- positive position: apply the log-p95 score;
-- observed zero: score zero;
-- observed negative net position: score zero while retaining the value and flag;
-- missing position: retain a missing score;
-- never replace missing with zero; and
-- never take the absolute value of a negative position.
-
-### Rationale and evidence
-
-The method preserves magnitude ordering, compresses the concentrated right tail, limits domination by financial centres, avoids replacing magnitudes with ranks, and gives a transparent 0–1 score. Portfolio-share, percentile, and log-p95 alternatives produced almost identical rankings.
-
-The panel contains 2,828 rows for two anchors over 2018–2024, with 202 eligible observations per anchor-year after excluding self-relations. The production builder reproduced the Notebook 11 candidate exactly. Focused tests passed (`3 passed in 0.25s`), followed by the full suite (`11 passed in 0.38s`).
-
-Production implementation and outputs:
-
-- `src/data/build_fdi_structural_ties.py`
-- `tests/test_fdi_structural_ties.py`
-- `data/processed/fdi_structural_ties_country_anchor_year.csv`
-- `outputs/tables/fdi/fdi_structural_ties_summary.json`
-
-Method identifier:
-
-`official_outward_positive_log1p_scaled_to_anchor_year_p95`
-
-### Interpretation constraint
-
-Normalization is separate within each anchor-year. A score of `0.8` means relatively high intensity within that anchor's annual portfolio. Equal US and Chinese scores do not imply equal dollar positions.
-
-### Reopening triggers
-
-Revisit this decision if the IMF series extends consistently before 2018, treatment of negative positions changes, the 95th-percentile cap materially affects conclusions, anchor-year normalization obscures important differences, a common external denominator is adopted, financial-centre concentration needs separate treatment, missingness materially affects the composite, or final weighting requires another scale.
+- the Rio Treaty sensitivity materially changes the final composite;
+- additional verified Chinese formal security agreements are added;
+- the project adopts a two-dimensional legal-commitment and operational-
+  integration score;
+- the baseline entity universe changes;
+- SIPRI integration indicates that institutional depth is being double-
+  counted; or
+- source revisions alter arrangement membership spells.

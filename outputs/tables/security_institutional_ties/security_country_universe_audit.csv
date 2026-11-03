@@ -1,0 +1,214 @@
+iso3,country_name,historical_entity,first_valid_year,last_valid_year,security_baseline_classification,included_in_candidate,country_master_correction_proposed
+AFG,Afghanistan,False,,,eligible_current_entity,True,False
+AGO,Angola,False,,,eligible_current_entity,True,False
+ALB,Albania,False,,,eligible_current_entity,True,False
+AND,Andorra,False,,,eligible_current_entity,True,False
+ARE,United Arab Emirates,False,,,eligible_current_entity,True,False
+ARG,Argentina,False,,,eligible_current_entity,True,False
+ARM,Armenia,False,,,eligible_current_entity,True,False
+ATG,Antigua and Barbuda,False,,,eligible_current_entity,True,False
+AUS,Australia,False,,,eligible_current_entity,True,False
+AUT,Austria,False,,,eligible_current_entity,True,False
+AZE,Azerbaijan,False,,,eligible_current_entity,True,False
+BDI,Burundi,False,,,eligible_current_entity,True,False
+BEL,Belgium,False,,,eligible_current_entity,True,False
+BEN,Benin,False,,,eligible_current_entity,True,False
+BFA,Burkina Faso,False,,,eligible_current_entity,True,False
+BGD,Bangladesh,False,,,eligible_current_entity,True,False
+BGR,Bulgaria,False,,,eligible_current_entity,True,False
+BHR,Bahrain,False,,,eligible_current_entity,True,False
+BHS,Bahamas,False,,,eligible_current_entity,True,False
+BIH,Bosnia and Herzegovina,False,,,eligible_current_entity,True,False
+BLR,Belarus,False,,,eligible_current_entity,True,False
+BLZ,Belize,False,,,eligible_current_entity,True,False
+BOL,Bolivia,False,,,eligible_current_entity,True,False
+BRA,Brazil,False,,,eligible_current_entity,True,False
+BRB,Barbados,False,,,eligible_current_entity,True,False
+BRN,Brunei,False,,,eligible_current_entity,True,False
+BTN,Bhutan,False,,,eligible_current_entity,True,False
+BWA,Botswana,False,,,eligible_current_entity,True,False
+BYS,Byelorussian SSR,False,,,historical_entity_ineligible,False,True
+CAF,Central African Republic,False,,,eligible_current_entity,True,False
+CAN,Canada,False,,,eligible_current_entity,True,False
+CHE,Switzerland,False,,,eligible_current_entity,True,False
+CHL,Chile,False,,,eligible_current_entity,True,False
+CHN,China,False,,,anchor_entity,False,False
+CIV,Cote d'Ivoire,False,,,eligible_current_entity,True,False
+CMR,Cameroon,False,,,eligible_current_entity,True,False
+COD,Democratic Republic of the Congo,False,,,eligible_current_entity,True,False
+COG,Republic of the Congo,False,,,eligible_current_entity,True,False
+COK,Cook Islands,False,,,policy_or_special_entity_excluded,False,False
+COL,Colombia,False,,,eligible_current_entity,True,False
+COM,Comoros,False,,,eligible_current_entity,True,False
+CPV,Cabo Verde,False,,,eligible_current_entity,True,False
+CRI,Costa Rica,False,,,eligible_current_entity,True,False
+CSK,Czechoslovakia,False,,,historical_entity_ineligible,False,True
+CUB,Cuba,False,,,eligible_current_entity,True,False
+CYP,Cyprus,False,,,eligible_current_entity,True,False
+CZE,Czechia,False,,,eligible_current_entity,True,False
+DDR,German Democratic Republic,False,,,historical_entity_ineligible,False,True
+DEU,Germany,False,,,eligible_current_entity,True,False
+DHY,Dahomey,False,,,historical_entity_ineligible,False,True
+DJI,Djibouti,False,,,eligible_current_entity,True,False
+DMA,Dominica,False,,,eligible_current_entity,True,False
+DNK,Denmark,False,,,eligible_current_entity,True,False
+DOM,Dominican Republic,False,,,eligible_current_entity,True,False
+DZA,Algeria,False,,,eligible_current_entity,True,False
+ECU,Ecuador,False,,,eligible_current_entity,True,False
+EGY,Egypt,False,,,eligible_current_entity,True,False
+ERI,Eritrea,False,,,eligible_current_entity,True,False
+ESH,Spanish Sahara,False,,,policy_or_special_entity_excluded,False,False
+ESP,Spain,False,,,eligible_current_entity,True,False
+EST,Estonia,False,,,eligible_current_entity,True,False
+ETH,Ethiopia,False,,,eligible_current_entity,True,False
+FIN,Finland,False,,,eligible_current_entity,True,False
+FJI,Fiji,False,,,eligible_current_entity,True,False
+FRA,France,False,,,eligible_current_entity,True,False
+FSM,Micronesia,False,,,eligible_current_entity,True,False
+GAB,Gabon,False,,,eligible_current_entity,True,False
+GBR,United Kingdom,False,,,eligible_current_entity,True,False
+GEO,Georgia,False,,,eligible_current_entity,True,False
+GHA,Ghana,False,,,eligible_current_entity,True,False
+GIB,Gibraltar,False,,,policy_or_special_entity_excluded,False,False
+GIN,Guinea,False,,,eligible_current_entity,True,False
+GMB,"Gambia, The",False,,,eligible_current_entity,True,False
+GNB,Guinea-Bissau,False,,,eligible_current_entity,True,False
+GNQ,Equatorial Guinea,False,,,eligible_current_entity,True,False
+GRC,Greece,False,,,eligible_current_entity,True,False
+GRD,Grenada,False,,,eligible_current_entity,True,False
+GTM,Guatemala,False,,,eligible_current_entity,True,False
+GUY,Guyana,False,,,eligible_current_entity,True,False
+HKG,Hong Kong,False,,,policy_or_special_entity_excluded,False,False
+HND,Honduras,False,,,eligible_current_entity,True,False
+HRV,Croatia,False,,,eligible_current_entity,True,False
+HTI,Haiti,False,,,eligible_current_entity,True,False
+HUN,Hungary,False,,,eligible_current_entity,True,False
+HVO,Upper Volta,False,,,historical_entity_ineligible,False,True
+IDN,Indonesia,False,,,eligible_current_entity,True,False
+IND,India,False,,,eligible_current_entity,True,False
+IRL,Ireland,False,,,eligible_current_entity,True,False
+IRN,Iran,False,,,eligible_current_entity,True,False
+IRQ,Iraq,False,,,eligible_current_entity,True,False
+ISL,Iceland,False,,,eligible_current_entity,True,False
+ISR,Israel,False,,,eligible_current_entity,True,False
+ITA,Italy,False,,,eligible_current_entity,True,False
+JAM,Jamaica,False,,,eligible_current_entity,True,False
+JOR,Jordan,False,,,eligible_current_entity,True,False
+JPN,Japan,False,,,eligible_current_entity,True,False
+KAZ,Kazakhstan,False,,,eligible_current_entity,True,False
+KEN,Kenya,False,,,eligible_current_entity,True,False
+KGZ,Kyrgyzstan,False,,,eligible_current_entity,True,False
+KHM,Cambodia,False,,,eligible_current_entity,True,False
+KIR,Kiribati,False,,,eligible_current_entity,True,False
+KNA,Saint Kitts and Nevis,False,,,eligible_current_entity,True,False
+KOR,South Korea,False,,,eligible_current_entity,True,False
+KSV,Kosovo,False,,,policy_or_special_entity_excluded,False,False
+KWT,Kuwait,False,,,eligible_current_entity,True,False
+LAO,Laos,False,,,eligible_current_entity,True,False
+LBN,Lebanon,False,,,eligible_current_entity,True,False
+LBR,Liberia,False,,,eligible_current_entity,True,False
+LBY,Libya,False,,,eligible_current_entity,True,False
+LCA,Saint Lucia,False,,,eligible_current_entity,True,False
+LIE,Liechtenstein,False,,,eligible_current_entity,True,False
+LKA,Ceylon,False,,,eligible_current_entity,True,False
+LSO,Lesotho,False,,,eligible_current_entity,True,False
+LTU,Lithuania,False,,,eligible_current_entity,True,False
+LUX,Luxembourg,False,,,eligible_current_entity,True,False
+LVA,Latvia,False,,,eligible_current_entity,True,False
+MAR,Morocco,False,,,eligible_current_entity,True,False
+MCO,Monaco,False,,,eligible_current_entity,True,False
+MDA,Moldova,False,,,eligible_current_entity,True,False
+MDG,Madagascar,False,,,eligible_current_entity,True,False
+MDV,Maldives,False,,,eligible_current_entity,True,False
+MEX,Mexico,False,,,eligible_current_entity,True,False
+MHL,Marshall Islands,False,,,eligible_current_entity,True,False
+MKD,Macedonia,False,,,eligible_current_entity,True,False
+MLI,Mali,False,,,eligible_current_entity,True,False
+MLT,Malta,False,,,eligible_current_entity,True,False
+MMR,Myanmar,False,,,eligible_current_entity,True,False
+MNE,Montenegro,False,,,eligible_current_entity,True,False
+MNG,Mongolia,False,,,eligible_current_entity,True,False
+MOZ,Mozambique,False,,,eligible_current_entity,True,False
+MRT,Mauritania,False,,,eligible_current_entity,True,False
+MSR,Montserrat,False,,,policy_or_special_entity_excluded,False,False
+MUS,Mauritius,False,,,eligible_current_entity,True,False
+MWI,Malawi,False,,,eligible_current_entity,True,False
+MYS,Malaya,False,,,eligible_current_entity,True,False
+NAM,Namibia,False,,,eligible_current_entity,True,False
+NER,Niger,False,,,eligible_current_entity,True,False
+NGA,Nigeria,False,,,eligible_current_entity,True,False
+NIC,Nicaragua,False,,,eligible_current_entity,True,False
+NIU,Niue,False,,,policy_or_special_entity_excluded,False,False
+NLD,Netherlands,False,,,eligible_current_entity,True,False
+NOR,Norway,False,,,eligible_current_entity,True,False
+NPL,Nepal,False,,,eligible_current_entity,True,False
+NRU,Nauru,False,,,eligible_current_entity,True,False
+NZL,New Zealand,False,,,eligible_current_entity,True,False
+OMN,Oman,False,,,eligible_current_entity,True,False
+PAK,Pakistan,False,,,eligible_current_entity,True,False
+PAN,Panama,False,,,eligible_current_entity,True,False
+PER,Peru,False,,,eligible_current_entity,True,False
+PHL,Philippines,False,,,eligible_current_entity,True,False
+PLW,Palau,False,,,eligible_current_entity,True,False
+PNG,Papua New Guinea,False,,,eligible_current_entity,True,False
+POL,Poland,False,,,eligible_current_entity,True,False
+PRK,North Korea,False,,,eligible_current_entity,True,False
+PRT,Portugal,False,,,eligible_current_entity,True,False
+PRY,Paraguay,False,,,eligible_current_entity,True,False
+PSE,Palestine,False,,,policy_or_special_entity_excluded,False,False
+QAT,Qatar,False,,,eligible_current_entity,True,False
+RHO,Rhodesia,False,,,historical_entity_ineligible,False,True
+ROU,Romania,False,,,eligible_current_entity,True,False
+RUS,Russia,False,,,eligible_current_entity,True,False
+RWA,Rwanda,False,,,eligible_current_entity,True,False
+SAU,Saudi Arabia,False,,,eligible_current_entity,True,False
+SCG,Serbia and Montenegro,True,2000.0,2006.0,historical_entity_year_conditioned,True,False
+SDN,Sudan,False,,,eligible_current_entity,True,False
+SEN,Senegal,False,,,eligible_current_entity,True,False
+SGP,Singapore,False,,,eligible_current_entity,True,False
+SLB,Solomon Islands,False,,,eligible_current_entity,True,False
+SLE,Sierra Leone,False,,,eligible_current_entity,True,False
+SLV,El Salvador,False,,,eligible_current_entity,True,False
+SMR,San Marino,False,,,eligible_current_entity,True,False
+SOM,Somalia,False,,,eligible_current_entity,True,False
+SRB,Serbia,False,,,eligible_current_entity,True,False
+SSD,South Sudan,False,,,eligible_current_entity,True,False
+STP,Sao Tome and Principe,False,,,eligible_current_entity,True,False
+SUR,Suriname,False,,,eligible_current_entity,True,False
+SVK,Slovakia,False,,,eligible_current_entity,True,False
+SVN,Slovenia,False,,,eligible_current_entity,True,False
+SVU,Soviet Union,False,,,historical_entity_ineligible,False,True
+SWE,Sweden,False,,,eligible_current_entity,True,False
+SWZ,Swaziland,False,,,eligible_current_entity,True,False
+SYC,Seychelles,False,,,eligible_current_entity,True,False
+SYR,Syria,False,,,eligible_current_entity,True,False
+TCD,Chad,False,,,eligible_current_entity,True,False
+TGO,Togo,False,,,eligible_current_entity,True,False
+THA,Thailand,False,,,eligible_current_entity,True,False
+TJK,Tajikistan,False,,,eligible_current_entity,True,False
+TKM,Turkmenistan,False,,,eligible_current_entity,True,False
+TLS,East Timor,False,,,eligible_current_entity,True,False
+TON,Tonga,False,,,eligible_current_entity,True,False
+TTO,Trinidad and Tobago,False,,,eligible_current_entity,True,False
+TUN,Tunisia,False,,,eligible_current_entity,True,False
+TUR,Turkey,False,,,eligible_current_entity,True,False
+TUV,Tuvalu,False,,,eligible_current_entity,True,False
+TWN,Taiwan,False,,,policy_or_special_entity_excluded,False,False
+TZA,Tanzania,False,,,eligible_current_entity,True,False
+UGA,Uganda,False,,,eligible_current_entity,True,False
+UKR,Ukraine,False,,,eligible_current_entity,True,False
+URY,Uruguay,False,,,eligible_current_entity,True,False
+USA,United States,False,,,anchor_entity,False,False
+UZB,Uzbekistan,False,,,eligible_current_entity,True,False
+VAT,Holy See,False,,,policy_or_special_entity_excluded,False,False
+VCT,Saint Vincent,False,,,eligible_current_entity,True,False
+VDR,North Vietnam,False,,,historical_entity_ineligible,False,True
+VEN,Venezuela,False,,,eligible_current_entity,True,False
+VNM,Vietnam,False,,,eligible_current_entity,True,False
+VUT,Vanuatu,False,,,eligible_current_entity,True,False
+WSM,Samoa,False,,,eligible_current_entity,True,False
+YEM,Yemen,False,,,eligible_current_entity,True,False
+YUG,Yugoslavia,False,,,historical_entity_ineligible,False,True
+ZAF,South Africa,False,,,eligible_current_entity,True,False
+ZMB,Zambia,False,,,eligible_current_entity,True,False
+ZWE,Zimbabwe,False,,,eligible_current_entity,True,False
