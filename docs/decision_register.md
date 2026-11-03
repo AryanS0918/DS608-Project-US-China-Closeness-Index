@@ -704,3 +704,50 @@ Development notebook:
 
 Revisit this decision if the final composite displays material sensitivity to security-component weights, component availability rules change across the index, the institutional or SIPRI method changes, or evidence emerges that the two security components materially double-count the same underlying relationship.
 
+## Incomplete latest-year data
+
+- **Status:** Provisional project-wide default
+- **Date:** 3 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Use 2004–2024 as the complete-data baseline period for the current
+edition of the US–China Closeness Index.
+
+Retain 2025 observations where available to support continuity, source
+monitoring and future updates, but treat 2025 as a provisional extension
+whenever one or more required components lack complete and comparable
+coverage.
+
+Where a 2025 component is structurally unavailable, the likely default
+is to calculate a clearly flagged available-component score rather than
+zero-fill the missing component. This provisional treatment must not be
+presented as directly comparable with the complete-data baseline period.
+
+Do not apply this rule automatically to a new component or to the final
+composite. Confirm the proposed treatment with Darren after reviewing the
+specific source coverage and implications.
+
+### Reporting rule
+
+Unless subsequently decided otherwise:
+
+- baseline estimation, validation and substantive trend analysis use
+  2004–2024;
+- 2025 is presented separately as provisional;
+- 2025 values are excluded from claims requiring consistent component
+  composition across years; and
+- the provisional flag is removed only after all required sources have
+  complete and validated 2025 coverage.
+
+### Reopening triggers
+
+Revisit this decision when:
+
+- complete 2025 data become available for all required components;
+- the final index adopts a different latest-year publication policy;
+- available-component renormalisation materially distorts 2025 scores or
+  rankings; or
+- a component-specific source requires a different treatment.
+
