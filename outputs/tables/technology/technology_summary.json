@@ -1,0 +1,11 @@
+{
+  "raw_rows": 477347,
+  "standardised_rows": 477347,
+  "matched_classification_rows": 477347,
+  "unmatched_classification_rows": 0,
+  "unmatched_trade_value_usd": 0.0,
+  "baseline_country_years": 3360,
+  "baseline_scores": 3322,
+  "score_min": -1.0,
+  "score_max": 1.0
+}
