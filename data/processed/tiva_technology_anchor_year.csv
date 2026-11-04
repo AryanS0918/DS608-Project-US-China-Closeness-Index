@@ -1,0 +1,85 @@
+anchor_iso3,anchor_name,year,tiva_activity_code,tiva_activity_name,gross_exports_usd_mn,domestic_va_usd_mn,dva_ratio,ratio_source_year,ratio_source_status,validation_status
+CHN,China,2004,C26,"Computer, electronic and optical products",140658.058,78616.847,0.5589217433956041,2004,observed,ok
+CHN,China,2005,C26,"Computer, electronic and optical products",176856.203,108342.908,0.612604512378907,2005,observed,ok
+CHN,China,2006,C26,"Computer, electronic and optical products",211343.215,118867.176,0.5624366791240495,2006,observed,ok
+CHN,China,2007,C26,"Computer, electronic and optical products",264555.249,160281.082,0.605851074986609,2007,observed,ok
+CHN,China,2008,C26,"Computer, electronic and optical products",296692.101,185638.854,0.6256953028891051,2008,observed,ok
+CHN,China,2009,C26,"Computer, electronic and optical products",262030.997,178110.663,0.6797312724036233,2009,observed,ok
+CHN,China,2010,C26,"Computer, electronic and optical products",350579.49,241247.14,0.6881382022661965,2010,observed,ok
+CHN,China,2011,C26,"Computer, electronic and optical products",350205.652,234832.255,0.6705552970344408,2011,observed,ok
+CHN,China,2012,C26,"Computer, electronic and optical products",387943.576,269561.571,0.694847363576398,2012,observed,ok
+CHN,China,2013,C26,"Computer, electronic and optical products",420542.05,287287.643,0.6831365448472988,2013,observed,ok
+CHN,China,2014,C26,"Computer, electronic and optical products",441535.299,310263.251,0.7026918384615949,2014,observed,ok
+CHN,China,2015,C26,"Computer, electronic and optical products",483771.991,351972.041,0.7275577080691306,2015,observed,ok
+CHN,China,2016,C26,"Computer, electronic and optical products",435535.963,308712.582,0.7088107716147426,2016,observed,ok
+CHN,China,2017,C26,"Computer, electronic and optical products",497725.356,359432.214,0.7221496949414005,2017,observed,ok
+CHN,China,2018,C26,"Computer, electronic and optical products",526740.348,383815.024,0.7286607632343365,2018,observed,ok
+CHN,China,2019,C26,"Computer, electronic and optical products",526644.045,371530.382,0.7054677358024621,2019,observed,ok
+CHN,China,2020,C26,"Computer, electronic and optical products",566276.106,412446.477,0.7283487200500033,2020,observed,ok
+CHN,China,2021,C26,"Computer, electronic and optical products",683013.789,480598.198,0.7036434779796225,2021,observed,ok
+CHN,China,2022,C26,"Computer, electronic and optical products",656018.868,467208.448,0.7121875159237036,2022,observed,ok
+CHN,China,2023,C26,"Computer, electronic and optical products",656018.868,467208.448,0.7121875159237036,2022,carried_forward,ok
+CHN,China,2024,C26,"Computer, electronic and optical products",656018.868,467208.448,0.7121875159237036,2022,carried_forward,ok
+USA,United States,2004,C26,"Computer, electronic and optical products",101376.406,89575.607,0.8835942260568993,2004,observed,ok
+USA,United States,2005,C26,"Computer, electronic and optical products",104004.077,92332.067,0.8877735341086676,2005,observed,ok
+USA,United States,2006,C26,"Computer, electronic and optical products",116529.753,103304.645,0.8865087442517793,2006,observed,ok
+USA,United States,2007,C26,"Computer, electronic and optical products",120341.014,107449.47,0.8928748930102917,2007,observed,ok
+USA,United States,2008,C26,"Computer, electronic and optical products",119009.918,106182.472,0.8922153193988419,2008,observed,ok
+USA,United States,2009,C26,"Computer, electronic and optical products",92851.115,85438.497,0.9201666237395211,2009,observed,ok
+USA,United States,2010,C26,"Computer, electronic and optical products",105894.521,97772.919,0.9233047949666819,2010,observed,ok
+USA,United States,2011,C26,"Computer, electronic and optical products",110333.17,102333.073,0.9274914606369056,2011,observed,ok
+USA,United States,2012,C26,"Computer, electronic and optical products",111724.041,105216.901,0.941757029715744,2012,observed,ok
+USA,United States,2013,C26,"Computer, electronic and optical products",107082.735,101184.418,0.9449181326943135,2013,observed,ok
+USA,United States,2014,C26,"Computer, electronic and optical products",110838.475,105296.758,0.9500018653269995,2014,observed,ok
+USA,United States,2015,C26,"Computer, electronic and optical products",107688.387,102245.41,0.9494562305961552,2015,observed,ok
+USA,United States,2016,C26,"Computer, electronic and optical products",106019.292,100408.123,0.9470740759144101,2016,observed,ok
+USA,United States,2017,C26,"Computer, electronic and optical products",105371.976,99124.085,0.940706331634134,2017,observed,ok
+USA,United States,2018,C26,"Computer, electronic and optical products",106622.219,100937.216,0.9466808789638865,2018,observed,ok
+USA,United States,2019,C26,"Computer, electronic and optical products",101856.643,96587.821,0.9482721809317827,2019,observed,ok
+USA,United States,2020,C26,"Computer, electronic and optical products",103325.196,98303.107,0.9513953111688267,2020,observed,ok
+USA,United States,2021,C26,"Computer, electronic and optical products",110515.961,104546.729,0.9459876026413959,2021,observed,ok
+USA,United States,2022,C26,"Computer, electronic and optical products",105169.159,96650.719,0.9190024900741101,2022,observed,ok
+USA,United States,2023,C26,"Computer, electronic and optical products",105169.159,96650.719,0.9190024900741101,2022,carried_forward,ok
+USA,United States,2024,C26,"Computer, electronic and optical products",105169.159,96650.719,0.9190024900741101,2022,carried_forward,ok
+CHN,China,2004,C26_27,C26 plus electrical equipment,175137.939,103680.064,0.5919908878224266,2004,observed,ok
+CHN,China,2005,C26_27,C26 plus electrical equipment,219820.509,141118.786,0.6419727924476782,2005,observed,ok
+CHN,China,2006,C26_27,C26 plus electrical equipment,266088.602,158929.408,0.5972800293039233,2006,observed,ok
+CHN,China,2007,C26_27,C26 plus electrical equipment,334593.342,212824.085,0.6360679017934553,2007,observed,ok
+CHN,China,2008,C26_27,C26 plus electrical equipment,383774.676,250735.498,0.6533403939346952,2008,observed,ok
+CHN,China,2009,C26_27,C26 plus electrical equipment,335946.744,236481.966,0.7039269474211662,2009,observed,ok
+CHN,China,2010,C26_27,C26 plus electrical equipment,449057.258,317784.368,0.7076700405986981,2010,observed,ok
+CHN,China,2011,C26_27,C26 plus electrical equipment,467263.655,322471.454,0.690127405693473,2011,observed,ok
+CHN,China,2012,C26_27,C26 plus electrical equipment,517658.719,370809.199,0.7163198172655526,2012,observed,ok
+CHN,China,2013,C26_27,C26 plus electrical equipment,566081.99,400565.333,0.7076100990247013,2013,observed,ok
+CHN,China,2014,C26_27,C26 plus electrical equipment,607510.133,441393.871,0.7265621543138935,2014,observed,ok
+CHN,China,2015,C26_27,C26 plus electrical equipment,652497.225,488634.42,0.7488681963360074,2015,observed,ok
+CHN,China,2016,C26_27,C26 plus electrical equipment,594913.921,435790.983,0.7325277953951258,2016,observed,ok
+CHN,China,2017,C26_27,C26 plus electrical equipment,672248.695,498738.325,0.741895564408645,2017,observed,ok
+CHN,China,2018,C26_27,C26 plus electrical equipment,703766.613,524344.736,0.7450548609642555,2018,observed,ok
+CHN,China,2019,C26_27,C26 plus electrical equipment,703716.674,513250.757,0.7293428960303419,2019,observed,ok
+CHN,China,2020,C26_27,C26 plus electrical equipment,760127.719,570702.631,0.750798341824448,2020,observed,ok
+CHN,China,2021,C26_27,C26 plus electrical equipment,951781.334,695504.428,0.7307397226178424,2021,observed,ok
+CHN,China,2022,C26_27,C26 plus electrical equipment,978976.538,727217.447,0.7428343977330334,2022,observed,ok
+CHN,China,2023,C26_27,C26 plus electrical equipment,978976.538,727217.447,0.7428343977330334,2022,carried_forward,ok
+CHN,China,2024,C26_27,C26 plus electrical equipment,978976.538,727217.447,0.7428343977330334,2022,carried_forward,ok
+USA,United States,2004,C26_27,C26 plus electrical equipment,122947.716,108230.093,0.8802936444951933,2004,observed,ok
+USA,United States,2005,C26_27,C26 plus electrical equipment,128533.213,113320.624,0.8816446843198419,2005,observed,ok
+USA,United States,2006,C26_27,C26 plus electrical equipment,142077.641,125072.436,0.8803104775648689,2006,observed,ok
+USA,United States,2007,C26_27,C26 plus electrical equipment,147730.841,130541.762,0.8836459680074522,2007,observed,ok
+USA,United States,2008,C26_27,C26 plus electrical equipment,146950.847,129822.566,0.8834421076865245,2008,observed,ok
+USA,United States,2009,C26_27,C26 plus electrical equipment,115361.914,105353.334,0.9132419040828327,2009,observed,ok
+USA,United States,2010,C26_27,C26 plus electrical equipment,131967.084,120296.131,0.9115616360819186,2010,observed,ok
+USA,United States,2011,C26_27,C26 plus electrical equipment,139001.102,126194.364,0.907865924688856,2011,observed,ok
+USA,United States,2012,C26_27,C26 plus electrical equipment,143153.457,131745.64,0.9203105727303534,2012,observed,ok
+USA,United States,2013,C26_27,C26 plus electrical equipment,138898.261,128607.512,0.9259116066255142,2013,observed,ok
+USA,United States,2014,C26_27,C26 plus electrical equipment,143748.649,133222.808,0.9267760700832742,2014,observed,ok
+USA,United States,2015,C26_27,C26 plus electrical equipment,139985.269,130670.79,0.9334610058148333,2015,observed,ok
+USA,United States,2016,C26_27,C26 plus electrical equipment,135107.931,126123.407,0.9335011354736829,2016,observed,ok
+USA,United States,2017,C26_27,C26 plus electrical equipment,136187.688,126384.673,0.9280183462693045,2017,observed,ok
+USA,United States,2018,C26_27,C26 plus electrical equipment,137489.82,128121.862,0.9318643518480131,2018,observed,ok
+USA,United States,2019,C26_27,C26 plus electrical equipment,131463.092,122703.965,0.9333719687651952,2019,observed,ok
+USA,United States,2020,C26_27,C26 plus electrical equipment,130168.152,121825.779,0.9359107979039296,2020,observed,ok
+USA,United States,2021,C26_27,C26 plus electrical equipment,140078.845,129849.701,0.9269758113725167,2021,observed,ok
+USA,United States,2022,C26_27,C26 plus electrical equipment,132101.176,119680.417,0.905975409333222,2022,observed,ok
+USA,United States,2023,C26_27,C26 plus electrical equipment,132101.176,119680.417,0.905975409333222,2022,carried_forward,ok
+USA,United States,2024,C26_27,C26 plus electrical equipment,132101.176,119680.417,0.905975409333222,2022,carried_forward,ok

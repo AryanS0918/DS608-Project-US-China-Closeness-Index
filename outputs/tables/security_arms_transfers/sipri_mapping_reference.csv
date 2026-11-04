@@ -1,0 +1,461 @@
+normalized_name,source_name,iso3,mapping_method
+afghanistan,Afghanistan,AFG,country_master_country_name
+afghanistan,Afghanistan,AFG,country_master_preferred_country_name
+angola,Angola,AGO,country_master_country_name
+angola,Angola,AGO,country_master_preferred_country_name
+albania,Albania,ALB,country_master_country_name
+albania,Albania,ALB,country_master_preferred_country_name
+andorra,Andorra,AND,country_master_country_name
+andorra,Andorra,AND,country_master_preferred_country_name
+united arab emirates,United Arab Emirates,ARE,country_master_country_name
+united arab emirates,United Arab Emirates,ARE,country_master_preferred_country_name
+argentina,Argentina,ARG,country_master_country_name
+argentina,Argentina,ARG,country_master_preferred_country_name
+armenia,Armenia,ARM,country_master_country_name
+armenia,Armenia,ARM,country_master_preferred_country_name
+antigua and barbuda,Antigua and Barbuda,ATG,country_master_country_name
+antigua and barbuda,Antigua and Barbuda,ATG,country_master_preferred_country_name
+australia,Australia,AUS,country_master_country_name
+australia,Australia,AUS,country_master_preferred_country_name
+austria,Austria,AUT,country_master_country_name
+austria,Austria,AUT,country_master_preferred_country_name
+azerbaijan,Azerbaijan,AZE,country_master_country_name
+azerbaijan,Azerbaijan,AZE,country_master_preferred_country_name
+burundi,Burundi,BDI,country_master_country_name
+burundi,Burundi,BDI,country_master_preferred_country_name
+belgium,Belgium,BEL,country_master_country_name
+belgium,Belgium,BEL,country_master_preferred_country_name
+benin,Benin,BEN,country_master_country_name
+benin,Benin,BEN,country_master_preferred_country_name
+burkina faso,Burkina Faso,BFA,country_master_country_name
+burkina faso,Burkina Faso,BFA,country_master_preferred_country_name
+bangladesh,Bangladesh,BGD,country_master_country_name
+bangladesh,Bangladesh,BGD,country_master_preferred_country_name
+bulgaria,Bulgaria,BGR,country_master_country_name
+bulgaria,Bulgaria,BGR,country_master_preferred_country_name
+bahrain,Bahrain,BHR,country_master_country_name
+bahrain,Bahrain,BHR,country_master_preferred_country_name
+bahamas,Bahamas,BHS,country_master_country_name
+bahamas,Bahamas,BHS,country_master_preferred_country_name
+bosnia and herzegovina,Bosnia and Herzegovina,BIH,country_master_country_name
+bosnia and herzegovina,Bosnia and Herzegovina,BIH,country_master_preferred_country_name
+belarus,Belarus,BLR,country_master_country_name
+belarus,Belarus,BLR,country_master_preferred_country_name
+belize,Belize,BLZ,country_master_country_name
+belize,Belize,BLZ,country_master_preferred_country_name
+bolivia,Bolivia,BOL,country_master_country_name
+bolivia,Bolivia,BOL,country_master_preferred_country_name
+brazil,Brazil,BRA,country_master_country_name
+brazil,Brazil,BRA,country_master_preferred_country_name
+barbados,Barbados,BRB,country_master_country_name
+barbados,Barbados,BRB,country_master_preferred_country_name
+brunei,Brunei,BRN,country_master_country_name
+brunei,Brunei,BRN,country_master_preferred_country_name
+bhutan,Bhutan,BTN,country_master_country_name
+bhutan,Bhutan,BTN,country_master_preferred_country_name
+botswana,Botswana,BWA,country_master_country_name
+botswana,Botswana,BWA,country_master_preferred_country_name
+byelorussian ssr,Byelorussian SSR,BYS,country_master_country_name
+byelorussian ssr,Byelorussian SSR,BYS,country_master_preferred_country_name
+central african republic,Central African Republic,CAF,country_master_country_name
+central african republic,Central African Republic,CAF,country_master_preferred_country_name
+canada,Canada,CAN,country_master_country_name
+canada,Canada,CAN,country_master_preferred_country_name
+switzerland,Switzerland,CHE,country_master_country_name
+switzerland,Switzerland,CHE,country_master_preferred_country_name
+chile,Chile,CHL,country_master_country_name
+chile,Chile,CHL,country_master_preferred_country_name
+china,China,CHN,country_master_country_name
+china,China,CHN,country_master_preferred_country_name
+cote d ivoire,Cote d'Ivoire,CIV,country_master_country_name
+cote d ivoire,Cote d'Ivoire,CIV,country_master_preferred_country_name
+cameroon,Cameroon,CMR,country_master_country_name
+cameroon,Cameroon,CMR,country_master_preferred_country_name
+democratic republic of the congo,Democratic Republic of the Congo,COD,country_master_country_name
+democratic republic of the congo,Democratic Republic of the Congo,COD,country_master_preferred_country_name
+republic of the congo,Republic of the Congo,COG,country_master_country_name
+republic of the congo,Republic of the Congo,COG,country_master_preferred_country_name
+cook islands,Cook Islands,COK,country_master_country_name
+cook islands,Cook Islands,COK,country_master_preferred_country_name
+colombia,Colombia,COL,country_master_country_name
+colombia,Colombia,COL,country_master_preferred_country_name
+comoros,Comoros,COM,country_master_country_name
+comoros,Comoros,COM,country_master_preferred_country_name
+cabo verde,Cabo Verde,CPV,country_master_country_name
+cabo verde,Cabo Verde,CPV,country_master_preferred_country_name
+costa rica,Costa Rica,CRI,country_master_country_name
+costa rica,Costa Rica,CRI,country_master_preferred_country_name
+czechoslovakia,Czechoslovakia,CSK,country_master_country_name
+czechoslovakia,Czechoslovakia,CSK,country_master_preferred_country_name
+cuba,Cuba,CUB,country_master_country_name
+cuba,Cuba,CUB,country_master_preferred_country_name
+cyprus,Cyprus,CYP,country_master_country_name
+cyprus,Cyprus,CYP,country_master_preferred_country_name
+czechia,Czechia,CZE,country_master_country_name
+czechia,Czechia,CZE,country_master_preferred_country_name
+german democratic republic,German Democratic Republic,DDR,country_master_country_name
+german democratic republic,German Democratic Republic,DDR,country_master_preferred_country_name
+germany,Germany,DEU,country_master_country_name
+germany,Germany,DEU,country_master_preferred_country_name
+dahomey,Dahomey,DHY,country_master_country_name
+dahomey,Dahomey,DHY,country_master_preferred_country_name
+djibouti,Djibouti,DJI,country_master_country_name
+djibouti,Djibouti,DJI,country_master_preferred_country_name
+dominica,Dominica,DMA,country_master_country_name
+dominica,Dominica,DMA,country_master_preferred_country_name
+denmark,Denmark,DNK,country_master_country_name
+denmark,Denmark,DNK,country_master_preferred_country_name
+dominican republic,Dominican Republic,DOM,country_master_country_name
+dominican republic,Dominican Republic,DOM,country_master_preferred_country_name
+algeria,Algeria,DZA,country_master_country_name
+algeria,Algeria,DZA,country_master_preferred_country_name
+ecuador,Ecuador,ECU,country_master_country_name
+ecuador,Ecuador,ECU,country_master_preferred_country_name
+egypt,Egypt,EGY,country_master_country_name
+egypt,Egypt,EGY,country_master_preferred_country_name
+eritrea,Eritrea,ERI,country_master_country_name
+eritrea,Eritrea,ERI,country_master_preferred_country_name
+spanish sahara,Spanish Sahara,ESH,country_master_country_name
+spanish sahara,Spanish Sahara,ESH,country_master_preferred_country_name
+spain,Spain,ESP,country_master_country_name
+spain,Spain,ESP,country_master_preferred_country_name
+estonia,Estonia,EST,country_master_country_name
+estonia,Estonia,EST,country_master_preferred_country_name
+ethiopia,Ethiopia,ETH,country_master_country_name
+ethiopia,Ethiopia,ETH,country_master_preferred_country_name
+finland,Finland,FIN,country_master_country_name
+finland,Finland,FIN,country_master_preferred_country_name
+fiji,Fiji,FJI,country_master_country_name
+fiji,Fiji,FJI,country_master_preferred_country_name
+france,France,FRA,country_master_country_name
+france,France,FRA,country_master_preferred_country_name
+micronesia,Micronesia,FSM,country_master_country_name
+micronesia,Micronesia,FSM,country_master_preferred_country_name
+gabon,Gabon,GAB,country_master_country_name
+gabon,Gabon,GAB,country_master_preferred_country_name
+united kingdom,United Kingdom,GBR,country_master_country_name
+united kingdom,United Kingdom,GBR,country_master_preferred_country_name
+georgia,Georgia,GEO,country_master_country_name
+georgia,Georgia,GEO,country_master_preferred_country_name
+ghana,Ghana,GHA,country_master_country_name
+ghana,Ghana,GHA,country_master_preferred_country_name
+gibraltar,Gibraltar,GIB,country_master_country_name
+gibraltar,Gibraltar,GIB,country_master_preferred_country_name
+guinea,Guinea,GIN,country_master_country_name
+guinea,Guinea,GIN,country_master_preferred_country_name
+gambia the,"Gambia, The",GMB,country_master_country_name
+gambia the,"Gambia, The",GMB,country_master_preferred_country_name
+guinea bissau,Guinea-Bissau,GNB,country_master_country_name
+guinea bissau,Guinea-Bissau,GNB,country_master_preferred_country_name
+equatorial guinea,Equatorial Guinea,GNQ,country_master_country_name
+equatorial guinea,Equatorial Guinea,GNQ,country_master_preferred_country_name
+greece,Greece,GRC,country_master_country_name
+greece,Greece,GRC,country_master_preferred_country_name
+grenada,Grenada,GRD,country_master_country_name
+grenada,Grenada,GRD,country_master_preferred_country_name
+guatemala,Guatemala,GTM,country_master_country_name
+guatemala,Guatemala,GTM,country_master_preferred_country_name
+guyana,Guyana,GUY,country_master_country_name
+guyana,Guyana,GUY,country_master_preferred_country_name
+hong kong,Hong Kong,HKG,country_master_country_name
+hong kong,Hong Kong,HKG,country_master_preferred_country_name
+honduras,Honduras,HND,country_master_country_name
+honduras,Honduras,HND,country_master_preferred_country_name
+croatia,Croatia,HRV,country_master_country_name
+croatia,Croatia,HRV,country_master_preferred_country_name
+haiti,Haiti,HTI,country_master_country_name
+haiti,Haiti,HTI,country_master_preferred_country_name
+hungary,Hungary,HUN,country_master_country_name
+hungary,Hungary,HUN,country_master_preferred_country_name
+upper volta,Upper Volta,HVO,country_master_country_name
+upper volta,Upper Volta,HVO,country_master_preferred_country_name
+indonesia,Indonesia,IDN,country_master_country_name
+indonesia,Indonesia,IDN,country_master_preferred_country_name
+india,India,IND,country_master_country_name
+india,India,IND,country_master_preferred_country_name
+ireland,Ireland,IRL,country_master_country_name
+ireland,Ireland,IRL,country_master_preferred_country_name
+iran,Iran,IRN,country_master_country_name
+iran,Iran,IRN,country_master_preferred_country_name
+iraq,Iraq,IRQ,country_master_country_name
+iraq,Iraq,IRQ,country_master_preferred_country_name
+iceland,Iceland,ISL,country_master_country_name
+iceland,Iceland,ISL,country_master_preferred_country_name
+israel,Israel,ISR,country_master_country_name
+israel,Israel,ISR,country_master_preferred_country_name
+italy,Italy,ITA,country_master_country_name
+italy,Italy,ITA,country_master_preferred_country_name
+jamaica,Jamaica,JAM,country_master_country_name
+jamaica,Jamaica,JAM,country_master_preferred_country_name
+jordan,Jordan,JOR,country_master_country_name
+jordan,Jordan,JOR,country_master_preferred_country_name
+japan,Japan,JPN,country_master_country_name
+japan,Japan,JPN,country_master_preferred_country_name
+kazakhstan,Kazakhstan,KAZ,country_master_country_name
+kazakhstan,Kazakhstan,KAZ,country_master_preferred_country_name
+kenya,Kenya,KEN,country_master_country_name
+kenya,Kenya,KEN,country_master_preferred_country_name
+kyrgyzstan,Kyrgyzstan,KGZ,country_master_country_name
+kyrgyzstan,Kyrgyzstan,KGZ,country_master_preferred_country_name
+cambodia,Cambodia,KHM,country_master_country_name
+cambodia,Cambodia,KHM,country_master_preferred_country_name
+kiribati,Kiribati,KIR,country_master_country_name
+kiribati,Kiribati,KIR,country_master_preferred_country_name
+saint kitts and nevis,Saint Kitts and Nevis,KNA,country_master_country_name
+saint kitts and nevis,Saint Kitts and Nevis,KNA,country_master_preferred_country_name
+south korea,South Korea,KOR,country_master_country_name
+south korea,South Korea,KOR,country_master_preferred_country_name
+kosovo,Kosovo,KSV,country_master_country_name
+kosovo,Kosovo,KSV,country_master_preferred_country_name
+kuwait,Kuwait,KWT,country_master_country_name
+kuwait,Kuwait,KWT,country_master_preferred_country_name
+laos,Laos,LAO,country_master_country_name
+laos,Laos,LAO,country_master_preferred_country_name
+lebanon,Lebanon,LBN,country_master_country_name
+lebanon,Lebanon,LBN,country_master_preferred_country_name
+liberia,Liberia,LBR,country_master_country_name
+liberia,Liberia,LBR,country_master_preferred_country_name
+libya,Libya,LBY,country_master_country_name
+libya,Libya,LBY,country_master_preferred_country_name
+saint lucia,Saint Lucia,LCA,country_master_country_name
+saint lucia,Saint Lucia,LCA,country_master_preferred_country_name
+liechtenstein,Liechtenstein,LIE,country_master_country_name
+liechtenstein,Liechtenstein,LIE,country_master_preferred_country_name
+ceylon,Ceylon,LKA,country_master_country_name
+sri lanka,Sri Lanka,LKA,country_master_preferred_country_name
+lesotho,Lesotho,LSO,country_master_country_name
+lesotho,Lesotho,LSO,country_master_preferred_country_name
+lithuania,Lithuania,LTU,country_master_country_name
+lithuania,Lithuania,LTU,country_master_preferred_country_name
+luxembourg,Luxembourg,LUX,country_master_country_name
+luxembourg,Luxembourg,LUX,country_master_preferred_country_name
+latvia,Latvia,LVA,country_master_country_name
+latvia,Latvia,LVA,country_master_preferred_country_name
+morocco,Morocco,MAR,country_master_country_name
+morocco,Morocco,MAR,country_master_preferred_country_name
+monaco,Monaco,MCO,country_master_country_name
+monaco,Monaco,MCO,country_master_preferred_country_name
+moldova,Moldova,MDA,country_master_country_name
+moldova,Moldova,MDA,country_master_preferred_country_name
+madagascar,Madagascar,MDG,country_master_country_name
+madagascar,Madagascar,MDG,country_master_preferred_country_name
+maldives,Maldives,MDV,country_master_country_name
+maldives,Maldives,MDV,country_master_preferred_country_name
+mexico,Mexico,MEX,country_master_country_name
+mexico,Mexico,MEX,country_master_preferred_country_name
+marshall islands,Marshall Islands,MHL,country_master_country_name
+marshall islands,Marshall Islands,MHL,country_master_preferred_country_name
+macedonia,Macedonia,MKD,country_master_country_name
+north macedonia,North Macedonia,MKD,country_master_preferred_country_name
+mali,Mali,MLI,country_master_country_name
+mali,Mali,MLI,country_master_preferred_country_name
+malta,Malta,MLT,country_master_country_name
+malta,Malta,MLT,country_master_preferred_country_name
+myanmar,Myanmar,MMR,country_master_country_name
+myanmar,Myanmar,MMR,country_master_preferred_country_name
+montenegro,Montenegro,MNE,country_master_country_name
+montenegro,Montenegro,MNE,country_master_preferred_country_name
+mongolia,Mongolia,MNG,country_master_country_name
+mongolia,Mongolia,MNG,country_master_preferred_country_name
+mozambique,Mozambique,MOZ,country_master_country_name
+mozambique,Mozambique,MOZ,country_master_preferred_country_name
+mauritania,Mauritania,MRT,country_master_country_name
+mauritania,Mauritania,MRT,country_master_preferred_country_name
+montserrat,Montserrat,MSR,country_master_country_name
+montserrat,Montserrat,MSR,country_master_preferred_country_name
+mauritius,Mauritius,MUS,country_master_country_name
+mauritius,Mauritius,MUS,country_master_preferred_country_name
+malawi,Malawi,MWI,country_master_country_name
+malawi,Malawi,MWI,country_master_preferred_country_name
+malaya,Malaya,MYS,country_master_country_name
+malaysia,Malaysia,MYS,country_master_preferred_country_name
+namibia,Namibia,NAM,country_master_country_name
+namibia,Namibia,NAM,country_master_preferred_country_name
+niger,Niger,NER,country_master_country_name
+niger,Niger,NER,country_master_preferred_country_name
+nigeria,Nigeria,NGA,country_master_country_name
+nigeria,Nigeria,NGA,country_master_preferred_country_name
+nicaragua,Nicaragua,NIC,country_master_country_name
+nicaragua,Nicaragua,NIC,country_master_preferred_country_name
+niue,Niue,NIU,country_master_country_name
+niue,Niue,NIU,country_master_preferred_country_name
+netherlands,Netherlands,NLD,country_master_country_name
+netherlands,Netherlands,NLD,country_master_preferred_country_name
+norway,Norway,NOR,country_master_country_name
+norway,Norway,NOR,country_master_preferred_country_name
+nepal,Nepal,NPL,country_master_country_name
+nepal,Nepal,NPL,country_master_preferred_country_name
+nauru,Nauru,NRU,country_master_country_name
+nauru,Nauru,NRU,country_master_preferred_country_name
+new zealand,New Zealand,NZL,country_master_country_name
+new zealand,New Zealand,NZL,country_master_preferred_country_name
+oman,Oman,OMN,country_master_country_name
+oman,Oman,OMN,country_master_preferred_country_name
+pakistan,Pakistan,PAK,country_master_country_name
+pakistan,Pakistan,PAK,country_master_preferred_country_name
+panama,Panama,PAN,country_master_country_name
+panama,Panama,PAN,country_master_preferred_country_name
+peru,Peru,PER,country_master_country_name
+peru,Peru,PER,country_master_preferred_country_name
+philippines,Philippines,PHL,country_master_country_name
+philippines,Philippines,PHL,country_master_preferred_country_name
+palau,Palau,PLW,country_master_country_name
+palau,Palau,PLW,country_master_preferred_country_name
+papua new guinea,Papua New Guinea,PNG,country_master_country_name
+papua new guinea,Papua New Guinea,PNG,country_master_preferred_country_name
+poland,Poland,POL,country_master_country_name
+poland,Poland,POL,country_master_preferred_country_name
+north korea,North Korea,PRK,country_master_country_name
+north korea,North Korea,PRK,country_master_preferred_country_name
+portugal,Portugal,PRT,country_master_country_name
+portugal,Portugal,PRT,country_master_preferred_country_name
+paraguay,Paraguay,PRY,country_master_country_name
+paraguay,Paraguay,PRY,country_master_preferred_country_name
+palestine,Palestine,PSE,country_master_country_name
+palestine,Palestine,PSE,country_master_preferred_country_name
+qatar,Qatar,QAT,country_master_country_name
+qatar,Qatar,QAT,country_master_preferred_country_name
+rhodesia,Rhodesia,RHO,country_master_country_name
+rhodesia,Rhodesia,RHO,country_master_preferred_country_name
+romania,Romania,ROU,country_master_country_name
+romania,Romania,ROU,country_master_preferred_country_name
+russia,Russia,RUS,country_master_country_name
+russia,Russia,RUS,country_master_preferred_country_name
+rwanda,Rwanda,RWA,country_master_country_name
+rwanda,Rwanda,RWA,country_master_preferred_country_name
+saudi arabia,Saudi Arabia,SAU,country_master_country_name
+saudi arabia,Saudi Arabia,SAU,country_master_preferred_country_name
+serbia and montenegro,Serbia and Montenegro,SCG,country_master_country_name
+serbia and montenegro,Serbia and Montenegro,SCG,country_master_preferred_country_name
+sudan,Sudan,SDN,country_master_country_name
+sudan,Sudan,SDN,country_master_preferred_country_name
+senegal,Senegal,SEN,country_master_country_name
+senegal,Senegal,SEN,country_master_preferred_country_name
+singapore,Singapore,SGP,country_master_country_name
+singapore,Singapore,SGP,country_master_preferred_country_name
+solomon islands,Solomon Islands,SLB,country_master_country_name
+solomon islands,Solomon Islands,SLB,country_master_preferred_country_name
+sierra leone,Sierra Leone,SLE,country_master_country_name
+sierra leone,Sierra Leone,SLE,country_master_preferred_country_name
+el salvador,El Salvador,SLV,country_master_country_name
+el salvador,El Salvador,SLV,country_master_preferred_country_name
+san marino,San Marino,SMR,country_master_country_name
+san marino,San Marino,SMR,country_master_preferred_country_name
+somalia,Somalia,SOM,country_master_country_name
+somalia,Somalia,SOM,country_master_preferred_country_name
+serbia,Serbia,SRB,country_master_country_name
+serbia,Serbia,SRB,country_master_preferred_country_name
+south sudan,South Sudan,SSD,country_master_country_name
+south sudan,South Sudan,SSD,country_master_preferred_country_name
+sao tome and principe,Sao Tome and Principe,STP,country_master_country_name
+sao tome and principe,Sao Tome and Principe,STP,country_master_preferred_country_name
+suriname,Suriname,SUR,country_master_country_name
+suriname,Suriname,SUR,country_master_preferred_country_name
+slovakia,Slovakia,SVK,country_master_country_name
+slovakia,Slovakia,SVK,country_master_preferred_country_name
+slovenia,Slovenia,SVN,country_master_country_name
+slovenia,Slovenia,SVN,country_master_preferred_country_name
+soviet union,Soviet Union,SVU,country_master_country_name
+soviet union,Soviet Union,SVU,country_master_preferred_country_name
+sweden,Sweden,SWE,country_master_country_name
+sweden,Sweden,SWE,country_master_preferred_country_name
+swaziland,Swaziland,SWZ,country_master_country_name
+eswatini,Eswatini,SWZ,country_master_preferred_country_name
+seychelles,Seychelles,SYC,country_master_country_name
+seychelles,Seychelles,SYC,country_master_preferred_country_name
+syria,Syria,SYR,country_master_country_name
+syria,Syria,SYR,country_master_preferred_country_name
+chad,Chad,TCD,country_master_country_name
+chad,Chad,TCD,country_master_preferred_country_name
+togo,Togo,TGO,country_master_country_name
+togo,Togo,TGO,country_master_preferred_country_name
+thailand,Thailand,THA,country_master_country_name
+thailand,Thailand,THA,country_master_preferred_country_name
+tajikistan,Tajikistan,TJK,country_master_country_name
+tajikistan,Tajikistan,TJK,country_master_preferred_country_name
+turkmenistan,Turkmenistan,TKM,country_master_country_name
+turkmenistan,Turkmenistan,TKM,country_master_preferred_country_name
+east timor,East Timor,TLS,country_master_country_name
+timor leste,Timor-Leste,TLS,country_master_preferred_country_name
+tonga,Tonga,TON,country_master_country_name
+tonga,Tonga,TON,country_master_preferred_country_name
+trinidad and tobago,Trinidad and Tobago,TTO,country_master_country_name
+trinidad and tobago,Trinidad and Tobago,TTO,country_master_preferred_country_name
+tunisia,Tunisia,TUN,country_master_country_name
+tunisia,Tunisia,TUN,country_master_preferred_country_name
+turkey,Turkey,TUR,country_master_country_name
+turkiye,Turkiye,TUR,country_master_preferred_country_name
+tuvalu,Tuvalu,TUV,country_master_country_name
+tuvalu,Tuvalu,TUV,country_master_preferred_country_name
+taiwan,Taiwan,TWN,country_master_country_name
+taiwan,Taiwan,TWN,country_master_preferred_country_name
+tanzania,Tanzania,TZA,country_master_country_name
+tanzania,Tanzania,TZA,country_master_preferred_country_name
+uganda,Uganda,UGA,country_master_country_name
+uganda,Uganda,UGA,country_master_preferred_country_name
+ukraine,Ukraine,UKR,country_master_country_name
+ukraine,Ukraine,UKR,country_master_preferred_country_name
+uruguay,Uruguay,URY,country_master_country_name
+uruguay,Uruguay,URY,country_master_preferred_country_name
+united states,United States,USA,country_master_country_name
+united states,United States,USA,country_master_preferred_country_name
+uzbekistan,Uzbekistan,UZB,country_master_country_name
+uzbekistan,Uzbekistan,UZB,country_master_preferred_country_name
+holy see,Holy See,VAT,country_master_country_name
+holy see,Holy See,VAT,country_master_preferred_country_name
+saint vincent,Saint Vincent,VCT,country_master_country_name
+saint vincent,Saint Vincent,VCT,country_master_preferred_country_name
+north vietnam,North Vietnam,VDR,country_master_country_name
+north vietnam,North Vietnam,VDR,country_master_preferred_country_name
+venezuela,Venezuela,VEN,country_master_country_name
+venezuela,Venezuela,VEN,country_master_preferred_country_name
+vietnam,Vietnam,VNM,country_master_country_name
+vietnam,Vietnam,VNM,country_master_preferred_country_name
+vanuatu,Vanuatu,VUT,country_master_country_name
+vanuatu,Vanuatu,VUT,country_master_preferred_country_name
+samoa,Samoa,WSM,country_master_country_name
+samoa,Samoa,WSM,country_master_preferred_country_name
+yemen,Yemen,YEM,country_master_country_name
+yemen,Yemen,YEM,country_master_preferred_country_name
+yugoslavia,Yugoslavia,YUG,country_master_country_name
+yugoslavia,Yugoslavia,YUG,country_master_preferred_country_name
+south africa,South Africa,ZAF,country_master_country_name
+south africa,South Africa,ZAF,country_master_preferred_country_name
+zambia,Zambia,ZMB,country_master_country_name
+zambia,Zambia,ZMB,country_master_preferred_country_name
+zimbabwe,Zimbabwe,ZWE,country_master_country_name
+zimbabwe,Zimbabwe,ZWE,country_master_preferred_country_name
+bosnia herzegovina,bosnia herzegovina,BIH,sipri_name_override
+brunei,brunei,BRN,sipri_name_override
+cape verde,cape verde,CPV,sipri_name_override
+congo,congo,COG,sipri_name_override
+cote d ivoire,cote d ivoire,CIV,sipri_name_override
+czechia,czechia,CZE,sipri_name_override
+dr congo,dr congo,COD,sipri_name_override
+east timor,east timor,TLS,sipri_name_override
+e swatini,e swatini,SWZ,sipri_name_override
+eswatini,eswatini,SWZ,sipri_name_override
+gambia,gambia,GMB,sipri_name_override
+iran,iran,IRN,sipri_name_override
+kosovo,kosovo,KSV,sipri_name_override
+laos,laos,LAO,sipri_name_override
+libya,libya,LBY,sipri_name_override
+macedonia,macedonia,MKD,sipri_name_override
+moldova,moldova,MDA,sipri_name_override
+north korea,north korea,PRK,sipri_name_override
+northern cyprus,northern cyprus,XNC,sipri_name_override
+palestine,palestine,PSE,sipri_name_override
+russia,russia,RUS,sipri_name_override
+serbia and montenegro,serbia and montenegro,SCG,sipri_name_override
+south korea,south korea,KOR,sipri_name_override
+syria,syria,SYR,sipri_name_override
+taiwan,taiwan,TWN,sipri_name_override
+tanzania,tanzania,TZA,sipri_name_override
+turkiye,turkiye,TUR,sipri_name_override
+uae,uae,ARE,sipri_name_override
+uk,uk,GBR,sipri_name_override
+usa,usa,USA,sipri_name_override
+venezuela,venezuela,VEN,sipri_name_override
+viet nam,viet nam,VNM,sipri_name_override
+western sahara,western sahara,ESH,sipri_name_override
+yugoslavia,yugoslavia,YUG,sipri_name_override

@@ -258,3 +258,6 @@ data/interim/fdi/**
 
 # Supplemental national outward-FDI source workbook retained locally
 data/sources/fdi/**
+
+# Reproducible long-form UN Comtrade intermediate
+data/processed/trade_total_long.csv

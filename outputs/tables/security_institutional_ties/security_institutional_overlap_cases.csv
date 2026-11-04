@@ -1,0 +1,141 @@
+country_iso3,country_name,anchor,year,maximum_depth,additive_depth,active_arrangement_count,supporting_arrangements,score_maximum_depth,score_capped_additive
+AUS,Australia,United States,2004,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2004,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2004,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2004,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2004,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2004,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2004,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2005,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2005,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2005,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2005,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2005,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2005,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2005,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2006,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2006,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2006,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2006,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2006,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2006,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2006,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2007,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2007,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2007,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2007,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2007,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2007,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2007,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2008,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2008,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2008,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2008,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2008,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2009,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2009,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2009,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2009,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2009,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2010,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2010,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2010,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2010,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2010,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2011,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2011,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2011,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2011,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2011,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2012,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2012,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2012,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2012,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2012,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2013,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2013,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2013,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2013,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2013,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2014,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2014,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2014,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2014,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2014,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2015,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2015,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2015,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2015,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2015,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2016,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+CAN,Canada,United States,2016,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2016,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2016,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+NZL,New Zealand,United States,2016,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2017,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2017,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2017,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2017,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2017,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2017,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2017,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2018,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2018,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2018,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2018,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2018,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2018,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2018,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2019,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2019,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2019,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2019,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2019,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2019,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2019,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2020,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2020,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2020,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2020,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2020,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2020,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2020,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2021,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2021,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+GBR,United Kingdom,United States,2021,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2021,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2021,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2021,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2021,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2022,3.0,6.0,3.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2022,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+COL,Colombia,United States,2022,3.0,5.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Rio Treaty,1.0,1.0
+GBR,United Kingdom,United States,2022,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2022,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2022,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2022,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2022,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2023,3.0,9.0,4.0,AUKUS | Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2023,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+COL,Colombia,United States,2023,3.0,5.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Rio Treaty,1.0,1.0
+GBR,United Kingdom,United States,2023,3.0,8.0,3.0,AUKUS | Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2023,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2023,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2023,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2023,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2024,3.0,9.0,4.0,AUKUS | Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2024,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+COL,Colombia,United States,2024,3.0,5.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Rio Treaty,1.0,1.0
+GBR,United Kingdom,United States,2024,3.0,8.0,3.0,AUKUS | Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2024,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2024,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2024,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2024,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0
+AUS,Australia,United States,2025,3.0,9.0,4.0,AUKUS | Five Eyes | Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+CAN,Canada,United States,2025,3.0,5.0,2.0,Five Eyes | NATO,1.0,1.0
+COL,Colombia,United States,2025,3.0,5.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Rio Treaty,1.0,1.0
+GBR,United Kingdom,United States,2025,3.0,8.0,3.0,AUKUS | Five Eyes | NATO,1.0,1.0
+HND,Honduras,United States,2025,3.0,6.0,2.0,NATO | Rio Treaty,1.0,1.0
+IND,India,United States,2025,2.0,3.0,2.0,Quadrilateral Security Dialogue | US India General Security of Military Information Agreement (GSOMIA),0.6666666666666666,1.0
+JPN,Japan,United States,2025,3.0,4.0,2.0,Major US Non-Nato & Non Rio Treaty Allies | Quadrilateral Security Dialogue,1.0,1.0
+NZL,New Zealand,United States,2025,3.0,5.0,2.0,Five Eyes | Major US Non-Nato & Non Rio Treaty Allies,1.0,1.0

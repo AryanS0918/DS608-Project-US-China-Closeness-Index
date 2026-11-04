@@ -1,24 +1,22 @@
 {
-  "rows": 9612,
-  "countries_or_historical_entities": 199,
+  "rows": 8410,
+  "entities": 192,
   "years": [
-    2000,
-    2024
+    2004,
+    2025
   ],
+  "scored_rows": 8028,
+  "missing_score_rows": 382,
   "coverage_status_counts": {
-    "bilateral_observed": 7977,
-    "no_directed_record": 850,
-    "unilateral_observed": 785
+    "bilateral_observed": 6783,
+    "no_recorded_representation": 684,
+    "unilateral_recorded_representation": 561,
+    "source_year_unavailable": 382
   },
-  "direction_count_distribution": {
-    "0": 850,
-    "1": 785,
-    "2": 7977
-  },
-  "baseline_score_summary": {
-    "count": 9612.0,
-    "mean": 0.838546543383271,
-    "std": 0.31921989291733777,
+  "score_summary": {
+    "count": 8028.0,
+    "mean": 0.8478859149227703,
+    "std": 0.311201603168961,
     "min": 0.0,
     "25%": 0.84375,
     "50%": 1.0,
@@ -27,14 +25,11 @@
   },
   "validation_failures": {
     "duplicate_keys": 0,
-    "blank_country_names": 0,
-    "invalid_direction_counts": 0,
-    "bilateral_flag_mismatches": 0,
-    "diplomatic_score_mean_only_out_of_bounds": 0,
-    "diplomatic_score_mean_reciprocity_75_25_out_of_bounds": 0,
-    "diplomatic_score_mean_reciprocity_50_50_out_of_bounds": 0,
-    "diplomatic_score_geometric_out_of_bounds": 0,
-    "diplomatic_structural_score_raw_out_of_bounds": 0,
-    "scaled_score_out_of_bounds": 0
+    "unexpected_rows": 0,
+    "unexpected_entities": 0,
+    "invalid_status": 0,
+    "source_unavailable_with_score": 0,
+    "covered_missing_score": 0,
+    "score_out_of_bounds": 0
   }
 }

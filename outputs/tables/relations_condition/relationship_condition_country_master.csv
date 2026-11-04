@@ -1,214 +1,214 @@
-iso3,country_name,historical_entity,first_valid_year,last_valid_year
-AFG,Afghanistan,False,,
-AGO,Angola,False,,
-ALB,Albania,False,,
-AND,Andorra,False,,
-ARE,United Arab Emirates,False,,
-ARG,Argentina,False,,
-ARM,Armenia,False,,
-ATG,Antigua and Barbuda,False,,
-AUS,Australia,False,,
-AUT,Austria,False,,
-AZE,Azerbaijan,False,,
-BDI,Burundi,False,,
-BEL,Belgium,False,,
-BEN,Benin,False,,
-BFA,Burkina Faso,False,,
-BGD,Bangladesh,False,,
-BGR,Bulgaria,False,,
-BHR,Bahrain,False,,
-BHS,Bahamas,False,,
-BIH,Bosnia and Herzegovina,False,,
-BLR,Belarus,False,,
-BLZ,Belize,False,,
-BOL,Bolivia,False,,
-BRA,Brazil,False,,
-BRB,Barbados,False,,
-BRN,Brunei,False,,
-BTN,Bhutan,False,,
-BWA,Botswana,False,,
-BYS,Byelorussian SSR,False,,
-CAF,Central African Republic,False,,
-CAN,Canada,False,,
-CHE,Switzerland,False,,
-CHL,Chile,False,,
-CHN,China,False,,
-CIV,Cote d'Ivoire,False,,
-CMR,Cameroon,False,,
-COD,Democratic Republic of the Congo,False,,
-COG,Republic of the Congo,False,,
-COK,Cook Islands,False,,
-COL,Colombia,False,,
-COM,Comoros,False,,
-CPV,Cabo Verde,False,,
-CRI,Costa Rica,False,,
-CSK,Czechoslovakia,False,,
-CUB,Cuba,False,,
-CYP,Cyprus,False,,
-CZE,Czechia,False,,
-DDR,German Democratic Republic,False,,
-DEU,Germany,False,,
-DHY,Dahomey,False,,
-DJI,Djibouti,False,,
-DMA,Dominica,False,,
-DNK,Denmark,False,,
-DOM,Dominican Republic,False,,
-DZA,Algeria,False,,
-ECU,Ecuador,False,,
-EGY,Egypt,False,,
-ERI,Eritrea,False,,
-ESH,Spanish Sahara,False,,
-ESP,Spain,False,,
-EST,Estonia,False,,
-ETH,Ethiopia,False,,
-FIN,Finland,False,,
-FJI,Fiji,False,,
-FRA,France,False,,
-FSM,Micronesia,False,,
-GAB,Gabon,False,,
-GBR,United Kingdom,False,,
-GEO,Georgia,False,,
-GHA,Ghana,False,,
-GIB,Gibraltar,False,,
-GIN,Guinea,False,,
-GMB,"Gambia, The",False,,
-GNB,Guinea-Bissau,False,,
-GNQ,Equatorial Guinea,False,,
-GRC,Greece,False,,
-GRD,Grenada,False,,
-GTM,Guatemala,False,,
-GUY,Guyana,False,,
-HKG,Hong Kong,False,,
-HND,Honduras,False,,
-HRV,Croatia,False,,
-HTI,Haiti,False,,
-HUN,Hungary,False,,
-HVO,Upper Volta,False,,
-IDN,Indonesia,False,,
-IND,India,False,,
-IRL,Ireland,False,,
-IRN,Iran,False,,
-IRQ,Iraq,False,,
-ISL,Iceland,False,,
-ISR,Israel,False,,
-ITA,Italy,False,,
-JAM,Jamaica,False,,
-JOR,Jordan,False,,
-JPN,Japan,False,,
-KAZ,Kazakhstan,False,,
-KEN,Kenya,False,,
-KGZ,Kyrgyzstan,False,,
-KHM,Cambodia,False,,
-KIR,Kiribati,False,,
-KNA,Saint Kitts and Nevis,False,,
-KOR,South Korea,False,,
-KSV,Kosovo,False,,
-KWT,Kuwait,False,,
-LAO,Laos,False,,
-LBN,Lebanon,False,,
-LBR,Liberia,False,,
-LBY,Libya,False,,
-LCA,Saint Lucia,False,,
-LIE,Liechtenstein,False,,
-LKA,Ceylon,False,,
-LSO,Lesotho,False,,
-LTU,Lithuania,False,,
-LUX,Luxembourg,False,,
-LVA,Latvia,False,,
-MAR,Morocco,False,,
-MCO,Monaco,False,,
-MDA,Moldova,False,,
-MDG,Madagascar,False,,
-MDV,Maldives,False,,
-MEX,Mexico,False,,
-MHL,Marshall Islands,False,,
-MKD,Macedonia,False,,
-MLI,Mali,False,,
-MLT,Malta,False,,
-MMR,Myanmar,False,,
-MNE,Montenegro,False,,
-MNG,Mongolia,False,,
-MOZ,Mozambique,False,,
-MRT,Mauritania,False,,
-MSR,Montserrat,False,,
-MUS,Mauritius,False,,
-MWI,Malawi,False,,
-MYS,Malaya,False,,
-NAM,Namibia,False,,
-NER,Niger,False,,
-NGA,Nigeria,False,,
-NIC,Nicaragua,False,,
-NIU,Niue,False,,
-NLD,Netherlands,False,,
-NOR,Norway,False,,
-NPL,Nepal,False,,
-NRU,Nauru,False,,
-NZL,New Zealand,False,,
-OMN,Oman,False,,
-PAK,Pakistan,False,,
-PAN,Panama,False,,
-PER,Peru,False,,
-PHL,Philippines,False,,
-PLW,Palau,False,,
-PNG,Papua New Guinea,False,,
-POL,Poland,False,,
-PRK,North Korea,False,,
-PRT,Portugal,False,,
-PRY,Paraguay,False,,
-PSE,Palestine,False,,
-QAT,Qatar,False,,
-RHO,Rhodesia,False,,
-ROU,Romania,False,,
-RUS,Russia,False,,
-RWA,Rwanda,False,,
-SAU,Saudi Arabia,False,,
-SCG,Serbia and Montenegro,True,2000.0,2006.0
-SDN,Sudan,False,,
-SEN,Senegal,False,,
-SGP,Singapore,False,,
-SLB,Solomon Islands,False,,
-SLE,Sierra Leone,False,,
-SLV,El Salvador,False,,
-SMR,San Marino,False,,
-SOM,Somalia,False,,
-SRB,Serbia,False,,
-SSD,South Sudan,False,,
-STP,Sao Tome and Principe,False,,
-SUR,Suriname,False,,
-SVK,Slovakia,False,,
-SVN,Slovenia,False,,
-SVU,Soviet Union,False,,
-SWE,Sweden,False,,
-SWZ,Swaziland,False,,
-SYC,Seychelles,False,,
-SYR,Syria,False,,
-TCD,Chad,False,,
-TGO,Togo,False,,
-THA,Thailand,False,,
-TJK,Tajikistan,False,,
-TKM,Turkmenistan,False,,
-TLS,East Timor,False,,
-TON,Tonga,False,,
-TTO,Trinidad and Tobago,False,,
-TUN,Tunisia,False,,
-TUR,Turkey,False,,
-TUV,Tuvalu,False,,
-TWN,Taiwan,False,,
-TZA,Tanzania,False,,
-UGA,Uganda,False,,
-UKR,Ukraine,False,,
-URY,Uruguay,False,,
-USA,United States,False,,
-UZB,Uzbekistan,False,,
-VAT,Holy See,False,,
-VCT,Saint Vincent,False,,
-VDR,North Vietnam,False,,
-VEN,Venezuela,False,,
-VNM,Vietnam,False,,
-VUT,Vanuatu,False,,
-WSM,Samoa,False,,
-YEM,Yemen,False,,
-YUG,Yugoslavia,False,,
-ZAF,South Africa,False,,
-ZMB,Zambia,False,,
-ZWE,Zimbabwe,False,,
+iso3,country_name,historical_entity,first_valid_year,last_valid_year,preferred_country_name,entity_type,baseline_index_eligible,eligibility_rule,entity_policy_status,entity_policy_note
+AFG,Afghanistan,False,,,Afghanistan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+AGO,Angola,False,,,Angola,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ALB,Albania,False,,,Albania,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+AND,Andorra,False,,,Andorra,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ARE,United Arab Emirates,False,,,United Arab Emirates,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ARG,Argentina,False,,,Argentina,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ARM,Armenia,False,,,Armenia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ATG,Antigua and Barbuda,False,,,Antigua and Barbuda,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+AUS,Australia,False,,,Australia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+AUT,Austria,False,,,Austria,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+AZE,Azerbaijan,False,,,Azerbaijan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BDI,Burundi,False,,,Burundi,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BEL,Belgium,False,,,Belgium,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BEN,Benin,False,,,Benin,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BFA,Burkina Faso,False,,,Burkina Faso,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BGD,Bangladesh,False,,,Bangladesh,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BGR,Bulgaria,False,,,Bulgaria,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BHR,Bahrain,False,,,Bahrain,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BHS,Bahamas,False,,,Bahamas,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BIH,Bosnia and Herzegovina,False,,,Bosnia and Herzegovina,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BLR,Belarus,False,,,Belarus,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BLZ,Belize,False,,,Belize,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BOL,Bolivia,False,,,Bolivia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BRA,Brazil,False,,,Brazil,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BRB,Barbados,False,,,Barbados,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BRN,Brunei,False,,,Brunei,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BTN,Bhutan,False,,,Bhutan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BWA,Botswana,False,,,Botswana,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+BYS,Byelorussian SSR,True,,,Byelorussian SSR,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+CAF,Central African Republic,False,,,Central African Republic,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CAN,Canada,False,,,Canada,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CHE,Switzerland,False,,,Switzerland,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CHL,Chile,False,,,Chile,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CHN,China,False,,,China,anchor_state,False,anchor_self_relation_excluded,decided_anchor_treatment,Anchor entity; anchor self-relations are excluded.
+CIV,Cote d'Ivoire,False,,,Cote d'Ivoire,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CMR,Cameroon,False,,,Cameroon,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+COD,Democratic Republic of the Congo,False,,,Democratic Republic of the Congo,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+COG,Republic of the Congo,False,,,Republic of the Congo,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+COK,Cook Islands,False,,,Cook Islands,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a special or non-UN sovereign-associated entity.
+COL,Colombia,False,,,Colombia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+COM,Comoros,False,,,Comoros,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CPV,Cabo Verde,False,,,Cabo Verde,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CRI,Costa Rica,False,,,Costa Rica,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CSK,Czechoslovakia,True,,,Czechoslovakia,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+CUB,Cuba,False,,,Cuba,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CYP,Cyprus,False,,,Cyprus,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+CZE,Czechia,False,,,Czechia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DDR,German Democratic Republic,True,,,German Democratic Republic,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+DEU,Germany,False,,,Germany,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DHY,Dahomey,True,,,Dahomey,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+DJI,Djibouti,False,,,Djibouti,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DMA,Dominica,False,,,Dominica,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DNK,Denmark,False,,,Denmark,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DOM,Dominican Republic,False,,,Dominican Republic,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+DZA,Algeria,False,,,Algeria,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ECU,Ecuador,False,,,Ecuador,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+EGY,Egypt,False,,,Egypt,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ERI,Eritrea,False,,,Eritrea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ESH,Spanish Sahara,False,,,Spanish Sahara,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a disputed or special territory.
+ESP,Spain,False,,,Spain,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+EST,Estonia,False,,,Estonia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ETH,Ethiopia,False,,,Ethiopia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+FIN,Finland,False,,,Finland,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+FJI,Fiji,False,,,Fiji,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+FRA,France,False,,,France,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+FSM,Micronesia,False,,,Micronesia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GAB,Gabon,False,,,Gabon,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GBR,United Kingdom,False,,,United Kingdom,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GEO,Georgia,False,,,Georgia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GHA,Ghana,False,,,Ghana,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GIB,Gibraltar,False,,,Gibraltar,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a territory.
+GIN,Guinea,False,,,Guinea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GMB,"Gambia, The",False,,,"Gambia, The",sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GNB,Guinea-Bissau,False,,,Guinea-Bissau,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GNQ,Equatorial Guinea,False,,,Equatorial Guinea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GRC,Greece,False,,,Greece,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GRD,Grenada,False,,,Grenada,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GTM,Guatemala,False,,,Guatemala,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+GUY,Guyana,False,,,Guyana,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+HKG,Hong Kong,False,,,Hong Kong,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,"Excluded from the headline, political, and security index; source-level economic observations are preserved."
+HND,Honduras,False,,,Honduras,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+HRV,Croatia,False,,,Croatia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+HTI,Haiti,False,,,Haiti,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+HUN,Hungary,False,,,Hungary,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+HVO,Upper Volta,True,,,Upper Volta,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+IDN,Indonesia,False,,,Indonesia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+IND,India,False,,,India,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+IRL,Ireland,False,,,Ireland,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+IRN,Iran,False,,,Iran,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+IRQ,Iraq,False,,,Iraq,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ISL,Iceland,False,,,Iceland,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ISR,Israel,False,,,Israel,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ITA,Italy,False,,,Italy,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+JAM,Jamaica,False,,,Jamaica,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+JOR,Jordan,False,,,Jordan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+JPN,Japan,False,,,Japan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KAZ,Kazakhstan,False,,,Kazakhstan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KEN,Kenya,False,,,Kenya,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KGZ,Kyrgyzstan,False,,,Kyrgyzstan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KHM,Cambodia,False,,,Cambodia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KIR,Kiribati,False,,,Kiribati,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KNA,Saint Kitts and Nevis,False,,,Saint Kitts and Nevis,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KOR,South Korea,False,,,South Korea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+KSV,Kosovo,False,,,Kosovo,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index for delivery feasibility; source-level observations are preserved and inclusion may be revisited.
+KWT,Kuwait,False,,,Kuwait,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LAO,Laos,False,,,Laos,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LBN,Lebanon,False,,,Lebanon,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LBR,Liberia,False,,,Liberia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LBY,Libya,False,,,Libya,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LCA,Saint Lucia,False,,,Saint Lucia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LIE,Liechtenstein,False,,,Liechtenstein,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LKA,Ceylon,False,,,Sri Lanka,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LSO,Lesotho,False,,,Lesotho,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LTU,Lithuania,False,,,Lithuania,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LUX,Luxembourg,False,,,Luxembourg,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+LVA,Latvia,False,,,Latvia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MAR,Morocco,False,,,Morocco,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MCO,Monaco,False,,,Monaco,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MDA,Moldova,False,,,Moldova,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MDG,Madagascar,False,,,Madagascar,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MDV,Maldives,False,,,Maldives,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MEX,Mexico,False,,,Mexico,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MHL,Marshall Islands,False,,,Marshall Islands,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MKD,Macedonia,False,,,North Macedonia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MLI,Mali,False,,,Mali,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MLT,Malta,False,,,Malta,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MMR,Myanmar,False,,,Myanmar,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MNE,Montenegro,False,,,Montenegro,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MNG,Mongolia,False,,,Mongolia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MOZ,Mozambique,False,,,Mozambique,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MRT,Mauritania,False,,,Mauritania,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MSR,Montserrat,False,,,Montserrat,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a territory.
+MUS,Mauritius,False,,,Mauritius,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MWI,Malawi,False,,,Malawi,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+MYS,Malaya,False,,,Malaysia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NAM,Namibia,False,,,Namibia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NER,Niger,False,,,Niger,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NGA,Nigeria,False,,,Nigeria,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NIC,Nicaragua,False,,,Nicaragua,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NIU,Niue,False,,,Niue,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a special or non-UN sovereign-associated entity.
+NLD,Netherlands,False,,,Netherlands,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NOR,Norway,False,,,Norway,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NPL,Nepal,False,,,Nepal,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NRU,Nauru,False,,,Nauru,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+NZL,New Zealand,False,,,New Zealand,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+OMN,Oman,False,,,Oman,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PAK,Pakistan,False,,,Pakistan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PAN,Panama,False,,,Panama,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PER,Peru,False,,,Peru,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PHL,Philippines,False,,,Philippines,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PLW,Palau,False,,,Palau,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PNG,Papua New Guinea,False,,,Papua New Guinea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+POL,Poland,False,,,Poland,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PRK,North Korea,False,,,North Korea,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PRT,Portugal,False,,,Portugal,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PRY,Paraguay,False,,,Paraguay,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+PSE,Palestine,False,,,Palestine,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index for delivery feasibility; source-level observations are preserved and inclusion may be revisited.
+QAT,Qatar,False,,,Qatar,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+RHO,Rhodesia,True,,,Rhodesia,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+ROU,Romania,False,,,Romania,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+RUS,Russia,False,,,Russia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+RWA,Rwanda,False,,,Rwanda,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SAU,Saudi Arabia,False,,,Saudi Arabia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SCG,Serbia and Montenegro,True,2000.0,2006.0,Serbia and Montenegro,historical_state,True,eligible_only_within_validity_interval,decided_historical_treatment,"Eligible only for 2004-2006 within the current project window, based on first_valid_year and last_valid_year."
+SDN,Sudan,False,,,Sudan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SEN,Senegal,False,,,Senegal,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SGP,Singapore,False,,,Singapore,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SLB,Solomon Islands,False,,,Solomon Islands,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SLE,Sierra Leone,False,,,Sierra Leone,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SLV,El Salvador,False,,,El Salvador,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SMR,San Marino,False,,,San Marino,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SOM,Somalia,False,,,Somalia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SRB,Serbia,False,,,Serbia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SSD,South Sudan,False,,,South Sudan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+STP,Sao Tome and Principe,False,,,Sao Tome and Principe,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SUR,Suriname,False,,,Suriname,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SVK,Slovakia,False,,,Slovakia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SVN,Slovenia,False,,,Slovenia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SVU,Soviet Union,True,,,Soviet Union,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+SWE,Sweden,False,,,Sweden,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SWZ,Swaziland,False,,,Eswatini,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SYC,Seychelles,False,,,Seychelles,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+SYR,Syria,False,,,Syria,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TCD,Chad,False,,,Chad,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TGO,Togo,False,,,Togo,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+THA,Thailand,False,,,Thailand,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TJK,Tajikistan,False,,,Tajikistan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TKM,Turkmenistan,False,,,Turkmenistan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TLS,East Timor,False,,,Timor-Leste,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TON,Tonga,False,,,Tonga,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TTO,Trinidad and Tobago,False,,,Trinidad and Tobago,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TUN,Tunisia,False,,,Tunisia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TUR,Turkey,False,,,Turkiye,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TUV,Tuvalu,False,,,Tuvalu,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+TWN,Taiwan,False,,,Taiwan,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index for delivery feasibility; source-level observations are preserved and inclusion may be revisited.
+TZA,Tanzania,False,,,Tanzania,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+UGA,Uganda,False,,,Uganda,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+UKR,Ukraine,False,,,Ukraine,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+URY,Uruguay,False,,,Uruguay,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+USA,United States,False,,,United States,anchor_state,False,anchor_self_relation_excluded,decided_anchor_treatment,Anchor entity; anchor self-relations are excluded.
+UZB,Uzbekistan,False,,,Uzbekistan,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+VAT,Holy See,False,,,Holy See,special_or_policy_dependent_entity,False,excluded_from_baseline_index,decided_baseline_exclusion_revisit_optional,Excluded from the baseline index as a special entity.
+VCT,Saint Vincent,False,,,Saint Vincent,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+VDR,North Vietnam,True,,,North Vietnam,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+VEN,Venezuela,False,,,Venezuela,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+VNM,Vietnam,False,,,Vietnam,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+VUT,Vanuatu,False,,,Vanuatu,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+WSM,Samoa,False,,,Samoa,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+YEM,Yemen,False,,,Yemen,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+YUG,Yugoslavia,True,,,Yugoslavia,historical_state,False,historical_entity_outside_baseline_window,decided_historical_treatment,Historical entity outside the baseline project window; corrected from historical_entity=False.
+ZAF,South Africa,False,,,South Africa,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ZMB,Zambia,False,,,Zambia,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.
+ZWE,Zimbabwe,False,,,Zimbabwe,sovereign_state,True,eligible_all_project_years,decided_baseline_inclusion,Eligible sovereign state under the baseline entity policy.

@@ -1,0 +1,40 @@
+{
+  "rows": 4205,
+  "entities": 192,
+  "years": [
+    2004,
+    2025
+  ],
+  "comparable_baseline_period": [
+    2004,
+    2024
+  ],
+  "provisional_extension_year": 2025,
+  "non_missing_scores": 4202,
+  "missing_scores": 3,
+  "score_min": -1.0,
+  "score_max": 0.9132543103448276,
+  "integration_status_counts": {
+    "both_components_available": 3998,
+    "unga_only_structural_source_year_unavailable": 188,
+    "structural_only_unga_no_participation": 13,
+    "structural_only_unga_row_unavailable": 3,
+    "neither_unga_no_participation_and_structural_unavailable": 2,
+    "neither_unga_row_missing_and_structural_unavailable": 1
+  },
+  "comparability_status_counts": {
+    "comparable_complete_component_period": 3998,
+    "provisional_latest_year_extension": 188,
+    "available_component_renormalised": 16,
+    "score_unavailable": 3
+  },
+  "validation_failures": {
+    "rows": 0,
+    "entities": 0,
+    "duplicate_keys": 0,
+    "unexpected_missing_scores": 0,
+    "score_out_of_bounds": 0,
+    "2025_structural_scores_present": 0,
+    "unexpected_2025_unga_only_count": 0
+  }
+}

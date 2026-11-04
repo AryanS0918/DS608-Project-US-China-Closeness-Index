@@ -1,0 +1,5 @@
+pilot_case,reporter_iso,country_name,reporter_code,technology_trade_available,technology_trade_unavailable_reason,year,classification_code,hs_revision,technology_trade_status
+LSO_2004,LSO,Lesotho,426,True,,2004,H0,HS1992,available
+LSO_2005,LSO,Lesotho,426,True,,2005,H1,HS1996,available
+SUR_2008,SUR,Suriname,740,True,,2008,H0,HS1992,available
+SUR_2009,SUR,Suriname,740,True,,2009,H1,HS1996,available

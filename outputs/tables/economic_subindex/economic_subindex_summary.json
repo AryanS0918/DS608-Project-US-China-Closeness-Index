@@ -1,0 +1,49 @@
+{
+  "rows": 4205,
+  "entities": 192,
+  "years": [
+    2004,
+    2025
+  ],
+  "available_scores": 3670,
+  "missing_scores": 535,
+  "score_min": -0.817393730317271,
+  "score_max": 0.7120178416940932,
+  "minimum_required_components": 2,
+  "component_count_distribution": {
+    "1": 535,
+    "2": 2041,
+    "3": 1629
+  },
+  "component_status_counts": {
+    "trade_and_institutional_available_fdi_unavailable": 1836,
+    "trade_fdi_institutional_available": 1629,
+    "institutional_only_score_unavailable": 535,
+    "fdi_and_institutional_available_trade_unavailable": 205
+  },
+  "comparability_status_counts": {
+    "fixed_regime_common_period_three_components": 971,
+    "fixed_regime_historical_extension_two_components": 813,
+    "pre_fdi_source_period_two_component_extension": 781,
+    "fixed_regime_historical_extension_three_components": 658,
+    "fixed_regime_common_period_two_components": 325,
+    "fixed_regime_historical_extension_score_unavailable": 248,
+    "pre_fdi_source_period_score_unavailable": 177,
+    "provisional_latest_year_two_component_extension": 122,
+    "provisional_latest_year_score_unavailable": 69,
+    "fixed_regime_common_period_score_unavailable": 41
+  },
+  "validation_failures": {
+    "unexpected_rows": 0,
+    "unexpected_entities": 0,
+    "duplicate_keys": 0,
+    "unexpected_component_counts": 0,
+    "unexpected_available_scores": 0,
+    "unexpected_missing_scores": 0,
+    "score_out_of_bounds": 0,
+    "one_component_score_present": 0,
+    "multi_component_score_missing": 0,
+    "invalid_status": 0,
+    "2025_fdi_scores_present": 0
+  }
+}

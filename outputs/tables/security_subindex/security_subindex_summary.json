@@ -1,0 +1,15 @@
+{
+  "rows": 4205,
+  "entities": 192,
+  "first_year": 2004,
+  "last_year": 2025,
+  "duplicate_country_years": 0,
+  "missing_security_scores": 0,
+  "score_min": -1.0,
+  "score_max": 1.0,
+  "integration_status_counts": {
+    "institutional_and_arms_available": 2329,
+    "institutional_only_no_observed_arms_imports": 943,
+    "institutional_plus_observed_zero_arms": 933
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "rows": 4205,
+  "entities": 192,
+  "years": [
+    2004,
+    2025
+  ],
+  "comparable_baseline_period": [
+    2004,
+    2024
+  ],
+  "provisional_extension_year": 2025,
+  "non_missing_scores": 3465,
+  "missing_scores": 740,
+  "score_min": -0.9999614499385758,
+  "score_max": 0.9997773846480886,
+  "evidence_status_counts": {
+    "complete_four_flow_score_available": 3465,
+    "no_source_row": 723,
+    "source_row_incomplete_four_flows": 17
+  },
+  "provenance_status_counts": {
+    "all_reporter_side": 3332,
+    "score_unavailable": 740,
+    "includes_mirror_side_recovery": 133
+  },
+  "comparability_status_counts": {
+    "comparable_baseline_period_score_available": 3343,
+    "baseline_period_score_unavailable": 671,
+    "provisional_latest_year_extension": 122,
+    "provisional_latest_year_score_unavailable": 69
+  },
+  "validation_failures": {
+    "unexpected_rows": 0,
+    "unexpected_entities": 0,
+    "duplicate_keys": 0,
+    "unexpected_year_counts": 0,
+    "invalid_status": 0,
+    "score_out_of_bounds": 0,
+    "score_without_four_flows": 0
+  }
+}

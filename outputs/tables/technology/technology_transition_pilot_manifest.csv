@@ -1,0 +1,9 @@
+pilot_case,year,reporter_iso,anchor_iso3,expected_classification,hs_revision,basket,requested_hs6,status,rows,returned_hs6,raw_path
+LSO_2004,2004,LSO,CHN,H0,HS1992,include_broad_ict,90,downloaded,2,2,data/raw/un_comtrade/technology_trade/2004/LSO_imports_from_chn.csv
+LSO_2004,2004,LSO,USA,H0,HS1992,include_broad_ict,90,downloaded,5,5,data/raw/un_comtrade/technology_trade/2004/LSO_imports_from_usa.csv
+LSO_2005,2005,LSO,CHN,H1,HS1996,include_broad_ict,110,downloaded_empty,0,0,data/raw/un_comtrade/technology_trade/2005/LSO_imports_from_chn.csv
+LSO_2005,2005,LSO,USA,H1,HS1996,include_broad_ict,110,downloaded,4,4,data/raw/un_comtrade/technology_trade/2005/LSO_imports_from_usa.csv
+SUR_2008,2008,SUR,CHN,H0,HS1992,include_broad_ict,90,downloaded,39,39,data/raw/un_comtrade/technology_trade/2008/SUR_imports_from_chn.csv
+SUR_2008,2008,SUR,USA,H0,HS1992,include_broad_ict,90,downloaded,50,50,data/raw/un_comtrade/technology_trade/2008/SUR_imports_from_usa.csv
+SUR_2009,2009,SUR,CHN,H1,HS1996,include_broad_ict,110,downloaded,37,37,data/raw/un_comtrade/technology_trade/2009/SUR_imports_from_chn.csv
+SUR_2009,2009,SUR,USA,H1,HS1996,include_broad_ict,110,downloaded,60,60,data/raw/un_comtrade/technology_trade/2009/SUR_imports_from_usa.csv
