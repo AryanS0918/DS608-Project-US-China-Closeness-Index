@@ -1,5 +1,5 @@
 {
-  "method": "official_outward_positive_log1p_scaled_to_anchor_year_p95",
+  "method": "country_fixed_official_regime_log1p_scaled_to_selected_anchor_year_p95",
   "source": "IMF Direct Investment Positions",
   "rows": 8410,
   "entities": 192,
@@ -7,41 +7,58 @@
     2004,
     2025
   ],
-  "comparable_fdi_source_period": [
-    2018,
-    2024
-  ],
-  "provisional_extension_year": 2025,
-  "evidence_status_counts": {
-    "source_year_unavailable": 5736,
-    "observed_positive_position": 2173,
-    "observed_zero_position": 240,
-    "official_position_unobserved": 207,
-    "observed_negative_net_position": 54
-  },
-  "comparability_status_counts": {
-    "pre_fdi_source_period_unavailable": 5354,
-    "comparable_fdi_source_period_score_available": 2467,
-    "provisional_latest_year_source_unavailable": 382,
-    "comparable_fdi_source_period_score_unavailable": 207
-  },
-  "by_anchor": {
-    "China": {
-      "source_period_rows": 1337,
-      "observed_positions": 1337,
-      "scored_rows": 1337,
-      "missing_positions": 0,
-      "observed_zero": 81,
-      "observed_negative": 0
-    },
-    "United States": {
-      "source_period_rows": 1337,
-      "observed_positions": 1130,
-      "scored_rows": 1130,
-      "missing_positions": 207,
-      "observed_zero": 159,
-      "observed_negative": 54
+  "regime_assignment": {
+    "pre_period": [
+      2009,
+      2017
+    ],
+    "post_period": [
+      2018,
+      2024
+    ],
+    "host_pre_threshold": 6,
+    "host_post_threshold": 4,
+    "regime_counts": {
+      "anchor_official_fixed_regime": 112,
+      "host_official_fixed_regime": 79
     }
+  },
+  "signed_fdi_scores_by_year": {
+    "2004": 0,
+    "2005": 0,
+    "2006": 0,
+    "2007": 0,
+    "2008": 0,
+    "2009": 63,
+    "2010": 67,
+    "2011": 72,
+    "2012": 76,
+    "2013": 78,
+    "2014": 79,
+    "2015": 76,
+    "2016": 74,
+    "2017": 78,
+    "2018": 170,
+    "2019": 169,
+    "2020": 169,
+    "2021": 171,
+    "2022": 168,
+    "2023": 163,
+    "2024": 161,
+    "2025": 0
+  },
+  "position_provenance_counts": {
+    "source_period_unavailable": 4314,
+    "host_reported_official": 2438,
+    "anchor_reported_official": 1418,
+    "official_position_unavailable": 240
+  },
+  "evidence_status_counts": {
+    "source_period_unavailable": 4314,
+    "observed_positive_position": 3458,
+    "observed_zero_position": 266,
+    "official_position_unobserved": 240,
+    "observed_negative_net_position": 132
   },
   "validation_failures": {
     "unexpected_rows": 0,
@@ -49,9 +66,13 @@
     "duplicate_keys": 0,
     "invalid_status": 0,
     "score_out_of_bounds": 0,
-    "score_outside_source_period": 0,
     "score_without_observation": 0,
     "missing_observed_score": 0,
-    "nonzero_negative_or_zero_score": 0
+    "nonzero_zero_or_negative": 0,
+    "host_regime_below_threshold": 0,
+    "host_rows_using_anchor_provenance": 0,
+    "anchor_rows_using_host_provenance": 0,
+    "pre_2009_scores": 0,
+    "2025_scores": 0
   }
 }

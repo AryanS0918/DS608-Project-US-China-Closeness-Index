@@ -197,7 +197,6 @@ Revisit this decision if:
 - another source provides more complete and comparable annual directed
   diplomatic-representation data.
 
-
 ## Diplomatic representation condition signal
 
 - **Status:** Decided
@@ -274,7 +273,6 @@ Revisit this decision if:
 - external validation shows substantial false positives or false
   negatives.
 
-
 ## Overall relationship-condition panel
 
 - **Status:** Decided
@@ -347,7 +345,6 @@ Revisit this decision if:
 - historical-entity validity rules change; or
 - the project adopts a probabilistic rather than categorical condition
   model.
-
 
 ## Bilateral investment-treaty ties
 
@@ -444,7 +441,6 @@ Revisit this decision if:
 - an established component requires a different historical validity
   rule; or
 - a final assessment instruction prescribes a different entity universe.
-
 
 ## Security institutional ties
 
@@ -554,7 +550,6 @@ Revisit this decision if:
 - SIPRI integration indicates that institutional depth is being double-
   counted; or
 - source revisions alter arrangement membership spells.
-
 
 ## Security arms-transfer ties
 
@@ -751,53 +746,6 @@ Revisit this decision when:
   rankings; or
 - a component-specific source requires a different treatment.
 
-## Incomplete latest-year data
-
-- **Status:** Provisional project-wide default
-- **Date:** 3 November 2026
-- **Owner:** Darren
-
-### Decision
-
-Use 2004–2024 as the complete-data baseline period for the current
-edition of the US–China Closeness Index.
-
-Retain 2025 observations where available to support continuity, source
-monitoring and future updates, but treat 2025 as a provisional extension
-whenever one or more required components lack complete and comparable
-coverage.
-
-Where a 2025 component is structurally unavailable, the likely default
-is to calculate a clearly flagged available-component score rather than
-zero-fill the missing component. This provisional treatment must not be
-presented as directly comparable with the complete-data baseline period.
-
-Do not apply this rule automatically to a new component or to the final
-composite. Confirm the proposed treatment with Darren after reviewing
-the specific source coverage and implications.
-
-### Reporting rule
-
-Unless subsequently decided otherwise:
-
-- baseline estimation, validation and substantive trend analysis use
-  2004–2024;
-- 2025 is presented separately as provisional;
-- 2025 values are excluded from claims requiring consistent component
-  composition across years; and
-- the provisional flag is removed only after all required sources have
-  complete and validated 2025 coverage.
-
-### Reopening triggers
-
-Revisit this decision when:
-
-- complete 2025 data become available for all required components;
-- the final index adopts a different latest-year publication policy;
-- available-component renormalisation materially distorts 2025 scores or
-  rankings; or
-- a component-specific source requires a different treatment.
-
 ## Diplomatic subindex integration
 
 - **Status:** Decided
@@ -912,151 +860,39 @@ Focused tests:
 `tests/test_trade_orientation.py`
 
 ## FDI structural ties
-
-- **Status:** Decided
-- **Date:** 3 November 2026
+- **Status:** Decided, superseding the anchor-report-only baseline
+- **Date:** 4 November 2026
 - **Owner:** Darren
 
 ### Decision
 
-Use IMF Direct Investment Positions to measure each anchor's outward
-direct-investment position in each eligible country.
+Use IMF Direct Investment Positions to measure bilateral FDI orientation toward China and the United States.
 
-Use only:
+Assign each country permanently to one official reporting regime. Assign a country to the host-official fixed regime when signed host-reported official positions for both anchors are available in:
 
-- anchor-reported observations;
-- anchor-to-country economic direction;
-- reported official data;
-- China and the United States as anchors; and
-- 2018–2024 as the comparable FDI source period.
+- at least 6 of 9 years during 2009–2017; and
+- at least 4 of 7 years during 2018–2024.
 
-Exclude country-reported inward positions and values derived using
-counterparty information from the baseline.
+Assign all remaining countries to the anchor-official fixed regime.
 
-For each anchor-year, calculate the positive-position intensity as:
+The assignment contains 79 host-regime countries and 112 anchor-regime countries. `SCG` lies outside the FDI source period because its valid project years end in 2006.
 
-1. `log1p(outward position)`;
-2. divide by the anchor-year 95th percentile of positive logged
-   positions; and
-3. cap the score at one.
+For host-regime countries, use host-reported official inward positions for both anchors during 2009–2024. For anchor-regime countries, use anchor-reported official outward positions for both anchors during 2018–2024.
 
-Assign zero structural intensity to an observed zero position or an
-observed negative net position.
+Do not switch reporting perspective within a country. Do not fill isolated gaps using the other reporting perspective. Do not use counterparty-derived observations in the production baseline.
 
-Leave the score missing when the official outward position is
-unobserved. Do not convert missing positions to zero.
+After selecting the official raw positions, score each anchor-year by applying `log1p` to observed positive positions, scaling by the 95th percentile of positive logged positions in the final selected anchor-year panel, and clipping at one. Assign zero positive intensity to observed zero and negative net positions. Leave unavailable official positions missing.
 
-Map IMF legal-form country names explicitly to the canonical project
-country master. Exclude aggregates, territories, anchors and
-baseline-ineligible entities.
+### Period treatment
 
-Retain the full 2004–2025 canonical panel, but leave:
-
-- 2004–2017 as pre-FDI-source-period unavailable; and
-- 2025 as provisional latest-year source unavailable.
+- 2004–2008: FDI source unavailable for all countries.
+- 2009–2017: host-official historical extension for host-regime countries; FDI unavailable for anchor-regime countries.
+- 2018–2024: fixed-regime common period.
+- 2025: provisional latest-year FDI source unavailable.
 
 ### Rationale
 
-The method uses a consistent anchor-reported outward-investment
-perspective and preserves the distinction between:
-
-- positive investment intensity;
-- an observed zero position;
-- an observed negative net position; and
-- an unavailable official position.
-
-The logarithmic transformation limits domination by very large
-positions. Anchor-year 95th-percentile scaling produces a bounded
-relative-intensity score while reducing sensitivity to extreme values.
-
-### Production validation
-
-The canonical production panel contains:
-
-- 8,410 country-anchor-years;
-- 192 eligible entities;
-- 2004–2025;
-- 2,467 scored observations during 2018–2024;
-- 207 unobserved official positions during 2018–2024;
-- 2,173 observed positive positions;
-- 240 observed zero positions;
-- 54 observed negative net positions;
-- 5,736 source-year-unavailable rows;
-- no duplicate keys;
-- no scores outside the comparable source period;
-- no scores without an observed position; and
-- all non-missing scores within `[0, 1]`.
-
-Production output:
-
-`data/processed/fdi_structural_ties_country_anchor_year.csv`
-
-Production builder:
-
-`src/data/build_fdi_structural_ties.py`
-
-Focused tests:
-
-`tests/test_fdi_structural_ties.py`
-
-Crosswalk audit:
-
-`outputs/tables/fdi/fdi_country_crosswalk_production_audit.csv`
-
-### Reopening triggers
-
-Revisit this decision if:
-
-- comparable official Chinese outward-position data become available
-  before 2018 or after 2024;
-- revised IMF data materially change coverage or positions;
-- the treatment of negative net positions requires reconsideration;
-- a different scaling rule materially changes the economic subindex;
-- repaired country mappings are shown to be incorrect; or
-- another source provides more complete and comparable bilateral FDI
-  positions.
-
-  ## Economic institutional ties
-
-- **Status:** Decided
-- **Date:** 3 November 2026
-- **Owner:** Darren
-
-### Decision
-
-Combine trade-agreement ties and bilateral investment-treaty ties as:
-
-`economic_institutional_score
-    = 0.75 * trade_agreement_score
-    + 0.25 * BIT_score`
-
-The trade-agreement score uses:
-
-- 60% bilateral FTA;
-- 35% regional trade agreement; and
-- 5% sectoral trade agreement.
-
-The effective family weights are therefore:
-
-- bilateral FTA: 0.4500;
-- regional trade agreement: 0.2625;
-- sectoral trade agreement: 0.0375; and
-- BIT: 0.2500.
-
-Treat absence from the exhaustive agreement registers as a valid zero
-institutional state, not as unavailable evidence. Preserve BIT states
-as `none`, `historical_terminated`, `signed_not_in_force`, or
-`in_force`.
-
-Use directly reconstructed register states for 2004–2024.
-
-Analyst review found no establishment, entry into force, termination,
-replacement, or other change in the relevant trade-agreement or BIT
-states during 2025. Carry the validated 31 December 2024 states into
-2025 and label those rows `verified_unchanged_carry_forward`.
-
-This carry-forward is limited to 2024–2025. Do not extend it
-automatically to later years.
+The fixed-regime method extends observed official FDI evidence back to 2009 while preventing a within-country reporting-perspective break in 2018. The preferred threshold balances temporal and geographical coverage, and nearby availability-only thresholds produce highly similar scores and signs.
 
 ### Production validation
 
@@ -1064,33 +900,97 @@ The canonical panel contains:
 
 - 8,410 country-anchor-years;
 - 192 eligible entities;
-- 8,028 directly reconstructed rows;
-- 382 verified-unchanged 2025 rows;
-- no missing component scores;
-- no missing BIT states;
+- 2,438 host-reported official observations;
+- 1,418 anchor-reported official observations;
+- 240 official positions unavailable within selected source periods;
+- 4,314 rows outside the selected source period;
+- 663 signed FDI scores during 2009–2017;
+- 1,171 signed FDI scores during 2018–2024;
+- 1,834 signed FDI scores in total;
 - no duplicate keys;
-- no score-bound or formula failures; and
-- no 2024-to-2025 carry-forward mismatches.
+- no within-country reporting-perspective switching;
+- no scores without observed positions;
+- no scores before 2009 or in 2025; and
+- all non-missing scores within `[0, 1]`.
 
-Production output:
+Retain moderate `(5, 4)`, preferred `(6, 4)`, and strict `(7, 5)` regime-assignment thresholds as sensitivities.
 
-`data/processed/economic_institutional_ties_country_anchor_year.csv`
+### Production artefacts
 
-Production builder:
-
-`src/data/build_economic_institutional_ties.py`
-
-Focused tests:
-
-`tests/test_economic_institutional_ties.py`
+- Output: `data/processed/fdi_structural_ties_country_anchor_year.csv`
+- Builder: `src/data/build_fdi_structural_ties.py`
+- Tests: `tests/test_fdi_structural_ties.py`
+- Regime audit: `outputs/tables/fdi/fdi_reporting_regime_assignment.csv`
+- Threshold sensitivity: `outputs/tables/fdi/fdi_regime_assignment_sensitivity_by_year.csv`
+- Summary: `outputs/tables/fdi/fdi_structural_ties_summary.json`
 
 ### Reopening triggers
 
-Revisit this decision if:
+Revisit this decision if revised IMF data materially change coverage, alternate assignment thresholds materially affect the economic subindex, derived observations are proposed for the baseline, mappings are revised, or a superior comparable bilateral FDI source becomes available.
 
-- later evidence identifies a 2025 treaty-state change;
-- the underlying trade-agreement or BIT registers are revised;
-- alternative institutional weights materially change the economic
-  subindex;
-- the interpretation of an absent register state changes; or
-- the index adopts a different treatment of verified carry-forward data.
+## Economic subindex
+- **Status:** Decided
+- **Date:** 4 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Combine three signed components:
+
+- merchandise-trade orientation;
+- FDI structural orientation; and
+- economic institutional orientation.
+
+Positive scores indicate greater closeness to the United States. Negative scores indicate greater closeness to China.
+
+When all three components are available, assign each component one-third weight. When exactly two components are available, renormalise the equal weights across those two components.
+
+Require at least two components to calculate an economic-subindex score. Leave the score unavailable when only the institutional component is present. Do not replace a missing component with zero.
+
+### Period interpretation
+
+- 2004–2008: pre-FDI source-period extension.
+- 2009–2017: fixed-regime historical extension.
+- 2018–2024: fixed-regime common period.
+- 2025: provisional latest-year extension.
+
+The periods are not compositionally identical.
+
+For 2025, FDI remains unavailable, trade remains incomplete, and economic institutional states are analyst-verified as unchanged from 2024. Calculate a provisional economic score only where both trade and institutional orientations are available.
+
+### Production validation
+
+The canonical panel contains:
+
+- 4,205 country-years;
+- 192 eligible entities;
+- 3,670 available scores;
+- 535 unavailable scores;
+- 1,629 three-component scores;
+- 2,041 two-component scores;
+- 535 institutional-only unavailable observations;
+- no duplicate keys;
+- no one-component scores;
+- no missing two- or three-component scores;
+- no FDI scores in 2025; and
+- all non-missing scores within `[-1, 1]`.
+
+The score range is `-0.817393730317271` to `0.7120178416940932`.
+
+### Sensitivities
+
+Retain zero filling as a rejected diagnostic, real-economy emphasis `(40%, 40%, 20%)`, institutional emphasis `(25%, 25%, 50%)`, moderate and strict FDI assignment thresholds, and component disagreement cases.
+
+### Production artefacts
+
+- Output: `data/processed/economic_subindex_country_year.csv`
+- Builder: `src/data/build_economic_subindex.py`
+- Notebook: `notebooks/16_economic_subindex_integration.ipynb`
+- Tests: `tests/test_economic_subindex.py`
+- Summary: `outputs/tables/economic_subindex/economic_subindex_summary.json`
+- Sensitivity: `outputs/tables/economic_subindex/economic_subindex_sensitivity.csv`
+- Disagreement audit: `outputs/tables/economic_subindex/economic_component_disagreement_cases.csv`
+
+### Reopening triggers
+
+Revisit this decision if component definitions change, FDI regime assignments change materially, alternative weights materially affect the final composite, the minimum-two-component rule is reconsidered, complete 2025 sources become available, or the final index adopts another missing-component rule.

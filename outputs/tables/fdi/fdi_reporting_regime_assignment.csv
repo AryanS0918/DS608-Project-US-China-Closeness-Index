@@ -1,0 +1,192 @@
+country_iso3,preferred_country_name,host_signed_years_2009_2017,host_signed_years_2018_2024,fdi_reporting_regime,regime_pre_threshold,regime_post_threshold,regime_assignment_rule
+AFG,Afghanistan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+AGO,Angola,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ALB,Albania,5,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+AND,Andorra,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ARE,United Arab Emirates,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ARG,Argentina,3,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ARM,Armenia,9,6,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ATG,Antigua and Barbuda,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+AUS,Australia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+AUT,Austria,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+AZE,Azerbaijan,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BDI,Burundi,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BEL,Belgium,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BEN,Benin,7,5,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BFA,Burkina Faso,1,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BGD,Bangladesh,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BGR,Bulgaria,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BHR,Bahrain,4,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BHS,Bahamas,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BIH,Bosnia and Herzegovina,4,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BLR,Belarus,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BLZ,Belize,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BOL,Bolivia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BRA,Brazil,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BRB,Barbados,5,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BRN,Brunei,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BTN,Bhutan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+BWA,Botswana,7,6,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CAF,Central African Republic,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CAN,Canada,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CHE,Switzerland,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CHL,Chile,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CIV,Cote d'Ivoire,2,5,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CMR,Cameroon,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+COD,Democratic Republic of the Congo,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+COG,Republic of the Congo,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+COL,Colombia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+COM,Comoros,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CPV,Cabo Verde,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CRI,Costa Rica,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CUB,Cuba,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CYP,Cyprus,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+CZE,Czechia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DEU,Germany,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DJI,Djibouti,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DMA,Dominica,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DNK,Denmark,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DOM,Dominican Republic,0,6,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+DZA,Algeria,0,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ECU,Ecuador,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+EGY,Egypt,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ERI,Eritrea,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ESP,Spain,5,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+EST,Estonia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ETH,Ethiopia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+FIN,Finland,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+FJI,Fiji,4,4,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+FRA,France,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+FSM,Micronesia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GAB,Gabon,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GBR,United Kingdom,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GEO,Georgia,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GHA,Ghana,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GIN,Guinea,0,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GMB,"Gambia, The",0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GNB,Guinea-Bissau,4,5,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GNQ,Equatorial Guinea,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GRC,Greece,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GRD,Grenada,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GTM,Guatemala,7,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+GUY,Guyana,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+HND,Honduras,4,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+HRV,Croatia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+HTI,Haiti,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+HUN,Hungary,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+IDN,Indonesia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+IND,India,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+IRL,Ireland,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+IRN,Iran,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+IRQ,Iraq,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ISL,Iceland,5,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ISR,Israel,6,1,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ITA,Italy,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+JAM,Jamaica,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+JOR,Jordan,1,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+JPN,Japan,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KAZ,Kazakhstan,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KEN,Kenya,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KGZ,Kyrgyzstan,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KHM,Cambodia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KIR,Kiribati,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KNA,Saint Kitts and Nevis,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KOR,South Korea,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+KWT,Kuwait,2,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LAO,Laos,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LBN,Lebanon,7,5,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LBR,Liberia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LBY,Libya,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LCA,Saint Lucia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LIE,Liechtenstein,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LKA,Sri Lanka,5,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LSO,Lesotho,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LTU,Lithuania,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LUX,Luxembourg,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+LVA,Latvia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MAR,Morocco,8,3,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MCO,Monaco,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MDA,Moldova,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MDG,Madagascar,4,1,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MDV,Maldives,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MEX,Mexico,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MHL,Marshall Islands,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MKD,North Macedonia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MLI,Mali,5,2,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MLT,Malta,4,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MMR,Myanmar,3,2,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MNE,Montenegro,7,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MNG,Mongolia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MOZ,Mozambique,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MRT,Mauritania,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MUS,Mauritius,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MWI,Malawi,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+MYS,Malaysia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NAM,Namibia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NER,Niger,2,5,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NGA,Nigeria,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NIC,Nicaragua,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NLD,Netherlands,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NOR,Norway,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NPL,Nepal,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NRU,Nauru,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+NZL,New Zealand,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+OMN,Oman,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PAK,Pakistan,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PAN,Panama,8,6,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PER,Peru,5,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PHL,Philippines,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PLW,Palau,4,4,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PNG,Papua New Guinea,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+POL,Poland,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PRK,North Korea,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PRT,Portugal,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+PRY,Paraguay,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+QAT,Qatar,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ROU,Romania,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+RUS,Russia,9,4,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+RWA,Rwanda,7,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SAU,Saudi Arabia,3,6,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SDN,Sudan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SEN,Senegal,5,5,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SGP,Singapore,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SLB,Solomon Islands,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SLE,Sierra Leone,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SLV,El Salvador,6,5,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SMR,San Marino,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SOM,Somalia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SRB,Serbia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SSD,South Sudan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+STP,Sao Tome and Principe,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SUR,Suriname,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SVK,Slovakia,8,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SVN,Slovenia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SWE,Sweden,2,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SWZ,Eswatini,0,1,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SYC,Seychelles,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+SYR,Syria,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TCD,Chad,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TGO,Togo,6,5,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+THA,Thailand,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TJK,Tajikistan,3,7,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TKM,Turkmenistan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TLS,Timor-Leste,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TON,Tonga,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TTO,Trinidad and Tobago,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TUN,Tunisia,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TUR,Turkiye,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TUV,Tuvalu,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+TZA,Tanzania,8,5,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+UGA,Uganda,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+UKR,Ukraine,7,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+URY,Uruguay,6,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+UZB,Uzbekistan,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+VCT,Saint Vincent,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+VEN,Venezuela,7,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+VNM,Vietnam,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+VUT,Vanuatu,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+WSM,Samoa,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+YEM,Yemen,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ZAF,South Africa,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ZMB,Zambia,9,7,host_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
+ZWE,Zimbabwe,0,0,anchor_official_fixed_regime,6,4,host_if_pre_ge_6_and_post_ge_4
