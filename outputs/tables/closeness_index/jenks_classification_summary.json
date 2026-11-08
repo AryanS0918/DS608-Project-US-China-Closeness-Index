@@ -1,0 +1,30 @@
+{
+  "score_field": "core_index_available",
+  "reference_sample": "pooled eligible country-years 2004-2024",
+  "candidate_neutral_half_widths": [
+    0.025,
+    0.05,
+    0.075,
+    0.1,
+    0.125,
+    0.15
+  ],
+  "neutral_rule": "absolute score below 0.05",
+  "neutral_half_width": 0.05,
+  "china_strong_break": -0.25508739255555046,
+  "us_strong_break": 0.27088622739504103,
+  "neutral_and_hedging_share_pct": 13.104135525660189,
+  "category_change_pct_consecutive_years": 18.498168498168496,
+  "full_orientation_reversal_pct_consecutive_years": 0.6541077969649398,
+  "class_counts": {
+    "moderately_china_oriented": 1384,
+    "moderately_us_oriented": 1020,
+    "strongly_china_oriented": 720,
+    "neutral_or_hedging": 526,
+    "strongly_us_oriented": 364
+  },
+  "neutral_type_counts": {
+    "hedging": 423,
+    "neutral": 103
+  }
+}

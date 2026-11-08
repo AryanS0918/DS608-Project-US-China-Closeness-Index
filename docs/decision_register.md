@@ -583,3 +583,144 @@ Revisit if a pillar definition changes, missing-pillar treatment materially alte
 Use 2004-2024 as the complete-data baseline. Retain 2025 observations for continuity and future updates, but treat 2025 as provisional wherever required inputs are incomplete or not comparable.
 
 Do not apply available-component renormalisation automatically to a new pillar or the final composite without reviewing the specific source coverage and implications. Exclude 2025 from claims requiring constant composition until complete and validated coverage exists.
+
+## Final relative-orientation index baseline and experimental technology feature
+
+- **Status:** Decided for the current edition
+- **Date:** 8 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Use security, diplomatic and economic scores as the three official top-level pillars of the US-China Relative Orientation Index. Assign equal requested weight to the three pillars.
+
+Retain two official analytical fields:
+
+1. `core_index_complete`, calculated only when all three core pillars are observed; and
+2. `core_index_available`, calculated when at least two core pillars are observed, with requested weights renormalised over observed pillars.
+
+Do not replace a missing pillar with zero. Record available-pillar count, missing pillars, requested-weight coverage, effective row-specific weights and index status.
+
+The current technology measure is retained as `experimental ICT-goods trade orientation`. It remains available as a standalone view, dashboard sensitivity and optional user-weighted scenario. It does not enter the official core benchmark.
+
+The technology measure discounts US and Chinese ICT-goods trade by each anchor's domestic-value-added share, but accessible TiVA data do not reassign foreign value added by country of origin within the relevant ICT export activity. It therefore does not capture the full distribution of technological value creation, including high-value design, intellectual property, software, semiconductor and equipment contributions embodied in another economy's exports.
+
+Any dashboard scenario assigning positive weight to technology must be labelled experimental and kept separate from the official benchmark.
+
+### Validation
+
+For 2004-2024, canonical eligibility produces 4,014 country-years. The strict three-pillar core is available for 3,548 observations and the available-pillar core for 4,014 observations.
+
+Across 3,564 paired observations, the equal-weight technology-enhanced formulation has correlation 0.841 with the core, changes scores by 0.142 in absolute value on average and reverses direction in 852 observations, or 23.91%. The technology feature shifts the mean by -0.090 and median by -0.128 toward China.
+
+### Reopening triggers
+
+Revisit technology's baseline status if ICT-specific origin-by-exporter value-added data become available, a broader technology construct is developed, cross-anchor value added can be attributed without unsupported assumptions, or a validated alternative materially improves construct validity.
+
+## Final-index missing-weight behaviour
+
+- **Status:** Decided
+- **Date:** 8 November 2026
+- **Owner:** Darren
+
+### Decision
+
+A weighted score must remain missing when no positively weighted pillar is observed. An all-missing weighted row must never be converted to zero by the summation operation.
+
+Use a summation requiring at least one observed contribution, require positive observed-weight coverage, reject an all-zero requested-weight vector and apply the minimum-pillar rule after excluding zero-weight pillars.
+
+### Validation
+
+Focused tests cover all-missing rows, all weight assigned to a missing pillar, all-zero requested weights, missing-pillar renormalisation, minimum-pillar enforcement and effective-weight sums. All six focused tests pass.
+
+## Security no-ties interpretation
+
+- **Status:** Decided baseline with retained sensitivity
+- **Date:** 8 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Retain an integrated security score of zero where neither anchor has a measured security advantage, including rows with zero institutional orientation and zero or unavailable arms-transfer orientation. Preserve an explicit `security_no_ties_flag` and describe such rows as no measured ties with either power rather than balanced strong ties.
+
+Retain as a sensitivity the treatment of security no-ties rows as unavailable comparative evidence.
+
+### Validation
+
+There are 1,474 eligible no-ties country-years during 2004-2024. Treating security as unavailable changes comparable scores by 0.075 in absolute value on average and 0.070 at the median, causes no directional reversals and removes 285 scores under the minimum-two-core-pillar rule.
+
+### Reopening triggers
+
+Revisit if a separate engagement-intensity dimension is added, threshold classification proves sensitive to the zero treatment, or new security evidence distinguishes unobserved ties from confirmed absence more reliably.
+
+## Relationship-condition sanctions review
+
+- **Status:** Production classifier retained; refinement remains open
+- **Date:** 8 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Retain relationship condition as contextual and non-numerical. Do not revise the production classifier solely from aggregate family and trade-scope fields.
+
+For dashboard display, it is permissible to distinguish partial trade measures, targeted or non-trade measures, complete trade measures and cases where both anchors have adverse classifications, provided these are labelled as diagnostic display groups and do not overwrite production fields.
+
+A formal classifier revision requires source-level sanctions attributes identifying target type, legal basis, multilateral or unilateral origin, breadth, state direction and material bilateral scope.
+
+### Validation
+
+In 2024, the production panel contains 115 US `strained` rows and 22 China `strained` rows. All 115 US strained rows are controlled by active sanctions; 85 have partial trade scope and 30 have no trade scope. Fifty-eight anchor rows belong to country-years where both anchors have adverse classifications.
+
+## Final index classification thresholds
+
+- **Status:** Decided
+- **Date:** 8 November 2026
+- **Owner:** Darren
+
+### Decision
+
+Classify the continuous `core_index_available` score using a symmetric neutral band around zero and side-specific Jenks natural breaks.
+
+Use the following fixed production classes for 2004-2024:
+
+- `strongly_china_oriented`: score at or below `-0.2550873926`;
+- `moderately_china_oriented`: score above `-0.2550873926` and at or below `-0.05`;
+- `neutral_or_hedging`: score above `-0.05` and below `+0.05`;
+- `moderately_us_oriented`: score at or above `+0.05` and below `+0.2708862274`;
+- `strongly_us_oriented`: score at or above `+0.2708862274`; and
+- `no_score`: continuous core score unavailable.
+
+Do not recalculate Jenks thresholds separately by year. Apply these fixed pooled-period thresholds to every year so that labels remain comparable through time.
+
+Within the neutral band, distinguish:
+
+- `hedging`, where at least one observed core pillar is at or above `+0.05` and at least one is at or below `-0.05`; and
+- `neutral`, where the overall score is in the neutral band without that cross-directional pillar pattern.
+
+The dashboard may use a common map colour for neutral and hedging, but must retain the separate label and explanation in tooltips and profiles.
+
+### Method
+
+The neutral half-width was selected from `0.025`, `0.05`, `0.075`, `0.10`, `0.125` and `0.15`. After excluding the selected neutral band, run an exact two-class one-dimensional Jenks split separately on China-oriented score magnitudes and positive US-oriented scores.
+
+The neutral band is fixed symmetrically because zero has substantive meaning. The strong-orientation breaks are permitted to differ by side because they are empirical Jenks results.
+
+### Validation
+
+At the selected half-width of `0.05`:
+
+- 526 of 4,014 observations, or 13.10%, are neutral or hedging;
+- the smallest directional class contains 9.07% of observations;
+- 25 of 3,822 consecutive-year comparisons, or 0.65%, reverse directly between directional sides across the full neutral band;
+- leaving out any single year changes the China strong break by at most 0.000889 and the US strong break by at most 0.003614; and
+- the fixed classes contain 1,384 moderately China-oriented, 720 strongly China-oriented, 526 neutral or hedging, 1,020 moderately US-oriented and 364 strongly US-oriented observations.
+
+A half-width of 0.025 was rejected because it leaves only 6.45% neutral or hedging and permits more full side-to-side reversals. Half-widths of 0.075 and above were rejected because they classify 20.38% to 41.90% of observations as neutral or hedging and dilute the index's directional purpose.
+
+### Interpretation
+
+The labels describe relative orientation between the United States and China. They do not establish absolute closeness, alliance status, relationship quality, or relationship condition.
+
+### Reopening triggers
+
+Revisit if the official continuous index changes, the baseline period changes materially, the entity universe changes, class instability rises materially with new years, or external validation shows that the fixed thresholds produce misleading substantive groupings.

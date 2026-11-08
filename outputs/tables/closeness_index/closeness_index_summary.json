@@ -1,0 +1,17 @@
+{
+  "period": [
+    2004,
+    2024
+  ],
+  "sign_convention": "positive_US_negative_China",
+  "official_core_pillars": [
+    "security_score",
+    "diplomatic_score",
+    "economic_score"
+  ],
+  "official_complete_scores": 3548,
+  "official_available_scores": 4014,
+  "technology_role": "experimental_ICT_goods_trade_orientation",
+  "experimental_scores": 3322,
+  "security_no_ties_rows": 1474
+}
