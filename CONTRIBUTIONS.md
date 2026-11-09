@@ -26,3 +26,7 @@ Completed contributions to date:
 - added volume thresholds and robust data status coding;
 - generated audit logs for unmapped names and removed entities; and
 - documented SIPRI source parameters, data limitations, and reproduction steps.
+- Designed and built the Streamlit dashboard in dashboard/: world map with fixed class colours, weight sliders, single-year and range selection, country profile, pillar comparison, weight explorer and methodology tab.
+- Reviewed the pipeline and raised five issues (weighting of missing pillars, technology dominance, ambiguity of a security score of 0, unscored key countries, and over-labelled strained relationships), which fed into the revised production treatments.
+- Updated the dashboard to the canonical classified output, using the production weighting and classification functions rather than re-implementing them.
+- Added tests (tests/test_dashboard_weighting.py) checking that the default scenario reproduces the official scores and classes.
