@@ -23,7 +23,7 @@ Generative AI was used to support:
 Claude (Anthropic)
 
 ### Purpose
-- Generated the first version of the Streamlit dashboard from my design brief.
+- Generated the first skeletal version of the Streamlit dashboard from my design brief, which was reviewed, tested and edited.
 - Helped test the pipeline and surface five issues.
 - Helped adapt the dashboard to revised outputs and the five fixed classes.
 - Wrote tests and ran checks against the official scores and class counts.
