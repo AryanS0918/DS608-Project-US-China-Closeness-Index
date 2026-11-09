@@ -19,6 +19,18 @@ Generative AI was used to support:
 - drafting of validation checks and unit tests; and
 - drafting of repository documentation.
 
+### Tool Used
+Claude (Anthropic)
+
+### Purpose
+- Generated the first version of the Streamlit dashboard from my design brief.
+- Helped test the pipeline and surface five issues.
+- Helped adapt the dashboard to revised outputs and the five fixed classes.
+- Wrote tests and ran checks against the official scores and class counts.
+- Drafted the code walkthrough, which were edited.
+- Errors found and fixed through testing and review: a wrong test expectation, a deprecated Streamlit argument and an unused function.
+
+
 ### Review and verification
 
 The group did not accept the generated code or methodological
