@@ -1,32 +1,19 @@
-# DS608-Project-US-China-Closeness-Index
-Dashboard showing country alignments between the US and China
+# US–China Relative Orientation Index
 
-## Current project status
+A country-year index of whether each country's international relationships lean toward the United States or toward China, with an interactive dashboard for exploring it. DS608 group project, Data Analytics for Economics.
 
-The total merchandise-trade collection and scoring pipeline is
-complete and under review.
+## What it measures
 
-The current pipeline:
+Scores run from -1 to +1: **positive means US-oriented, negative means China-oriented, and 0 means balanced.** The comparable period is 2004–2024 and the index covers 192 countries and entities.
 
-- collects annual bilateral trade with the United States and China;
-- covers available observations from 2000 through 2025;
-- uses country-reported observations first;
-- supplements missing observations using anchor-reported mirror data;
-- preserves unresolved observations as missing;
-- calculates a bounded directional trade score; and
-- produces validation and coverage reports.
+| | |
+|---|---|
+| Official index | Security, diplomatic and economic pillars, weighted one-third each. A country-year needs at least 2 of the 3 pillars; the strict version needs all 3 |
+| Coverage | 4,014 country-years with an official score (3,548 under the strict version) |
+| Technology | An experimental ICT-goods trade orientation (3,322 country-years). It is shown separately and is not part of the official score |
+| Classes | Five fixed classes, never recalculated by year: strongly China-oriented (at or below -0.255), moderately China-oriented, neutral or hedging (between -0.05 and +0.05), moderately US-oriented, strongly US-oriented (at or above +0.271). Exact thresholds are in the decision register |
 
-The security pillar (arms transfers) collection and processing pipeline is complete:
-
-- extracts annual Trend-Indicator Value (TIV) arms transfer data from SIPRI (1996–2025);
-- processes full 5-year rolling windows with mandatory full-period requirements;
-- filters out non-state entities and generates structured audit logs;
-- maps recipient names to standardized ISO3 country codes;
-- calculates a bounded signed score ranging from -1 to +1; and
-- applies low-volume threshold flags and observational status codes.
-- relies on the final panel merge to assign a `no_observed_relationship` status to countries in the master universe that never appear in the SIPRI database.
-  
-The security, diplomatic, economic and experimental technology pillars are complete. The official US-China Relative Orientation Index uses the security, diplomatic and economic pillars with equal weights and fixed five-class classification (see [docs/decision_register.md](docs/decision_register.md)); the Streamlit dashboard is in `dashboard/`.
+The reasons for each choice are in [docs/decision_register.md](docs/decision_register.md), [docs/workstream1_findings.md](docs/workstream1_findings.md) and [docs/workstream2_findings.md](docs/workstream2_findings.md).
 
 ## Dashboard
 
@@ -41,10 +28,6 @@ streamlit run dashboard/app.py
 
 It opens at http://localhost:8501. Internet access is needed for the map boundaries.
 
-### Data input
-
-The dashboard reads `outputs/tables/closeness_index/us_china_relative_orientation_index_classified.csv`, plus the relationship-condition panel and technology sensitivity variants from `data/processed/`. It reads these files and writes nothing.
-
 | Tab | Contents |
 |---|---|
 | Global map | Five fixed classes; views for Official, Your scenario, Difference, Single pillar and Relationship condition; zoom, region presets, small-state markers, hover and click |
@@ -57,33 +40,118 @@ Scenario rules:
 
 - Reset weights are one-third each for security, diplomatic and economic, and 0 for technology.
 - Any positive technology weight makes the scenario an "Experimental user-weighted scenario".
+- A missing pillar is never treated as zero; weights are renormalised over the pillars a country has.
 - The official benchmark is never replaced by a scenario.
 
-Run the dashboard tests:
+### How it works
+
+![Dashboard architecture: three data files feed core/data.py, which builds one panel; core/weighting.py (built on the production functions in src/data) and core/charts.py work on it; app.py reruns on every interaction and the browser draws the maps and charts](dashboard/docs/architecture.png)
+
+- **Input.** `dashboard/core/data.py` reads `outputs/tables/closeness_index/us_china_relative_orientation_index_classified.csv`, plus the relationship-condition panel and the technology variants from `data/processed/`. It checks the row and entity counts and writes nothing.
+- **Scenarios.** `dashboard/core/weighting.py` applies the scenario rules on top of the production functions `weighted_index` and `classify_score` from `src/data`, so the dashboard cannot drift from the official numbers. With the default weights, the scenario equals the official score exactly.
+- **Interaction.** Streamlit reruns `dashboard/app.py` from the top on every click or slider move, so changing a weight recalculates the scenario scores and recolours the map.
+- **Charts.** `dashboard/core/charts.py` draws the maps and charts with Plotly, using the fixed class colours.
+
+Code structure:
+
+- `dashboard/app.py`: Streamlit entry point
+- `dashboard/core/data.py`: loads the canonical index and context
+- `dashboard/core/weighting.py`: scenario rules built on the production functions
+- `dashboard/core/charts.py`: maps and charts
+- `dashboard/assets/`: small-state map markers
+- `dashboard/docs/`: architecture diagram
+- `.streamlit/config.toml`: theme
+
+## How the index is built
+
+| Pillar | Components | Method notes |
+|---|---|---|
+| Security | Institutional security ties (treaty and organisation membership) and SIPRI arms transfers, half each | [security_subindex.md](docs/data_acquisition/security_subindex.md) |
+| Diplomatic | Diplomatic structural ties and relative UN General Assembly voting alignment, half each | [diplomatic_subindex.md](docs/data_acquisition/diplomatic_subindex.md) |
+| Economic | Merchandise trade orientation, FDI structural orientation and economic institutional orientation | [economic_subindex.md](docs/data_acquisition/economic_subindex.md) |
+| Technology (experimental) | ICT-goods trade orientation | [technology_trade_implementation_notes.md](docs/data_acquisition/technology_trade_implementation_notes.md) |
+
+At the index level, a missing pillar is never treated as zero: the weights are renormalised over the pillars observed. The final index is built by `src/data/build_closeness_index.py` and classified by `src/data/build_orientation_classification.py`. The development notebooks `notebooks/19_final_us_china_closeness_index.ipynb` and `notebooks/20_orientation_classification.ipynb` record the work.
+
+### Merchandise trade pipeline
+
+The pipeline:
+
+- collects annual bilateral trade with the United States and China;
+- covers available observations from 2000 through 2025;
+- uses country-reported observations first;
+- supplements missing observations using anchor-reported mirror data;
+- preserves unresolved observations as missing;
+- calculates a bounded directional trade score; and
+- produces validation and coverage reports.
+
+### SIPRI arms-transfer pipeline
+
+The pipeline:
+
+- reads SIPRI Arms Transfers Database exports (1996–2025) of arms delivered by the United States, by China and by all suppliers, in trend-indicator values (TIV);
+- treats an empty cell as no identified deliveries and a displayed zero as the midpoint 0.25;
+- removes non-state recipients, maps recipient names to ISO3 codes and writes audit files, and stops if a state-like name stays unmapped;
+- computes five-year rolling sums, using complete windows only, so the first score uses 2000–2004;
+- calculates the score as (US TIV - China TIV) / global TIV over the window, bounded between -1 and +1; and
+- records a status for each country-year (`available`, `no_observed_anchor_transfers` or `no_observed_arms_imports`) and a low-volume flag below 100 TIV. A missing score means no arms imports were identified, not neutral alignment.
+
+Details are in [docs/data_acquisition/security_arms_transfers.md](docs/data_acquisition/security_arms_transfers.md).
+
+## Repository structure
+
+```
+dashboard/        Streamlit dashboard (app.py, core/, assets/, docs/)
+src/data/         Collection, build and classification scripts
+notebooks/        Development notebooks 01–20, in pipeline order
+tests/            Unit tests for the pipeline and the dashboard
+data/             raw/, interim/, processed/, reference/, sources/
+outputs/tables/   Audit tables and the canonical index outputs
+docs/             Decision register, findings, source register, method notes
+.streamlit/       Dashboard theme
+AI_USAGE.md       Record of AI assistance
+CONTRIBUTIONS.md  Contributions by team member
+```
+
+## Tests
+
+```bash
+python -m pytest -q
+```
+
+To run only the index, classification and dashboard tests:
 
 ```bash
 python -m pytest tests/test_dashboard_weighting.py tests/test_closeness_index.py tests/test_orientation_classification.py -q
 ```
 
-Code structure:
+## Known limitations
 
-- `dashboard/app.py` — Streamlit entry point
-- `dashboard/core/data.py` — loads the canonical index and context
-- `dashboard/core/weighting.py` — scenario rules built on the production functions
-- `dashboard/core/charts.py` — maps and charts
-- `dashboard/assets/` — small-state map markers
-- `.streamlit/config.toml` — theme
+- Technology is an experimental ICT-goods trade measure, because trade data cannot attribute foreign value added by origin. It is excluded from the official score.
+- Official scores built from only two pillars are thinner than three-pillar scores; the strict three-pillar version is provided for comparison.
+- The relationship condition is context only and never changes a score.
+- The map boundaries load from the internet, so the dashboard needs a connection.
+
+## Documentation
+
+- [docs/decision_register.md](docs/decision_register.md): decisions and their reasons
+- [docs/workstream1_findings.md](docs/workstream1_findings.md) and [docs/workstream2_findings.md](docs/workstream2_findings.md): audit findings behind the official index and classes
+- [docs/source_register.md](docs/source_register.md): data sources
+- [docs/data_acquisition/](docs/data_acquisition/): method notes for each component
+- [CONTRIBUTIONS.md](CONTRIBUTIONS.md) and [AI_USAGE.md](AI_USAGE.md): who did what, and how AI was used
 
 ## API credentials
 
-The trade collector requires a personal UN Comtrade API key.
+The trade collector requires a personal UN Comtrade API key. Copy `.env.example` to `.env` and add:
 
-Copy `.env.example` to `.env` and add:
-
+```
 COMTRADE_API_KEY=replace_with_your_own_key
+```
 
 The `.env` file must not be committed.
 
 Run the trade collector from the repository root:
 
+```bash
 python -m src.data.collect_trade
+```
