@@ -1,32 +1,81 @@
+# Team Contributions
+
+This document records the principal contributions to the **US-China Relative Orientation Index** project. Contributions were collaborative, and all team members participated in review, discussion, and the final presentation.
+
 ## Darren TAY Teck Yong
 
-Completed contributions to date:
+### Project leadership and methodology
 
-- led the project concept and index-methodology development;
-- established and managed the UN Comtrade API access;
-- implemented and reviewed the merchandise-trade ingestion pipeline;
-- validated bilateral-flow and mirror-data mappings;
-- monitored and improved API-call efficiency;
-- ran coverage and missing-data diagnostics;
-- verified the trade-scoring calculations;
-- implemented unit tests for the trade-processing logic; and
-- documented trade-data sources, limitations, and reproduction steps.
+- conceived and led the overall project and index architecture;
+- established the project-wide sign convention and country-year orientation framework;
+- developed and reviewed the three official pillars: security, diplomatic, and economic;
+- led the final decision to retain ICT-goods trade orientation as an experimental feature rather than an official pillar;
+- developed the missing-data, effective-weight, temporal-comparability, and canonical-eligibility rules;
+- led the neutral-band and side-specific Jenks classification work;
+- maintained the decision register and methodological audit trail; and
+- led final index validation and interpretation.
 
-  
+### Data pipelines and validation
+
+- established and managed UN Comtrade API access;
+- implemented and reviewed merchandise-trade collection, mirror supplementation, and scoring;
+- developed and reviewed diplomatic structural ties, treaty ties, economic institutional ties, FDI, technology trade, and final-index integration workflows;
+- investigated source coverage, reporter mappings, cache compatibility, and API efficiency;
+- developed or reviewed production builders, notebooks, audit outputs, and unit tests;
+- conducted technology-influence, security no-ties, and classification-sensitivity analyses; and
+- coordinated repository hygiene, branching, merging, and final quality-control checks.
+
+### Documentation and presentation
+
+- authored or consolidated the decision register, findings reports, methodological notes, handovers, and root documentation;
+- prepared the methodology flow diagram and presentation sequence; and
+- assumed responsibility for presenting the index methodology.
 
 ## Aryan Singh
 
-Completed contributions to date:
+### Security data and processing
 
-- re-extracted and ingested historical SIPRI arms transfer data (1996–2025);
-- developed the reproducible `process_sipri.py` data-processing pipeline;
-- implemented ISO3 country name mapping and non-state entity filtering;
-- established rigorous 5-year rolling windows with full-period validation;
-- computed the bounded signed score formula transitioning from the legacy 0–100 scale;
-- added volume thresholds and robust data status coding;
-- generated audit logs for unmapped names and removed entities; and
-- documented SIPRI source parameters, data limitations, and reproduction steps.
-- Designed and built the Streamlit dashboard in dashboard/: world map with fixed class colours, weight sliders, single-year and range selection, country profile, pillar comparison, weight explorer and methodology tab.
-- Reviewed the pipeline and raised five issues (weighting of missing pillars, technology dominance, ambiguity of a security score of 0, unscored key countries, and over-labelled strained relationships), which fed into the revised production treatments.
-- Updated the dashboard to the canonical classified output, using the production weighting and classification functions rather than re-implementing them.
-- Added tests (tests/test_dashboard_weighting.py) checking that the default scenario reproduces the official scores and classes.
+- re-extracted and ingested historical SIPRI arms-transfer data for 1996-2025;
+- developed the reproducible SIPRI arms-transfer production workflow;
+- implemented country-name mapping and non-state-entity filtering;
+- established complete five-year rolling windows and validation rules;
+- developed the bounded arms-transfer orientation measure;
+- added observation-status, volume, and mapping audit outputs; and
+- documented SIPRI source parameters, treatments, and limitations.
+
+### Dashboard design and implementation
+
+- designed and built the Streamlit dashboard under `dashboard/`;
+- implemented the global map, fixed class colours, year and range views, country profiles, pillar comparison, weight explorer, relationship-condition view, and methodology tab;
+- implemented small-state markers, hover and click interactions, and scenario comparisons;
+- reviewed the pipeline and identified five issues involving missing-pillar weighting, technology influence, security-zero interpretation, unscored key countries, and over-broad strained labels;
+- updated the dashboard to consume the canonical classified output;
+- used the production `weighted_index` and `classify_score` functions instead of duplicating official logic;
+- implemented official, strict, difference, single-pillar, relationship-condition, and experimental scenario views;
+- added dashboard tests confirming that default scenario scores and classes reproduce the official outputs; and
+- updated dashboard architecture and usage documentation.
+
+### Presentation
+
+- assumed responsibility for explaining the dashboard construction and software architecture.
+
+## Fazly Effendy Bin Ali
+
+### Presentation and dashboard review
+
+- participated in team review and coordination of the final dashboard deliverable;
+- assumed responsibility for presenting the live dashboard walkthrough and explaining its contents during the final class presentation; and
+- supported final presentation integration across the methodology, construction, and demonstration segments.
+
+> Before final submission, this section should be reviewed by Fazly and expanded if additional data, code, analysis, documentation, or testing contributions should be recorded.
+
+## Shared responsibilities
+
+The team jointly reviewed:
+
+- the official three-pillar benchmark;
+- treatment of technology as experimental;
+- fixed orientation classes and central-band interpretation;
+- dashboard scenario behaviour and relationship-condition presentation;
+- final README, AI disclosure, and presentation narrative; and
+- the submitted repository and demonstration flow.

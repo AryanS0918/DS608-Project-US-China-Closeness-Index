@@ -1,157 +1,246 @@
-# US–China Relative Orientation Index
+# US-China Relative Orientation Index
 
-A country-year index of whether each country's international relationships lean toward the United States or toward China, with an interactive dashboard for exploring it. DS608 group project, Data Analytics for Economics.
+A reproducible country-year index showing whether countries' international relationships lean relatively toward the **United States** or **China**, with an interactive Streamlit dashboard for exploring the results.
 
-## What it measures
+**Course:** DS608 Data Analytics for Economics  
+**Comparable period:** 2004-2024  
+**Direction:** Positive = US-oriented, negative = China-oriented  
+**Current automated validation:** 137 tests passed
 
-Scores run from -1 to +1: **positive means US-oriented, negative means China-oriented, and 0 means balanced.** The comparable period is 2004–2024 and the index covers 192 countries and entities.
+## Project overview
 
-| | |
+The official index combines three pillars:
+
+1. **Security**
+2. **Diplomatic**
+3. **Economic**
+
+The three pillars receive equal requested weights of one-third each. A country-year requires at least two of the three pillars. Missing pillars are never replaced with zero; the remaining weights are renormalised and the resulting two-pillar score is explicitly flagged.
+
+| Item | Production treatment |
 |---|---|
-| Official index | Security, diplomatic and economic pillars, weighted one-third each. A country-year needs at least 2 of the 3 pillars; the strict version needs all 3 |
-| Coverage | 4,014 country-years with an official score (3,548 under the strict version) |
-| Technology | An experimental ICT-goods trade orientation (3,322 country-years). It is shown separately and is not part of the official score |
-| Classes | Five fixed classes, never recalculated by year: strongly China-oriented (at or below -0.255), moderately China-oriented, neutral or hedging (between -0.05 and +0.05), moderately US-oriented, strongly US-oriented (at or above +0.271). Exact thresholds are in the decision register |
+| Official available-core index | Security, diplomatic, and economic pillars, with at least 2 of 3 available |
+| Strict comparison | Requires all 3 official pillars |
+| Coverage | 4,014 official country-year scores; 3,548 strict three-pillar scores |
+| Country universe | 192 eligible entities across the panel; 191 eligible entities in 2024 |
+| Technology | Experimental ICT-goods trade orientation, 3,322 country-years; excluded from the official benchmark |
+| Relationship condition | Contextual overlay only; never changes the numerical index |
 
-The reasons for each choice are in [docs/decision_register.md](docs/decision_register.md), [docs/workstream1_findings.md](docs/workstream1_findings.md) and [docs/workstream2_findings.md](docs/workstream2_findings.md).
+The canonical outputs are documented in:
+
+- [`docs/decision_register.md`](docs/decision_register.md)
+- [`docs/workstream1_findings.md`](docs/workstream1_findings.md)
+- [`docs/workstream2_findings.md`](docs/workstream2_findings.md)
+
+## Fixed orientation classes
+
+The production classification uses a symmetric central band and side-specific Jenks natural breaks. Thresholds are fixed across 2004-2024 and are never recalculated by year.
+
+| Class | Continuous official score |
+|---|---:|
+| Strongly China-oriented | `score <= -0.2550873926` |
+| Moderately China-oriented | `-0.2550873926 < score <= -0.05` |
+| Neutral or mixed pillar orientation | `-0.05 < score < +0.05` |
+| Moderately US-oriented | `+0.05 <= score < +0.2708862274` |
+| Strongly US-oriented | `score >= +0.2708862274` |
+
+Within the central band:
+
+- **Neutral** means there is no material opposing pillar pattern.
+- **Mixed pillar orientation** means at least one official pillar is `>= +0.05` and another is `<= -0.05`.
 
 ## Dashboard
 
-Run the dashboard from the repository root:
+### Install and run
+
+From the repository root:
 
 ```bash
 python3 -m venv .venv
-source .venv/bin/activate            # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-streamlit run dashboard/app.py
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m streamlit run dashboard/app.py
 ```
 
-It opens at http://localhost:8501. Internet access is needed for the map boundaries.
+On Windows PowerShell, activate the environment with:
 
-| Tab | Contents |
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+The dashboard opens at [http://localhost:8501](http://localhost:8501). Internet access is required for map boundaries.
+
+### Dashboard views
+
+| View | Contents |
 |---|---|
-| Global map | Five fixed classes; views for Official, Your scenario, Difference, Single pillar and Relationship condition; zoom, region presets, small-state markers, hover and click |
-| Country profile | Country-level index, pillar, relationship-condition and coverage detail |
-| Pillar comparison | Side-by-side comparison of countries and pillar values |
-| Weight explorer | Scenario weights, comparison with the official benchmark and class transitions |
-| Methodology & coverage | Index specification, fixed classification, hedging rule and data coverage |
+| Global map | Official, strict, scenario, difference, single-pillar, and relationship-condition views; fixed classes; small-state markers; hover and click interactions |
+| Country profile | Historical official score, pillar values, relationship condition, classification, and coverage detail |
+| Pillar comparison | Side-by-side comparison of countries and official pillar values |
+| Weight explorer | User-selected weights, effective weights, comparison with the official benchmark, and class transitions |
+| Methodology and coverage | Index construction, missing-data rules, fixed thresholds, mixed-orientation rule, and coverage |
 
-Scenario rules:
+### Scenario rules
 
-- Reset weights are one-third each for security, diplomatic and economic, and 0 for technology.
-- Any positive technology weight makes the scenario an "Experimental user-weighted scenario".
-- A missing pillar is never treated as zero; weights are renormalised over the pillars a country has.
-- The official benchmark is never replaced by a scenario.
+- Reset weights are one-third each for security, diplomatic, and economic, and zero for technology.
+- Any positive technology weight creates an **Experimental user-weighted scenario**.
+- Missing pillars are never treated as zero.
+- Scenario weights are renormalised over observed positively weighted pillars.
+- A score is missing when no positively weighted pillar is available.
+- The official benchmark remains visible and is never overwritten by a scenario.
 
-### How it works
+### Dashboard architecture
 
-![Dashboard architecture: three data files feed core/data.py, which builds one panel; core/weighting.py (built on the production functions in src/data) and core/charts.py work on it; app.py reruns on every interaction and the browser draws the maps and charts](dashboard/docs/architecture.png)
+![Dashboard architecture](dashboard/docs/architecture.png)
 
-- **Input.** `dashboard/core/data.py` reads `outputs/tables/closeness_index/us_china_relative_orientation_index_classified.csv`, plus the relationship-condition panel and the technology variants from `data/processed/`. It checks the row and entity counts and writes nothing.
-- **Scenarios.** `dashboard/core/weighting.py` applies the scenario rules on top of the production functions `weighted_index` and `classify_score` from `src/data`, so the dashboard cannot drift from the official numbers. With the default weights, the scenario equals the official score exactly.
-- **Interaction.** Streamlit reruns `dashboard/app.py` from the top on every click or slider move, so changing a weight recalculates the scenario scores and recolours the map.
-- **Charts.** `dashboard/core/charts.py` draws the maps and charts with Plotly, using the fixed class colours.
+- `dashboard/app.py` is the Streamlit entry point.
+- `dashboard/core/data.py` loads and validates the canonical index and contextual data.
+- `dashboard/core/weighting.py` builds scenarios using production functions from `src/data/`.
+- `dashboard/core/charts.py` renders Plotly maps and charts.
+- `dashboard/assets/` contains small-state map coordinates.
+- `.streamlit/config.toml` defines the dashboard theme.
 
-Code structure:
+The dashboard reads the canonical classified panel and does not write data back to the repository:
 
-- `dashboard/app.py`: Streamlit entry point
-- `dashboard/core/data.py`: loads the canonical index and context
-- `dashboard/core/weighting.py`: scenario rules built on the production functions
-- `dashboard/core/charts.py`: maps and charts
-- `dashboard/assets/`: small-state map markers
-- `dashboard/docs/`: architecture diagram
-- `.streamlit/config.toml`: theme
+```text
+outputs/tables/closeness_index/us_china_relative_orientation_index_classified.csv
+```
 
-## How the index is built
+## Index construction
 
-| Pillar | Components | Method notes |
+| Pillar or feature | Components | Method documentation |
 |---|---|---|
-| Security | Institutional security ties (treaty and organisation membership) and SIPRI arms transfers, half each | [security_subindex.md](docs/data_acquisition/security_subindex.md) |
-| Diplomatic | Diplomatic structural ties and relative UN General Assembly voting alignment, half each | [diplomatic_subindex.md](docs/data_acquisition/diplomatic_subindex.md) |
-| Economic | Merchandise trade orientation, FDI structural orientation and economic institutional orientation | [economic_subindex.md](docs/data_acquisition/economic_subindex.md) |
-| Technology (experimental) | ICT-goods trade orientation | [technology_trade_implementation_notes.md](docs/data_acquisition/technology_trade_implementation_notes.md) |
+| Security | Institutional security ties and five-year SIPRI arms-transfer orientation | [`docs/data_acquisition/security_subindex.md`](docs/data_acquisition/security_subindex.md) |
+| Diplomatic | Diplomatic structural ties and relative UN General Assembly voting alignment | [`docs/data_acquisition/diplomatic_subindex.md`](docs/data_acquisition/diplomatic_subindex.md) |
+| Economic | Merchandise trade, FDI structural orientation, and economic institutional orientation | [`docs/data_acquisition/economic_subindex.md`](docs/data_acquisition/economic_subindex.md) |
+| Technology, experimental | ICT-goods trade orientation adjusted with anchor domestic-value-added shares | [`docs/data_acquisition/technology_trade_implementation_notes.md`](docs/data_acquisition/technology_trade_implementation_notes.md) |
+| Relationship condition, contextual | Sanctions, trade restrictions, diplomatic disruption, payment restrictions, and other adverse evidence | [`docs/decision_register.md`](docs/decision_register.md) |
 
-At the index level, a missing pillar is never treated as zero: the weights are renormalised over the pillars observed. The final index is built by `src/data/build_closeness_index.py` and classified by `src/data/build_orientation_classification.py`. The development notebooks `notebooks/19_final_us_china_closeness_index.ipynb` and `notebooks/20_orientation_classification.ipynb` record the work.
+### Official index production
 
-### Merchandise trade pipeline
+The official continuous panel is built with:
 
-The pipeline:
+```bash
+python -m src.data.build_closeness_index
+```
 
-- collects annual bilateral trade with the United States and China;
-- covers available observations from 2000 through 2025;
-- uses country-reported observations first;
-- supplements missing observations using anchor-reported mirror data;
-- preserves unresolved observations as missing;
-- calculates a bounded directional trade score; and
-- produces validation and coverage reports.
+The fixed classifications and reproducible diagnostics are built with:
 
-### SIPRI arms-transfer pipeline
+```bash
+python -m src.data.build_orientation_classification
+```
 
-The pipeline:
+The development notebooks are:
 
-- reads SIPRI Arms Transfers Database exports (1996–2025) of arms delivered by the United States, by China and by all suppliers, in trend-indicator values (TIV);
-- treats an empty cell as no identified deliveries and a displayed zero as the midpoint 0.25;
-- removes non-state recipients, maps recipient names to ISO3 codes and writes audit files, and stops if a state-like name stays unmapped;
-- computes five-year rolling sums, using complete windows only, so the first score uses 2000–2004;
-- calculates the score as (US TIV - China TIV) / global TIV over the window, bounded between -1 and +1; and
-- records a status for each country-year (`available`, `no_observed_anchor_transfers` or `no_observed_arms_imports`) and a low-volume flag below 100 TIV. A missing score means no arms imports were identified, not neutral alignment.
+```text
+notebooks/19_final_us_china_closeness_index.ipynb
+notebooks/20_orientation_classification.ipynb
+```
 
-Details are in [docs/data_acquisition/security_arms_transfers.md](docs/data_acquisition/security_arms_transfers.md).
+## Selected pipeline notes
+
+### Merchandise trade
+
+- annual bilateral imports and exports with both anchors;
+- country-reported values prioritised;
+- anchor-reported mirror observations used where the corresponding country flow is unavailable;
+- incomplete four-flow observations remain missing; and
+- official orientation is bounded within `[-1, 1]`.
+
+### FDI
+
+- IMF Direct Investment Positions;
+- fixed reporting regime by country;
+- host-official historical extension from 2009 where coverage supports it;
+- common fixed-regime period from 2018-2024; and
+- unavailable positions remain missing.
+
+### Security arms transfers
+
+- SIPRI major-arms transfers from 1996-2025;
+- complete five-year rolling windows;
+- non-state recipients removed and state names mapped to ISO3;
+- score calculated as `(US TIV - China TIV) / Global TIV` over the rolling window; and
+- no observed arms imports remain missing rather than neutral.
+
+### Experimental technology
+
+- native reporter-year HS classifications from HS1992 through HS2022;
+- official UNCTAD ICT product baskets;
+- pooled ICT-goods trade values;
+- TiVA domestic-value-added adjustment; and
+- excluded from the official benchmark because accessible ICT-specific data cannot reassign foreign value added by country of origin.
 
 ## Repository structure
 
-```
-dashboard/        Streamlit dashboard (app.py, core/, assets/, docs/)
-src/data/         Collection, build and classification scripts
-notebooks/        Development notebooks 01–20, in pipeline order
-tests/            Unit tests for the pipeline and the dashboard
-data/             raw/, interim/, processed/, reference/, sources/
-outputs/tables/   Audit tables and the canonical index outputs
-docs/             Decision register, findings, source register, method notes
+```text
+dashboard/        Streamlit dashboard
+src/data/         Collection, processing, integration, and classification scripts
+notebooks/        Development notebooks 01-20 in pipeline order
+tests/            Pipeline, index, classification, and dashboard tests
+data/             Raw, interim, processed, reference, and versioned source data
+outputs/tables/   Audit tables and canonical production outputs
+docs/             Decision register, findings, source register, and method notes
 .streamlit/       Dashboard theme
-AI_USAGE.md       Record of AI assistance
-CONTRIBUTIONS.md  Contributions by team member
+AI_USAGE.md       Generative AI disclosure
+CONTRIBUTIONS.md  Team contribution record
 ```
 
-## Tests
+## Testing
+
+Run the complete suite from the repository root:
 
 ```bash
 python -m pytest -q
 ```
 
-To run only the index, classification and dashboard tests:
+At the final dashboard merge, the suite reported:
+
+```text
+137 passed
+```
+
+Run the final index, classification, and dashboard tests only:
 
 ```bash
-python -m pytest tests/test_dashboard_weighting.py tests/test_closeness_index.py tests/test_orientation_classification.py -q
+python -m pytest -q \
+  tests/test_closeness_index.py \
+  tests/test_orientation_classification.py \
+  tests/test_dashboard_weighting.py
 ```
 
 ## Known limitations
 
-- Technology is an experimental ICT-goods trade measure, because trade data cannot attribute foreign value added by origin. It is excluded from the official score.
-- Official scores built from only two pillars are thinner than three-pillar scores; the strict three-pillar version is provided for comparison.
-- The relationship condition is context only and never changes a score.
-- The map boundaries load from the internet, so the dashboard needs a connection.
+- The experimental technology feature measures ICT-goods trade orientation, not comprehensive technological capability.
+- Accessible ICT-specific TiVA data discount foreign value added but do not reassign it to its country of origin.
+- Official two-pillar scores contain less evidence than strict three-pillar scores and should remain visibly flagged.
+- A security score of zero can mean no measured security ties to either anchor; the explicit status field should be used for interpretation.
+- Relationship condition is contextual and must not be interpreted as a numerical input to the index.
+- Some relationship-condition classifications reflect broad sanctions evidence that may include targeted or multilateral measures.
+- Map boundaries require an internet connection.
 
 ## Documentation
 
-- [docs/decision_register.md](docs/decision_register.md): decisions and their reasons
-- [docs/workstream1_findings.md](docs/workstream1_findings.md) and [docs/workstream2_findings.md](docs/workstream2_findings.md): audit findings behind the official index and classes
-- [docs/source_register.md](docs/source_register.md): data sources
-- [docs/data_acquisition/](docs/data_acquisition/): method notes for each component
-- [CONTRIBUTIONS.md](CONTRIBUTIONS.md) and [AI_USAGE.md](AI_USAGE.md): who did what, and how AI was used
+- [`docs/decision_register.md`](docs/decision_register.md): formal methodological decisions
+- [`docs/workstream1_findings.md`](docs/workstream1_findings.md): official-core and technology audit
+- [`docs/workstream2_findings.md`](docs/workstream2_findings.md): neutral-band and Jenks analysis
+- [`docs/source_register.md`](docs/source_register.md): source inventory
+- [`docs/data_acquisition/`](docs/data_acquisition/): component-level method notes
+- [`AI_USAGE.md`](AI_USAGE.md): AI assistance and human verification
+- [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md): team contribution record
 
 ## API credentials
 
-The trade collector requires a personal UN Comtrade API key. Copy `.env.example` to `.env` and add:
+The UN Comtrade collector requires a personal API key. Copy the example file and add a private key:
 
+```bash
+cp .env.example .env
 ```
+
+```text
 COMTRADE_API_KEY=replace_with_your_own_key
 ```
 
-The `.env` file must not be committed.
+Do not commit `.env`.
 
-Run the trade collector from the repository root:
-
-```bash
-python -m src.data.collect_trade
-```
+Run the merchandise-trade collector from the repository root using the documented script and arguments in `docs/data_acquisition/`.
