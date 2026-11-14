@@ -1,4 +1,3 @@
-cat > data/raw/unga/README.md <<'EOF'
 # United Nations General Assembly voting data
 
 ## Purpose
@@ -120,4 +119,3 @@ Checksums recorded on 18 October 2026 using SHA-256.
 The workbooks are included to support reproducibility of this non-commercial
 academic project. Users remain responsible for complying with the applicable
 United Nations terms of use and for acknowledging the original data source.
-EOF

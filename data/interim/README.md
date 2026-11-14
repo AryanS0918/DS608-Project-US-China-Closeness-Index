@@ -1,0 +1,2 @@
+# Interim data
+Intermediate files produced during development, for example diplomatic-representation and IMF DIP FDI candidate extracts. These are not tracked in Git (see .gitignore) and are regenerated locally from the source files described in docs/data_acquisition/.

@@ -5,7 +5,7 @@ A reproducible country-year index showing whether countries' international relat
 **Course:** DS608 Data Analytics for Economics  
 **Comparable period:** 2004-2024  
 **Direction:** Positive = US-oriented, negative = China-oriented  
-**Current automated validation:** 137 tests passed
+**Current automated validation:** 137 tests in total. On a fresh clone, 108 pass and 29 error because they need three local, untracked source files (listed below); all 137 pass on a machine that has those files.
 
 ## Project overview
 
@@ -54,6 +54,8 @@ Within the central band:
 ### Install and run
 
 From the repository root:
+
+Use Python 3.10 or newer.
 
 ```bash
 python3 -m venv .venv
@@ -130,6 +132,10 @@ The fixed classifications and reproducible diagnostics are built with:
 python -m src.data.build_orientation_classification
 ```
 
+### Reproducibility
+
+The final index can be rebuilt from the committed files in data/processed/ and data/raw/ (SIPRI) by running, in order, the six commands listed in data/processed/README.md. Stages upstream of data/processed/ need source files that are not in Git, as described in docs/data_acquisition/. Verified on Python 3.10; use Python 3.10 or newer.
+
 The development notebooks are:
 
 ```text
@@ -194,12 +200,6 @@ Run the complete suite from the repository root:
 python -m pytest -q
 ```
 
-At the final dashboard merge, the suite reported:
-
-```text
-137 passed
-```
-
 Run the final index, classification, and dashboard tests only:
 
 ```bash
@@ -208,6 +208,10 @@ python -m pytest -q \
   tests/test_orientation_classification.py \
   tests/test_dashboard_weighting.py
 ```
+
+137 tests in total. On a fresh clone, 108 pass and 29 error because they need three local, untracked source files (listed below); all 137 pass on a machine that has those files.
+
+The 29 tests that need local files are in tests/test_diplomatic_structural_ties.py, tests/test_fdi_structural_ties.py and tests/test_security_institutional_ties.py. They read data/interim/relations/drd_anchor_country_year.csv, data/interim/fdi/imf_dip_primary_candidates.csv and data/sources/relations/security_arrangement_membership_register.csv, which are excluded from Git. The tests for the final index, classification and dashboard do not need them.
 
 ## Known limitations
 
